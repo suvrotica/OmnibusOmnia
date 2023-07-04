@@ -5,11 +5,11 @@
 <Title stringA="The" stringB="Name" />
 
 <p>
-	I couldn't just flippantly say a scratchpad of thoughts, extension of my gargantuan forehead,
-	unrelated figments strewn around, collectibles from the waste basket, or, more crudely, everything
-	about anything. But that's exactly what I always wanted my blog to be. I'm not a prisoner to the
-	usual boundaries that limit most people, and I wanted a place where people like me could find a
-	way to read my thoughts and share their own.
+	I couldn't just flippantly say a scratchpad of thoughts, extension of my gorilla head, unrelated
+	figments strewn around, collectibles from the waste basket, or, more crudely, everything about
+	anything. But that's exactly what I always wanted my blog to be. I'm not a prisoner to the usual
+	boundaries that limit most people, and I wanted a place where people like me could find a way to
+	read my thoughts and share their own.
 </p>
 <p>
 	In Latin, "Omnibus" is a dative plural form of "omnis," meaning "all" or "every." In this context,
