@@ -43,6 +43,6 @@
 		line-height: 1;
 		font-weight: bold;
 		color: #ffffff;
-		font-family: 'Indie Flower', cursive;
+		font-family: 'Great Vibes', cursive;
 	}
 </style>
