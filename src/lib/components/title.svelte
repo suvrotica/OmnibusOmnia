@@ -28,6 +28,7 @@
 <style>
 	.string {
 		background: #000;
+		transition: background 2s ease-in-out;
 	}
 	.string-rest {
 		font-size: 50px;
@@ -36,6 +37,7 @@
 		margin: 0;
 		padding-left: 0px;
 		position: relative;
+		transition: color 2s ease-in-out;
 	}
 	.string-initial {
 		position: relative;
@@ -45,7 +47,17 @@
 		font-size: 40px;
 		line-height: 1;
 		font-weight: bold;
-
 		font-family: 'Gaegu', cursive;
+		transition: color 2s ease-in-out, transform 0.5s;
+	}
+	.string:hover {
+		background: #222;
+	}
+	.string:hover .string-rest {
+		color: #ee82ee;
+	}
+	.string:hover .string-initial {
+		color: #ffd700;
+		transform: scale(1.1);
 	}
 </style>
