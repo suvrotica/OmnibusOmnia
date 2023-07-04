@@ -23,6 +23,7 @@
 <style>
 	nav li,
 	a {
+		color: white;
 		font-size: larger;
 	}
 </style>
