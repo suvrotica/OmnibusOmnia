@@ -30,7 +30,7 @@
 		background: #000;
 	}
 	.string-rest {
-		font-size: 30px;
+		font-size: 50px;
 		color: #9d79ff;
 		line-height: 1.5;
 		margin: 0;
