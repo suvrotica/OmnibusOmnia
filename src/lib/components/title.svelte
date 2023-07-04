@@ -35,6 +35,7 @@
 		color: #9d79ff;
 		line-height: 1.5;
 		margin: 0;
+		margin-left: -10px;
 		padding-left: 0px;
 		position: relative;
 		transition: color 2s ease-in-out;
@@ -44,9 +45,9 @@
 		top: 0;
 		left: 0;
 		color: #e4b004;
-		font-size: 40px;
+		font-size: 60px;
 		line-height: 1;
-		font-weight: bold;
+
 		font-family: 'Gaegu', cursive;
 		transition: color 2s ease-in-out, transform 0.5s;
 	}

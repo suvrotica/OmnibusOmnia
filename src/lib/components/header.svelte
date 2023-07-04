@@ -4,9 +4,10 @@
 </script>
 
 <!-- Title -->
-<a href="/" class="title">
-	<b><Title stringA="Omnibus" stringB="Omnia" /></b>
-</a>
+<div class="title">
+	<Title stringA="Omnibus" stringB="Omnia" />
+</div>
+
 <nav>
 	<!-- Navigation -->
 
