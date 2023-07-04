@@ -5,14 +5,14 @@
 
 <!-- Title -->
 <a href="/" class="title">
-	<b>{config.title}</b>
+	<b><Title stringA="Omnibus" stringB="Omnia" /></b>
 </a>
 <nav>
 	<!-- Navigation -->
 
 	<ul>
 		<li>
-			<Title stringA="Omnibus" stringB="Omnia" />
+			{config.title}
 		</li>
 	</ul>
 	<ul>
@@ -21,3 +21,10 @@
 		<li><a href="/rss.xml" target="_blank" role="button">RSS</a></li>
 	</ul>
 </nav>
+
+<style>
+	nav li,
+	a {
+		font-size: larger;
+	}
+</style>

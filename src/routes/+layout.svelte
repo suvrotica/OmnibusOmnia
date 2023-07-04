@@ -45,5 +45,7 @@
 	}
 	:global(p) {
 		text-align: justify;
+		font-weight: 100;
+		font-size: larger;
 	}
 </style>
