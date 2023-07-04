@@ -43,6 +43,6 @@
 		line-height: 1;
 		font-weight: bold;
 		color: #ffffff;
-		font-family: 'Great Vibes', cursive;
+		font-family: 'Gaegu', cursive;
 	}
 </style>
