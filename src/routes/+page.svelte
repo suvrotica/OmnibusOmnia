@@ -41,10 +41,11 @@ To strive, to seek, to find, and not to yield.
 
 <style>
 	.poem {
+		font-weight: 200;
 		line-height: 1.5;
 		padding: 10px;
 		color: black;
-		background-color: #c0b6b6;
+		background-color: #e4d8d8;
 		border: 1px solid #ccc;
 	}
 </style>
