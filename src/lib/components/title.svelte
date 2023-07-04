@@ -17,7 +17,7 @@
 	}
 </script>
 
-<div>
+<div class="string">
 	<span class="string-initial"> {stringAInitial} </span>
 	<span class="string-rest"> {stringARest} </span>
 
@@ -26,6 +26,9 @@
 </div>
 
 <style>
+	.string {
+		background: #000;
+	}
 	.string-rest {
 		font-size: 30px;
 		color: #9d79ff;
