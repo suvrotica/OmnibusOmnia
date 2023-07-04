@@ -28,6 +28,7 @@
 <style>
 	.string-rest {
 		font-size: 30px;
+		color: #ffffff;
 		line-height: 1.5;
 		margin: 0;
 		padding-left: 0px;
@@ -37,6 +38,7 @@
 		position: relative;
 		top: 0;
 		left: 0;
+		color: #ffffff;
 		font-size: 40px;
 		line-height: 1;
 		font-weight: bold;
