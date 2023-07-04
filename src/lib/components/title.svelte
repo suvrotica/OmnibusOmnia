@@ -43,6 +43,6 @@
 		line-height: 1;
 		font-weight: bold;
 		color: #ffffff;
-		font-family: 'Kablammo', cursive;
+		font-family: 'Caveat', cursive;
 	}
 </style>
