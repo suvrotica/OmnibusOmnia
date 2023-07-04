@@ -42,7 +42,7 @@
 		font-size: 40px;
 		line-height: 1;
 		font-weight: bold;
-		color: #ffffff;
+
 		font-family: 'Gaegu', cursive;
 	}
 </style>
