@@ -43,6 +43,6 @@
 		line-height: 1;
 		font-weight: bold;
 		color: #ffffff;
-		font-family: 'Caveat', cursive;
+		font-family: 'Indie Flower', cursive;
 	}
 </style>

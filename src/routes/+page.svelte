@@ -48,6 +48,6 @@ To strive, to seek, to find, and not to yield.
 		color: black;
 		background-color: #e4d8d8;
 		border: 1px solid #ccc;
-		font-family: 'Caveat', cursive;
+		font-family: 'Indie Flower', cursive;
 	}
 </style>
