@@ -11,9 +11,7 @@
 	<!-- Navigation -->
 
 	<ul>
-		<li>
-			{config.title}
-		</li>
+		<li>BLOG</li>
 	</ul>
 	<ul>
 		<li><a href="/about">About</a></li>
