@@ -40,7 +40,9 @@ To strive, to seek, to find, and not to yield.
 </pre>
 
 <style>
-<mark style="background-color: rgba(255, 255, 0, 0.6);">This text is lightly highlighted.</mark>
+mark{
+background-color: rgba(255, 255, 0, 0.3) ;
+} 
 
 
 	.poem {
