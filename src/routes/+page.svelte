@@ -6,7 +6,7 @@
 
 <p>
 	I couldn't just flippantly say a scratchpad of thoughts, extension of my absurdly oversized head, unrelated
-	figments strewn around, collectibles from the waste basket, or, more crudely, everything about
+	figments strewn around, collectibles from the waste basket, or, somewhat more crudely, <mark>everything</mark> about
 	anything. But that's exactly what I always wanted my blog to be. I'm not a prisoner to the usual
 	boundaries that limit most people, and I wanted a place where people like me could find a way to
 	read my thoughts and share their own.
