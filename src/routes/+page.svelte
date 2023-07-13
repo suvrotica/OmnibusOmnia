@@ -9,13 +9,13 @@
 	figments strewn around, collectibles from the waste basket, or, somewhat more crudely, <b>everything</b> about
 	<b>anything</b>. But that's <u>exactly</u> what I always wanted my blog to be. I'm not a prisoner to the usual
 	boundaries that limit most people, and I wanted a place where people like me could find a way to
-	read my thoughts and share their own.
+	read my thoughts and not feel alone.
 </p>
 <p>
 	In Latin, "Omnibus" is a dative plural form of "omnis," meaning "all" or "every." In this context,
 	It implies "for all." "Omnia" is the nominative or accusative neuter plural form of "omnis."
 	meaning "all things" or "everything." Thus, "Omnibus Omnia" translates to "For Everyone, About
-	Anything." And that satisfies the nerd inside me. A pompous name for something that could have
+	Anything." And that satisfies the nerd inside me. The phrase expresses the idea of inclusiveness or universal provision. A pompous name for something that could have
 	otherwise been ignored as a trifle.
 </p>
 <p>
