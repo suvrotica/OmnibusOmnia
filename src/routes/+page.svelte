@@ -20,7 +20,7 @@
 	In Latin, an "omnibus" is a volume containing several novels or other items previously published separately. 
 This usage likely comes from the idea of bringing together many works "for all" to enjoy. 
 "Omnibus" thus implies "for all." <p>"Omnia" means "all things" or "everything."</p> <p>Thus, "Omnibus Omnia" translates to "For Everyone, About
-	Anything." And that satisfies the school boy inside me. The phrase expresses the idea of inclusiveness or universal provision. A pompous name for something that could have
+	Anything." And that satisfies the school boy inside me. The phrase expresses the idea of inclusiveness and universal provision. A pompous name for something that could have
 	otherwise been ignored as a trifle.
 </p>
 
