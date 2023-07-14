@@ -14,7 +14,7 @@
 	fancies and figments strewn around and rattling in it, collectibles from the waste basket scraps that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
 	<b>anything</b>. But these are <u>exactly</u> what I always wanted my blog to be. I'm not a prisoner to the usual
 	boundaries that limit most people, and I wanted a place where a weirdo like me could find a way to
-	read weird wanderings and not feel alone.
+	read weird wanderings and not feel weird.
 </p>
 <p>
 	In Latin, an "omnibus" is a volume containing several novels or other items previously published separately. 
@@ -25,10 +25,10 @@ This usage likely comes from the idea of bringing together many works "for all" 
 </p>
 
 <p>
-	Omnibus Omnia is thus intended as a universal melting pot of information, ideas, and, if I'm
-	allowed some more big words, wisdom! In this wide-ranging consortium, the limit is only the ever-expanding
-	horizon of my imagination. It encompasses every conceivable topic and field of inquiry as a beacon
-	of diverse and inclusive discourse. 
+	Omnibus Omnia can't be intended as a dictionary, but perhaps as an universal melting pot of information, the ideas, and, if I'm
+	allowed some more big words, wisdom! Just by keeping it open, this wide-ranging consortium, allows the limit to be the ever-expanding
+	horizon of my imagination, every conceivable topic and field of inquiry as a beacon
+	of diverse and inclusive discourse. I can get a bit carried away, sometimes.
 </p>
 </div>
 </div>
@@ -36,7 +36,7 @@ This usage likely comes from the idea of bringing together many works "for all" 
 Here, I'm free to explore the vast realms of human
 	feats and foibles, like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and receiving insights on a stage
 	that questions our assumptions and where the answers always lead to more
-	thrilling journeys. So whether you're a seasoned someone or a curious commoner, an artist or an amateur, a pondering person or a pragmatist, join me in the infinite mosaic of collective
+	thrilling journeys. So whether you're a seasoned someone or a curious commoner, an artist or an amateur, a ponderer or a pragmatist, join me in the infinite mosaic of collective
 	wisdom we have to explore. Welcome to Omnibus Omnia. 
 </p>
 <pre class="poem">
