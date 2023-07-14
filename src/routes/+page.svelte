@@ -28,7 +28,12 @@ This usage likely comes from the idea of bringing together many works "for all" 
 	Omnibus Omnia is thus intended as a universal melting pot of information, ideas, and, if I'm
 	allowed big words, wisdom! In this wide-ranging consortium, the limit is only the ever-expanding
 	horizon of your imagination. encompasses every conceivable topic and field of inquiry as a beacon
-	of diverse and inclusive discourse. Here, you are free to explore the vast realms of human
+	of diverse and inclusive discourse. 
+</p>
+</div>
+</div>
+<p>
+Here, you are free to explore the vast realms of human
 	knowledge, like Tennyson's Ulysses and his mariners, sharing and receiving insights on a platform
 	that respects and celebrates our shared quest for understanding. It is a realm where expertise
 	meets curiosity, where questions spark dialogue, and where the answers always lead to more
@@ -36,8 +41,7 @@ This usage likely comes from the idea of bringing together many works "for all" 
 	scientist, a dreamer or a pragmatist, join us and contribute to the infinite mosaic of collective
 	wisdom. Welcome to Omnibus Omnia, the place for everyone to talk about anything.
 </p>
-</div>
-</div>
+
 <pre class="poem">
 Though much is taken, much abides; and though
 We are not now that strength which in old days
