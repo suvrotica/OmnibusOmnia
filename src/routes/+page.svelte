@@ -10,7 +10,7 @@
 <br>
 
 <p>
-	I couldn't just flippantly, verbosely and ineloquently describe this blog as a scratchpad of thoughts, a much sought-after extension of my embarrassingly undersized noggin, unrelated
+	I couldn't just flippantly, verbosely and ineloquently describe this blog as a scratchpad of thoughts, a much sought-after extension of my embarrassing tangle of nerves, unrelated
 	fancies and figments strewn around and rattling in it, collectibles from the waste basket scraps that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
 	<b>anything</b>. But these are <u>exactly</u> what I always wanted my blog to be. I'm not a prisoner to the usual
 	boundaries that limit most people, and I wanted a place where a weirdo like me could find a way to
@@ -33,15 +33,12 @@ This usage likely comes from the idea of bringing together many works "for all" 
 </div>
 </div>
 <p>
-Here, you are free to explore the vast realms of human
-	knowledge, like Tennyson's Ulysses and his mariners, sharing and receiving insights on a platform
-	that respects and celebrates our shared quest for understanding. It is a realm where expertise
-	meets curiosity, where questions spark dialogue, and where the answers always lead to more
-	thrilling journeys. So whether you're a seasoned scholar or a curious fresher, an artist or a
-	scientist, a dreamer or a pragmatist, join us and contribute to the infinite mosaic of collective
-	wisdom. Welcome to Omnibus Omnia, the place for everyone to talk about anything.
+Here, I'm free to explore the vast realms of human
+	feats and foibles, like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and receiving insights on a stage
+	that questions our assumptions and where the answers always lead to more
+	thrilling journeys. So whether you're a seasoned someone or a curious commoner, an artist or an amateur, a pondering person or a pragmatist, join me in the infinite mosaic of collective
+	wisdom we have to explore. Welcome to Omnibus Omnia. 
 </p>
-
 <pre class="poem">
 Though much is taken, much abides; and though
 We are not now that strength which in old days
@@ -52,9 +49,7 @@ To strive, to seek, to find, and not to yield.
 </pre>
 
 <style>
-mark{
-background-color: rgba(255, 255, 0, 0.3) ;
-} 
+
 
 
 	.poem {
