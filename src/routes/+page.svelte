@@ -12,7 +12,7 @@
 	read my thoughts and not feel alone.
 </p>
 <p>
-	In Latin, "Omnibus" is a dative plural form of "omnis," meaning "all" or "every." In this context,
+	In Latin, an "omnibus" is a volume containing several novels or other items previously published separately. This usage likely comes from the idea of bringing together many works "for all" to enjoy. "Omnibus" is a dative plural form of "omnis," meaning "all" or "every." In this context,
 	It implies "for all." "Omnia" is the nominative or accusative neuter plural form of "omnis."
 	meaning "all things" or "everything." Thus, "Omnibus Omnia" translates to "For Everyone, About
 	Anything." And that satisfies the nerd inside me. The phrase expresses the idea of inclusiveness or universal provision. A pompous name for something that could have
