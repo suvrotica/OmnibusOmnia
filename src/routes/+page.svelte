@@ -8,7 +8,7 @@
 <div>1</div>
   <div>2</div>
 </div>
-<img src="static/_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689294617979.jpg" alt="Image description">
+<img src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689294617979.jpg" alt="Image description">
 
 <p>
 	I couldn't just flippantly say a scratchpad of thoughts, extension of my absurdly oversized head, unrelated
