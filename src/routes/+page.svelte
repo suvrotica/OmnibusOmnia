@@ -11,7 +11,7 @@
 
 <p>
 	I couldn't just flippantly say a scratchpad of thoughts, a much sought-after extension of my embarrassingly undersized noggin, unrelated
-	figments strewn around, collectibles from the waste basket scraps that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
+	fancies and figments strewn around in it, collectibles from the waste basket scraps that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
 	<b>anything</b>. But that's <u>exactly</u> what I always wanted my blog to be. I'm not a prisoner to the usual
 	boundaries that limit most people, and I wanted a place where people like me could find a way to
 	read my thoughts and not feel alone.
