@@ -26,8 +26,8 @@ This usage likely comes from the idea of bringing together many works "for all" 
 
 <p>
 	Omnibus Omnia is thus intended as a universal melting pot of information, ideas, and, if I'm
-	allowed big words, wisdom! In this wide-ranging consortium, the limit is only the ever-expanding
-	horizon of your imagination. encompasses every conceivable topic and field of inquiry as a beacon
+	allowed some more big words, wisdom! In this wide-ranging consortium, the limit is only the ever-expanding
+	horizon of my imagination. It encompasses every conceivable topic and field of inquiry as a beacon
 	of diverse and inclusive discourse. 
 </p>
 </div>
