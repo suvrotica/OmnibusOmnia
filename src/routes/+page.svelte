@@ -7,7 +7,7 @@
 <div class="grid">
 <div><img src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689294617979.jpg" alt="Italian Monk holding Omnibus Omnia "> </div>
   <div>
-
+<br>
 
 <p>
 	I couldn't just flippantly say a scratchpad of thoughts, extension of my absurdly oversized head, unrelated
@@ -23,8 +23,7 @@ This usage likely comes from the idea of bringing together many works "for all" 
 	Anything." And that satisfies the school boy inside me. The phrase expresses the idea of inclusiveness or universal provision. A pompous name for something that could have
 	otherwise been ignored as a trifle.
 </p>
-</div>
-</div>
+
 <p>
 	Omnibus Omnia is thus intended as a universal melting pot of information, ideas, and, if I'm
 	allowed big words, wisdom! In this wide-ranging consortium, the limit is only the ever-expanding
@@ -37,6 +36,8 @@ This usage likely comes from the idea of bringing together many works "for all" 
 	scientist, a dreamer or a pragmatist, join us and contribute to the infinite mosaic of collective
 	wisdom. Welcome to Omnibus Omnia, the place for everyone to talk about anything.
 </p>
+</div>
+</div>
 <pre class="poem">
 Though much is taken, much abides; and though
 We are not now that strength which in old days
