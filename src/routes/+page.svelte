@@ -14,7 +14,7 @@
 
 
 <!-- Use @html to bind the enhanced text -->
-<p>{@html enhancedText}</p>
+<p>{@html enhancePunctuation(text) </p>
 
 <Title stringA="The" stringB="Name" />
 <hr>
