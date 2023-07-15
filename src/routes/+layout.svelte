@@ -50,6 +50,7 @@
 		font-size: larger;
 	}
 	:global(.big-punctuation) {
-		font-size: 150%;
+font-family: 'Roboto', sans-serif;
+		font-size: 250%;
 	}
 </style>
