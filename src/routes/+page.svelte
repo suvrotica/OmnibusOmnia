@@ -1,11 +1,11 @@
 <script>
 	import Title from '$lib/components/title.svelte';
 
-    let text = 'This is a test. Do you see the punctuation? Great!';
+    let text = 'Hello, world! "This," she said, "is a test. Is it not?" Yes: it is!';
 
     // Function that wraps punctuation in a span
     const enhancePunctuation = (input) => {
-        return input.replace(/([.!?])/g, '<span class="big-punctuation">$1</span>');
+        return input.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
     };
 
     // Call the function on text change
