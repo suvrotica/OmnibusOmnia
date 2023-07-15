@@ -43,9 +43,7 @@ Here, I'm free to explore the vast realms of human
 </p>
 </div>
 <div>
-
-
-<img src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689294617979.jpg" alt="Italian Monk holding Omnibus Omnia "> </div>
+<img src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689294617979.jpg" alt="Italian Monk holding Omnibus Omnia "> 
   </div>
 </div>
 <br>
