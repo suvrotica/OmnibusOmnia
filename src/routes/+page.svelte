@@ -68,10 +68,7 @@
 <B1 />
 
 <style>
-	.svg {
-		background-color: white;
-		display: inline-block; /* Ensuring container wraps the image */
-	}
+	
 
 	.poem {
 		/* line-height: 1.5; */
