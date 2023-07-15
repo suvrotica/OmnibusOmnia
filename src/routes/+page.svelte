@@ -13,7 +13,7 @@
 
 
 <!-- Use @html to bind the enhanced text -->
-<p>{ enhancePunctuation(text)}</p>
+<p>{@html enhancePunctuation(text)}</p>
 
 <Title stringA="The" stringB="Name" />
 <hr>
@@ -72,7 +72,7 @@ To strive, to seek, to find, and not to yield.
 
 <style>
 .big-punctuation {
-        font-size: 300%;
+        font-size: larger;
         color: red;
     }
 
