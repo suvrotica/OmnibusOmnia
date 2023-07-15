@@ -42,7 +42,7 @@ Here, I'm free to explore the vast realms of human
 	wisdom we have to explore. Welcome to Omnibus Omnia. 
 </p>
 </div>
-<div>svg_horse-dick.svg
+<div class=".svg" >
 <img src="svg_horse-dick.svg" alt="Italian Monk holding Omnibus Omnia "> 
   </div>
 </div>
@@ -59,7 +59,10 @@ To strive, to seek, to find, and not to yield.
 
 <style>
 
-
+.svg {
+      background-color: white;
+      display: inline-block; /* Ensuring container wraps the image */
+    }
 
 	.poem {
 		line-height: 1.5;
