@@ -36,7 +36,7 @@ This usage likely comes from the idea of bringing together many works "for all" 
 <div>
 <p>
 Here, I'm free to explore the vast realms of human
-	feats and foibles, like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and receiving insights on a stage
+	feats and foibles, fucks and farts, and like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and receiving insights on a stage
 	that questions our assumptions and where the answers always lead to more
 	thrilling journeys. So whether you're a seasoned someone or a curious commoner, an artist or an amateur, a ponderer or a pragmatist, join me in the infinite mosaic of collective
 	wisdom we have to explore. Welcome to Omnibus Omnia. 
