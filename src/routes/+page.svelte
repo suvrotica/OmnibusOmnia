@@ -13,11 +13,11 @@
 			published separately. This usage likely comes from the idea of bringing together many works
 			"for all" to enjoy, and that may be the real meaning, but I wanted to hold on to a fat book. And "omnia" expresses the idea of inclusiveness and
 			universal provision, basically anything. So, in the end it's a fat book about anything, in a pompous way, lest people ignore it as a
-			trifle and think I'm a fool. Omnibus Omnia can't be intended as a dictionary, but perhaps as an universal melting pot of
-			information, the ideas, and, if I'm allowed some more big words, wisdom! Just by keeping it
-			open, this wide-ranging consortium, allows the limit to be the ever-expanding horizon of my
-			imagination, every conceivable topic and field of inquiry as a beacon of diverse and inclusive
-			discourse. I can get a bit carried away, sometimes.`;
+			trifle and think I'm a fool. Omnibus Omnia can't be intended as a dictionary, albeit fat, but perhaps as an universal melting pot of
+			quixotic ideas, and, if I'm allowed some more big words, wisdom! Just by keeping the book 
+			open, this wide-ranging consortium, will allow me to test the limit of the ever-expanding horizon, 
+every conceivable topic and field of inquiry as a beacon of diverse and inclusive
+			discourse and so on. I can get a bit carried away, sometimes.`;
 
 	let p2 = `Here, ¡Ay, caramba! I'm free to explore the vast realms of human feats and foibles, fucks and farts, feces and fraternities and by holy golly in bengali, 
 			like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and
