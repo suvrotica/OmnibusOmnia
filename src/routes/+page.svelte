@@ -10,7 +10,7 @@
 			find a way to read weird wanderings and not feel weird.`;
 	// Function that wraps punctuation in a span
 	const enhancePunctuation = (input: string) => {
-		return input.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
+		return input.replace(.,;:!?)/g, '<span class="big-punctuation">$1</span>');
 	};
 	// Call the function on text change
 	$: enhancedText = enhancePunctuation(p1);
