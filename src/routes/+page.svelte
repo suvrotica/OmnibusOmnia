@@ -7,13 +7,15 @@
     const enhancePunctuation = (input) => {
         return input.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
     };
-
+// Call the function on text change
+    $: enhancedText = enhancePunctuation(text);
+</script>
     
 </script>
 
 
 <!-- Use @html to bind the enhanced text -->
-<p>{@html enhancePunctuation(text)}</p>
+<p>{@html enhancedText}</p>
 
 <Title stringA="The" stringB="Name" />
 <hr>
