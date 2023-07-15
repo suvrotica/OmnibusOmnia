@@ -6,7 +6,7 @@
 
   <article>
 
-<img src="toota164883d.svg" alt="horse" />
+<img class="svg" src="toota164883d.svg" alt="horse" />
 </article>
 
   <article>You must know, you can't be slow,
