@@ -73,7 +73,7 @@ To strive, to seek, to find, and not to yield.
 
 <style>
 .big-punctuation {
-        font-size: 150%;
+        font-size: 300%;
         color: red;
     }
 
