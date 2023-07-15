@@ -49,4 +49,9 @@
 		font-weight: 100;
 		font-size: larger;
 	}
+:global(.big-punctuation) {
+    font-size: 150%;
+    color: red;
+}
+
 </style>
