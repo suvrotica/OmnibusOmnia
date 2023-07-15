@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import Title from '$lib/components/title.svelte';
 
     let text = 'Hello, world! "This," she said, "is a test. Is it not?" Yes: it is!';
@@ -72,8 +72,9 @@ To strive, to seek, to find, and not to yield.
 
 <style>
 .big-punctuation {
-        font-size: larger;
+        font-size: 300%;
         color: red;
+background-color: #e4d8d8;
     }
 
 .svg {
