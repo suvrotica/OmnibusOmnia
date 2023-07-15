@@ -13,7 +13,7 @@
 
 
 <!-- Use @html to bind the enhanced text -->
-<p>{@html enhancePunctuation(text)}</p>
+<p>{ enhancePunctuation}</p>
 
 <Title stringA="The" stringB="Name" />
 <hr>
