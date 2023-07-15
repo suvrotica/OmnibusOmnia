@@ -42,8 +42,8 @@ Here, I'm free to explore the vast realms of human
 	wisdom we have to explore. Welcome to Omnibus Omnia. 
 </p>
 </div>
-<div>
-<img src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689294617979.jpg" alt="Italian Monk holding Omnibus Omnia "> 
+<div>svg_horse-dick.svg
+<img src="svg_horse-dick.svg" alt="Italian Monk holding Omnibus Omnia "> 
   </div>
 </div>
 <br>
