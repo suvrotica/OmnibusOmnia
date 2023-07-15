@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Title from '$lib/components/title.svelte';
-import B1 from '../blog/Blog-001.svelte';
+	import B1 from '../routes/blog/Blog-001.svelte';
 
 	let p1 = `I couldn't just flippantly, verbosely and ineloquently describe this blog as a scratchpad of
 			thoughts, a much sought-after extension of my embarrassing tangle of nerves, unrelated fancies
@@ -8,10 +8,26 @@ import B1 from '../blog/Blog-001.svelte';
 			that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
 			<b>anything</b>. But these are <u>exactly</u> what I always wanted my blog to be. I'm not a prisoner
 			to the usual boundaries that limit most people, and I wanted a place where a weirdo like me could
-			find a way to read weird wanderings and not feel weird.`;
+			find a way to read weird wanderings and not feel weird. <hr>
+			In Latin, as a child I've seen the word "omnibus" used as if to mean a volume containing several novels or other items previously
+			published separately. This usage likely comes from the idea of bringing together many works
+			"for all" to enjoy, and that may be the real meaning, but I wanted to hold on to a fat book. And "omnia" expresses the idea of inclusiveness and
+			universal provision, basically anything. So, in the end it's a fat book about anything, in a pompous way, lest people ignore it as a
+			trifle and think I'm a fool. Omnibus Omnia can't be intended as a dictionary, but perhaps as an universal melting pot of
+			information, the ideas, and, if I'm allowed some more big words, wisdom! Just by keeping it
+			open, this wide-ranging consortium, allows the limit to be the ever-expanding horizon of my
+			imagination, every conceivable topic and field of inquiry as a beacon of diverse and inclusive
+			discourse. I can get a bit carried away, sometimes.`;
+
+	let p2 = `Here, I'm free to explore the vast realms of human feats and foibles, fucks and farts, feces and fraternities and by holy golly in bengali, 
+			like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and
+			receiving insights on a stage that questions our assumptions and where the answers always lead
+			to more thrilling journeys. So whether you're a seasoned someone or a curious commoner, an
+			artist or an amateur, a ponderer or a pragmatist, join me in the infinite mosaic of collective
+			wisdom we have to explore. Welcome to Omnibus Omnia.`;
 	// Function that wraps punctuation in a span
 	const enhancePunctuation = (input: string) => {
-		return input.replace(.,;:!?)/g, '<span class="big-punctuation">$1</span>');
+		return input.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
 	};
 	// Call the function on text change
 	$: enhancedText = enhancePunctuation(p1);
@@ -22,63 +38,35 @@ import B1 from '../blog/Blog-001.svelte';
 <Title stringA="The" stringB="Name" />
 <hr />
 <div class="grid">
-	<div>
-		<img
-			src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689294617979.jpg"
-			alt="Italian Monk holding Omnibus Omnia "
-		/>
-	</div>
+	<article>
+		<img src="monk.jpg" alt="Italian Monk holding Omnibus Omnia " />
+	</article>
+
 	<div>
 		<br />
 
-		<p>{@html enhancedText}</p>
-		<p>
-			In Latin, an "omnibus" is a volume containing several novels or other items previously
-			published separately. This usage likely comes from the idea of bringing together many works
-			"for all" to enjoy. "Omnibus" thus implies "for all."
-		</p>
-		<p>"Omnia" means "all things" or "everything."</p>
-		<p>
-			Thus, "Omnibus Omnia" translates to "For Everyone, About Anything." And that satisfies the
-			school boy inside me. The phrase expresses the idea of inclusiveness and universal provision.
-			A pompous name for something that could have otherwise been ignored as a trifle.
-		</p>
-
-		<p>
-			Omnibus Omnia can't be intended as a dictionary, but perhaps as an universal melting pot of
-			information, the ideas, and, if I'm allowed some more big words, wisdom! Just by keeping it
-			open, this wide-ranging consortium, allows the limit to be the ever-expanding horizon of my
-			imagination, every conceivable topic and field of inquiry as a beacon of diverse and inclusive
-			discourse. I can get a bit carried away, sometimes.
-		</p>
+		<p>{@html enhancePunctuation(p1)}</p>
 	</div>
 </div>
+
+<hr />
 <div class="grid">
-	<div>
-		<p>
-			Here, I'm free to explore the vast realms of human feats and foibles, fucks and farts, and
-			like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and
-			receiving insights on a stage that questions our assumptions and where the answers always lead
-			to more thrilling journeys. So whether you're a seasoned someone or a curious commoner, an
-			artist or an amateur, a ponderer or a pragmatist, join me in the infinite mosaic of collective
-			wisdom we have to explore. Welcome to Omnibus Omnia.
-		</p>
-	</div>
-	<div class="svg">
-		<img src="svg_horse-dick.svg" alt="Italian Monk holding Omnibus Omnia " />
-	</div>
+	<article>
+		<p>{@html enhancePunctuation(p2)}</p>
+		<article class="poem">
+			Though much is taken, much abides; and though We are not now that strength which in old days
+			Moved earth and heaven, that which we are, we are— One equal temper of heroic hearts, Made
+			weak by time and fate, but strong in will To strive, to seek, to find, and not to yield.
+		</article>
+	</article>
+	<article class="svg">
+		<img src="svg_horse-dick.svg" alt="Man horse dick" />
+	</article>
 </div>
 <br />
 
-<pre class="poem">
-Though much is taken, much abides; and though
-We are not now that strength which in old days
-Moved earth and heaven, that which we are, we are—
-One equal temper of heroic hearts,
-Made weak by time and fate, but strong in will
-To strive, to seek, to find, and not to yield.
-</pre>
 <B1 />
+
 <style>
 	.svg {
 		background-color: white;
@@ -86,11 +74,11 @@ To strive, to seek, to find, and not to yield.
 	}
 
 	.poem {
-		line-height: 1.5;
-		padding: 10px;
+		/* line-height: 1.5; */
+		/* padding: 2px; */
 		color: black;
 		background-color: #e4d8d8;
-		border: 1px solid #ccc;
+		/* border: 1px solid #ccc; */
 		font-family: 'Indie Flower', cursive;
 	}
 </style>
