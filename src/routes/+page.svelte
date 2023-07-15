@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Title from '$lib/components/title.svelte';
 
-    let text = 'Hello, world! "This," she said, "is a test. Is it not?" Yes: it is!';
+    let text = 'Hello, <b>world!</b> "This," she said, "is a test. Is it not?" Yes: it is!';
 
     // Function that wraps punctuation in a span
     const enhancePunctuation = (input) => {
