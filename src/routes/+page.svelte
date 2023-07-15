@@ -42,7 +42,7 @@ Here, I'm free to explore the vast realms of human
 	wisdom we have to explore. Welcome to Omnibus Omnia. 
 </p>
 </div>
-<div class=".svg" >
+<div class="svg" >
 <img src="svg_horse-dick.svg" alt="Italian Monk holding Omnibus Omnia "> 
   </div>
 </div>
