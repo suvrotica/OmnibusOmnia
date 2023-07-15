@@ -4,7 +4,9 @@
 
 <div class="grid">
 
-  <div>1</div>
+  <div>
+<img src="" />
+</div>
 
   <p>You must know, you can't be slow,
 Got that huge ass horn to toot. 
