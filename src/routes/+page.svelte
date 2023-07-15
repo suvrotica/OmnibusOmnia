@@ -8,13 +8,12 @@
         return input.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
     };
 
-    // Call the function on text change
-    enhancedText = enhancePunctuation(text);
+    
 </script>
 
 
 <!-- Use @html to bind the enhanced text -->
-<p>{@html enhancePunctuation(text) </p>
+<p>{@html enhancePunctuation(text)}</p>
 
 <Title stringA="The" stringB="Name" />
 <hr>
