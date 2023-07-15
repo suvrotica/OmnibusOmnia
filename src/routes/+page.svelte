@@ -9,7 +9,7 @@
     };
 
     // Call the function on text change
-    $: enhancedText = enhancePunctuation(text);
+    enhancedText = enhancePunctuation(text);
 </script>
 
 
