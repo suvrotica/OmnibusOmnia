@@ -24,10 +24,10 @@ Right and tight and way inside its ass.<br>
 Ants and many others cooperate,<br>
 Swarm intelligence is another class.<br><br>
 
-No problem with prudes, can't call them rude,<br>
-The language we don't really know.<br>
-Euphemisms and superlative accolades,<br>
-We're sissy slaves with balls that need to grow. 
+No ant a prude, can't call them rude,<br>
+Their language we don't really know.<br>
+Euphemistic superlative shit don't us fit,<br>
+Sissy slaves with balls that need to grow. 
 
 </article>
 
