@@ -1,6 +1,20 @@
 <script>
 	import Title from '$lib/components/title.svelte';
+
+    let text = 'This is a test. Do you see the punctuation? Great!';
+
+    // Function that wraps punctuation in a span
+    const enhancePunctuation = (input) => {
+        return input.replace(/([.!?])/g, '<span class="big-punctuation">$1</span>');
+    };
+
+    // Call the function on text change
+    $: enhancedText = enhancePunctuation(text);
 </script>
+
+
+<!-- Use @html to bind the enhanced text -->
+<p>{@html enhancedText}</p>
 
 <Title stringA="The" stringB="Name" />
 <hr>
@@ -58,6 +72,10 @@ To strive, to seek, to find, and not to yield.
 </pre>
 
 <style>
+.big-punctuation {
+        font-size: 150%;
+        color: red;
+    }
 
 .svg {
       background-color: white;
