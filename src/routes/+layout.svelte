@@ -49,8 +49,7 @@
 		font-weight: 100;
 		font-size: larger;
 	}
-:global(b) {
-    font-size: 150%;
-}
-
+	:global(.big-punctuation) {
+		font-size: 150%;
+	}
 </style>
