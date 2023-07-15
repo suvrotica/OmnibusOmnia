@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Title from '$lib/components/title.svelte';
-import B1 from '/blog/Blog-001.svelte';
+import B1 from '../blog/Blog-001.svelte';
 
 	let p1 = `I couldn't just flippantly, verbosely and ineloquently describe this blog as a scratchpad of
 			thoughts, a much sought-after extension of my embarrassing tangle of nerves, unrelated fancies
