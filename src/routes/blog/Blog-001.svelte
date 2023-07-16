@@ -21,7 +21,7 @@ And by now you ought to see.<br>
 The race of men want their ass licked,<br>
 Paid as a slave, eat shit crumbs free.
 <br><br>
-It's just this species that has it's head,<br>
+It's just our species that has it's head,<br>
 Right and tight and way inside its ass.<br>
 Ants and many others cooperate,<br>
 Swarm intelligence is another class.<br><br>
