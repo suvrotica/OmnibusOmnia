@@ -68,7 +68,7 @@ background-color: #f7f3e9; /* Fallback color for unsupported browsers */
       #e6e1d5 75%
     );
     background-size: 10px 10px;
-  }
+  
 		color: black;
 font-weight: 100;
 		
