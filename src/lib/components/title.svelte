@@ -32,7 +32,7 @@
 	}
 	.string-rest {
 		font-size: 25px;
-		color: #9d79ff;
+		color: #FFF;
 		line-height: 1.5;
 		margin: 0;
 		margin-left: -10px;
@@ -45,7 +45,7 @@ font-family: 'Abel', sans-serif;
 		position: relative;
 		top: 0;
 		left: 0;
-		color: #e4b004;
+		color: white;
 		font-size: 30px;
 		line-height: 1;
 
