@@ -9,7 +9,7 @@
 	onMount(() => {
 		fontLink = document.createElement('link');
 		fontLink.href =
-			'https://fonts.googleapis.com/css2?family=Gaegu:wght@300;400;700&family=Poppins:ital,wght@0,100;1,100&family=Montserrat:wght@300&family=Amatic+SC:wght@400;700&family=Kablammo&family=Great+Vibes&family=Indie+Flower&display=swap';
+			'https://fonts.googleapis.com/css2?family=Abel&family=Gaegu:wght@300;400;700&family=Poppins:ital,wght@0,100;1,100&family=Montserrat:wght@300&family=Amatic+SC:wght@400;700&family=Kablammo&family=Great+Vibes&family=Indie+Flower&display=swap';
 		fontLink.rel = 'stylesheet';
 		fontLoaded = true;
 		document.head.appendChild(fontLink);
@@ -60,7 +60,7 @@
 background-color: #f7f3e9;
     background-image: url("Back.jpg");
     background-size: cover;
-
+line-height:0.6;
   
 		color: black;
 font-weight: 100;
