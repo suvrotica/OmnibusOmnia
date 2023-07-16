@@ -66,6 +66,6 @@ background-color: #f7f3e9;
 font-weight: 100;
 		
 		
-		font-family: 'Gaegu', cursive;
+		font-family: 'Montserrat', sans-serif;
 	}
 </style>
