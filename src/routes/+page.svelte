@@ -72,12 +72,5 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 <style>
 	
 
-	.poem {
-		/* line-height: 1.5; */
-		/* padding: 2px; */
-		color: black;
-		background-color: #e4d8d8;
-		/* border: 1px solid #ccc; */
-		font-family: 'Indie Flower', cursive;
-	}
+	
 </style>
