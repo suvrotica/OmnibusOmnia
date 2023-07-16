@@ -33,8 +33,8 @@ Sissy slaves with balls that need to grow.<br>
 <br>
 The race of thoughtless chase,<br>
 Of purses fat, and big fat cat.<br>
-We don't understand why,<br>
-And realize it was on shit we sat.<br>
+We don't understand why and,<br>
+Realize it was on shit we sat.<br>
 <br>
 Add to this just a drop of piss,<br>
 And we shall they say overcome.<br>
