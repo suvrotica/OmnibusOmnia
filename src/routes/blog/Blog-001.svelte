@@ -11,7 +11,7 @@ import Title from '$lib/components/title.svelte';
 <img  src="toota164883d.svg" alt="horse" />
 </article>
 
-  <article>You must know, you can't be slow,
+  <article class="poem" >You must know, you can't be slow,
 <br>Got that huge ass horn to toot. <br>
 Otherwise they think you're not,<br>
 Even worth a fucking smelly poot.
@@ -19,7 +19,7 @@ Even worth a fucking smelly poot.
 Nobody really cares what you know,<br>
 And by now you ought to see.<br>
 The race of men want their ass licked,<br>
-Paid as a slave, eat shit crumbs for free.
+Paid as a slave, eat shit crumbs free.
 <br><br>
 It's just this species that has it's head,<br>
 Right and tight and way inside its ass.<br>
