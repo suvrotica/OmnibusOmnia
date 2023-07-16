@@ -49,7 +49,7 @@
 	}
 	:global(p) {
 		text-align: justify;
-		line-height: 0.9;
+		line-height: 0.75;
 		font-weight: 100;
 		font-size: larger;
 	}
