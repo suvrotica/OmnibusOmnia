@@ -1,7 +1,37 @@
 <script lang="ts">
 import Title from '$lib/components/title.svelte';
+import { onMount, onDestroy } from 'svelte';
+
+
+
+  let isLandscape = window.innerWidth > window.innerHeight;
+
+
+
+  function handleResize() {
+
+    isLandscape = window.innerWidth > window.innerHeight;
+
+  }
+
+
+
+  onMount(() => {
+
+    window.addEventListener('resize', handleResize);
+
+  });
+
+
+
+  onDestroy(() => {
+
+    window.removeEventListener('resize', handleResize);
+
+  });
 
 </script>
+<div>{$isLandscape ? 'Landscape orientation detected.' : 'Portrait orientation detected.'}</div>
 <Title stringA="Huge Ass" stringB="Horn" />
 
 <div class="grid-container">
