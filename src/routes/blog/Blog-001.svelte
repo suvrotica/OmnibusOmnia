@@ -30,32 +30,31 @@ No ant a prude, can't call them rude,<br>
 Their language we don't really know.<br>
 Euphemistic superlative shit don't us fit,<br>
 Sissy slaves with balls that need to grow.<br>
-
+<br>
 The race of thoughtless chase,<br>
 Of purses fat, and big fat cat.<br>
 We don't understand why,<br>
 And realize it was on shit we sat.<br>
-
+<br>
 Add to this just a drop of piss,<br>
 And we shall they say overcome.<br>
 I doubt this route, on our<br>
 Face the fraudsters jerk cum.<br>
-
+<br>
 The race of men, in their semen,<br>
 Soaked and perfectly full of stink.<br>
 Pieces of paper with colossal lies,<br>
 Resumes are shit stains with paper and ink.<br>
-
+<br>
 Holy moley, tits up bengali,<br>
 I am resigned to my fate.<br>
 Can't fight a billion army of con,<br>
 Rhyming sense before it's too late.<br>
-
-The race of thoughtless chase,<br>
-Of rats fat, the big fat cat.<br>
-We don't understand why and,<br>
-Lament it was on shit that we sat.<br>
-
+<br>
+Shouldn't you be fucking off or something,<br>
+I agree, I should, an old friendless man.<br>
+You guys carry on and good luck, <br>
+Try to be that man you say you can. <br>
 </article>
 
   
