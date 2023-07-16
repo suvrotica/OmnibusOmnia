@@ -67,6 +67,6 @@ font-weight: 100;
 font-size:smaller;
 		
 		
-		font-family: 'Montserrat', sans-serif;
+		font-family: 'Montserrat+Alternates', sans-serif;
 	}
 </style>
