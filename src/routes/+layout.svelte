@@ -64,7 +64,7 @@ background-color: #f7f3e9;
   
 		color: black;
 font-weight: 400;
-font-size:12px;
+font-size:smaller ;
 		
 		
 		font-family: 'Montserrat+Alternates', sans-serif;
