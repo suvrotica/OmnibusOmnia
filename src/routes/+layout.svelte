@@ -60,7 +60,7 @@
 background-color: #f7f3e9;
     background-image: url("Back.jpg");
     background-size: cover;
-line-height:0.7;
+line-height:0.72;
   
 		color: black;
 font-weight: 100;
