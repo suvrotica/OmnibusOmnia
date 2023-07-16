@@ -50,6 +50,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 </div>
 
 <hr />
+<Title stringA="Welcome by" stringB="Holy Golly" />
 <div class="grid">
 	<article>
 		<p>{@html enhancePunctuation(p2)}</p>
