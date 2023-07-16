@@ -64,9 +64,28 @@ background-color: #f7f3e9;
   
 		color: black;
 font-weight: 400;
-font-size:smaller ;
+font-size:12px;
 		
 		
 		font-family: 'Montserrat+Alternates', sans-serif;
 	}
+global(.grid-container) {
+
+  display: grid;
+
+  grid-template-columns: auto auto;
+
+  grid-gap: 10px; /* Optional: Set the gap between columns */
+
+}
+
+global(.column) {
+
+  background-color: #e0e0e0;
+
+  padding: 10px;
+
+}
+
+
 </style>
