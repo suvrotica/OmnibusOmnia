@@ -38,6 +38,7 @@
 		margin-left: -10px;
 		padding-left: 0px;
 		position: relative;
+font-family: 'Abel', sans-serif;
 		transition: color 2s ease-in-out;
 	}
 	.string-initial {
