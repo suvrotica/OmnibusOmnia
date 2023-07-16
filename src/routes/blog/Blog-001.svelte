@@ -47,7 +47,7 @@ Pieces of paper with colossal lies,<br>
 Resumes are shit stains with paper and ink.<br>
 <br>
 Holy moley, tits up bengali,<br>
-I am resigned to my fate.<br>
+I am resigned to my shit fate.<br>
 Can't fight a billion army of con,<br>
 Rhyming sense before it's too late.<br>
 <br>
