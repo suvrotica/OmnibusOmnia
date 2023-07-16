@@ -57,17 +57,10 @@
 		font-family: 'Poppins', sans-serif;
 	}
 :global(.poem) {
-background-color: #f7f3e9; /* Fallback color for unsupported browsers */
-    background-image: linear-gradient(
-      45deg,
-      #f7f3e9 25%,
-      #e6e1d5 25%,
-      #e6e1d5 50%,
-      #f7f3e9 50%,
-      #f7f3e9 75%,
-      #e6e1d5 75%
-    );
-    background-size: 10px 10px;
+background-color: #f7f3e9;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25'%3E%3Cfilter id='noise' x='0%25' y='0%25' width='100%25' height='100%25'%3E%3CfeTurbulence baseFrequency='0.02' numOctaves='5' seed='2' stitchTiles='stitch'%3E%3Canimate attributeName='baseFrequency' values='0.02;0.05;0.02' dur='60s' repeatCount='indefinite'/%3E%3C/feTurbulence%3E%3CfeColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9' result='color'%3E%3Canimate attributeName='values' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9;1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7;1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9' dur='60s' repeatCount='indefinite'/%3E%3C/feColorMatrix%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+    background-size: cover;
+
   
 		color: black;
 font-weight: 100;
