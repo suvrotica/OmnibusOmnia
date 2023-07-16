@@ -57,10 +57,22 @@
 		font-family: 'Poppins', sans-serif;
 	}
 :global(.poem) {
+background-color: #f7f3e9; /* Fallback color for unsupported browsers */
+    background-image: linear-gradient(
+      45deg,
+      #f7f3e9 25%,
+      #e6e1d5 25%,
+      #e6e1d5 50%,
+      #f7f3e9 50%,
+      #f7f3e9 75%,
+      #e6e1d5 75%
+    );
+    background-size: 10px 10px;
+  }
 		color: black;
 font-weight: 100;
 		
-		background-color:orange;
+		
 		font-family: 'Gaegu', cursive;
 	}
 </style>
