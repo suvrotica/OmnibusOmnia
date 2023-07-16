@@ -69,7 +69,7 @@ font-size:12px;
 		
 		font-family: 'Montserrat+Alternates', sans-serif;
 	}
-global(.grid-container) {
+:global(.grid-container) {
 
   display: grid;
 
@@ -79,7 +79,7 @@ global(.grid-container) {
 
 }
 
-global(.column) {
+:global(.column) {
 
   background-color: #e0e0e0;
 
