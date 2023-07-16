@@ -20,7 +20,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 			discourse and so on. I can get a bit carried away, sometimes.`;
 
 	let p2 = `Here, ¡Ay, caramba! I'm free to explore the vast as well as the forbidden realms of human feats and foibles, fucks and farts, feces and fraternities and by holy golly in bengali, 
-			like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and
+			jai maa kali, like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and
 			receiving insights on a stage that questions our assumptions and where the answers always lead
 			to more thrilling journeys. So whether you're a seasoned someone or a curious commoner, an
 			artist or an amateur, a ponderer or a pragmatist, join me in the infinite mosaic of collective
