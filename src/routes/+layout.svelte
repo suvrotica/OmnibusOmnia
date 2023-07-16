@@ -58,9 +58,9 @@
 	}
 :global(.poem) {
 		color: black;
-font-weight: 300;font-size: smaller;
+font-weight: 100;
 		
-		background-color: #e4d8d8;
+		background-color:saffron;
 		font-family: 'Gaegu', cursive;
 	}
 </style>
