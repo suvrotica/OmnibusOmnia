@@ -49,8 +49,9 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 	</div>
 </div>
 
-<hr />
+
 <Title stringA="Welcome by" stringB="Holy Golly" />
+<hr/>
 <div class="grid">
 	<article>
 		<p>{@html enhancePunctuation(p2)}</p>
