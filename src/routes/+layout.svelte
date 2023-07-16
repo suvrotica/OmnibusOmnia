@@ -56,4 +56,9 @@
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
 	}
+:global(.poem) {
+		color: black;
+		background-color: #e4d8d8;
+		font-family: 'Indie Flower', cursive;
+	}
 </style>
