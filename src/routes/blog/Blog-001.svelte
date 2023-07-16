@@ -17,7 +17,7 @@ Even worth a fucking smelly poot.
 Nobody really cares what you know,<br>
 And by now you ought to see.<br>
 The race of men want their ass licked,<br>
-And you get paid for a slave to be.
+Paid as a slave but eat shit for free.
 <br><br>
 It's just this species that has it's head,<br>
 Right and tight and way inside its ass.<br>
