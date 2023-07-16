@@ -6,12 +6,12 @@ import Title from '$lib/components/title.svelte';
 
 <div class="grid-container">
 
-  <article   class="svg, column" >
+  <article   class="svg" >
 
 <img  src="toota164883d.svg" alt="horse" />
 </article>
 
-  <article class="poem" >You must know, you can't be slow,
+  <article class="poem, column" >You must know, you can't be slow,
 <br>Got that huge ass horn to toot. <br>
 Otherwise they think you're not,<br>
 Even worth a fucking smelly poot.
