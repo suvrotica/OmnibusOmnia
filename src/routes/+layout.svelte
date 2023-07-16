@@ -64,7 +64,7 @@ line-height:0.75;
   
 		color: black;
 font-weight: 400;
-font-size:smaller;
+font-size:12px;
 		
 		
 		font-family: 'Montserrat+Alternates', sans-serif;
