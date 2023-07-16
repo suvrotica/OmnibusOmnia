@@ -60,7 +60,7 @@
 		color: black;
 font-weight: 100;
 		
-		background-color:saffron;
+		background-color:orange;
 		font-family: 'Gaegu', cursive;
 	}
 </style>
