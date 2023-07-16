@@ -56,9 +56,9 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 	<article>
 		<p>{@html enhancePunctuation(p2)}</p>
 		<article class="poem">
-			Though much is taken, much abides; and though We are not now that strength which in old days
-			Moved earth and heaven, that which we are, we are— One equal temper of heroic hearts, Made
-			weak by time and fate, but strong in will To strive, to seek, to find, and not to yield.
+			Though much is taken, much abides; and though<br> We are not now that strength which in old days<br>
+			Moved earth and heaven, that which we are, we are—<br> One equal temper of heroic hearts,<br> Made
+			weak by time and fate, but strong in will<br> To strive, to seek, to find, and not to yield.
 		</article>
 	</article>
 	<article class="svg">
