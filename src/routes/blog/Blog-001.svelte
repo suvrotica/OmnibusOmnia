@@ -4,9 +4,9 @@ import Title from '$lib/components/title.svelte';
 </script>
 <Title stringA="Huge Ass" stringB="Horn" />
 
-<div class="grid">
+<div class="grid-container">
 
-  <article  class="svg" >
+  <article   class="svg, column" >
 
 <img  src="toota164883d.svg" alt="horse" />
 </article>
