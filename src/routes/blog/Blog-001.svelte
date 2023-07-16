@@ -1,7 +1,9 @@
 <script lang="ts">
+import Title from '$lib/components/title.svelte';
 
 </script>
-<h1>Huge Ass Horn</h1>
+<Title stringA="Huge Ass" stringB="Horn" />
+
 <div class="grid">
 
   <article  class="svg" >
