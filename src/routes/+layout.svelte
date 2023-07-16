@@ -59,6 +59,6 @@
 :global(.poem) {
 		color: black;
 		background-color: #e4d8d8;
-		font-family: 'Indie Flower', cursive;
+		
 	}
 </style>
