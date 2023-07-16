@@ -58,7 +58,7 @@
 	}
 :global(.poem) {
 background-color: #f7f3e9;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25'%3E%3Cfilter id='noise' x='0%25' y='0%25' width='100%25' height='100%25'%3E%3CfeTurbulence baseFrequency='0.02' numOctaves='5' seed='2' stitchTiles='stitch'%3E%3Canimate attributeName='baseFrequency' values='0.02;0.05;0.02' dur='60s' repeatCount='indefinite'/%3E%3C/feTurbulence%3E%3CfeColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9' result='color'%3E%3Canimate attributeName='values' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9;1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7;1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9' dur='60s' repeatCount='indefinite'/%3E%3C/feColorMatrix%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25'%3E%3Cfilter id='noise' x='0%25' y='0%25' width='100%25' height='100%25'%3E%3CfeTurbulence baseFrequency='0.05' numOctaves='5' seed='2' stitchTiles='stitch'%3E%3Canimate attributeName='baseFrequency' values='0.05;0.08;0.05' dur='60s' repeatCount='indefinite'/%3E%3C/feTurbulence%3E%3CfeColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9' result='color'%3E%3Canimate attributeName='values' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9;1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7;1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -9' dur='60s' repeatCount='indefinite'/%3E%3C/feColorMatrix%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
     background-size: cover;
 
   
