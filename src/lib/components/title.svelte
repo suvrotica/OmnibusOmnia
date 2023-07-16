@@ -45,7 +45,7 @@ font-family: 'Abel', sans-serif;
 		position: relative;
 		top: 0;
 		left: 0;
-		color: white;
+		color: gray;
 		font-size: 30px;
 		line-height: 1;
 
