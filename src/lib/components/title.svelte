@@ -48,7 +48,7 @@
 		font-size: 30px;
 		line-height: 1;
 
-		font-family: 'Gaegu', cursive;
+		font-family: 'Abel', sans-serif;
 		transition: color 2s ease-in-out, transform 0.5s;
 	}
 	.string:hover {
