@@ -3,7 +3,7 @@
 	import B1 from '../routes/blog/Blog-001.svelte';
 import B2 from '../routes/blog/Blog-002.svelte';
 
-	let p1 = `I couldn't just flippantly, verbosely and ineloquently describe this blog as a scratchpad of
+	let p1 = `I couldn't just...flippantly, verbosely and ineloquently describe this blog as a scratchpad of
 			thoughts, a much sought-after extension of my embarrassing tangle of nerves, unrelated fancies
 			and figments strewn around and rattling loose in it, collectibles from the waste basket scraps
 			that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
