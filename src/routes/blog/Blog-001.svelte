@@ -45,7 +45,7 @@
 		<img src="/B1.webp" alt="horse" />
 	</article>
 
-	<article class="poem customFont" >
+	<article class="poem" >
 		You must know, you can't be slow,
 		<br />Got that huge ass horn to toot. <br />
 		Otherwise they think you're not,<br />
@@ -92,11 +92,4 @@
 		Try to be that man you say you can. <br />
 	</article>
 </div>
-<style>
 
-  
-  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
-.customFont {
-font-family: 'Quicksand', sans-serif;
-font-size:12px;} 
-</style>
