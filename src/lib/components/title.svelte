@@ -1,6 +1,7 @@
 <script lang="ts">
 	export let stringA: string;
 	export let stringB: string;
+	export let When: string = '';
 
 	let stringAInitial = '';
 	let stringARest = '';
@@ -17,13 +18,25 @@
 	}
 </script>
 
-<div class="string">
-	<span class="string-initial"> {stringAInitial} </span>
-	<span class="string-rest"> {stringARest} </span>
+<nav class="string">
+	<ul>
+		<li>
+			<div>
+				<span class="string-initial"> {stringAInitial} </span>
+				<span class="string-rest"> {stringARest} </span>
 
-	<span class="string-initial"> {stringBInitial} </span>
-	<span class="string-rest"> {stringBRest} </span>
-</div>
+				<span class="string-initial"> {stringBInitial} </span>
+				<span class="string-rest"> {stringBRest} </span>
+			</div>
+		</li>
+	</ul>
+	<ul>
+		<li><strong /></li>
+	</ul>
+	<ul>
+		<li>{@html When}</li>
+	</ul>
+</nav>
 
 <style>
 	.string {
@@ -32,13 +45,13 @@
 	}
 	.string-rest {
 		font-size: 25px;
-		color: #FFF;
+		color: #fff;
 		line-height: 1.5;
 		margin: 0;
 		margin-left: -10px;
 		padding-left: 0px;
 		position: relative;
-font-family: 'Abel', sans-serif;
+		font-family: 'Abel', sans-serif;
 		transition: color 2s ease-in-out;
 	}
 	.string-initial {
