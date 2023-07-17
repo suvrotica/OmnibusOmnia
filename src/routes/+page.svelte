@@ -50,7 +50,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 	</div>
 </div>
 
-<Title stringA="Welcome by" stringB="Holy Golly" When="get" />
+<Title stringA="Welcome by" stringB="Holy Golly" When={currentDate} />
 <hr />
 <div class="grid">
 	<article>
