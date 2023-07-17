@@ -3,7 +3,7 @@
 	import B1 from '../routes/blog/Blog-001.svelte';
 import B2 from '../routes/blog/Blog-002.svelte';
 
-	let p1 = `I couldn't just...flippantly, verbosely and ineloquently describe this blog as a scratchpad of
+	let p1 = `I couldn't just42brflippantly, verbosely and ineloquently describe this blog as a scratchpad of
 			thoughts, a much sought-after extension of my embarrassing tangle of nerves, unrelated fancies
 			and figments strewn around and rattling loose in it, collectibles from the waste basket scraps
 			that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
@@ -27,21 +27,17 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 			artist or an amateur, a ponderer or a pragmatist, join me in the infinite mosaic of collective
 			wisdom we have to explore. Welcome to Omnibus Omnia.`;
 	// Function that wraps punctuation in a span
-	
-const enhancePunctuation = (input: string) => {
-    return input.replace(/([.,;:!?'"()])|(\.\.\.)/g, (match, punct, ellipsis) => {
-        if (punct) {
-            return `<span class="big-punctuation">${punct}</span>`;
-        } else if (ellipsis) {
-            return '<br>';
-        }
-        return match;
-    });
+	const enhancePunctuation = (input: string) => {
+		return input.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
+	};
+const enhanceMarkup = (input: string) => {
+    return input.replace(/42br/g, '<br>');
 };
 
 
 	// Call the function on text change
 	$: enhancedText = enhancePunctuation(p1);
+$: enhancedText = enhanceMarkup(enhancedText);
 </script>
 
 <!-- Use @html to bind the enhanced text -->
