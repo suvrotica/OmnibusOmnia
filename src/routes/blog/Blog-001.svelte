@@ -40,8 +40,9 @@
 </div>
 <Title stringA="Huge Ass" stringB="Horn" />
 
-<div class:grid={$orientation === 'landscape'} class:grid={$orientation !== 'landscape'}>
-	<article class="svg">
+<!--div class:grid={$orientation === 'landscape'} class:grid={$orientation !== 'landscape'}-->
+	<div class="grid">
+<article class="svg">
 		<img src="/B1.webp" alt="horse" />
 	</article>
 
