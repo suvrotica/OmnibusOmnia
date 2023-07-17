@@ -7,7 +7,7 @@
 	onMount(() => {
 		fontLink = document.createElement('link');
 		fontLink.href =
-			'https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Montserrat+Alternates:wght@100;400&family=Abel&family=Gaegu:wght@300;400;700&family=Poppins:ital,wght@0,100;1,100&family=Montserrat:wght@300&family=Amatic+SC:wght@400;700&family=Kablammo&family=Great+Vibes&family=Indie+Flower&display=swap';
+			'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&family=Montserrat+Alternates:wght@100;400&family=Abel&family=Gaegu:wght@300;400;700&family=Poppins:ital,wght@0,100;1,100&family=Montserrat:wght@300&family=Amatic+SC:wght@400;700&family=Kablammo&family=Great+Vibes&family=Indie+Flower&display=swap';
 		fontLink.rel = 'stylesheet';
 		fontLoaded = true;
 		document.head.appendChild(fontLink);
@@ -69,8 +69,8 @@
 		background-size: cover;
 
 		color: black;
-font-weight: 100;
-font-family: 'Poppins', sans-serif;
+font-weight: 200;
+font-family: 'Poppins:ital', sans-serif;
 		} 
 
 	:global(.grid-container) {
