@@ -56,7 +56,7 @@
 	}
 	:global(.poem) {
 		background-color: #f7f3e9;
-		background-image: url('./Back.jpg');
+		background-image: url('/Back.jpg');
 		background-size: content;
 
 		color: black;
