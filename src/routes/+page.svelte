@@ -29,9 +29,16 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 	// Function that wraps punctuation in a span
 	
 const enhancePunctuation = (input: string) => {
-    return input.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>')
-                .replace(/\.\.\./g, '<br>');
+    return input.replace(/([.,;:!?'"()])|(\.\.\.)/g, (match, punct, ellipsis) => {
+        if (punct) {
+            return `<span class="big-punctuation">${punct}</span>`;
+        } else if (ellipsis) {
+            return '<br>';
+        }
+        return match;
+    });
 };
+
 
 	// Call the function on text change
 	$: enhancedText = enhancePunctuation(p1);
