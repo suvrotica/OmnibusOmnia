@@ -24,50 +24,16 @@
 		<img src="/B2.webp" alt="b2" />
 	</article>
 
-	<article class="poem" >
-		You must know, you can't be slow,
-		<br />Got that huge ass horn to toot. <br />
-		Otherwise they think you're not,<br />
-		Even worth a fucking smelly poot.
-		<br /><br />
-		Nobody really cares what you know,<br />
-		And by now you ought to see.<br />
-		The race of men want their ass licked,<br />
-		Paid as a slave, eat shit crumbs free.
-		<br /><br />
-		It's just our species that has it's head,<br />
-		Right and tight and way inside its ass.<br />
-		Ants and many others cooperate,<br />
-		Swarm intelligence is another class.<br /><br />
+	<article >
+You've seen Delhi's condition. This is only because the cameras are there. The issues are endemic, but we don't see them since the cameras are artfully diverted to the emperor's new clothes.
+So I ask. What's the point of education if we don't, can't, or are too afraid to use it? We are only at this barely livable convenience because of privatization and the fact that these companies have to be accountable for their products; otherwise, they'll go out of business. The Indian government, whether at the center or at the regional levels, has no such scruples, prerogatives, or vision. This is the difference I saw between the US and India: people aren't by default selfish, vindictive, or lazy; here, this is the status quo. I can't ignore the fact that it's us who sit on the chairs we blame.
+And the pissy territorial fights and blamemongering, followed by amnesia as the water recedes, will be repeated with the usual fare every time. If tiny neighboring states can't get along, what hope is there between warring nations? Apparently, the very representations we've elected to safeguard us might in fact proffer us as the sacrosanct lamb for sacrifice come disaster. And this isn't political party A or B; they are equally duplicitous and nefarious self-serving selfish alter egos of us as a group. That does, in fact, show how fucked up we must be if these kleptomaniac rascals are the best we can do. Good grief, if this is democracy, then what the fuck?
+The current problem with the climate can be conveniently explained away as that of cause and effect, but looking at the actors and the period over which things have, are, and will play out is what really matters. In the past, it was the developed nations; now it's the developing nations, and the former ought to fund the latter and hold hands all the way. Homo Hemlock has to get real and united; otherwise, the shit hitting the fan is an inevitability. Get ready to get your face splattered.
+Most of the causal and casual actors were and are the fat haves, living lives worth envying, while the emaciated have-nots suffer, barely existing and tenuously clinging on to the breadcrumbs made available, getting snuffed out by the results of shit they didn't do. This inequality will have to go, along with selfishness, irrational behavior, moral seediness, and political corruption, hallmarks of Homo Fucking Hemlock. Merely clicking on icons or copying and pasting isn't going to get us any further than our dead skull. If the environmental collapse gets to an exponential point, there won't be any room for politicians or, for that matter, any political correctness, and we'll be a thin layer of plastic on the rocks.
+It doesn't have to be a zero-sum game like that, and we can't win, no matter how large we think our lumps are. I mean, balls. I was trying to be polite. We're like scum on a rock floating in space that thinks it's all that, when it's not. It might be the pinworms in our shit that's going to take over; you never really know. We were improbable, and if we screw this up, getting the planet back is out of our hands. We don't have a plan or a planet B.
+All the bullshit magic, religion, pseudoscience, capricious gods, lecture notes from belligerent and uneducated leaders, and fancy imaginary beings will be able to do shit when the time comes. Only math and science will be of any help, if there's any left, by the time we realize it's too late. And the art of rhetoric to get fools to listen and move.
+I think we are getting close to getting fucked, but I'm already too old and unpopular; I'll get murdered for being reasonable, the usual fitting end for softies with yielding dispositions.
 
-		No ant a prude, can't call them rude,<br />
-		Their language we don't really know.<br />
-		Euphemistic superlative shit don't us fit,<br />
-		Sissy slaves with balls that need to grow.<br />
-		<br />
-		The race of thoughtless chase,<br />
-		Of purses fat, and big fat cat.<br />
-		We don't understand why and,<br />
-		Realize it was on shit we sat.<br />
-		<br />
-		Add to this just a drop of piss,<br />
-		And we shall they say overcome.<br />
-		I doubt this route, on our<br />
-		Face the fraudsters jerk cum.<br />
-		<br />
-		The race of men, in their semen,<br />
-		Soaked and perfectly full of stink.<br />
-		Pieces of paper with colossal lies,<br />
-		Resumes are shit stains with paper and ink.<br />
-		<br />
-		Holy moley, tits up bengali,<br />
-		I am resigned to my shit fate.<br />
-		Can't fight a billion army of con,<br />
-		Rhyming sense before it's too late.<br />
-		<br />
-		Shouldn't you be fucking off or something,<br />
-		I agree, I should, an old friendless man.<br />
-		You guys carry on and good luck, <br />
-		Try to be that man you say you can. <br />
+		  <br />
 	</article>
 </div>
