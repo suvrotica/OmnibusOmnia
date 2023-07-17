@@ -45,7 +45,7 @@
 		<img src="/B1.webp" alt="horse" />
 	</article>
 
-	<article class="customFont poem" >
+	<article class="poem customFont" >
 		You must know, you can't be slow,
 		<br />Got that huge ass horn to toot. <br />
 		Otherwise they think you're not,<br />
