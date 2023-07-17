@@ -70,7 +70,7 @@
 
 		color: black;
 font-weight: 200;
-font-family: 'Poppins:ital', sans-serif;
+font-family: 'Poppins', sans-serif;
 		} 
 
 	:global(.grid-container) {
