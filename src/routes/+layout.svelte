@@ -67,9 +67,10 @@
 		background-color: #f7f3e9;
 		background-image: url('/Back.jpg');
 		background-size: cover;
-
+line-height: 0.9;
 		color: black;
-font-weight: 200;
+font-weight: 300;
+
 
 		} 
 
