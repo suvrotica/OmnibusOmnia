@@ -3,9 +3,7 @@
 	import Header from '$lib/components/header.svelte';
 	import '@picocss/pico';
 	let fontLoaded = false;
-
 	let fontLink;
-
 	onMount(() => {
 		fontLink = document.createElement('link');
 		fontLink.href =
@@ -59,7 +57,7 @@
 	:global(.poem) {
 		background-color: #f7f3e9;
 		background-image: url('Back.jpg');
-		background-size: cover;
+		background-size: content;
 
 		color: black;
 		font-weight: 400;

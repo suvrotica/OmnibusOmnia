@@ -1,40 +1,51 @@
 <script lang="ts">
 	import Title from '$lib/components/title.svelte';
 
-	import { onMount } from 'svelte';
-	let innerWidth: Number;
-	let innerHeight: Number;
-	let isLandscape: Boolean;
+	import { orientation } from '$lib/orientation';
 
-	if (typeof window !== 'undefined') {
-		innerWidth = window.innerWidth;
-		innerHeight = window.innerHeight;
-		isLandscape = innerWidth > innerHeight;
+	// import { onMount } from 'svelte';
+	// let innerWidth: Number;
+	// let innerHeight: Number;
+	// let isLandscape: Boolean;
 
-		function handleResize() {
-			innerWidth = window.innerWidth;
-			innerHeight = window.innerHeight;
-		}
+	// if (typeof window !== 'undefined') {
+	// 	innerWidth = window.innerWidth;
+	// 	innerHeight = window.innerHeight;
+	// 	isLandscape = innerWidth > innerHeight;
 
-		onMount(() => {
-			window.addEventListener('resize', handleResize);
-			return () => {
-				window.removeEventListener('resize', handleResize);
-			};
-		});
-	}
+	// 	function handleResize() {
+	// 		innerWidth = window.innerWidth;
+	// 		innerHeight = window.innerHeight;
+	// 	}
+
+	// 	onMount(() => {
+	// 		window.addEventListener('resize', handleResize);
+	// 		return () => {
+	// 			window.removeEventListener('resize', handleResize);
+	// 		};
+	// 	});
+	// }
 </script>
 
-<div>Window width: {innerWidth}, height: {innerHeight}</div>
+<!-- <div>Window width: {innerWidth}, height: {innerHeight}</div> -->
 
+<div>
+	{#if $orientation === 'landscape'}
+		<!-- Landscape-specific content -->
+		<p>This is a landscape view.</p>
+	{:else}
+		<!-- Portrait-specific content -->
+		<p>This is a portrait view.</p>
+	{/if}
+</div>
 <Title stringA="Huge Ass" stringB="Horn" />
 
-<div class:grid-container={isLandscape} class:grid={!isLandscape}>
+<div class:grid-container={$orientation === 'landscape'} class:grid={$orientation !== 'landscape'}>
 	<article class="svg">
 		<img src="toota164883d.svg" alt="horse" />
 	</article>
 
-	<article class="poem, column">
+	<article class="poem">
 		You must know, you can't be slow,
 		<br />Got that huge ass horn to toot. <br />
 		Otherwise they think you're not,<br />
