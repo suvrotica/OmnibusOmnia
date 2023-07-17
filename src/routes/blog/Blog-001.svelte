@@ -98,5 +98,5 @@
   @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
 .customFont {
 font-family: 'Quicksand', sans-serif;
-font-size:16px;} 
+font-size:12px;} 
 </style>
