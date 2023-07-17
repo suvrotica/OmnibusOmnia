@@ -45,7 +45,7 @@
 		<img src="/B1.webp" alt="horse" />
 	</article>
 
-	<article class="poem">
+	<article class="PlayfairDisplay, Poem" >
 		You must know, you can't be slow,
 		<br />Got that huge ass horn to toot. <br />
 		Otherwise they think you're not,<br />
@@ -92,3 +92,8 @@
 		Try to be that man you say you can. <br />
 	</article>
 </div>
+<style>
+.PlayfairDisplay {
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+font-family: 'Playfair Display', serif;} 
+</style>
