@@ -2,11 +2,14 @@
 	import Title from '$lib/components/title.svelte';
 
 	import { onMount } from 'svelte';
-	let isLandscape;
+	let innerWidth: Number;
+	let innerHeight: Number;
+	let isLandscape: Boolean;
 
 	if (typeof window !== 'undefined') {
 		innerWidth = window.innerWidth;
 		innerHeight = window.innerHeight;
+		isLandscape = innerWidth > innerHeight;
 
 		function handleResize() {
 			innerWidth = window.innerWidth;
@@ -26,7 +29,7 @@
 
 <Title stringA="Huge Ass" stringB="Horn" />
 
-<div class="grid-container">
+<div class:grid-container={isLandscape} class:grid={!isLandscape}>
 	<article class="svg">
 		<img src="toota164883d.svg" alt="horse" />
 	</article>
