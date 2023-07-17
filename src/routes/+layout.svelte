@@ -69,9 +69,9 @@
 		background-size: cover;
 
 		color: black;
-		font-weight: 400;
-		font-size: 17;
-font-family: 'Delicious Handrawn', cursive;} 
+font-weight: 100;
+font-family: 'Poppins', sans-serif;
+		} 
 
 	:global(.grid-container) {
 		display: grid;
