@@ -93,7 +93,9 @@
 	</article>
 </div>
 <style>
+
+  
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 .PlayfairDisplay {
-font-family: 'Playfair Display', serif;} 
+font-family: 'Dancing Script', cursive;} 
 </style>
