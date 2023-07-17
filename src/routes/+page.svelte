@@ -53,7 +53,7 @@ const enhanceMarkup = (input: string) => {
 	<div>
 		<br />
 
-		<p>{@html enhancedText}</p>
+		<p>{@html enhancePunctuation(enhanceMarkup(p1))}</p>
 	</div>
 </div>
 
