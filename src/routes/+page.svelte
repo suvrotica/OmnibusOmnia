@@ -1,6 +1,7 @@
 <script lang="ts">
 	import Title from '$lib/components/title.svelte';
 	import B1 from '../routes/blog/Blog-001.svelte';
+import B2 from '../routes/blog/Blog-002.svelte';
 
 	let p1 = `I couldn't just flippantly, verbosely and ineloquently describe this blog as a scratchpad of
 			thoughts, a much sought-after extension of my embarrassing tangle of nerves, unrelated fancies
@@ -68,6 +69,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 <br />
 
 <B1 />
+<B2 />
 
 <style>
 	
