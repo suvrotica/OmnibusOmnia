@@ -42,7 +42,7 @@
 
 <div class:grid-container={$orientation === 'landscape'} class:grid={$orientation !== 'landscape'}>
 	<article class="svg">
-		<img src="toota164883d.svg" alt="horse" />
+		<img src="/B1.webp" alt="horse" />
 	</article>
 
 	<article class="poem">
