@@ -95,8 +95,8 @@
 <style>
 
   
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 .customFont {
-font-family: 'Dancing Script', cursive;
-font-size:18;} 
+font-family: 'Quicksand', sans-serif;
+font-size:16;} 
 </style>
