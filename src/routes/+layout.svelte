@@ -69,7 +69,7 @@
 		background-size: cover;
 line-height: 0.9;
 		color: black;
-font-weight: 300;
+font-weight: 700;
 
 
 		} 
