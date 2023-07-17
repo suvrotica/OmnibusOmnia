@@ -45,20 +45,17 @@
 		background-color: white;
 		display: inline-block; /* Ensuring container wraps the image */
 	}
-:global(img) {
+	:global(img) {
+		width: 100%;
 
-    width: 100%;
+		height: auto;
 
-    height: auto;
-
-    object-fit: cover;
-
-}
-	:global(p) {
+		object-fit: cover;
+	}
+	:global(p, article) {
 		text-align: justify;
 		line-height: 0.75;
 		font-weight: 100;
-		font-size: larger;
 	}
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
@@ -67,12 +64,10 @@
 		background-color: #f7f3e9;
 		background-image: url('/Back.jpg');
 		background-size: cover;
-line-height: 0.9;
+		line-height: 0.9;
 		color: black;
-font-weight:400;
-
-
-		} 
+		font-weight: 400;
+	}
 
 	:global(.grid-container) {
 		display: grid;
