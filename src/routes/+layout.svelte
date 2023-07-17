@@ -70,6 +70,7 @@
 
 		color: black;
 font-weight: 200;
+font-size:16;
 font-family: 'Poppins', sans-serif;
 		} 
 
