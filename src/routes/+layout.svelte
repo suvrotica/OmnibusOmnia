@@ -55,7 +55,8 @@
 		font-family: 'Poppins', sans-serif;
 	}
 	:global(.poem) {
-		background-image: url('Back.jpg');
+		background-color: #f7f3e9;
+		background-image: url('./Back.jpg');
 		background-size: content;
 
 		color: black;
