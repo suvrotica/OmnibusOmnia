@@ -36,8 +36,9 @@ const enhanceMarkup = (input: string) => {
 
 
 	// Call the function on text change
-	$: enhancedText = enhancePunctuation(enhanceMarkup(p1));
-
+	$: {
+    enhancedText = enhancePunctuation(enhanceMarkup(p1));
+  }
 </script>
 
 <!-- Use @html to bind the enhanced text -->
