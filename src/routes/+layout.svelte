@@ -61,7 +61,7 @@
 
 		color: black;
 		font-weight: 400;
-		font-size: small;
+		font-size: larger;
 font-family: 'Delicious Handrawn', cursive;} 
 
 	:global(.grid-container) {
