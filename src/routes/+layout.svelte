@@ -43,7 +43,7 @@
 	:global(h1, h2, h3, h4, h5, h6) {
 		font-family: 'Amatic SC', cursive;
 	}
-:global(.svg) {
+	:global(.svg) {
 		background-color: white;
 		display: inline-block; /* Ensuring container wraps the image */
 	}
@@ -56,36 +56,26 @@
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
 	}
-:global(.poem) {
-background-color: #f7f3e9;
-    background-image: url("Back.jpg");
-    background-size: cover;
+	:global(.poem) {
+		background-color: #f7f3e9;
+		background-image: url('Back.jpg');
+		background-size: cover;
 
-  
 		color: black;
-font-weight: 400;
-font-size:12px;
-		
-		
+		font-weight: 400;
+		font-size: 12px;
+
 		font-family: 'Montserrat+Alternates', sans-serif;
 	}
-:global(.grid-container) {
+	:global(.grid-container) {
+		display: grid;
 
-  display: grid;
+		grid-template-columns: auto auto;
 
-  grid-template-columns: auto auto;
+		grid-gap: 1px; /* Optional: Set the gap between columns */
+	}
 
-  grid-gap: 10px; /* Optional: Set the gap between columns */
-
-}
-
-:global(.column) {
-
-  background-color: #e0e0e0;
-
-  padding: 10px;
-
-}
-
-
+	:global(.column) {
+		padding: 30px;
+	}
 </style>
