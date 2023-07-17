@@ -5,11 +5,12 @@
 	let isLandscape;
 
 	if (typeof window !== 'undefined') {
-		// check if window object is available
-		isLandscape = window.innerWidth > window.innerHeight;
+		innerWidth = window.innerWidth;
+		innerHeight = window.innerHeight;
 
 		function handleResize() {
-			isLandscape = window.innerWidth > window.innerHeight;
+			innerWidth = window.innerWidth;
+			innerHeight = window.innerHeight;
 		}
 
 		onMount(() => {
@@ -21,7 +22,7 @@
 	}
 </script>
 
-<div>{$isLandscape ? 'Landscape orientation detected.' : 'Portrait orientation detected.'}</div>
+<div>Window width: {innerWidth}, height: {innerHeight}</div>
 
 <Title stringA="Huge Ass" stringB="Horn" />
 
