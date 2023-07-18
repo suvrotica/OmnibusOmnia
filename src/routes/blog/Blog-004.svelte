@@ -39,21 +39,7 @@ Of course, since these guys hiring hold their asses very tight, the word to use 
 </div>
 <Title stringA="Blog" stringB={title} When={date} />
 
-<article>
-	<img src="/B2.webp" alt="b2" class="float-left" />
-	<p>{@html newBlogContent}</p>
-</article>
-
 <div class="grid">
 	<img src="/B2.webp" alt="b2" />
 	<div>{@html newBlogContent}</div>
-	<div>{@html newBlogContent}</div>
 </div>
-
-<style>
-	.float-left {
-		float: left;
-		margin-right: 10px; /* Adjust the spacing between the image and text */
-		width: 40%;
-	}
-</style>
