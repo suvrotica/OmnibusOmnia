@@ -3,6 +3,7 @@
 	import B1 from '../routes/blog/Blog-001.svelte';
 	import B2 from '../routes/blog/Blog-002.svelte';
 	import B3 from '../routes/blog/Blog-003.svelte';
+	import B4 from '../routes/blog/Blog-004.svelte';
 	import { getCurrentDateAsString } from '$lib/date';
 	const currentDate: string = getCurrentDateAsString();
 
@@ -72,6 +73,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 <B1 />
 <B2 />
 <B3 />
+<B4 />
 
 <style>
 </style>
