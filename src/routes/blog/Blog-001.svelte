@@ -41,12 +41,12 @@
 <Title stringA="Huge Ass" stringB="Horn" />
 
 <!--div class:grid={$orientation === 'landscape'} class:grid={$orientation !== 'landscape'}-->
-	<div class="grid">
-<article class="svg">
+<div class="grid">
+	<article class="svg">
 		<img src="/B1.webp" alt="horse" />
 	</article>
 
-	<article class="poem" >
+	<article class="poem">
 		You must know, you can't be slow,
 		<br />Got that huge ass horn to toot. <br />
 		Otherwise they think you're not,<br />
@@ -93,4 +93,3 @@
 		Try to be that man you say you can. <br />
 	</article>
 </div>
-
