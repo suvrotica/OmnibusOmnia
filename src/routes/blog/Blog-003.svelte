@@ -76,6 +76,6 @@
 	.float-left {
 		float: left;
 		margin-right: 10px; /* Adjust the spacing between the image and text */
-		width: 40%;
+		width: 60%;
 	}
 </style>
