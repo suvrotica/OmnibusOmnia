@@ -41,6 +41,6 @@ Of course, since these guys hiring hold their asses very tight, the word to use 
 <Title stringA="Blog" stringB={title} When={date} />
 
 <div class="grid">
-	<img src="/04fa3f64-191b-4c73-a119-b53127c17841.png" alt="b2" />
+	<img src="/_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg" alt="b2" />
 	<div>{@html newBlogContent}</div>
 </div>
