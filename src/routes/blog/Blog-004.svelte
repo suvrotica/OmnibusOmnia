@@ -40,6 +40,6 @@ Of course, since these guys hiring hold their asses very tight, the word to use 
 <Title stringA="Blog" stringB={title} When={date} />
 
 <div class="grid">
-	<img src="/B2.webp" alt="b2" />
+	<img src="/IMG-PHOTO-ART-1799197201.jpg" alt="b2" />
 	<div>{@html newBlogContent}</div>
 </div>
