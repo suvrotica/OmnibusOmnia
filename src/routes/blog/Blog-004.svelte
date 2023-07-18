@@ -10,6 +10,7 @@
 
 	export let blogContent = `Title:Lonely Farts
   Date:2023-jul-19
+42br
   Being able to fart without hindrance is one of the important bits of being in the middle of your life, enjoying not having the smell bother you or even frolicking at the indulgence, the sensations of a raw vibrating sphincter, and the various auditory acoustics that can only be mastered in seclusion. Well, at least when I sit depressed, I wallow in my own stink and no one else's, which is how I like to think of loneliness. It's better than the constant harangue that you have to live through in relationships and the endless silent farts.
   42br
 Unlike most of the other ungrateful specimens, I am not apologetic about the constituents of what comes out of me. I have several sophisticated chemical factories that are toiling to sift through the bullshit of pollution and plastic, and fuck knows what else, to keep me alive.
@@ -40,6 +41,6 @@ Of course, since these guys hiring hold their asses very tight, the word to use 
 <Title stringA="Blog" stringB={title} When={date} />
 
 <div class="grid">
-	<img src="/IMG-PHOTO-ART-1799197201.jpg" alt="b2" />
+	<img src="/04fa3f64-191b-4c73-a119-b53127c17841.png" alt="b2" />
 	<div>{@html newBlogContent}</div>
 </div>
