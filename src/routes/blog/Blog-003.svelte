@@ -68,7 +68,7 @@
 <Title stringA="Blog" stringB={title} When={date} />
 
 <article>
-	<img src="/B2.webp" alt="b2" class="float-left" />
+	<img src="/04fa3f64-191b-4c73-a119-b53127c17841.png" alt="b2" class="float-left" />
 	<p>{@html newBlogContent}</p>
 </article>
 
@@ -76,6 +76,6 @@
 	.float-left {
 		float: left;
 		margin-right: 10px; /* Adjust the spacing between the image and text */
-		width: 40%;
+		width: 60%;
 	}
 </style>
