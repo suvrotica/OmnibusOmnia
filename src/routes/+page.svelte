@@ -235,8 +235,8 @@ Ultra: beyond, excessive (e.g., ultraviolet: beyond violet light)
 Via: by way of, through (e.g., via oralis: by mouth)
 42br 
 Latin is sort of the traditional, historical, universal language that's concise and provides a standardized system for everyone to refer to the same thing. Although I don't know why doctors insist on being illegible in addition to being this inscrutable. 
-42br 
-image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg"
+42br `} 
+image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg" 
 />
 <style>
 </style>
