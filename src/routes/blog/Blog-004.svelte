@@ -42,6 +42,8 @@
 
 <style>
 	.float-left {
+background-color: white;
+		display: inline-block;
 		float: left;
 		margin: 0px;
 		width: 100%;
