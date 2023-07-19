@@ -155,9 +155,9 @@ Another way is to separate out the parts 20|23, and then the century is 20+1 or 
   42br
 A lot of people get confused with the abbreviation on a prescription that physicians use. Here are a few that might make your life useful. I just saw a post by AnjonBanerjee Banerjee and thought I'd post this information. 
 42br
-ad lib: as desired
-a.c.: ante cibum (before meals)
-b.i.d.: bis in die (twice a day)
+ad lib: as desired 4b
+a.c.: ante cibum (before meals) 4b
+b.i.d.: bis in die (twice a day)4b 
 c: cum (with)
 cap.: capsule
 gtt.: guttae (drops)
