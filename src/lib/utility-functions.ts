@@ -32,3 +32,6 @@ export function replaceBqWithDiv(blogContent: string): string {
 export function enhancePunctuation(blogContent: string): string {
 	return blogContent.replace(/([.,;:!?'"()])/g, '<span class=big-punctuation>$1</span>');
 }
+export function replace4bWithBreak(blogContent: string): string {
+	return blogContent.replace(/4b/g, '<br>');
+}
