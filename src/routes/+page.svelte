@@ -86,7 +86,21 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
   42br
   Everyone's gut microbiota is unique; my fart may be hardly detectable even with an admiring sniffer nose held right next to the pumping station, while yours may cause the Indian parliament to be emptied out and a national emergency declared. In which case, you're just the candidate India is looking for as a prime sinisterial candidate. Don't forget to post your CV on LinkedIn for that role; they're desperate. In Kolkata, farts are used in various deceptive ways to make it look like someone else farted—a ventriloquism of farts that's been perfected over many years of diligent absence of other fruitful occupational choices. This is the sort of thing the politics of the day are mostly about, and the stench can make you throw up your mother's milk.
   42br
-  Of course, since these guys hiring hold their asses very tight, the word to use on your cv would be flatulence. The term "flatulence" is derived from the Latin word "flatus," which means "blowing" or "breathing." In medical terminology, "flatus" is used to refer to gas generated or held in the stomach or intestines. Over time, "flatus" eased into "flatulence" in English, meaning the people who always want to complicate things so that they can charge a fee. The word I use that the polished crowd wouldn't exhibit on a CV can be traced back to the Old English word "feortan," which means "to break wind." This Old English word is of Proto-Germanic origin, from the root "fert-," which also means to break wind. In Old High German "ferzan," the Norse "freta," and the Middle Dutch "vaerten," people farted similarly back in those days, etymologically speaking.`}
+  Of course, since these guys hiring hold their asses very tight, the word to use on your cv would be flatulence. The term "flatulence" is derived from the Latin word "flatus," which means "blowing" or "breathing." In medical terminology, "flatus" is used to refer to gas generated or held in the stomach or intestines. Over time, "flatus" eased into "flatulence" in English, meaning the people who always want to complicate things so that they can charge a fee. The word I use that the polished crowd wouldn't exhibit on a CV can be traced back to the Old English word "feortan," which means "to break wind." This Old English word is of Proto-Germanic origin, from the root "fert-," which also means to break wind. In Old High German "ferzan," the Norse "freta," and the Middle Dutch "vaerten," people farted similarly back in those days, etymologically speaking.
+42bq("My poot per foot full of soot,
+Yellow my thoughts like diarrhea.
+My mind is blown when it is flown,
+Sitting on my bed in India.
+42br
+What did I eat for this gas feat,
+The charcoal tablets did shit. 
+The gods are looking into the pan,
+I'm deeply embarrassed for it.
+42br
+Holy my soul including my asshole,
+The pious don't come in parts.
+I must rest, must a full body test,
+Want a discotheque for my farts. ")`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
 />
 
