@@ -151,7 +151,7 @@ Another way is to separate out the parts 20|23, and then the century is 20+1 or 
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689795974635.jpg"
 />
 <img
-source="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg" 
+src="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg" 
 />
 <style>
 </style>
