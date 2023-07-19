@@ -49,7 +49,7 @@
 <style>
 	.float-left {
 		float: left;
-		margin-right: 10px; /* Adjust the spacing between the image and text */
+		margin: 0px;
 		width: 60%;
 	}
 </style>
