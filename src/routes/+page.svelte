@@ -92,6 +92,11 @@ Yellow my thoughts like diarrhea.
 My mind is blown when it is flown,
 Sitting on my bed in India.
 42br
+Anger and rage come on stage,
+With smelly belly farts wuthering.
+Premonitions quite deadly now,
+A cyclonic season of farting.
+42br
 What did I eat for this gas feat,
 The charcoal tablets did shit. 
 The gods wallowing in the pan,
