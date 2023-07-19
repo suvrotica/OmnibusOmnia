@@ -95,17 +95,17 @@ Sitting on my bed in India.
 What did I eat for this gas feat,
 The charcoal tablets did shit. 
 The gods wallowing in the pan,
-I'm deeply embarrassed for it.
+I'm deeply sorry for it.
 42br
-Holy my soul including my asshole,
+Holy my soul, even my asshole,
 The pious don't come in parts.
 I must rest, must a full body test,
-Want a discotheque for my farts.
+Start smart for my farts.
 42br
 My shit brown, from this town,
-Holy the cow very.
-Thoughts are all I got,
-My farts never ordinary. ")`}
+Listens holy the cow Mary.
+Thoughts for which I fought,
+That farts aren't ordinary. ")`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
 />
 
