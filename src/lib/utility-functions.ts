@@ -29,3 +29,6 @@ export function replace42brWithBreak(blogContent: string): string {
 export function replaceBqWithDiv(blogContent: string): string {
 	return blogContent.replace(/42bq\("([\s\S]*?)"\)/g, '<div class="poem">$1</div>');
 }
+export function enhancePunctuation(blogContent: string): string {
+	return blogContent.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
+}
