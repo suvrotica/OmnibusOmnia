@@ -44,6 +44,6 @@
 	.float-left {
 		float: left;
 		margin: 0px;
-		width: 60%;
+		width: 80%;
 	}
 </style>
