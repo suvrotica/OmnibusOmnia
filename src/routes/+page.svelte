@@ -94,7 +94,7 @@ Sitting on my bed in India.
 42br
 What did I eat for this gas feat,
 The charcoal tablets did shit. 
-The gods are looking into the pan,
+The gods wallowing in the pan,
 I'm deeply embarrassed for it.
 42br
 Holy my soul including my asshole,

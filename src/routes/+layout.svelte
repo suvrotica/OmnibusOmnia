@@ -61,8 +61,8 @@
 		font-family: 'Poppins', sans-serif;
 	}
 	:global(.poem) {
-		background-color: #f7f3e9;
-		background-image: url('/Back.jpg');
+		background-color: #ece3cc;
+		/* background-image: url('/Back.jpg'); */
 		background-size: cover;
 		line-height: 0.9;
 		color: black;
