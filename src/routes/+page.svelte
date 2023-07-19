@@ -150,7 +150,8 @@ Another way is to separate out the parts 20|23, and then the century is 20+1 or 
 	`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689795974635.jpg"
 />
-<B4 blogContent={`Title: Prescription Abbreviations
+<B4
+	blogContent={`Title: Prescription Abbreviations
 	Date:2023-jul-21
   42br
 A lot of people get confused with the abbreviation on a prescription that physicians use. Here are a few that might make your life useful. I just saw a post by AnjonBanerjee Banerjee and thought I'd post this information. 
@@ -235,8 +236,9 @@ Ultra: beyond, excessive (e.g., ultraviolet: beyond violet light)
 Via: by way of, through (e.g., via oralis: by mouth)
 42br 
 Latin is sort of the traditional, historical, universal language that's concise and provides a standardized system for everyone to refer to the same thing. Although I don't know why doctors insist on being illegible in addition to being this inscrutable. 
-42br `} 
-image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg" 
+42br `}
+	image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg"
 />
+
 <style>
 </style>

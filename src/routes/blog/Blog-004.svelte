@@ -6,7 +6,8 @@
 		extractTitleAndDate,
 		replace42brWithBreak,
 		replaceBqWithDiv,
-		enhancePunctuation
+		enhancePunctuation,
+		replace4bWithBreak
 	} from '$lib/utility-functions';
 	export let image_name = '';
 	export let blogContent = '';
@@ -15,9 +16,8 @@
 
 	let newBlogContent = replaceBqWithDiv(remainingContent);
 	newBlogContent = replace42brWithBreak(newBlogContent);
-newBlogContent = replace4bWithBreak(newBlogContent);
+	newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = enhancePunctuation(newBlogContent);
-
 </script>
 
 <!-- <div>Window width: {innerWidth}, height: {innerHeight}</div> -->
@@ -33,7 +33,6 @@ newBlogContent = replace4bWithBreak(newBlogContent);
 </div>
 <Title stringA="Blog" stringB={title} When={date} />
 
-
 <article>
 	<article class="float-left">
 		<img src="/{image_name}" alt="pic" />
@@ -44,8 +43,8 @@ newBlogContent = replace4bWithBreak(newBlogContent);
 
 <style>
 	.float-left {
-background-color: white;
-		display: inline-block;
+		background-color: white;
+
 		float: left;
 		margin: 0px;
 		width: 100%;
