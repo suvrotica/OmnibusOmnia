@@ -31,13 +31,7 @@
 </div>
 <Title stringA="Blog" stringB={title} When={date} />
 
-<div class="grid">
-	<article>
-		<img src="/{image_name}" alt="pic" />
-	</article>
 
-	<div>{@html newBlogContent}</div>
-</div>
 <article>
 	<article class="float-left">
 		<img src="/{image_name}" alt="pic" />
