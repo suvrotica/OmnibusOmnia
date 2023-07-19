@@ -105,7 +105,12 @@ Start smart for my farts.
 My shit brown, from this town,
 Listens holy the cow Mary.
 Thoughts for which I fought,
-That farts aren't ordinary. ")`}
+That farts aren't ordinary.
+42br
+But in this post my fart I boast,
+Super smelly and really gross.
+Floating high, now in the sky,
+I shoot my shit with force. ")`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
 />
 
