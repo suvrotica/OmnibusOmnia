@@ -122,6 +122,34 @@ And yes, you can set your fart on fire. Methane (CH4) in fart, which is also the
 In fact, the bacteria don't stop working after we've defecated. In the Victorian era, methane gas buildup in sewer systems led to explosions and fires. The feces rot, giving bacteria a five-star environment without good ventilation and leading to the accumulation of flammable gases, primarily methane, easily ignited by a spark from a lit match or candle flame. Of course, now that we've gotten smart with plumbing, The trap, a standard feature, is a U-, S-, or J-shaped pipe located below or within a plumbing fixture that retains a small amount of water to prevent sewer gases from entering buildings.`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
 />
+<B4
+	blogContent={`Title:About Time
+	Date:2023-jul-20
+  42brThe monoculture that we want to fancy as our reality is sort of poked with a bunch of funny little shitty holes that, unless you're interested in annual membership to the Indian Heathens Club, you'd not notice. Most people walk through life ironing irony out of their lives or never really digging into contradictions, looking up frocks, and that sort of thing. They end up half-content in a state of bliss that is also known by its more pejorative connotation of ignorance, except for a nagging feeling they have hidden all their lives—that inquisitive bit that they suppressed.
+42br
+As a child growing up with half-practicing Hindu parents and a generational tolerance for haphazard apocrypha and hearsay, I took it upon myself to figure things out on my own. It's not that these were esoterica sold in special shops, but concepts that didn't penetrate the adult subconscious's unthinking layer of opaque blubber. People didn't get it, or comprehension lacked the scrutiny it normally raises in a thinking mind, a conditioning of the colonial school system.
+42br
+The first that I remember was this deal with the century; why is it that we call this the 21st when clearly there's a 20 in 2023?
+42br
+It turns out that this is because our current system of numbering years and centuries does not include a year 0. The year 1 BC is immediately followed by the year AD 1. The
+
+The 1st century AD includes the years AD 1 through AD 100.
+
+The 2nd century AD includes the years AD 101 through AD 20.
+
+
+.... So on....
+
+The 21st century AD includes the years AD 2001 through AD 2099.
+
+Essentially, anytime you see AD Year, Century = Ceiling [Year / 100], ceiling returns the integer that is the nearest higher whole number rounded up.
+
+So 2023 is the ceiling (20.23), or 21.
+
+Another way is to separate out the parts 20|23, and then the century is 20+1 or 21.
+	`}
+	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
+/>
 
 <style>
 </style>
