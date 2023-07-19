@@ -152,7 +152,8 @@ Another way is to separate out the parts 20|23, and then the century is 20+1 or 
 />
 <B4 blogContent={`Title: Prescription Abbreviations
 	Date:2023-jul-21
-  42brA lot of people get confused with the abbreviation on a prescription that physicians use. Here are a few that might make your life useful. I just saw a post by AnjonBanerjee Banerjee and thought I'd post this information. 
+  42br
+A lot of people get confused with the abbreviation on a prescription that physicians use. Here are a few that might make your life useful. I just saw a post by AnjonBanerjee Banerjee and thought I'd post this information. 
 42br
 ad lib: as desired
 a.c.: ante cibum (before meals)
@@ -235,7 +236,7 @@ Via: by way of, through (e.g., via oralis: by mouth)
 42br 
 Latin is sort of the traditional, historical, universal language that's concise and provides a standardized system for everyone to refer to the same thing. Although I don't know why doctors insist on being illegible in addition to being this inscrutable. 
 42br 
-image_name="04fa3f64-191b-4c73-a119-b53127c17841. (1).svg"
+image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg"
 />
 <style>
 </style>
