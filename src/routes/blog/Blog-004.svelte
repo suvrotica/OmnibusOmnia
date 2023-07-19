@@ -15,7 +15,9 @@
 
 	let newBlogContent = replaceBqWithDiv(remainingContent);
 	newBlogContent = replace42brWithBreak(newBlogContent);
+newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = enhancePunctuation(newBlogContent);
+
 </script>
 
 <!-- <div>Window width: {innerWidth}, height: {innerHeight}</div> -->
