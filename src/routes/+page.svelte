@@ -117,7 +117,7 @@ Super smelly and really gross.
 Floating high, now in the sky,
 I shoot my shit with force. ")
 42br
-It is technically possible to ignite human flatulence. Methane (CH4) in fart is also the main component of natural gas and is commonly used as a fuel. It can ignite or explode in a mixture of air at concentrations between 5% and 15%. Hydrogen (H2) in fart is also a highly flammable gas and can form explosive mixtures in the air at concentrations between 4% and 75%.
+And yes, you can set your fart on fire. Methane (CH4) in fart, which is also the main component of natural gas, can ignite or explode in a mixture of air at concentrations between 5% and 15%. Hydrogen (H2) in fart is also a highly flammable gas and can form explosive mixtures in the bathroom air at concentrations between 4% and 75%. Chances are you'll burn your asshole and rectum as well. 
 42br
 In fact, the bacteria don't stop working after we've defecated. In the Victorian era, methane gas buildup in sewer systems led to explosions and fires. The feces rot, giving bacteria a five-star environment without good ventilation and leading to the accumulation of flammable gases, primarily methane, easily ignited by a spark from a lit match or candle flame. Of course, now that we've gotten smart with plumbing, The trap, a standard feature, is a U-, S-, or J-shaped pipe located below or within a plumbing fixture that retains a small amount of water to prevent sewer gases from entering buildings.`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
