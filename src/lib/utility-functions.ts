@@ -27,8 +27,8 @@ export function replace42brWithBreak(blogContent: string): string {
 	return blogContent.replace(/42br/g, '<br><br>');
 }
 export function replaceBqWithDiv(blogContent: string): string {
-	return blogContent.replace(/42bq\("([\s\S]*?)"\)/g, '<article>$1</article>');
+	return blogContent.replace(/42bq\("([\s\S]*?)"\)/g, '<article class=poem>$1</article>');
 }
 export function enhancePunctuation(blogContent: string): string {
-	return blogContent.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
+	return blogContent.replace(/([.,;:!?'"()])/g, '<span class=big-punctuation>$1</span>');
 }
