@@ -38,3 +38,18 @@
 
 	<div>{@html newBlogContent}</div>
 </div>
+<article>
+	<article class="float-left">
+		<img src="/{image_name}" alt="pic" />
+	</article>
+
+	<p>{@html newBlogContent}</p>
+</article>
+
+<style>
+	.float-left {
+		float: left;
+		margin-right: 10px; /* Adjust the spacing between the image and text */
+		width: 60%;
+	}
+</style>
