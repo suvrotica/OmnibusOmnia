@@ -159,81 +159,81 @@ A lot of people get confused with the abbreviation on a prescription that physic
 ad lib: as desired 4b
 a.c.: ante cibum (before meals) 4b
 b.i.d.: bis in die (twice a day)4b 
-c: cum (with)
-cap.: capsule
-gtt.: guttae (drops)
-h.s.: hora somni (at bedtime)
-NPO: nil per os (nothing by mouth)
-o.d.: omne in die (once a day)
-p.c.: post cibum (after meals)
-p.o.: per os (by mouth)
-p.r.n.: pro re nata (as needed)
-q.d.: quaque die (every day)
-q.h.: quaque hora (every hour)
-q.i.d.: quater in die (four times a day)
-q.o.d.: quaque altera die (every other day)
-q.s.: quantum satis (as much as is sufficient)
-s.o.s.: si opus sit (if necessary)
-stat: immediately
-t.i.d.: ter in die (three times a day)
-ung.: unguentum (ointment)
-aa: of each
-aq: aqua (water)
-comp: compound
-dil: dilute
-ex: extract
-fl: fluid
-gr: grain
-inj: injectio (injection)
-liq: liquid
-mixt: mixture
-non rep: non repetatur (do not repeat)
-oint: ointment
-pulv: pulvis (powder)
-q.s.p.: quantum satis pro (quantity sufficient for)
-sol: solution
-supp: suppositorium (suppository)
-susp: suspension
-tab: tablet
-tr: tinctura (tincture)
-ungt: unguentum (ointment)
-ad: ad (to, up to)
-alt. dieb.: alternis diebus (every other day)
-bis in m.: bis in mensem (twice a month)
-ex aqua dest.: ex aqua destillata (from distilled water)
-gttt.: guttae (drops)
-h.: hora (hour)
-i.m.: intramuscularis (intramuscular)
-i.v.: intravenosus (intravenous)
-m.f.: misce fiat (mix and make)
-m.d.s.: mane, deinde somno (in the morning, then at bedtime)
-noct.: nocte (at night)
-o.m.: omni mane (every morning)
-p.r.: per rectum (rectally)
-p.v.: per vaginam (vaginally)
-q.a.d.: quaque altera die (every other day)
-q.h.s.: quaque hora somni (every bedtime)
-q.p.m.: quaque post meridiem (every afternoon)
-s.c.: subcutaneus (subcutaneous)
-s.i.d.: semel in die (once a day)
-t.o.: ter opus (three times as needed)
+c: cum (with) 4b
+cap.: capsule 4b
+gtt.: guttae (drops) 4b
+h.s.: hora somni (at bedtime) 4b
+NPO: nil per os (nothing by mouth) 4b
+o.d.: omne in die (once a day) 4b
+p.c.: post cibum (after meals) 4b
+p.o.: per os (by mouth) 4b
+p.r.n.: pro re nata (as needed) 4b
+q.d.: quaque die (every day) 4b
+q.h.: quaque hora (every hour) 4b
+q.i.d.: quater in die (four times a day) 4b
+q.o.d.: quaque altera die (every other day) 4b
+q.s.: quantum satis (as much as is sufficient) 4b
+s.o.s.: si opus sit (if necessary) 4b
+stat: immediately 4b
+t.i.d.: ter in die (three times a day) 4b
+ung.: unguentum (ointment) 4b
+aa: of each 4b
+aq: aqua (water) 4b
+comp: compound 4b
+dil: dilute 4b
+ex: extract 4b
+fl: fluid 4b
+gr: grain 4b
+inj: injectio (injection) 4b
+liq: liquid 4b
+mixt: mixture 4b
+non rep: non repetatur (do not repeat) 4b
+oint: ointment 4b
+pulv: pulvis (powder) 4b
+q.s.p.: quantum satis pro (quantity sufficient for) 4b
+sol: solution 4b
+supp: suppositorium (suppository) 4b
+susp: suspension 4b
+tab: tablet 4b
+tr: tinctura (tincture) 4b
+ungt: unguentum (ointment) 4b
+ad: ad (to, up to) 4b
+alt. dieb.: alternis diebus (every other day) 4b
+bis in m.: bis in mensem (twice a month) 4b
+ex aqua dest.: ex aqua destillata (from distilled water) 4b
+gttt.: guttae (drops) 4b
+h.: hora (hour) 4b
+i.m.: intramuscularis (intramuscular) 4b
+i.v.: intravenosus (intravenous) 4b
+m.f.: misce fiat (mix and make) 4b
+m.d.s.: mane, deinde somno (in the morning, then at bedtime) 4b
+noct.: nocte (at night) 4b
+o.m.: omni mane (every morning) 4b
+p.r.: per rectum (rectally) 4b
+p.v.: per vaginam (vaginally) 4b
+q.a.d.: quaque altera die (every other day) 4b
+q.h.s.: quaque hora somni (every bedtime) 4b
+q.p.m.: quaque post meridiem (every afternoon) 4b
+s.c.: subcutaneus (subcutaneous) 4b
+s.i.d.: semel in die (once a day) 4b
+t.o.: ter opus (three times as needed) 4b
 
 42br 
 And these are commonly used words that are used:
 
-Ad: to, toward (e.g., ad libitum: as desired)
-Ante: before (e.g., ante cibum: before meals)
-Aqua: water (e.g., aqua purificata: purified water)
-Cum: with (e.g., cum cibis: with food)
-In: in, into (e.g., intramuscularis: intramuscular)
-Inter: between (e.g., intercostalis: intercostal)
-Post: after (e.g., postoperative: after surgery)
-Pre: before (e.g., preoperative: before surgery)
-Pro: for, in favor of (e.g., pro re nata: as needed)
-Sub: under (e.g., subcutaneus: subcutaneous)
-Trans: across, through (e.g., transdermal: through the skin)
-Ultra: beyond, excessive (e.g., ultraviolet: beyond violet light)
-Via: by way of, through (e.g., via oralis: by mouth)
+Ad: to, toward (e.g., ad libitum: as desired) 4b
+Ante: before (e.g., ante cibum: before meals) 4b
+Aqua: water (e.g., aqua purificata: purified water) 4b
+Cum: with (e.g., cum cibis: with food) 4b
+In: in, into (e.g., intramuscularis: intramuscular) 4b
+Inter: between (e.g., intercostalis: intercostal) 4b
+Post: after (e.g., postoperative: after surgery) 4b
+Pre: before (e.g., preoperative: before surgery) 4b
+Pro: for, in favor of (e.g., pro re nata: as needed) 4b
+Sub: under (e.g., subcutaneus: subcutaneous) 4b
+Trans: across, through (e.g., transdermal: through the skin) 4b
+Ultra: beyond, excessive (e.g., ultraviolet: beyond violet light) 4b
+Via: by way of, through (e.g., via oralis: by mouth) 4b
 42br 
 Latin is sort of the traditional, historical, universal language that's concise and provides a standardized system for everyone to refer to the same thing. Although I don't know why doctors insist on being illegible in addition to being this inscrutable. 
 42br `}
