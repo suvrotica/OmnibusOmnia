@@ -148,7 +148,7 @@ So 2023 is the ceiling (20.23), or 21.
 
 Another way is to separate out the parts 20|23, and then the century is 20+1 or 21.
 	`}
-	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
+	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689791758573.jpg"
 />
 
 <style>
