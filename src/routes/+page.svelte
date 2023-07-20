@@ -272,7 +272,7 @@ The fucks will surely fall.
 Every man in his own darkness,
 Lives a cornered floating brain.
 It's all in the mind I find,
-The strength of restrain.
+The strength of quiet restrain.
 42br
 The human kind is a blot,
 Not in time's indelible ink.
