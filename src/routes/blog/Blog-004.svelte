@@ -33,10 +33,10 @@
 		<p>This is a portrait view.</p>
 	{/if}
 </div>
-<article>
-<span role ="button" class="secondary">{date} </span>
+
+<button>{date} </button >
 <span role="button" class="contrast">{@html title } </span>
-</article>
+
 <article>
 	<article class="float-left">
 		<img src="/{image_name}" alt="pic" />
