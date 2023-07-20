@@ -7,7 +7,8 @@
 		replace42brWithBreak,
 		replaceBqWithDiv,
 		enhancePunctuation,
-		replace4bWithBreak
+		replace4bWithBreak,
+		replace42tableWithHTMLTable
 	} from '$lib/utility-functions';
 	export let image_name = '';
 	export let blogContent = '';
@@ -17,6 +18,7 @@
 	let newBlogContent = replaceBqWithDiv(remainingContent);
 	newBlogContent = replace42brWithBreak(newBlogContent);
 	newBlogContent = replace4bWithBreak(newBlogContent);
+	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
 	newBlogContent = enhancePunctuation(newBlogContent);
 </script>
 
@@ -46,7 +48,7 @@
 		background-color: white;
 
 		float: left;
-		margin: 0px;
+		margin: 10px;
 		width: 100%;
 	}
 </style>

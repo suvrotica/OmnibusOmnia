@@ -35,3 +35,21 @@ export function enhancePunctuation(blogContent: string): string {
 export function replace4bWithBreak(blogContent: string): string {
 	return blogContent.replace(/4b/g, '<br>');
 }
+
+export function replace42tableWithHTMLTable(blogContent: string): string {
+	return blogContent.replace(/42table\("([\s\S]*?)"\)/g, (match, group1) => {
+		const rows = group1.split('\n');
+		let tableHTML = '<table><thead><tr><th>Latin</th><th>Plain English</th></tr></thead><tbody>';
+
+		for (let row of rows) {
+			const latinIndex = row.indexOf(':');
+			const latin = row.slice(0, latinIndex).trim();
+			const plainEnglish = row.slice(latinIndex + 1).trim();
+			tableHTML += `<tr><td>${latin}</td><td>${plainEnglish}</td></tr>`;
+		}
+
+		tableHTML += '</tbody></table>';
+
+		return tableHTML;
+	});
+}
