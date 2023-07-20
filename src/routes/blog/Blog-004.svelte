@@ -35,7 +35,7 @@
 </div>
 
 <span role ="button" class="secondary">{date} </span>
-<div role="button" class="contrast">{@html title } </div>
+<span role="button" class="contrast">{@html title } </span>
 <article>
 	<article class="float-left">
 		<img src="/{image_name}" alt="pic" />
