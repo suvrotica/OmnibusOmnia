@@ -250,7 +250,7 @@ So while I'm still breathing, it's important that I share my life experiences wi
 42br
 The deep, dark, damp, mildewy well that I came out of as a child is unfortunately the well in which I see adults still trapped, for many reasons too lengthy to get into in a sentence, but it's this that motivates me to try, because that's all I can do: reach people and, with folded knees, while taking a shit, ask them not to let this one life go by with eyes closed. You've got to deal with the shit that life throws at you; there's no escaping. I've found that putting down what's on my mind is the only thing I can do. Whether it helps posterity isn't a concern for me; posterity will be here, one way or another, and it's impossible to imagine how anything one single person can write, especially an ordinary one, can be of any bearing to the lives to come. Like many people before me, it's in obscurity that I find my place as the rightest man there is.
 42br `}
-	image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg"
+	image_name="04fa3f64-191b-4c73-a119-b53127c17841.png"
 />
 <style>
 </style>
