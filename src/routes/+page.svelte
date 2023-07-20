@@ -122,8 +122,11 @@ And yes, you can set your fart on fire. Methane (CH4) in fart, which is also the
 In fact, the bacteria don't stop working after we've defecated. In the Victorian era, methane gas buildup in sewer systems led to explosions and fires. The feces rot, giving bacteria a five-star environment without good ventilation and leading to the accumulation of flammable gases, primarily methane, easily ignited by a spark from a lit match or candle flame. Of course, now that we've gotten smart with plumbing, The trap, a standard feature, is a U-, S-, or J-shaped pipe located below or within a plumbing fixture that retains a small amount of water to prevent sewer gases from entering buildings.`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
 />
-<article class=svg>
-<img src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689826672456.jpg" alt="commode trap" >
+<article class="svg">
+	<img
+		src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689826672456.jpg"
+		alt="commode trap"
+	/>
 </article>
 <B4
 	blogContent={`Title:About Time
@@ -158,7 +161,7 @@ Another way is to separate out the parts 20|23, and then the century is 20+1 or 
 	Date:2023-jul-21
   
   42br
-A lot of people get confused with the abbreviation on a prescription that physicians use. Here are a few that might make your life useful. I just saw a post by AnjonBanerjee Banerjee and thought I'd post this information. 
+A lot of people get confused with the abbreviation on a prescription that physicians use. Here are a few that might make your life useful.  
 42br
 42table("ad lib: as desired
 a.c.: ante cibum (before meals)
@@ -242,7 +245,8 @@ Latin is sort of the traditional, historical, universal language that's concise 
 42br `}
 	image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg"
 />
-<B4 blogContent={`Title:Aneurysm Shit
+<B4
+	blogContent={`Title:Aneurysm Shit
 	Date:2023-jul-21
 42br
 When people say I don't give a shit, I tell them with the gentle refinement of obsolete correction ink that I do give a shit, and fuck, when opportunity and working parts unite, and indeed about a lot of affairs that fat books have been busy hiding from the laity. Things like the state of democracy, or not-democracy, in India, the unreason of zealots, and how in my lifetime the stupids have managed to take over the world—and here I am having an aneurysm trying to get a turd out in procession, even when the precedents are exhibited on the floor and smelly as hell.
@@ -286,5 +290,6 @@ I feel a satisfied asshole pinch.
 ")`}
 	image_name="04fa3f64-191b-4c73-a119-b53127c17841.png"
 />
+
 <style>
 </style>

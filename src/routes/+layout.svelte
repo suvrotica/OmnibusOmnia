@@ -38,7 +38,7 @@
 		font-family: 'Gaegu', cursive;
 		font-weight: 100;
 	}
-	:global(h1, h2, h3, h4, h5, h6) {
+	:global(h1, h2, h3, h4, h5, h6, button) {
 		font-family: 'Amatic SC', cursive;
 	}
 	:global(.svg) {

@@ -1,7 +1,4 @@
 <script lang="ts">
-	import Title from '$lib/components/title.svelte';
-
-	import { orientation } from '$lib/orientation';
 	import {
 		extractTitleAndDate,
 		replace42brWithBreak,
@@ -22,21 +19,7 @@
 	newBlogContent = enhancePunctuation(newBlogContent);
 </script>
 
-<!-- <div>Window width: {innerWidth}, height: {innerHeight}</div> -->
-
-<div>
-	{#if $orientation === 'landscape'}
-		<!-- Landscape-specific content -->
-		<p>This is a landscape view.</p>
-	{:else}
-		<!-- Portrait-specific content -->
-		<p>This is a portrait view.</p>
-	{/if}
-</div>
-
-
-<button class="contrast" >{date+" : " +title } </button >
-
+<button class="contrast">{date + ' : ' + title} </button>
 
 <article>
 	<article class="float-left">
@@ -47,6 +30,10 @@
 </article>
 
 <style>
+	button {
+		font-size: 32px;
+	}
+
 	.float-left {
 		background-color: white;
 
