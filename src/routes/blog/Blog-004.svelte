@@ -34,8 +34,8 @@
 	{/if}
 </div>
 <Title stringA="Blog" stringB={title} When={date} />
-<a href="#" role="button" class="secondary">Secondary</a>
-<a href="#" role="button" class="contrast">
+<div role="button" class="secondary">Secondary</div>
+<div role="button" class="contrast">contrast</div>
 <article>
 	<article class="float-left">
 		<img src="/{image_name}" alt="pic" />
