@@ -33,9 +33,9 @@
 		<p>This is a portrait view.</p>
 	{/if}
 </div>
-<Title stringA="Blog" stringB={title} When={date} />
+
 <div role="button" class="secondary">{date} </div>
-<div role="button" class="contrast">{title} </div>
+<div role="button" class="contrast">{@html <h1>title</h1>} </div>
 <article>
 	<article class="float-left">
 		<img src="/{image_name}" alt="pic" />
