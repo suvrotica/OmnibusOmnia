@@ -122,7 +122,9 @@ And yes, you can set your fart on fire. Methane (CH4) in fart, which is also the
 In fact, the bacteria don't stop working after we've defecated. In the Victorian era, methane gas buildup in sewer systems led to explosions and fires. The feces rot, giving bacteria a five-star environment without good ventilation and leading to the accumulation of flammable gases, primarily methane, easily ignited by a spark from a lit match or candle flame. Of course, now that we've gotten smart with plumbing, The trap, a standard feature, is a U-, S-, or J-shaped pipe located below or within a plumbing fixture that retains a small amount of water to prevent sewer gases from entering buildings.`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
 />
+<article class=svg>
 <img src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689826672456.jpg" alt="commode trap" >
+</article>
 <B4
 	blogContent={`Title:About Time
 	Date:2023-jul-20
