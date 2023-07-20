@@ -267,7 +267,23 @@ I defy this shit stall of con.
 My knees bent, my patience spent,
 I hear the holy fart in the next stall.
 I'll thrive, when my voice survive,
-The fucks will surely fall.")`}
+The fucks will surely fall.
+42br
+Every man in his own darkness,
+Lives a cornered floating brain.
+It's all in the mind I find,
+The strength of restrain.
+42br
+The human kind is a blot,
+Not in time's indelible ink.
+The tap is dry, can't even try,
+To separate the link with the stink.
+42br
+The world of people,
+Mobs rowdy, ready to lynch.
+The last turd hits with a plop,
+I feel a satisfied asshole pinch.
+")`}
 	image_name="04fa3f64-191b-4c73-a119-b53127c17841.png"
 />
 <style>
