@@ -34,9 +34,9 @@
 	{/if}
 </div>
 
-<button>{date} </button >
-<button>{date+" :" +title } </button >
-<span role="button" class="contrast">{@html title } </span>
+
+<button class="contrast" >{date+" : " +title } </button >
+
 
 <article>
 	<article class="float-left">
