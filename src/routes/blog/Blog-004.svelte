@@ -35,6 +35,7 @@
 </div>
 
 <button>{date} </button >
+<button>{date+" :" +title } </button >
 <span role="button" class="contrast">{@html title } </span>
 
 <article>
