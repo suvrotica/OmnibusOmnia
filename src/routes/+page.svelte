@@ -252,7 +252,22 @@ The reason for this blog, as you can make out, is to tell my story, however plai
 So while I'm still breathing, it's important that I share my life experiences with the ones that will come looking for clues for survival, wearing the same worn-out shoes that are full of promises that they can't deliver. This isn't the sort of self-help, make-you-feel-good blog, but humor is sprinkled in both doodles and scribbles, and not for the prudish faint of heart. And you might want to keep your superstitious shit at home while you're riding this ride, as we know gods don't shit.
 42br
 The deep, dark, damp, mildewy well that I came out of as a child is unfortunately the well in which I see adults still trapped, for many reasons too lengthy to get into in a sentence, but it's this that motivates me to try, because that's all I can do: reach people and, with folded knees, while taking a shit, ask them not to let this one life go by with eyes closed. You've got to deal with the shit that life throws at you; including any snaking out of your bum; there's no escaping. I've found that putting down what's on my mind is the only thing I can do. Whether it helps posterity isn't a concern for me; posterity will be here, one way or another, and it's impossible to imagine how anything one single person can write, especially an ordinary one, can be of any bearing to the lives to come. Like many people before me, it's in obscurity that I find my place as the rightest man there is.
-42br `}
+42br
+
+42bq("Echoes of my fart, it's an art,
+The loo a temple of deep torment.
+I shit truth and only truth,
+In cornered spaces of cement.
+42br
+I'd have loved to be livid,
+Wielding a pen I scribble on.
+I rise again and again in pain,
+I defy this shit stall of con.
+42br
+My knees bent, my patience spent,
+I hear the holy fart in the next stall.
+I'll thrive, when my voice survive,
+The fucks will surely fall.")`}
 	image_name="04fa3f64-191b-4c73-a119-b53127c17841.png"
 />
 <style>
