@@ -66,7 +66,7 @@
 
   
   background-color: rgba(255, 255, 255, 0.75); /* 0.75 corresponds to 25% opacity */
-  filter: brightness(150%); /* 150% corresponds to 50% brighter */
+  filter: brightness(120%); /* 150% corresponds to 50% brighter */
 
 
 
