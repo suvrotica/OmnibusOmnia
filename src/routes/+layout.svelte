@@ -64,11 +64,11 @@
 font-family: 'Gaegu', cursive;
 
 		background-color: #ece3cc;
-		background-image: url('/back.webp');
+		/*background-image: url('/back.webp');
 
   
   background-color: rgba(255, 255, 255, 0.25); 
-  filter: brightness(120%); 
+  filter: brightness(120%); */
 
 
 
