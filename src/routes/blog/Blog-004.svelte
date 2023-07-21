@@ -40,7 +40,7 @@
 		background-color: white;
 
 		float: left;
-		margin: 10px;
+		margin: 5px;
 		width: 100%;
 	}
 </style>
