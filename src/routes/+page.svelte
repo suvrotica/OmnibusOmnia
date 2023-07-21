@@ -304,6 +304,6 @@ If people can't or won't think, if greed is the only lodestone, if our spines ar
 I don't even feel like writing these laments anymore, yet I do. I know the people reading it don't care; they want to see something that doesn't need any brain cells to process so that they can be in the flotilla of social security clicking away to a numb future and perpetuate this general malaise about the status quo or the need to question it. Anyway, for what is worth I thought I'd share the interview with Ravish. 
 42br
 https://lnkd.in/gar3c8ny
-`} image_name="04fa3f64-191b-4c73-a119-b53127c17841.png/>
+`} image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689898029491.jpg" />
 <style>
 </style>
