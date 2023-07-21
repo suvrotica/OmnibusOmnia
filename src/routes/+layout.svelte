@@ -65,7 +65,7 @@
 		background-image: url('/back.webp');
 
   
-  background-color: rgba(255, 255, 255, 0.9); 
+  background-color: rgba(255, 255, 255, 0.75); 
   filter: brightness(125%); 
 
 
