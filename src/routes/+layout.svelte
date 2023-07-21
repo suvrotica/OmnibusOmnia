@@ -62,13 +62,13 @@
 	}
 	:global(.poem) {
 font-family: 'Gaegu', cursive;
-font-size:20px;
+
 		background-color: #ece3cc;
 		background-image: url('/back.webp');
 
   
   background-color: rgba(255, 255, 255, 0.75); 
-  filter: brightness(125%); 
+  filter: brightness(140%); 
 
 
 
