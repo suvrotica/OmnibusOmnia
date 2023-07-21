@@ -54,7 +54,7 @@
 	}
 	:global(p, article) {
 		text-align: justify;
-		line-height: 0.8;
+		line-height: 0.9;
 		font-weight: 300;
 	}
 	:global(.big-punctuation) {
@@ -63,6 +63,7 @@
 	:global(.poem) {
 		background-color: #ece3cc;
 		background-image: url('/back.webp');
+filter: brightness(150%);
 		background-size: cover;
 		line-height: 0.9;
 		color: black;
