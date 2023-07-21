@@ -61,6 +61,8 @@
 		font-family: 'Poppins', sans-serif;
 	}
 	:global(.poem) {
+font-family: 'Gaegu', cursive;
+font-size:16px;
 		background-color: #ece3cc;
 		background-image: url('/back.webp');
 
@@ -74,7 +76,6 @@
 		line-height: 0.9;
 		color: black;
 		font-weight: 700;
-font-size:14px;
 	}
 
 	:global(.grid-container) {
