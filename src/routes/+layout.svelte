@@ -66,7 +66,7 @@
 
   
   background-color: rgba(255, 255, 255, 0.9); 
-  filter: brightness(115%); 
+  filter: brightness(125%); 
 
 
 
