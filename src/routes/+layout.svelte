@@ -68,7 +68,7 @@ font-family: 'Gaegu', cursive;
 
   
   background-color: rgba(255, 255, 255, 0.25); 
-  filter: brightness(110%); 
+  filter: brightness(120%); 
 
 
 
