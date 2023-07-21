@@ -290,6 +290,20 @@ I feel a satisfied asshole pinch.
 ")`}
 	image_name="04fa3f64-191b-4c73-a119-b53127c17841.png"
 />
-
+<B4 blogContent={`Title:Ravish Documentary 
+	Date:2023-jul-21
+42br
+This interview is about a documentary that has come out about Ravish Kumar of NDTV fame. He's moved to YouTube :https://lnkd.in/gfYjkmxT
+42br
+The TV news after Ravish left doesn't occasion any reflection anymore; the actors on stage merely lip sync to what's been fed to them. The heinous atrocities against women in Manipur aren't any worse than the inaction of power in calming a situation that had only brought one long, stale, reluctant piece of flaring and glaring aberration to the surface, with thousands of others buried or given a deaf ear. And customary to how physics work in politics, a flurry of cosmetic knee-jerk statements and actions and scapegoats to showcase the rule of law will follow when in reality it will be another thick coat of inaction varnish and sleight of hand. At least it will open up suitable avenues for brownie points for the brown nosers. Then silence, until another video. 
+42br
+Ears of both in power and those with the responsibility to elect them, are deaf with the shrill cacophony of biligerent debates that ride on the ridiculous as much as my nerves. Mostly on issues that aren't there or weaponized fibs to serve agendas that favor certain groups of people, whether political or business. I know mine is a feeble voice here against the maddening roar of many who are held hostage by self-interest. Whether by habitual unconcern, occupation, mindset, religion, or simply because they've never really thought critically in their lives, Critical thinking was always a paragraph we memorized, and it rarely came up in the minds of the syllabus makers as a way of approaching life. 
+42br
+If people can't or won't think, if greed is the only lodestone, if our spines are in our stool, and if we are fit only for clapping and frivolous jests, for the superficial ostentatious and theatric mascara hiding the festering wounds below, then when I hear a news like this atrocity, I feel sick to the pit. I'm sorry I have a pit, I feel embarrassed about it, when it's the fashion not to have it. I'm just one of those leftover losers you'll rejoice when you see me in the obituary column: "Murdered for pit..." 
+42br
+I don't even feel like writing these laments anymore, yet I do. I know the people reading it don't care; they want to see something that doesn't need any brain cells to process so that they can be in the flotilla of social security clicking away to a numb future and perpetuate this general malaise about the status quo or the need to question it. Anyway, for what is worth I thought I'd share the interview with Ravish. 
+42br
+https://lnkd.in/gar3c8ny
+`} image_name="04fa3f64-191b-4c73-a119-b53127c17841.png/>
 <style>
 </style>
