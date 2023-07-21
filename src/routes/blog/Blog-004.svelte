@@ -24,7 +24,7 @@
 <article>
 	<article class="float-left">
 		<img src="/{image_name}" alt="pic" />
-<img src="/sign.svg" alt="sign" width ="100"/>
+<img src="/sign.svg" alt="sign" width =50%/>
 	</article>
 
 
