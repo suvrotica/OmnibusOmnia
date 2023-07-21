@@ -67,8 +67,8 @@ font-family: 'Gaegu', cursive;
 		background-image: url('/back.webp');
 
   
-  background-color: rgba(255, 255, 255, 0.75); 
-  filter: brightness(140%); 
+  background-color: rgba(255, 255, 255, 0.95); 
+  filter: brightness(100%); 
 
 
 
