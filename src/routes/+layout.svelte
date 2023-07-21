@@ -62,7 +62,7 @@
 	}
 	:global(.poem) {
 		background-color: #ece3cc;
-		/* background-image: url('/Back.jpg'); */
+		background-image: url('/back.webp');
 		background-size: cover;
 		line-height: 0.9;
 		color: black;
