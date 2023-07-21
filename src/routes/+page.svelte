@@ -39,41 +39,24 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 	};
 </script>
 
-<!-- Use @html to bind the enhanced text -->
+<!-- svelte-ignore a11y-no-redundant-roles -->
 
-<Title stringA="The" stringB="Name" When={currentDate} />
-<hr />
-<div class="grid">
-	<img src="monk.jpg" alt="Italian Monk holding Omnibus Omnia " />
+<B4
+	blogContent={`Title:More Rain in Kolkata 
+		Date:2023-jul-22
+	42br
+	The city of joy and happiness gets both from the monsoon and sometimes simultaneously with the sun shining, shimmering away, and frying and drying with its heat. And then on the other side of the sky, where black clouds are pouring a river's worth of water, enough to cause the dilapidated cars to start floating, The homeless and mangy drown, and it's a good thing they do too; it's one less thing to worry about for the government, which needs more assured time to funnel wealth for its own family members with plans to settle abroad.
+	42br
+There are various levels of discomfort, gradients, and descents into hell to choose from when it comes to city life and travel, especially on a rainy day for the hardscrabble with coins in his pocket, especially when just a frog's piss causes waterlogged streets and subway services to be curtailed for the rest of the century and everything else stalls to a coronary stop.
+42br
+It's all the doing of the british and the moghuls, they tell us—well, not the moghuls; fuck the mughuls, they're not in the syllabus anymore, good riddance, and I hear the british may be out too, what with all the evolution and industrial revolution stuff that's all in our ancient scriptures anyway, they stole. Well, whoever the bastards are that fucked the god-given systems of roads and drainage that were placed since the last hindoo halcyon are the culprits and should be dug from their graves and hung. Or lynched by the new generation of mob, who really like the short cuts to wealth and power they see and who wouldn't. Law is such a loser, is their thinking when divine healing is at play, or at least the guys paying them say it is.
+42br
+And because we get distracted looking at the entertaining blood and bubbles of foaming fart emanating from the corpses in the flood water, we forget to ask important questions about causality, responsibility, distinct repetition, city planning, democracy, etcetera. And it's a good thing we don't; chances are nobody would know, given the impoverishment and corruption in the education system, where even a donkey—I hate to demean the creature's good reputation—can pay a sum of money to become a teacher, the amount determining the level, whether he brays nursery rhymes or quantum shit. Or, for that matter, you as an overconfidant wackjob need to know even less to be an elected leader, a grinning imbecile; as long as you can stridently contradict the truth and loudly, rinse, and repeat unabashedly with wanton disregard for consequences, you have what it takes. At least an apprentice to a goon, and then you move up the ladder—an assured system, I'm told.
+42br
+An excellent system for an excellent state in an excellent country where every day there's always a new reason to be threatened. Only this time, it's joy and happiness in ways that are beyond ordinary thought. What now? I forgot to mention the rainbow. Well, yes, and that too—a rainbow in the midst of all this—how can I forget?`}
+	image_name="cityrain.svg"
+/>
 
-	<div>
-		<br />
-
-		<p>{@html enhancePunctuation(enhanceMarkup(p1))}</p>
-	</div>
-</div>
-
-<Title stringA="Welcome by" stringB="Holy Golly" When={currentDate} />
-<hr />
-<div class="grid">
-	<article>
-		<p>{@html enhancePunctuation(p2)}</p>
-		<article class="poem">
-			Though much is taken, much abides; and though...We are not now that strength which in old
-			days... Moved earth and heaven, that which we are, we are—...One equal temper of heroic
-			hearts,...Made weak by time and fate, but strong in will...To strive, to seek, to find, and
-			not to yield.
-		</article>
-	</article>
-	<article class="svg">
-		<img src="svg_horse-dick.svg" alt="Man horse dick" />
-	</article>
-</div>
-<br />
-
-<B1 />
-<B2 />
-<B3 />
 <B4
 	blogContent={`Title:Lonely Farts
 	Date:2023-jul-19
@@ -119,15 +102,11 @@ I shoot my shit with force. ")
 42br
 And yes, you can set your fart on fire. Methane (CH4) in fart, which is also the main component of natural gas, can ignite or explode in a mixture of air at concentrations between 5% and 15%. Hydrogen (H2) in fart is also a highly flammable gas and can form explosive mixtures in the bathroom air at concentrations between 4% and 75%. Chances are you'll burn your asshole and rectum as well. 
 42br
+
 In fact, the bacteria don't stop working after we've defecated. In the Victorian era, methane gas buildup in sewer systems led to explosions and fires. The feces rot, giving bacteria a five-star environment without good ventilation and leading to the accumulation of flammable gases, primarily methane, easily ignited by a spark from a lit match or candle flame. Of course, now that we've gotten smart with plumbing, The trap, a standard feature, is a U-, S-, or J-shaped pipe located below or within a plumbing fixture that retains a small amount of water to prevent sewer gases from entering buildings.`}
 	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
 />
-<article class="svg">
-	<img
-		src="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689826672456.jpg"
-		alt="commode trap"
-	/>
-</article>
+
 <B4
 	blogContent={`Title:About Time
 	Date:2023-jul-20
@@ -290,7 +269,8 @@ I feel a satisfied asshole pinch.
 ")`}
 	image_name="04fa3f64-191b-4c73-a119-b53127c17841.png"
 />
-<B4 blogContent={`Title:Ravish Documentary 
+<B4
+	blogContent={`Title:Ravish Documentary 
 	Date:2023-jul-21
 42br
 This interview is about a documentary that has come out about Ravish Kumar of NDTV fame. He's moved to YouTube :https://lnkd.in/gfYjkmxT
@@ -304,6 +284,45 @@ If people can't or won't think, if greed is the only lodestone, if our spines ar
 I don't even feel like writing these laments anymore, yet I do. I know the people reading it don't care; they want to see something that doesn't need any brain cells to process so that they can be in the flotilla of social security clicking away to a numb future and perpetuate this general malaise about the status quo or the need to question it. Anyway, for what is worth I thought I'd share the interview with Ravish. 
 42br
 https://lnkd.in/gar3c8ny
-`} image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689898029491.jpg" />
+`}
+	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689898029491.jpg"
+/>
+
+<!-- Use @html to bind the enhanced text -->
+
+<Title stringA="The" stringB="Name" When={currentDate} />
+<hr />
+<div class="grid">
+	<img src="monk.jpg" alt="Italian Monk holding Omnibus Omnia " />
+
+	<div>
+		<br />
+
+		<p>{@html enhancePunctuation(enhanceMarkup(p1))}</p>
+	</div>
+</div>
+
+<Title stringA="Welcome by" stringB="Holy Golly" When={currentDate} />
+<hr />
+<div class="grid">
+	<article>
+		<p>{@html enhancePunctuation(p2)}</p>
+		<article class="poem">
+			Though much is taken, much abides; and though...We are not now that strength which in old
+			days... Moved earth and heaven, that which we are, we are—...One equal temper of heroic
+			hearts,...Made weak by time and fate, but strong in will...To strive, to seek, to find, and
+			not to yield.
+		</article>
+	</article>
+	<article class="svg">
+		<img src="svg_horse-dick.svg" alt="Man horse dick" />
+	</article>
+</div>
+<br />
+
+<B1 />
+<B2 />
+<B3 />
+
 <style>
 </style>

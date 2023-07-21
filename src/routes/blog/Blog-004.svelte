@@ -19,21 +19,21 @@
 	newBlogContent = enhancePunctuation(newBlogContent);
 </script>
 
-<button class="contrast">{date + ' : ' + title} </button>
+<details>
+	<!-- svelte-ignore a11y-no-redundant-roles -->
+	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
+	<article>
+		<article class="float-left">
+			<img src="/{image_name}" alt="pic" />
+			<img src="/sign.svg" alt="sign" />
+		</article>
 
-<article>
-	<article class="float-left">
-		<img src="/{image_name}" alt="pic" />
-<img  src="/sign.svg" alt="sign" />
+		<p>{@html newBlogContent}</p>
 	</article>
-
-
-
-	<p>{@html newBlogContent}</p>
-</article>
+</details>
 
 <style>
-	button {
+	summary {
 		font-size: 32px;
 	}
 

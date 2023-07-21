@@ -38,7 +38,7 @@
 		font-family: 'Gaegu', cursive;
 		font-weight: 100;
 	}
-	:global(h1, h2, h3, h4, h5, h6, button) {
+	:global(h1, h2, h3, h4, h5, h6, summary) {
 		font-family: 'Amatic SC', cursive;
 	}
 	:global(.svg) {
@@ -61,7 +61,7 @@
 		font-family: 'Poppins', sans-serif;
 	}
 	:global(.poem) {
-font-family: 'Gaegu', cursive;
+		font-family: 'Gaegu', cursive;
 
 		background-color: #ece3cc;
 		/*background-image: url('/back.webp');
@@ -69,8 +69,6 @@ font-family: 'Gaegu', cursive;
   
   background-color: rgba(255, 255, 255, 0.25); 
   filter: brightness(120%); */
-
-
 
 		background-size: cover;
 		line-height: 0.9;
