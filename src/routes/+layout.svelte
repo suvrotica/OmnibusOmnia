@@ -63,7 +63,13 @@
 	:global(.poem) {
 		background-color: #ece3cc;
 		background-image: url('/back.webp');
-filter: brightness(150%);
+
+  
+  background-color: rgba(255, 255, 255, 0.75); /* 0.75 corresponds to 25% opacity */
+  filter: brightness(150%); /* 150% corresponds to 50% brighter */
+
+
+
 		background-size: cover;
 		line-height: 0.9;
 		color: black;
