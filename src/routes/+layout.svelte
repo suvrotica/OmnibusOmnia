@@ -74,6 +74,7 @@
 		line-height: 0.9;
 		color: black;
 		font-weight: 700;
+font-size:14px;
 	}
 
 	:global(.grid-container) {
