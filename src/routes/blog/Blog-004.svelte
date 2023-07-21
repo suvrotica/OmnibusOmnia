@@ -24,8 +24,9 @@
 <article>
 	<article class="float-left">
 		<img src="/{image_name}" alt="pic" />
-<img src="/sign.svg" alt="sign" />
+
 	</article>
+<img class=svg src="/sign.svg" alt="sign" />
 
 
 	<p>{@html newBlogContent}</p>
