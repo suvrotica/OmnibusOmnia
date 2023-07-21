@@ -54,8 +54,8 @@
 	}
 	:global(p, article) {
 		text-align: justify;
-		line-height: 0.75;
-		font-weight: 100;
+		line-height: 0.8;
+		font-weight: 300;
 	}
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
