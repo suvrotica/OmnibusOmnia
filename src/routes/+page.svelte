@@ -40,9 +40,24 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 </script>
 
 <!-- svelte-ignore a11y-no-redundant-roles -->
-<B4 blogContent={`Title:Goon Mongering
+<B4 blogContent={`Title:Goon fear Mongering
 		Date:2023-jul-22
-42br`}
+42br
+42bq("
+The trade of men of greatness then,
+Is to buy and sell fear.
+That is what I do,
+Don’t you dare come near.
+42br
+I'm a goon, now a cartoon,
+But that's just in your head.
+Before you know I'll be at your door,
+And then you'll be all bloody and dead.
+42br
+Yes, really I'm all that and more,
+I don't really much care.
+I work for money and that's all,
+No one I will spare.") `}
 image_name ="goon.svg"/>
 <B4 blogContent={`Title:Goddess of Math
 		Date:2023-jul-22
