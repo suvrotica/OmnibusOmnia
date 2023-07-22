@@ -49,13 +49,7 @@
 		background-color: white;
 		display: inline-block; /* Ensuring container wraps the image */
 	}
-	:global(img) {
-		width: 100%;
 
-		height: auto;
-
-		object-fit: cover;
-	}
 	:global(p, article) {
 		text-align: justify;
 		line-height: 0.9;
