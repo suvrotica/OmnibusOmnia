@@ -28,7 +28,7 @@
 				<img src="/{image_name}" alt="pic" />
 				<img src="/sign.svg" alt="sign" width="50%" style="display: block; margin: 0 auto;" />
 
-				<figcaption>
+				<figcaption class="yellow-banner">
 					{title}
 				</figcaption>
 			</figure>

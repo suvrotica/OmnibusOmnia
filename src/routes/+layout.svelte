@@ -43,19 +43,18 @@
 	}
 	:global(article) {
 		padding: 5px;
-		padding-bottom: 0px;
-		margin-bottom: 0px;
+		padding-bottom: 2px;
+		margin-bottom: 2px;
 	}
-	:global(figcaption) {
+	:global(.yellow-banner) {
 		font-family: 'Gaegu', cursive;
-
 		text-align: center;
 		font-weight: 700;
-
-		background-color: rgb(223, 223, 214);
+		color: black;
+		background-color: yellow;
 		border: 2px solid black;
 		box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-		border-radius: 10px;
+		border-radius: 5px;
 	}
 	:global(.svg) {
 		background-color: white;
