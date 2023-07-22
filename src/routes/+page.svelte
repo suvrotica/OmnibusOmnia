@@ -64,7 +64,7 @@ Says the voice inside above the din.
 Pin drop flatulence no one makes sense,
 Teeth and tongue wrapped in dung.
 Pubes and dingle berry get put in curry,
-People step on heads to climb the next rung.
+People step on heads to climb ambition's rung.
 42br
 Circle of concern sharply tightens,
 To just me me me and only fucking me.
