@@ -55,8 +55,8 @@ From ancient Egypt, we have Seshat, the goddess of wisdom, whose patronages exte
 42br
 Lastly, we turn to the Goddess Mahalakshmi of Namakkal, to whom the mathematician Srinivasa Ramanujan attributed his mathematical capacities. Ramanujan, deeply religious, believed he was receiving mathematical knowledge from the goddess, often describing visions of scrolls of complex mathematical content unfolding before his eyes. His belief in divine inspiration is well-documented, yet it is also recognized that his mathematical achievements are the result of his extraordinary natural talent and hard work.
 42br
-These three each in their unique ways, embody the divine aspect of mathematics and learning. They serve as symbols of the timeless pursuit of knowledge, wisdom, and understanding, inspiring generations of learners, scholars, and seekers of truth. 
-`} image_name ="mathgod.svg">
+These three each in their unique ways, embody the divine aspect of mathematics and learning. They serve as symbols of the timeless pursuit of knowledge, wisdom, and understanding, inspiring generations of learners, scholars, and seekers of truth.`} 
+image_name ="mathgod.svg"/>
 
 <B4
 	blogContent={`Title:More Rain in Kolkata 
