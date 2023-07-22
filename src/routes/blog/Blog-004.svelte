@@ -24,8 +24,10 @@
 	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
 	<article>
 		<article class="float-left">
-			<img src="/{image_name}" alt="pic" />
-			<img src="/sign.svg" alt="sign" />
+			<figure>
+				<img src="/{image_name}" alt="pic" />
+				<img src="/sign.svg" alt="sign" />
+			</figure>
 		</article>
 
 		<p>{@html newBlogContent}</p>
