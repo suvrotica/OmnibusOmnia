@@ -34,7 +34,7 @@
 
 <style>
 	summary {
-		font-size: 32px;
+		font-size: 26px;
 	}
 
 	.float-left {
