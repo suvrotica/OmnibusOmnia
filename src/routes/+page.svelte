@@ -51,6 +51,26 @@ There are various levels of discomfort, gradients, and descents into hell to cho
 42br
 It's all the doing of the brutish british and the mongrel moghuls, they tell us—well, not the moghuls; fuck the mughuls, they're not in the syllabus anymore, good riddance, and I hear the british may be out too, what with all the evolution and industrial revolution stuff that's all in our ancient scriptures anyway, ideas they stole and whatnot. Well, whoever the bastards are that fucked the god-given systems of roads and drainage that were placed since the last hindoo halcyon are the culprits and should be dug from their graves and hung. Or lynched by the new generation of mob, who really like the short cuts to wealth and power they see and who wouldn't. The idea of flying around in chariots, women without blouses, talking monkeys as servants. Law is such a loser, is their thinking when divine healing is at play, or at least the guys paying them say it is. Especially when they make the rules, it's easy to fuck around without the consequences, just like the times before the invention of accountability and horrible shit like that. 
 42br
+42bq("Who the fuck what a stroke of luck,
+Shit fuck news bitch swaggers in after tea. 
+A cloudy day she declares,
+In the city that's been swept to sea.
+42br
+Pieces of shit in fun and flit,
+Carrom around drenched in sin.
+The rain is pain, the people are vain, 
+Says the voice inside above the din. 
+42br
+Pin drop flatulence no one makes sense,
+Teeth and tongue wrapped in dung.
+Pubes and dingle berry get put in curry,
+People step on heads to climb the next rung.
+42br
+Circle of concern sharply tightens,
+To just me me me and only fucking me.
+Everyone hopes the others drown today,
+I'm just busy drying me.
+")
 And because we get distracted looking at the entertaining blood and bubbles of foaming fart emanating from the corpses in the flood water, we forget to ask important questions about causality, responsibility, distinct repetition, city planning, democracy, etcetera. And it's a good thing we don't; chances are nobody would know, given the impoverishment and corruption in the education system, where even a donkey—I hate to demean the creature's good reputation—can pay a sum of money to become a teacher, the amount determining the level, whether he brays nursery rhymes or quantum shit. Or, for that matter, you as an overconfidant wackjob need to know even less to be an elected leader, a grinning imbecile; as long as you can stridently contradict the truth and loudly, rinse, and repeat unabashedly with wanton disregard for consequences, you have what it takes. At least an apprentice to a goon, and then you move up the ladder—an assured system, I'm told.
 42br
 An excellent system for an excellent state in an excellent country where every day there's always a new reason to be threatened. Only this time, it's joy and happiness in ways that are beyond ordinary thought. What now? I forgot to mention the rainbow. Well, yes, and that too—a rainbow in the midst of all this—how can I forget?`}
