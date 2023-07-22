@@ -40,7 +40,8 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 </script>
 
 <!-- svelte-ignore a11y-no-redundant-roles -->
-<B4 blogContent={`Title:Goon fear Mongering
+<B4
+	blogContent={`Title:Goon fear Mongering
 		Date:2023-jul-22
 42br
 A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
@@ -75,8 +76,10 @@ Fuck the world for all I care,
 I'm not a part of it.
 I operate like a vampire bat,
 Like an animal strange as shit.") `}
-image_name ="goon.svg"/>
-<B4 blogContent={`Title:Goddess of Math
+	image_name="goon.svg"
+/>
+<B4
+	blogContent={`Title:Goddess of Math
 		Date:2023-jul-22
 42br
 A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
@@ -93,8 +96,9 @@ From ancient Egypt, we have Seshat, the goddess of wisdom, whose patronages exte
 42br
 Lastly, we turn to the Goddess Mahalakshmi of Namakkal, to whom the mathematician Srinivasa Ramanujan attributed his mathematical capacities. Ramanujan, deeply religious, believed he was receiving mathematical knowledge from the goddess, often describing visions of scrolls of complex mathematical content unfolding before his eyes. His belief in divine inspiration is well-documented, yet it is also recognized that his mathematical achievements are the result of his extraordinary natural talent and hard work.
 42br
-These three each in their unique ways, embody the divine aspect of mathematics and learning. They serve as symbols of the timeless pursuit of knowledge, wisdom, and understanding, inspiring generations of learners, scholars, and seekers of truth.`} 
-image_name ="mathgod.svg"/>
+These three each in their unique ways, embody the divine aspect of mathematics and learning. They serve as symbols of the timeless pursuit of knowledge, wisdom, and understanding, inspiring generations of learners, scholars, and seekers of truth.`}
+	image_name="mathgod.svg"
+/>
 
 <B4
 	blogContent={`Title:More Rain in Kolkata 
