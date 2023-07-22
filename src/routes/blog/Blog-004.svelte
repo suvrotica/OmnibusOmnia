@@ -41,7 +41,7 @@
 		background-color: white;
 
 		float: left;
-		margin: 5px;
+		margin: 20px;
 		width: 100%;
 	}
 </style>
