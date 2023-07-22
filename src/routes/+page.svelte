@@ -40,6 +40,10 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 </script>
 
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent={`Title:Goon Mongering
+		Date:2023-jul-22
+42br`}
+image_name ="goon.svg"/>
 <B4 blogContent={`Title:Goddess of Math
 		Date:2023-jul-22
 42br
