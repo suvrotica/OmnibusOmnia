@@ -62,6 +62,8 @@ image_name ="goon.svg"/>
 <B4 blogContent={`Title:Goddess of Math
 		Date:2023-jul-22
 42br
+A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
+42br
 In the realm of divine wisdom and knowledge, three goddesses stand out, each from a different culture, yet all embodying the essence of mathematics and learning. 
 42br
 Saraswati, a significant goddess in Hinduism, represents knowledge, wisdom, music, art, and learning. She is part of the trinity (Tridevi) of Saraswati, Lakshmi, and Parvati, who assist in the creation, maintenance, and destruction of the Universe. Saraswati's birth from the thoughts of Brahma, the Hindu god of creation, is a testament to her divine wisdom. 
