@@ -46,8 +46,8 @@
 
 		text-align: center;
 		font-weight: 700;
-		margin-top: 10px; /* Optional: Add some space between the image and the caption */
-		padding: 10px;
+		margin-top: 1px; /* Optional: Add some space between the image and the caption */
+		padding: 1px;
 
 		background-color: rgb(223, 223, 214);
 		border: 2px solid black;
