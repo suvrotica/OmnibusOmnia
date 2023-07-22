@@ -27,6 +27,9 @@
 			<figure>
 				<img src="/{image_name}" alt="pic" />
 				<img src="/sign.svg" alt="sign" />
+				<figcaption>
+					{title}
+				</figcaption>
 			</figure>
 		</article>
 

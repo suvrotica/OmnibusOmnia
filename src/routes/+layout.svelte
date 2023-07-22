@@ -41,6 +41,11 @@
 	:global(h1, h2, h3, h4, h5, h6, summary) {
 		font-family: 'Amatic SC', cursive;
 	}
+	:global(figcaption) {
+		font-family: 'Kablammo', cursive;
+		font-size: 40px;
+		text-align: center;
+	}
 	:global(.svg) {
 		background-color: white;
 		display: inline-block; /* Ensuring container wraps the image */
