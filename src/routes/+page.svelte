@@ -40,6 +40,23 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 </script>
 
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent={`Title:Goddess of Math
+		Date:2023-jul-22
+42br
+In the realm of divine wisdom and knowledge, three goddesses stand out, each from a different culture, yet all embodying the essence of mathematics and learning. 
+42br
+Saraswati, a significant goddess in Hinduism, represents knowledge, wisdom, music, art, and learning. She is part of the trinity (Tridevi) of Saraswati, Lakshmi, and Parvati, who assist in the creation, maintenance, and destruction of the Universe. Saraswati's birth from the thoughts of Brahma, the Hindu god of creation, is a testament to her divine wisdom. 
+42br
+Saraswati is said to have been created from the thoughts of Brahma, the Hindu god of creation. Seeing her, Brahma became infatuated with her beauty and started to pursue her. To escape from him, Saraswati kept moving in different directions but Brahma sprouted heads in each direction. Finally, to escape his gaze, she transformed into a cow. In response, Brahma took the form of a bull. This continued with Saraswati transforming into a mare and Brahma becoming a horse. Finally, Saraswati turned into a doe and Brahma a stag. At this point, Shiva intervened and chastised Brahma for his inappropriate behavior. From then on, Brahma had only one head and he and Saraswati were considered father and daughter.
+42br
+She is often depicted as a beautiful woman dressed in pure white, seated on a white lotus, symbolizing light, knowledge, and truth. Her iconography includes a book and a rosary, representing the knowledge of all sciences and the highest reality, and a veena, symbolizing all arts and sciences. Saraswati Puja, celebrated annually, sees students and artists placing their tools near her idol for blessings, a testament to her enduring reverence. 
+42br
+From ancient Egypt, we have Seshat, the goddess of wisdom, whose patronages extend to architecture, building, astronomy, astrology, mathematics, record keeping, surveying, and writing. Known as the scribe of the gods, Seshat is depicted in human form, her symbols including the rosette, palm stem, a seven-pointed emblem, and leopard or cheetah skin. Her association with recording and building, and her presence in ancient texts such as the Coffin Texts, highlight her significance in the realm of knowledge and wisdom.
+42br
+Lastly, we turn to the Goddess Mahalakshmi of Namakkal, to whom the mathematician Srinivasa Ramanujan attributed his mathematical capacities. Ramanujan, deeply religious, believed he was receiving mathematical knowledge from the goddess, often describing visions of scrolls of complex mathematical content unfolding before his eyes. His belief in divine inspiration is well-documented, yet it is also recognized that his mathematical achievements are the result of his extraordinary natural talent and hard work.
+42br
+These three each in their unique ways, embody the divine aspect of mathematics and learning. They serve as symbols of the timeless pursuit of knowledge, wisdom, and understanding, inspiring generations of learners, scholars, and seekers of truth. 
+`} image_name ="mathgod.svg">
 
 <B4
 	blogContent={`Title:More Rain in Kolkata 
