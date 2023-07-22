@@ -43,9 +43,9 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 <B4 blogContent={`Title:Goon fear Mongering
 		Date:2023-jul-22
 42br
-
-42bq("A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
+A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
 42br
+42bq("
 The trade of men of greatness then,
 Is to buy and sell fear.
 That is what I do,
