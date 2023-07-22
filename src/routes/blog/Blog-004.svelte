@@ -26,7 +26,8 @@
 		<article class="float-left">
 			<figure>
 				<img src="/{image_name}" alt="pic" />
-				<img src="/sign.svg" alt="sign" />
+				<img src="/sign.svg" alt="sign" width="50%" style="display: block; margin: 0 auto;" />
+
 				<figcaption>
 					{title}
 				</figcaption>
