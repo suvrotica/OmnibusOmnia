@@ -42,8 +42,6 @@
 		font-family: 'Amatic SC', cursive;
 	}
 	:global(figcaption) {
-		font-family: 'Kablammo', cursive;
-		font-size: 26px;
 		color: black;
 		text-align: center;
 	}
