@@ -43,7 +43,8 @@
 	}
 	:global(figcaption) {
 		font-family: 'Kablammo', cursive;
-		font-size: 40px;
+		font-size: 26px;
+		color: black;
 		text-align: center;
 	}
 	:global(.svg) {
