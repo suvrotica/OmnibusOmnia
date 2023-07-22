@@ -59,7 +59,22 @@ And then you'll be all bloody and dead.
 Yes, really I'm all that and more,
 I don't really much care.
 I work for money and that's all,
-No one I will spare.") `}
+No one I will spare.
+42br
+Or a thug very smug,
+Just my way of life I guess.
+I live in every man and woman,
+Hidden inside I confess.
+42br
+I show my face, bloody reckless,
+And imprecations on my lips.
+I spit them out sputtering fast,
+Dancing jolly at my hips.
+42br
+Fuck the world for all I care,
+I'm not a part of it.
+I operate like a vampire bat,
+Like an animal strange as shit.") `}
 image_name ="goon.svg"/>
 <B4 blogContent={`Title:Goddess of Math
 		Date:2023-jul-22
