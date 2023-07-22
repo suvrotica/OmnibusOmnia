@@ -42,7 +42,9 @@
 		font-family: 'Amatic SC', cursive;
 	}
 	:global(article) {
-		padding: 1px;
+		padding: 5px;
+		padding-bottom: 0px;
+		margin-bottom: 0px;
 	}
 	:global(figcaption) {
 		font-family: 'Gaegu', cursive;
@@ -52,7 +54,8 @@
 
 		background-color: rgb(223, 223, 214);
 		border: 2px solid black;
-		box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adjust the shadow as needed */
+		box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+		border-radius: 10px;
 	}
 	:global(.svg) {
 		background-color: white;
