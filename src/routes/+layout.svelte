@@ -41,13 +41,14 @@
 	:global(h1, h2, h3, h4, h5, h6, summary) {
 		font-family: 'Amatic SC', cursive;
 	}
+	:global(article) {
+		padding: 1px;
+	}
 	:global(figcaption) {
 		font-family: 'Gaegu', cursive;
 
 		text-align: center;
 		font-weight: 700;
-		margin-top: 1px; /* Optional: Add some space between the image and the caption */
-		padding: 1px;
 
 		background-color: rgb(223, 223, 214);
 		border: 2px solid black;
