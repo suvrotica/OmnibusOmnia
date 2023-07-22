@@ -48,6 +48,9 @@ A lot of people have this impression that if they're avoidant, the problem doesn
 42br
 Goons will always have a market since it goes back to hitting upon the essential survival Fs: fight, flee, fuck, and feed. 
 It forces you to consider the first two, and since you can't spend the rest of your life fighting or fleeing and would like to get back to fucking and feeding to survive they succeed in fleecing. Now that's a business model you can't fuck around with much, can you? In Hyderabad, I remember the appointed goons coming to my office and my home, brandished just words. They stopped my car again with smooth talk—just plain words—but weaponized and caramelized prose trained over years of experience in the industry to fuck your polished, Americanized mind up and drive you hopping shitless insane.
+There coming and going had the immediate, adverse and undesirable affect of driving nails into the crusty wooden case of the fledgling startup coffin.
+When things spiral out, sometimes they do so with an inflicted vengeance, an agitated grievance of a previous life of spiraling out which may not have spiraled out all too well. 
+This one did. 
 42br
 In India, there's no calling the cops on goons; there's a nexus, and when I spoke to my lawyer at the time, he advised me not to get the law involved. What an asshole. Imagine. That's what you get for not planning your dreams better. But goons are humans, and eventually the very guys that were sent to murder me couldn't. They saw that everyone that I knew had left—my so-called friends and family. It was the goons that got me medicine and fed me so that I could at least live to tell my story.
 42br
