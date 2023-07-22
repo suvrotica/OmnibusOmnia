@@ -45,7 +45,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 	blogContent={`Title:More Rain in Kolkata 
 		Date:2023-jul-22
 	42br
-	The city of joy and happiness gets both from the monsoon and sometimes simultaneously with the sun shining, shimmering away, and frying and drying with its heat. And then on the other side of the sky, where black clouds are pouring a river's worth of water, enough to cause the dilapidated cars to start floating, The homeless and mangy drown, and it's a good thing they do too; it's one less thing to worry about for the government, which needs more assured time to funnel wealth for its own family members with plans to settle abroad.
+	The city of joy and happiness gets both from the monsoon and sometimes simultaneously with the sun shining, blistering away the blisters, boiling the boils, frying the fresh feces or instantly drying the dingle berries in the gooch with its heat. And then on the other side of the sky, where black clouds are pouring a river's worth of water, enough to cause the dilapidated cars to start floating, The homeless and mangy drown, and it's a good thing they do too; it's one less thing to worry about for the government, which needs more assured time to funnel wealth for its own family members with plans to settle abroad.
 	42br
 There are various levels of discomfort, gradients, and descents into hell to choose from when it comes to city life and travel, especially on a rainy day for the hardscrabble with coins in his pocket, especially when just a frog's piss causes waterlogged streets and subway services to be curtailed for the rest of the century and everything else stalls to a coronary stop.
 42br
