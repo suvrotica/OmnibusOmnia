@@ -46,6 +46,14 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 42br
 A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
 42br
+Goons will always have a market since it goes back to hitting upon the essential survival Fs: fight, flee, fuck, and feed. It forces you to consider the first two and postpones the others if you survive. That's a business model you can't beat. In Hyderabad, I remember the appointed goons coming to my office and my home, brandished just words. They stopped my car again with smooth talk—just plain words—but weaponized and caramelized prose trained over years of experience in the industry to fuck your polished, Americanized mind up and drive you hopping shitless insane.
+42br
+In India, there's no calling the cops on goons; there's a nexus, and when I spoke to my lawyer at the time, he advised me not to get the law involved. What an asshole. Imagine. That's what you get for not planning your dreams better. But goons are humans, and eventually the very guys that were sent to murder me couldn't. They saw that everyone that I knew had left—my so-called friends and family. It was the goons that got me medicine and fed me so that I could at least live to tell my story.
+42br
+It's really the environment that makes or breaks people's lives. Give people education and liberate them from the bullshit of religion and other heinous indoctrination, and they'll be valuable assets to society, not knife-wielding thugs. And when it comes to that, there's more venom and bile in the educated people I know that left me stranded than the thugs that took care of me in Hyderabad, so sometimes it's confusing to prescribe education as a formula;
+42br
+Unless you really understand what the fuck you're reading, then it's just a waste of time. You'll be just another bloated egotistic bastard like most of my selfish kith and kin and classmates, with degrees and licenses stuffed in your asshole, choking your rectum all the way up to your silly throat, but with no humanity, morality, or scruples, or little of it, and very little usable knowledge of the world, except for the wet long tongue types. It's a strange world we live in. But this is when I just want to scratch my balls, make some tea for myself, and enjoy some time alone. 
+42br
 42bq("
 The trade of men of greatness then,
 Is to buy and sell fear.
