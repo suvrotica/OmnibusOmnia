@@ -52,9 +52,9 @@ There are various levels of discomfort, gradients, and descents into hell to cho
 It's all the doing of the brutish british and the mongrel moghuls, they tell us—well, not the moghuls; fuck the mughuls, they're not in the syllabus anymore, good riddance, and I hear the british may be out too, what with all the evolution and industrial revolution stuff that's all in our ancient scriptures anyway, ideas they stole and whatnot. Well, whoever the bastards are that fucked the god-given systems of roads and drainage that were placed since the last hindoo halcyon are the culprits and should be dug from their graves and hung. Or lynched by the new generation of mob, who really like the short cuts to wealth and power they see and who wouldn't. The idea of flying around in chariots, women without blouses, talking monkeys as servants. Law is such a loser, is their thinking when divine healing is at play, or at least the guys paying them say it is. Especially when they make the rules, it's easy to fuck around without the consequences, just like the times before the invention of accountability and horrible shit like that. 
 42br
 42bq("Who the fuck what a stroke of luck,
-Shit fuck news bitch swaggers in after tea. 
+Shit fuck news bitch swaggers in. 
 A cloudy day she declares,
-In the city that's been swept to sea.
+In Kolkata the city the sea has swept in.
 42br
 Pieces of shit in fun and flit,
 Carrom around drenched in sin.
