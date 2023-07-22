@@ -36,14 +36,14 @@
 
 <style>
 	summary {
-		font-size: 32px;
+		font-size: 26px;
 	}
 
 	.float-left {
 		background-color: white;
 
 		float: left;
-		margin: 5px;
+		margin-bottom: 20px;
 		width: 100%;
 	}
 </style>

@@ -40,18 +40,94 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 </script>
 
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent={`Title:Goon fear Mongering
+		Date:2023-jul-22
+42br
+A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
+42br
+42bq("
+The trade of men of greatness then,
+Is to buy and sell fear.
+That is what I do,
+Don’t you dare come near.
+42br
+I'm a goon, now a cartoon,
+But that's just in your head.
+Before you know I'll be at your door,
+And then you'll be all bloody and dead.
+42br
+Yes, really I'm all that and more,
+I don't really much care.
+I work for money and that's all,
+No one I will spare.
+42br
+Or a thug very smug,
+Just my way of life I guess.
+I live in every man and woman,
+Hidden inside I confess.
+42br
+I show my face, bloody reckless,
+And imprecations on my lips.
+I spit them out sputtering fast,
+Dancing jolly at my hips.
+42br
+Fuck the world for all I care,
+I'm not a part of it.
+I operate like a vampire bat,
+Like an animal strange as shit.") `}
+image_name ="goon.svg"/>
+<B4 blogContent={`Title:Goddess of Math
+		Date:2023-jul-22
+42br
+A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
+42br
+In the realm of divine wisdom and knowledge, three goddesses stand out, each from a different culture, yet all embodying the essence of mathematics and learning. 
+42br
+Saraswati, a significant goddess in Hinduism, represents knowledge, wisdom, music, art, and learning. She is part of the trinity (Tridevi) of Saraswati, Lakshmi, and Parvati, who assist in the creation, maintenance, and destruction of the Universe. Saraswati's birth from the thoughts of Brahma, the Hindu god of creation, is a testament to her divine wisdom. 
+42br
+Saraswati is said to have been created from the thoughts of Brahma, the Hindu god of creation. Seeing her, Brahma became infatuated with her beauty and started to pursue her. To escape from him, Saraswati kept moving in different directions but Brahma sprouted heads in each direction. Finally, to escape his gaze, she transformed into a cow. In response, Brahma took the form of a bull. This continued with Saraswati transforming into a mare and Brahma becoming a horse. Finally, Saraswati turned into a doe and Brahma a stag. At this point, Shiva intervened and chastised Brahma for his inappropriate behavior. From then on, Brahma had only one head and he and Saraswati were considered father and daughter.
+42br
+She is often depicted as a beautiful woman dressed in pure white, seated on a white lotus, symbolizing light, knowledge, and truth. Her iconography includes a book and a rosary, representing the knowledge of all sciences and the highest reality, and a veena, symbolizing all arts and sciences. Saraswati Puja, celebrated annually, sees students and artists placing their tools near her idol for blessings, a testament to her enduring reverence. 
+42br
+From ancient Egypt, we have Seshat, the goddess of wisdom, whose patronages extend to architecture, building, astronomy, astrology, mathematics, record keeping, surveying, and writing. Known as the scribe of the gods, Seshat is depicted in human form, her symbols including the rosette, palm stem, a seven-pointed emblem, and leopard or cheetah skin. Her association with recording and building, and her presence in ancient texts such as the Coffin Texts, highlight her significance in the realm of knowledge and wisdom.
+42br
+Lastly, we turn to the Goddess Mahalakshmi of Namakkal, to whom the mathematician Srinivasa Ramanujan attributed his mathematical capacities. Ramanujan, deeply religious, believed he was receiving mathematical knowledge from the goddess, often describing visions of scrolls of complex mathematical content unfolding before his eyes. His belief in divine inspiration is well-documented, yet it is also recognized that his mathematical achievements are the result of his extraordinary natural talent and hard work.
+42br
+These three each in their unique ways, embody the divine aspect of mathematics and learning. They serve as symbols of the timeless pursuit of knowledge, wisdom, and understanding, inspiring generations of learners, scholars, and seekers of truth.`} 
+image_name ="mathgod.svg"/>
 
 <B4
 	blogContent={`Title:More Rain in Kolkata 
 		Date:2023-jul-22
 	42br
-	The city of joy and happiness gets both from the monsoon and sometimes simultaneously with the sun shining, shimmering away, and frying and drying with its heat. And then on the other side of the sky, where black clouds are pouring a river's worth of water, enough to cause the dilapidated cars to start floating, The homeless and mangy drown, and it's a good thing they do too; it's one less thing to worry about for the government, which needs more assured time to funnel wealth for its own family members with plans to settle abroad.
+	The city of joy and happiness gets both from the monsoon and sometimes simultaneously with the sun shining, blistering away the blisters, boiling the boils, frying the fresh feces or instantly drying the dingle berries in the gooch with its heat. And then on the other side of the sky, where black clouds are pouring a river's worth of water, enough to cause the dilapidated cars to start floating, The homeless and mangy drown, and it's a good thing they do too; it's one less thing to worry about for the government, which needs more assured time to funnel wealth for its own family members with plans to settle abroad.
 	42br
 There are various levels of discomfort, gradients, and descents into hell to choose from when it comes to city life and travel, especially on a rainy day for the hardscrabble with coins in his pocket, especially when just a frog's piss causes waterlogged streets and subway services to be curtailed for the rest of the century and everything else stalls to a coronary stop.
 42br
-It's all the doing of the british and the moghuls, they tell us—well, not the moghuls; fuck the mughuls, they're not in the syllabus anymore, good riddance, and I hear the british may be out too, what with all the evolution and industrial revolution stuff that's all in our ancient scriptures anyway, they stole. Well, whoever the bastards are that fucked the god-given systems of roads and drainage that were placed since the last hindoo halcyon are the culprits and should be dug from their graves and hung. Or lynched by the new generation of mob, who really like the short cuts to wealth and power they see and who wouldn't. Law is such a loser, is their thinking when divine healing is at play, or at least the guys paying them say it is.
+It's all the doing of the brutish british and the mongrel moghuls, they tell us—well, not the moghuls; fuck the mughuls, they're not in the syllabus anymore, good riddance, and I hear the british may be out too, what with all the evolution and industrial revolution stuff that's all in our ancient scriptures anyway, ideas they stole and whatnot. Well, whoever the bastards were that fucked the god-given systems of roads and drainage that were in place since the last hindoo halcyon are the culprits, and should be dug from their graves and hung. Or lynched preferably, while being streamed live on the debate channels, by the new generation of tech-savvy mob, who really like the short cuts to wealth and power they see and who wouldn't. The idea of flying around in chariots, women without blouses, talking monkeys as servants, without wage demand or unions. Law is such a loser, is their thinking when divine healing is at play, or at least the guys paying them say it is. Especially when they make the rules, it's easy to fuck around without the consequences, just like the times before the invention of accountability and horrible shit like that. 
 42br
-And because we get distracted looking at the entertaining blood and bubbles of foaming fart emanating from the corpses in the flood water, we forget to ask important questions about causality, responsibility, distinct repetition, city planning, democracy, etcetera. And it's a good thing we don't; chances are nobody would know, given the impoverishment and corruption in the education system, where even a donkey—I hate to demean the creature's good reputation—can pay a sum of money to become a teacher, the amount determining the level, whether he brays nursery rhymes or quantum shit. Or, for that matter, you as an overconfidant wackjob need to know even less to be an elected leader, a grinning imbecile; as long as you can stridently contradict the truth and loudly, rinse, and repeat unabashedly with wanton disregard for consequences, you have what it takes. At least an apprentice to a goon, and then you move up the ladder—an assured system, I'm told.
+42bq("Who the fuck what a stroke of luck,
+Shit fuck news bitch swaggers in. 
+A cloudy day she declares,
+In Kolkata the city the sea has swept in.
+42br
+Pieces of shit in fun and flit,
+Carrom around drenched in sin.
+The rain is pain, the people are vain, 
+Says the voice inside above the din. 
+42br
+Pin drop flatulence no one makes sense,
+Teeth and tongue wrapped in dung.
+Pubes and dingle berry get put in curry,
+People step on heads to climb ambition's rung.
+42br
+Circle of concern sharply tightens,
+To just me me me and only fucking me.
+Everyone hopes the others drown today,
+I'm just busy drying me.
+")
+And because we get distracted looking at the entertaining blood and bubbles of foaming fart emanating from the corpses in the flood water, we forget to ask important questions about causality, responsibility, distinct repetition, city planning, democracy, etcetera. And it's a good thing we don't; chances are nobody would know, given the impoverishment and corruption in the education system, 
+where even a donkey—I hate to demean the creature's good reputation in sharing our gravity burden—can pay a sum of money to become a teacher, the amount determining the level, whether he brays nursery rhymes or quantum shit bloody spit. Or, for that matter, you as an overconfidant wackjob need to know even less than a braying donkey to be an elected leader, a grinning imbecile; as long as you can stridently contradict the truth and loudly, rinse, and repeat unabashedly with wanton disregard for consequences, you have what it takes. At least an apprentice to a goon, and then you move up the ladder—an assured system, I'm told. Just need enough religion in indoctrination, hatred in your heart, and rancid bitterness for the void in education to see you through such aspirations. 
 42br
 An excellent system for an excellent state in an excellent country where every day there's always a new reason to be threatened. Only this time, it's joy and happiness in ways that are beyond ordinary thought. What now? I forgot to mention the rainbow. Well, yes, and that too—a rainbow in the midst of all this—how can I forget?`}
 	image_name="cityrain.svg"
