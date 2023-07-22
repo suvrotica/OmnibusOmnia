@@ -43,13 +43,13 @@
 	}
 	:global(figcaption) {
 		font-family: 'Gaegu', cursive;
-		font-weight: bold;
+
 		text-align: center;
 		font-weight: 700;
 		margin-top: 10px; /* Optional: Add some space between the image and the caption */
 		padding: 10px;
-		color: black;
-		background-color: yellow;
+
+		background-color: rgb(223, 223, 214);
 		border: 2px solid black;
 		box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Adjust the shadow as needed */
 	}
