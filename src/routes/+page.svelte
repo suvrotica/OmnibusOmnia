@@ -52,6 +52,7 @@ Goons will always have a market since it goes back to hitting upon the essential
 It forces you to consider the first two, and since you can't spend the rest of your life fighting or fleeing and would like to get back to fucking and feeding to survive they succeed in fleecing. Now that's a business model you can't fuck around with much, can you?
 In Hyderabad, I remember the appointed goons coming to my office and my home, brandished just words. They stopped my car again with smooth talk—just plain words—but weaponized and caramelized prose trained over years of experience in the industry, that can fuck your polished, americanized simpleton mind up real easy and drive you hopping shitless insane in a matter of days.
 42br
+42pic("pah.svg")
 Their coming and going had the immediate, adverse and undesirable affect of driving barbed, secure, and permanent nails into the crusty wooden case of the fledgling startup coffin I had worked so hard to get myself into.
 When things spiral out, sometimes they do so with an inflicted vengeance, an agitated grievance of a previous life of spiraling out which may not have spiraled out all too well. 
 This one did. I was fucked. On one had I was trying to install health care efficiency and transparency which was a concept no one had any patience for, I was into interoperability and health topics that were as alien as green men from Mars with large eyes. No one gave a fuck about any of the information exchange shit, especially when it would open up the system and people would find out the hospitals were charging when they didn't need to, or when the profit for the line item wasn't in line. 
@@ -61,7 +62,7 @@ In India, there's no calling the cops on goons; there's a nexus, and when I spok
 I really did plan my nightmares well, I have a penchant for the dark and occult. But goons are humans, and eventually the very guys that were sent to murder me couldn't. They saw that everyone that I knew had left—my so-called friends and family. It was the goons that got me medicine and fed me so that I could at least live to tell my story.
 42br
 It's really the environment that makes or breaks people's lives. Give people education and liberate them from the bullshit of religion and other heinous indoctrination, and they'll be valuable assets to society, not knife-wielding thugs. And when it comes to that, there's more venom and bile in the educated people I know that left me stranded than the thugs that took care of me in Hyderabad, so sometimes it's confusing to prescribe education as a formula;
-42pic("pah.svg")
+42br
 Unless you really understand what the fuck you're reading, then it's just a waste of time. You'll be just another bloated egotistic bastard like most of my selfish kith and kin and classmates, with degrees and licenses stuffed in your asshole, choking your rectum all the way up to your silly throat, but with no humanity, morality, or scruples, or little of it, and very little usable knowledge of the world, except for the bit about how to use a wet tongue to lick the assholes higher up the rung. It's a strange world we live in. But this is when I just want to scratch my balls, make some tea for myself, and enjoy some time alone. 
 42br
 42bq("

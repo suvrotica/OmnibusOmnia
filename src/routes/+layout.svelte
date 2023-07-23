@@ -45,6 +45,10 @@
 	:global(h1, h2, h3, h4, h5, h6, summary) {
 		font-family: 'Amatic SC', cursive;
 	}
+	:global(.float-left) {
+		float: left;
+		margin-right: 10px; /* Adjust as needed for spacing between the image and text */
+	}
 	:global(article) {
 		padding: 5px;
 		padding-bottom: 2px;
