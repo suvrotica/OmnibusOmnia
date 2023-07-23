@@ -58,7 +58,7 @@ export function replace42picWithFigure(blogContent: string): string {
 		return `
         
 			
-            <img class="float-left svg" width="50%" margin="2px" src="/${imageName.trim()}" alt="${imageName.trim()}">
+            <img class="float-left svg" width="50%" margin="0px" src="/${imageName.trim()}" alt="${imageName.trim()}">
 			
 			
         `;
