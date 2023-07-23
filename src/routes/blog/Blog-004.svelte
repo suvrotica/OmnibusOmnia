@@ -44,9 +44,6 @@
 </script>
 
 <details>
-	<button on:click={() => speak()}>
-		<span class="material-icons">play_arrow</span>
-	</button>
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
 	<article>
