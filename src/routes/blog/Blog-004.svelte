@@ -14,7 +14,7 @@
 
 	onMount(() => {
 		utterance = new SpeechSynthesisUtterance();
-		utterance.lang = 'en-US';
+		utterance.lang = 'en-IN';
 	});
 	function speakText(text: string) {
 		utterance.text = text;
