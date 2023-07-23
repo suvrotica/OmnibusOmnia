@@ -62,6 +62,7 @@ I really did plan my nightmares well, I have a penchant for the dark and occult.
 42br
 It's really the environment that makes or breaks people's lives. Give people education and liberate them from the bullshit of religion and other heinous indoctrination, and they'll be valuable assets to society, not knife-wielding thugs. And when it comes to that, there's more venom and bile in the educated people I know that left me stranded than the thugs that took care of me in Hyderabad, so sometimes it's confusing to prescribe education as a formula;
 42br
+<img src="pah.svg" alt="people are assholes" >
 Unless you really understand what the fuck you're reading, then it's just a waste of time. You'll be just another bloated egotistic bastard like most of my selfish kith and kin and classmates, with degrees and licenses stuffed in your asshole, choking your rectum all the way up to your silly throat, but with no humanity, morality, or scruples, or little of it, and very little usable knowledge of the world, except for the bit about how to use a wet tongue to lick the assholes higher up the rung. It's a strange world we live in. But this is when I just want to scratch my balls, make some tea for myself, and enjoy some time alone. 
 42br
 42bq("
