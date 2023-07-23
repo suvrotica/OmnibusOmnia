@@ -14,6 +14,10 @@
 	});
 </script>
 
+<svelte:head>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+</svelte:head>
+
 <main class="container">
 	<article>
 		<header><Header /></header>
