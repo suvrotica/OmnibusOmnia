@@ -8,7 +8,7 @@
 		replace42tableWithHTMLTable
 	} from '$lib/utility-functions';
 	import { onMount, afterUpdate } from 'svelte';
-	import { speak, populateVoiceList, pause, resume, stop } from '$lib/tts';
+	import { speak, populateVoiceList } from '$lib/tts';
 
 	export let image_name = '';
 	export let blogContent = '';
@@ -33,21 +33,7 @@
 			}
 		});
 	});
-	function handleSpeak() {
-		speak(remainingContent);
-	}
 
-	function handlePause() {
-		pause();
-	}
-
-	function handleResume() {
-		resume();
-	}
-
-	function handleStop() {
-		stop();
-	}
 	const { title, date, remainingContent } = extractTitleAndDate(blogContent);
 
 	let newBlogContent = replaceBqWithDiv(remainingContent);
@@ -58,10 +44,8 @@
 </script>
 
 <details>
-	<button on:click={handleSpeak}>Speak</button>
-	<button on:click={handlePause}>Pause</button>
-	<button on:click={handleResume}>Resume</button>
-	<button on:click={handleStop}>Stop</button>
+	<button on:click={speak}>Speak</button>
+
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
 	<article>

@@ -9,6 +9,9 @@ if (!import.meta.env.SSR) {
 let voices: SpeechSynthesisVoice[] = [];
 
 export function populateVoiceList() {
+	if (!voiceSelect) {
+		return;
+	}
 	if (synth) {
 		voices = synth.getVoices().sort(function (a, b) {
 			const aname = a.name.toUpperCase();
@@ -48,13 +51,13 @@ if (!import.meta.env.SSR && speechSynthesis.onvoiceschanged !== undefined) {
 	speechSynthesis.onvoiceschanged = populateVoiceList;
 }
 
-export function speak(text: string) {
+export function speak() {
 	if (synth && synth.speaking) {
 		console.error('speechSynthesis.speaking');
 		return;
 	}
 
-	const utterThis = new SpeechSynthesisUtterance(text);
+	const utterThis = new SpeechSynthesisUtterance('Hello world');
 
 	utterThis.onend = function (event) {
 		console.log('SpeechSynthesisUtterance.onend');
@@ -73,22 +76,4 @@ export function speak(text: string) {
 		}
 	}
 	synth.speak(utterThis);
-}
-
-export function pause() {
-	if (synth) {
-		synth.pause();
-	}
-}
-
-export function resume() {
-	if (synth) {
-		synth.resume();
-	}
-}
-
-export function stop() {
-	if (synth) {
-		synth.cancel();
-	}
 }
