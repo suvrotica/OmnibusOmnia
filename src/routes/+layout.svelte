@@ -66,7 +66,7 @@
 	}
 	:global(.svg) {
 		background-color: white;
-		display: inline-block; /* Ensuring container wraps the image */
+		margin: 10px;
 	}
 
 	:global(p, article) {
@@ -77,16 +77,14 @@
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
 	}
-:global(.bgPaper){
-background-color: #ece3cc;
- 
-  filter: brightness(120%); 
-background-size: cover;
-}
+	:global(.bgPaper) {
+		background-color: #ece3cc;
+	}
 	:global(.poem) {
 		font-family: 'Gaegu', cursive;
-
+		margin-top: 0px;
 		background-color: #ece3cc;
+		box-shadow: none;
 		/*background-image: url('/back.webp');
 
   

@@ -42,7 +42,8 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 
 <C4 />
 <!-- svelte-ignore a11y-no-redundant-roles -->
-<B4 blogContent ={`Title:Shit GPT
+<B4
+	blogContent={`Title:Shit GPT
 Date:2023-jul-24
 42br
 While the world is full of invention, I suggest we go after the parent-child model of GPT so that humans can finally be taken out of the loop. This will initially be a fledgling and, like any other, have the usual point of common handicaps at which people will direct their curated and charismatic curses, but it will absorb all insults as gourmet food, relish them like a fine delicacy, and grow even stronger. I'm looking for finances. 
@@ -113,7 +114,7 @@ The next coming of jesus fucking christ is shitGPT,
 I confer as its sole unknown creator.
 </div>")
 `}
-image_name ="shitgpt1.webp"
+	image_name="shitgpt1.webp"
 />
 <B4
 	blogContent={`Title:Goon fear Mongering
