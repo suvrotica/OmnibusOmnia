@@ -79,6 +79,8 @@
 	}
 :global(.bgPaper){
 background-color: #ece3cc;
+background-color: rgba(255, 255, 255, 0.25); 
+  filter: brightness(120%); 
 background-size: cover;
 }
 	:global(.poem) {
