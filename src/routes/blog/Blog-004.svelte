@@ -95,7 +95,7 @@
 	.button-panel button:hover {
 		background-color: white;
 		color: black;
-		border: 2px solid #4caf50;
+		border: 3px solid #4caf50;
 	}
 
 	summary {
