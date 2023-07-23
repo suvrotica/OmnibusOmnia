@@ -77,6 +77,9 @@
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
 	}
+:global(.bgPaper){
+background-color: #ece3cc;
+}
 	:global(.poem) {
 		font-family: 'Gaegu', cursive;
 
