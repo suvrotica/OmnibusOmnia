@@ -41,19 +41,16 @@
 </script>
 
 <details>
+	<div class="button-panel">
+		<button on:click={() => speakText(newBlogContent)}
+			><span class="material-icons">play_arrow</span></button
+		>
+		<button on:click={pauseSpeech}><span class="material-icons">pause</span></button>
+		<button on:click={resumeSpeech}><span class="material-icons">play_circle_filled</span></button>
+		<button on:click={stopSpeech}><span class="material-icons">stop</span></button>
+	</div>
 	<!-- svelte-ignore a11y-no-redundant-roles -->
-	<summary role="button" class="contrast"
-		>{date + ' : ' + title}
-		<div class="button-panel">
-			<button on:click={() => speakText(newBlogContent)}
-				><span class="material-icons">play_arrow</span></button
-			>
-			<button on:click={pauseSpeech}><span class="material-icons">pause</span></button>
-			<button on:click={resumeSpeech}><span class="material-icons">play_circle_filled</span></button
-			>
-			<button on:click={stopSpeech}><span class="material-icons">stop</span></button>
-		</div></summary
-	>
+	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
 	<article>
 		<article class="float-left">
 			<figure>
@@ -95,7 +92,7 @@
 	.button-panel button:hover {
 		background-color: white;
 		color: black;
-		border: 3px solid #4caf50;
+		border: 2px solid #4caf50;
 	}
 
 	summary {
