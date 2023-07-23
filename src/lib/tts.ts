@@ -9,9 +9,6 @@ if (!import.meta.env.SSR) {
 let voices: SpeechSynthesisVoice[] = [];
 
 export function populateVoiceList() {
-	if (!voiceSelect) {
-		return;
-	}
 	if (synth) {
 		voices = synth.getVoices().sort(function (a, b) {
 			const aname = a.name.toUpperCase();
@@ -76,9 +73,4 @@ export function speak() {
 		}
 	}
 	synth.speak(utterThis);
-}
-if (voiceSelect) {
-	voiceSelect.onchange = function () {
-		speak();
-	};
 }
