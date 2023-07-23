@@ -16,7 +16,6 @@
 
 <svelte:head>
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-	<script src="https://code.responsivevoice.org/responsivevoice.js"></script>
 </svelte:head>
 
 <main class="container">
