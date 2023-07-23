@@ -79,6 +79,7 @@
 	}
 :global(.bgPaper){
 background-color: #ece3cc;
+background-size: cover;
 }
 	:global(.poem) {
 		font-family: 'Gaegu', cursive;
