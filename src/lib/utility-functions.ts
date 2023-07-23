@@ -53,3 +53,19 @@ export function replace42tableWithHTMLTable(blogContent: string): string {
 		return tableHTML;
 	});
 }
+export function replace42picWithFigure(blogContent: string): string {
+	return blogContent.replace(/42pic\("([\s\S]*?)"\)/g, (match, imageName) => {
+		return `
+        <article class="float-left svg">
+			<figure>
+            <img src="/${imageName.trim()}" alt="${imageName.trim()}">;
+				<img src="/sign.svg" alt="sign" width="50%" style="display: block; margin: 0 auto;" />
+
+				<figcaption class="yellow-banner">
+                ${imageName.trim()}
+				</figcaption>
+			</figure>
+		</article>
+        `;
+	});
+}

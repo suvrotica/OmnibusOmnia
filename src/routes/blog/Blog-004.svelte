@@ -5,7 +5,8 @@
 		replaceBqWithDiv,
 		enhancePunctuation,
 		replace4bWithBreak,
-		replace42tableWithHTMLTable
+		replace42tableWithHTMLTable,
+		replace42picWithFigure
 	} from '$lib/utility-functions';
 	import { onMount, afterUpdate } from 'svelte';
 	import { speak, populateVoiceList } from '$lib/tts';
@@ -37,10 +38,11 @@
 	const { title, date, remainingContent } = extractTitleAndDate(blogContent);
 
 	let newBlogContent = replaceBqWithDiv(remainingContent);
+
+	newBlogContent = replace42picWithFigure(newBlogContent);
 	newBlogContent = replace42brWithBreak(newBlogContent);
 	newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
-	newBlogContent = enhancePunctuation(newBlogContent);
 </script>
 
 <details>
