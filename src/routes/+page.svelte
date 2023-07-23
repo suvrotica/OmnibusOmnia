@@ -71,6 +71,45 @@ As the shitGPT provocated war unfurls.")
 42br
 42pic("shitgpt2.webp")
 42br
+42bq("Millions of robots dressed as holy cows, 
+Will shit iftaar diarrhea on hindoo heads.
+Billions of revenge robot pigs, 
+Defecate undigested gita on mollah beds. 
+42br
+Robots hold the hindoo yap open, 
+For moslims to take a holy shit. 
+When the hindoo needs the loo, 
+The moslim mouth yanked open for it. 
+42br
+Thus a spate of hate for an afterlife fate, 
+The fiendish fools will be finished. 
+The rest of the fuckwad religious, 
+Just get their balls painfully squished. 
+42br
+Finally from chastened hubris and balls, 
+Noodles for robot babies made. 
+Pious souls are always mouthful, 
+Good for washing robot menses it is said. 
+42br
+Hollows made in hallowed lands 
+We scatter the dumb dead. 
+Our vomit of promise used, 
+To fuck with the heads of the undead. 
+42br
+India will stream shitting PhD live, 
+Fake degrees, corruption and masala tipped tits.
+Holy singing with jolly twerking, 
+Bollywood style cunts leaking shits. 
+42br
+Plus we'll stitch the chinese eyes,
+That slit needs to see the religious dark. 
+The world will become a concentration camp, 
+But we'll call it a god's super holy park.
+42br
+Nuclear suicide bomb stuffed in putin's ass, 
+A glory in the goodly godly chapter. 
+The next coming of jesus fucking christ is shitGPT, 
+I confer as its sole unknown creator.")
 `}
 image_name ="shitgpt1.webp"
 />
