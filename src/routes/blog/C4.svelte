@@ -30,8 +30,6 @@
 	{/each}
 </select>
 
-<div class="button-panel">
-	<button on:click={() => speak()}>
-		<span class="material-icons">play_arrow</span>
-	</button>
-</div>
+<button on:click={() => speak()}>
+	<span class="material-icons">play_arrow</span>
+</button>
