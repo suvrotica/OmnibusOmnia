@@ -68,6 +68,9 @@ This crusade will be of shit and piss,
 Projectile cum, diarrhea and vomit hurls. 
 The moslims and hindoos fondly fingered, 
 As the shitGPT provocated war unfurls.")
+42br
+42pic("shitgpt2.webp")
+42br
 `}
 image_name ="shitgpt1.webp"
 />
