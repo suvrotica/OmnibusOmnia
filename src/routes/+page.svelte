@@ -4,6 +4,7 @@
 	import B2 from '../routes/blog/Blog-002.svelte';
 	import B3 from '../routes/blog/Blog-003.svelte';
 	import B4 from '../routes/blog/Blog-004.svelte';
+	import C4 from '../routes/blog/C4.svelte';
 	import { getCurrentDateAsString } from '$lib/date';
 
 	const currentDate: string = getCurrentDateAsString();
@@ -39,6 +40,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 	};
 </script>
 
+<C4 />
 <!-- svelte-ignore a11y-no-redundant-roles -->
 <B4
 	blogContent={`Title:Goon fear Mongering
