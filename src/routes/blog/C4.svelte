@@ -22,14 +22,6 @@
 			}
 		});
 	});
-
-	function speakText(text: string) {
-		utterance.text = text;
-		utterance.onerror = function (event) {
-			console.error('SpeechSynthesisUtterance.onerror', event);
-		};
-		speak();
-	}
 </script>
 
 <select bind:value={selectedVoice}>
@@ -39,7 +31,7 @@
 </select>
 
 <div class="button-panel">
-	<button on:click={() => speakText('Hello world')}>
+	<button on:click={() => speak('Hello this is weird')}>
 		<span class="material-icons">play_arrow</span>
 	</button>
 </div>

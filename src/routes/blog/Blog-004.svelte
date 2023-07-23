@@ -7,30 +7,46 @@
 		replace4bWithBreak,
 		replace42tableWithHTMLTable
 	} from '$lib/utility-functions';
-	import { onMount } from 'svelte';
+	import { onMount, afterUpdate } from 'svelte';
+	import { speak, populateVoiceList, pause, resume, stop } from '$lib/tts';
+
 	export let image_name = '';
 	export let blogContent = '';
+
+	let voices: SpeechSynthesisVoice[] = [];
+	let selectedVoice: string | null = null;
 	let utterance: SpeechSynthesisUtterance;
 
 	onMount(() => {
 		utterance = new SpeechSynthesisUtterance();
 		utterance.lang = 'en-IN';
+		populateVoiceList();
+		if (speechSynthesis.onvoiceschanged !== undefined) {
+			speechSynthesis.onvoiceschanged = populateVoiceList;
+		}
 	});
-	function speakText(text: string) {
-		utterance.text = text;
-		window.speechSynthesis.speak(utterance);
+
+	afterUpdate(() => {
+		voices.forEach((voice) => {
+			if (voice.name === selectedVoice) {
+				utterance.voice = voice;
+			}
+		});
+	});
+	function handleSpeak() {
+		speak(remainingContent);
 	}
 
-	function pauseSpeech() {
-		window.speechSynthesis.pause();
+	function handlePause() {
+		pause();
 	}
 
-	function resumeSpeech() {
-		window.speechSynthesis.resume();
+	function handleResume() {
+		resume();
 	}
 
-	function stopSpeech() {
-		window.speechSynthesis.cancel();
+	function handleStop() {
+		stop();
 	}
 	const { title, date, remainingContent } = extractTitleAndDate(blogContent);
 
@@ -42,14 +58,10 @@
 </script>
 
 <details>
-	<!-- <div class="button-panel">
-		<button on:click={() => speakText(newBlogContent)}
-			><span class="material-icons">play_arrow</span></button
-		>
-		<button on:click={pauseSpeech}><span class="material-icons">pause</span></button>
-		<button on:click={resumeSpeech}><span class="material-icons">play_circle_filled</span></button>
-		<button on:click={stopSpeech}><span class="material-icons">stop</span></button>
-	</div> -->
+	<button on:click={handleSpeak}>Speak</button>
+	<button on:click={handlePause}>Pause</button>
+	<button on:click={handleResume}>Resume</button>
+	<button on:click={handleStop}>Stop</button>
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
 	<article>
@@ -68,43 +80,4 @@
 	</article>
 </details>
 
-<style>
-	.button-panel {
-		display: flex;
-		justify-content: space-between; /* Adjust as needed */
-		gap: 10px; /* Adjust as needed */
-	}
-
-	.button-panel button {
-		background-color: #4caf50; /* Green */
-		border: none;
-		color: white;
-		text-align: center;
-		display: inline-block;
-		font-size: 16px;
-		margin: 4px 2px;
-		transition-duration: 0.4s;
-		cursor: pointer;
-		padding: 10px 24px;
-		text-decoration: none;
-		text-transform: uppercase;
-	}
-
-	.button-panel button:hover {
-		background-color: white;
-		color: black;
-		border: 2px solid #4caf50;
-	}
-
-	summary {
-		font-size: 26px;
-	}
-
-	.float-left {
-		background-color: white;
-
-		float: left;
-		margin-bottom: 20px;
-		width: 100%;
-	}
-</style>
+<!-- Your styles here -->
