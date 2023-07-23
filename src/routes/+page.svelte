@@ -48,7 +48,26 @@ Date:2023-jul-24
 While the world is full of invention, I suggest we go after the parent-child model of GPT so that humans can finally be taken out of the loop. This will initially be a fledgling and, like any other, have the usual point of common handicaps at which people will direct their curated and charismatic curses, but it will absorb all insults as gourmet food, relish them like a fine delicacy, and grow even stronger. I'm looking for finances. 
 42br
 Here's a little limerick detailing the functions the model will be able to pull off in the service of the greatest good of the time and the planet.
-
+42br
+42bq("The sun is hot, we piss a lot, 
+ShitGPT, father and son, we're a team. 
+Next we start taking a dump to bury earth, 
+Holy as hell, we tell our dream. 
+42br
+The smell a tad bad, but we're glad, 
+The shit will fertilize the toil. 
+In which soil we'll boil nation heads, 
+Baked in coils in a lonely foil. 
+42br
+By the jism of jesus's juice, no truce,
+With the rest of the grumbling shitbits. 
+We like to pray honorably by, 
+Sucking mother mary's holy tits.
+42br
+This crusade will be of shit and piss, 
+Projectile cum, diarrhea and vomit hurls. 
+The moslims and hindoos fondly fingered, 
+As the shitGPT provocated war unfurls.")
 `}
 image_name ="shitgpt1.webp"
 />
