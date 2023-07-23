@@ -1,5 +1,7 @@
 <script lang="ts">
 	import { onMount, afterUpdate } from 'svelte';
+	import { speak, populateVoiceList } from '$lib/tts';
+
 	let voices: SpeechSynthesisVoice[] = [];
 	let selectedVoice: string | null = null;
 	let utterance: SpeechSynthesisUtterance;
@@ -21,31 +23,12 @@
 		});
 	});
 
-	function populateVoiceList() {
-		voices = window.speechSynthesis.getVoices();
-		if (voices.length > 0) {
-			selectedVoice = voices[0].name;
-		}
-	}
-
 	function speakText(text: string) {
 		utterance.text = text;
 		utterance.onerror = function (event) {
 			console.error('SpeechSynthesisUtterance.onerror', event);
 		};
-		window.speechSynthesis.speak(utterance);
-	}
-
-	function pauseSpeech() {
-		window.speechSynthesis.pause();
-	}
-
-	function resumeSpeech() {
-		window.speechSynthesis.resume();
-	}
-
-	function stopSpeech() {
-		window.speechSynthesis.cancel();
+		speak();
 	}
 </script>
 
@@ -58,14 +41,5 @@
 <div class="button-panel">
 	<button on:click={() => speakText('Hello world')}>
 		<span class="material-icons">play_arrow</span>
-	</button>
-	<button on:click={pauseSpeech}>
-		<span class="material-icons">pause</span>
-	</button>
-	<button on:click={resumeSpeech}>
-		<span class="material-icons">play_circle_filled</span>
-	</button>
-	<button on:click={stopSpeech}>
-		<span class="material-icons">stop</span>
 	</button>
 </div>
