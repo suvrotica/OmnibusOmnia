@@ -49,8 +49,9 @@ While the world is full of invention, I suggest we go after the parent-child mod
 42br
 Here's a little limerick detailing the functions the model will be able to pull off in the service of the greatest good of the time and the planet.
 
-`}/>
+`}
 image_name ="shitgpt1.webp"
+/>
 <B4
 	blogContent={`Title:Goon fear Mongering
 		Date:2023-jul-22
