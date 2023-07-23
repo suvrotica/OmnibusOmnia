@@ -23,6 +23,9 @@
 
 	function populateVoiceList() {
 		voices = window.speechSynthesis.getVoices();
+		if (voices.length > 0) {
+			selectedVoice = voices[0].name;
+		}
 	}
 
 	function speakText(text: string) {
