@@ -7,37 +7,51 @@
 		replace4bWithBreak,
 		replace42tableWithHTMLTable
 	} from '$lib/utility-functions';
-	import { onMount } from 'svelte';
+
 	export let image_name = '';
 	export let blogContent = '';
-	let utterance: SpeechSynthesisUtterance;
 
-	onMount(() => {
-		utterance = new SpeechSynthesisUtterance();
-	});
+	let responsiveVoice: any;
+	let newBlogContent = '';
+	let title = '';
+	let date = '';
+
+	$: {
+		const {
+			title: extractedTitle,
+			date: extractedDate,
+			remainingContent
+		} = extractTitleAndDate(blogContent);
+
+		title = extractedTitle;
+		date = extractedDate;
+
+		newBlogContent = replaceBqWithDiv(remainingContent);
+		newBlogContent = replace42brWithBreak(newBlogContent);
+		newBlogContent = replace4bWithBreak(newBlogContent);
+		newBlogContent = replace42tableWithHTMLTable(newBlogContent);
+		newBlogContent = enhancePunctuation(newBlogContent);
+	}
+
 	function speakText(text: string) {
-		utterance.text = text;
-		window.speechSynthesis.speak(utterance);
+		if (typeof responsiveVoice !== 'undefined') {
+			responsiveVoice.speak(text);
+		} else {
+			console.error('responsiveVoice is not loaded yet');
+		}
 	}
 
 	function pauseSpeech() {
-		window.speechSynthesis.pause();
+		responsiveVoice.pause();
 	}
 
 	function resumeSpeech() {
-		window.speechSynthesis.resume();
+		responsiveVoice.resume();
 	}
 
-	function stopSpeech() {
-		window.speechSynthesis.cancel();
+	function cancelSpeech() {
+		responsiveVoice.cancel();
 	}
-	const { title, date, remainingContent } = extractTitleAndDate(blogContent);
-
-	let newBlogContent = replaceBqWithDiv(remainingContent);
-	newBlogContent = replace42brWithBreak(newBlogContent);
-	newBlogContent = replace4bWithBreak(newBlogContent);
-	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
-	newBlogContent = enhancePunctuation(newBlogContent);
 </script>
 
 <details>
@@ -47,7 +61,7 @@
 		>
 		<button on:click={pauseSpeech}><span class="material-icons">pause</span></button>
 		<button on:click={resumeSpeech}><span class="material-icons">play_circle_filled</span></button>
-		<button on:click={stopSpeech}><span class="material-icons">stop</span></button>
+		<button on:click={cancelSpeech}><span class="material-icons">stop</span></button>
 	</div>
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
