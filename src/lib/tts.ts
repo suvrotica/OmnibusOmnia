@@ -77,3 +77,8 @@ export function speak() {
 	}
 	synth.speak(utterThis);
 }
+if (voiceSelect) {
+	voiceSelect.onchange = function () {
+		speak();
+	};
+}
