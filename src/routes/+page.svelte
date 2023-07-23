@@ -69,9 +69,9 @@ This crusade will be of shit and piss,
 Projectile cum, diarrhea and vomit hurls. 
 The moslims and hindoos fondly fingered, 
 As the shitGPT provocated war unfurls.")
-42br
+
 42pic("shitgpt2.webp")
-42br
+
 42bq("Millions of robots dressed as holy cows, 
 Will shit iftaar diarrhea on hindoo heads.
 Billions of revenge robot pigs, 
