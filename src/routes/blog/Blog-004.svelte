@@ -47,7 +47,7 @@
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
 	<article>
-		<article class="float-left">
+		<article class="float-left svg">
 			<figure>
 				<img src="/{image_name}" alt="pic" />
 				<img src="/sign.svg" alt="sign" width="50%" style="display: block; margin: 0 auto;" />
