@@ -46,11 +46,11 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 Date:2023-jul-24
 42br
 Mucophagy is the fancy term for eating boogers or rhinoliths. 
-It's something that many people do, even though it's often seen as bad manners, like me. 
+It's something that many people do, assholes like me, even though it's often seen as bad manners. 
 In fact exactly why I do it in fact. Just to piss people off. 
 42br
 There are some potential health risks with mucophagy. Picking your nose can irritate the inside of your nose, cause nosebleeds, or even create a hole in the wall that separates your nostrils. Plus, your fingers and boogers can carry germs, which might make you sick.
-Or you can fake a nose bleed with same paint in a visible and violent nose picking.
+Or you can fake a nose bleed with some paint in a visible and violent nose picking.
 Could be fun, especially if you practice the screaming.
 I've noticed too when you're bleeding people allow abominable imprecations. 
 Try it. 
