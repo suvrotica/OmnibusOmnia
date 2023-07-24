@@ -51,6 +51,7 @@ It's something that many people do, even though it's often seen as bad manners.
 There are some potential health risks with mucophagy. Picking your nose can irritate the inside of your nose, cause nosebleeds, or even create a hole in the wall that separates your nostrils. Plus, your fingers and boogers can carry germs, which might make you sick.
 42br
 However, some scientists think that eating boogers might actually be good for your immune system. The idea is that boogers contain germs, and when you eat them, your body can learn how to fight off these germs in the future. It's kind of like how a vaccine works. But this is just a theory, and there isn't enough scientific evidence to prove it yet.
+42br
 42bq("
 I dig my nose, I go really close,
 To my brain in the digging. 
