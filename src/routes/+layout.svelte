@@ -38,11 +38,11 @@
 		font-family: 'Gaegu', cursive;
 		font-weight: 300;
 	}
-	:global(pre) {
+	:global(summary) {
 		font-family: 'Gaegu', cursive;
-		font-weight: 100;
+		font-size :32px;
 	}
-	:global(h1, h2, h3, h4, h5, h6, summary) {
+	:global(h1, h2, h3, h4, h5, h6) {
 		font-family: 'Amatic SC', cursive;
 	}
 	:global(.float-left) {
