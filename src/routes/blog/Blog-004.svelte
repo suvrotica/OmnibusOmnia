@@ -9,31 +9,9 @@
 		replace42picWithFigure
 	} from '$lib/utility-functions';
 	import { onMount, afterUpdate } from 'svelte';
-	import { speak, populateVoiceList } from '$lib/tts';
 
 	export let image_name = '';
 	export let blogContent = '';
-
-	let voices: SpeechSynthesisVoice[] = [];
-	let selectedVoice: string | null = null;
-	let utterance: SpeechSynthesisUtterance;
-
-	onMount(() => {
-		utterance = new SpeechSynthesisUtterance();
-		utterance.lang = 'en-IN';
-		populateVoiceList();
-		if (speechSynthesis.onvoiceschanged !== undefined) {
-			speechSynthesis.onvoiceschanged = populateVoiceList;
-		}
-	});
-
-	afterUpdate(() => {
-		voices.forEach((voice) => {
-			if (voice.name === selectedVoice) {
-				utterance.voice = voice;
-			}
-		});
-	});
 
 	const { title, date, remainingContent } = extractTitleAndDate(blogContent);
 
