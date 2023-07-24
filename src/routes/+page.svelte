@@ -56,7 +56,7 @@ I've noticed too when you're bleeding people allow abominable imprecations.
 Try it. 
 42br
 However, some scientists think that eating boogers might actually be good for your immune system. The idea is that boogers contain germs, and when you eat them, your body can learn how to fight off these germs in the future. It's kind of like how a vaccine works. But this is just a theory, and there isn't enough scientific evidence to prove it yet.
-But really who needs proof, did we wait for proof when we declared there's a hairy man on the cloud? 
+But really who needs proof, did we wait for proof when we declared there's a capricious and belligerent hairy man on the cloud called gee fucking odd? 
 42br
 42bq("
 I dig my nose, I go really close,
