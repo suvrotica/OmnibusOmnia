@@ -22,7 +22,7 @@
 	<article>
 		<header><Header /></header>
 		<slot />
-		<footer>Footer</footer>
+		<footer>Suvro the Ghosh who Shits</footer>
 	</article>
 </main>
 
