@@ -42,6 +42,20 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent ={`Title:Hot Truth
+Date:2023-jul-24
+42br
+While we're on such short notice about what is or isn't true, it's important to realize that we have a confabulating brain, and various variations of what we call fibs are accommodations of temporary agreements that, at the moment of installation, were clearly marked as fiction, but with the passing of years, the stickers either fell off or were deliberately tampered with to give them meaning beyond the origin definitions. Such are the foibles of our species.
+42br
+So it's interesting that while we are fighting one set of misinformation, we can't, by law, question religion, superstitious thinking, fallacious political ideology, or legal systems once they are written. We often tend to treat human creations as if they are as well defined as an apple when you release it in midair. That's what I call an inevitable sort of situation; the curvature of space and time means an apple would quite splat land like that, but not a levitating guru. In the latter case, ask for a refund.
+42br
+It's really important to establish our relationship with rationality once again. I know I keep saying that like a broken record or that the planet is really fucked, but I sense there's a connection. We'll be chasing bullshit and our tails and the money, and the whole show is going to come to a screeching halt for most of us, the older ones, at least the few who have eyes, and if we are dead, then it's homo hemlock flying blind with no one complaining or raising their voice until it's all over. The last drip of greedy drool will dry up, and everyone will be back in a world where it's back to goofy, chancy subsistence.
+42br
+The more shit that hits the fan, the hotter the planet gets and the meaner the people are going to get. It's not going to be dramatic or photogenic, like people like me getting killed or a million in Africa; that's not a blockbuster, so yes, no, not tik-tok material or even material worth a library rental, but it won't matter when the time comes. You'd find out. How cinematic it is to be so stupid as to fuck up the thin little breathable air lining on the only sphere we can call home, and while the fluttering sphincter burns and you turn to carbon once again, what an asshole you have been for not listening to all the warnings!
+`} 
+image_name ="heat.webp"
+/>
+
 <B4
 	blogContent={`Title:Shit GPT
 Date:2023-jul-24
