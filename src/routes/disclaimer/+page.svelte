@@ -34,4 +34,5 @@ And art, for me, is sort of an expression of a compulsive tic—a compulsion to 
 These are thought experiments that usually deal with the unpleasant and the unremarkable. It helps to distance myself from me, find the brakes, attenuate, and soothe. Perhaps the art is the curated fulmination of a closet thinker presented as is. Filaments of figment, visualized babble, and fiction concocted, And sometimes stranger than that. Or a discolored montage of what my life has been.
 42br
 And that is why I can't put labels on them with an intellectual identification of what their meaning is without over-analyzing them to shreds. Sometimes I do, and then it's just a post-hoc postmortem of something that wasn't really behind the inspiration. Most of the labels do have a post and a title on them that express, as the case may be, a need of the moment, although it's not always causal by creation. Or sometimes they are, but I'd be wary if you attach too much attention to such things. `}
+image_name ="me.webp"
 />
