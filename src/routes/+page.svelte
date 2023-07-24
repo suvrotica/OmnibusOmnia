@@ -42,6 +42,32 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent ={`Title:I dig my nose
+Date:2023-jul-24
+42bq("
+I dig my nose, I go really close,
+To my brain in the digging. 
+Gold to be found, a plan very sound, 
+I think I really know what I'm doing. 
+42br
+But people are mean to me, I see,
+No real reason why.
+Sure I'm slow, my shit doesn't flow,
+And something growing on my eye.
+42br
+But my boogers are big, like a ripe fig,
+And like a fig, there are insects in them.
+I eat them whole, store in casserole, 
+They never taste always the same.
+42br
+This my life, it's full of strife, 
+A never ending saga of diarrhea. 
+Who knew that it would be this hard,
+To assemble a plastic life from Ikea.
+") `} 
+image_name="dignose.svg"
+/>
+
 <B4 blogContent ={`Title:Hot Truth
 Date:2023-jul-24
 42br
