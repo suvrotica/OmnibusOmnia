@@ -1,4 +1,4 @@
-I<script lang="ts">
+<script lang="ts">
 	import Title from '$lib/components/title.svelte';
 	import B1 from '../routes/blog/Blog-001.svelte';
 	import B2 from '../routes/blog/Blog-002.svelte';
