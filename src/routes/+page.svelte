@@ -42,6 +42,24 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent ={`Title:Why hindoos have hiccups
+Date:2023-jul-26
+42br
+It's pouring cats and dogs, and in the northern parts, larger ungulates, and the media has to curtail some of the hate-mongering debates due to this climate crisis. I mean, you can't ignore this sort of cataclysm and miss the opportunity to blame it on some sort of bad planning. Say by someone not in power, like the Mughals, the British, or whoever created the drainage systems that are still being used. Of course, these are short-lived; no one has time to carry on about drainage systems or boring non-issues like that. The amnesia Indians have is magical; they'll forget everything and crowd in front of the TV for the next debate on "why hindoos have hiccups...".
+42br
+The promises and stories that politicians tell have plots that are thinner than the thinnest used, and even that too, in the lowest budgeted porn flicks, or "blue filim," as the more vernacular moniker goes, and consequently, it's only the brain dead, bribed, indoctrinated, securely brainwashed, or inmates of asylums that can be expected to feel the jubilation in the self-congratulatory nature of achievements that festoon the paid media. I do read them; it's a good practice for correcting my Hindi dyslexia, and given that it's guaranteed to generate whoops of uncontrollably difficult spasms in my breathing tube in public, I prefer to do it privately.
+42br
+If there's any job where you can screw it up completely and still have people publicly suffocate and be officially forced to say you did a good job, it's sitting on an Indian chair that's elected. No matter what happens afterwards, your job is secure, and usually the only work you do for the rest of your life is make sure you sit on that or some other chair and collect enough wealth so that every kith and kin in the next fourteen generations can spend a lavish life in an European country.
+42br
+And with the great hairy gods on the side, anything under the unfair sky is possible as both god and money are real—that is, hardly an illusion, although an illusion nonetheless, but a product of human agreement, and it is agreed that not everyone has to be in on it, unless there's a cut involved. Reality is such an easy ball of clay that can be played around.
+42br
+And all thanks to the previous generations of squandering forepeople, we have a large number of citizens who are quite close to being illiterate, and the ones that have a bit in their heads usually come out like confused colonial masala spaghetti that's undercooked and unpalatable for the modern gluttonous creed. But since most people don't know what they don't know, that gives them strident confidence in the debates that are always bloodthirsty and amusing at the same time.
+42br
+So why do hindoos have hiccups?
+`} 
+image_name ="tvdeb.webp"
+
+/>
 <B4 blogContent ={`Title:Meow says the Manhole
 Date:2023-jul-25
 42br
