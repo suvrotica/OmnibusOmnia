@@ -42,6 +42,22 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent ={`Title:Vacuum kissing in Kolkata
+Date:2023-jul-25
+42br
+Now, as an old fart, since I have it pretty dry, it doesn't stop me from describing the metamorphosis of the vacuum kiss or how the metaphors could be moved around to adjust to the sensibilities of the city of joy, helping you, the young hearts, in the process.
+42br
+Things have opened up quite a bit since Edison’s scandalous film of the first on-screen kiss in 1896. The public's perception of puckering up can have some different meanings all together these days. If you're in my city and the smell reminds you that some people are puckering snakes and that the hygiene of others needs some thought, you might not want to leave your bathroom. But I digress; as it happens, I have diarrhea, a happy comeuppance of rain, vain and jolly shitting pain, and I'm wondering how aquifers are connected, etcetera. But back to the kissing: a different puckering involving lips on your face instead of the ass
+42br
+Here's how it ought to go down: behind a rustling shrubbery in a pre-independence landmark where you enter, you pay a fee to the underpaid, gaunt police or someone pretending to be an officer of some sort, just for this proximity. Usually already with a girl, who could also be arranged by the said public servant in the previous sentence for a few bucks more. I make no judgments on your abilities. I have none. Girls never get attracted to me. I'd be the last creature they'd consider mating with if the planet was just about to get raped by aliens. But forget about losers like me and proceed with confidence. But don't overdo it; girls like a measured bit. They want to have room to work on it so that they can feel like they're contributing. If you already seem like you're on cloud nine, there's not much anyone can do.
+42br
+You start off by first opening your mouth just a tad, right after you've been resting peacefully with closed lips, perhaps under the democratic but competitive shade of a gulmohar with other proximity seekers. Adroitly signal to your girl, by gently brushing her teeth with a flick of the tip of your tongue, that you wish for her reciprocation. Preferably with the eyes diplomatically half-closed. The moment she responds, close your eyes and instead of the usual old-fashioned caress, suck inward as though you were trying to draw out the sweet juice of a ripe Chaunsa mango. This variety of mango was named after Indian ruler Sher Shah Suri to celebrate his victory over Humayun at Bihar's Chausa, something we, as hindoo Indians, should deny and rename the mango. Sorry, I digress. You usually see it in July and August. It used to come from Hardoi, Uttar Pradesh. The Chaunsa is best enjoyed when sucked.
+42br
+Anyway, if she's clued into this mango variation, your Valentine will act in the same way and suck the air from your mouth, like a vacuum pump. In this way, in a very short while, the air will have been entirely drawn out of your mouths. Your lips will stick so tightly that there will almost be a hint of pain instead of pleasure. It'll be the sort of pain that's highly pleasurable, like the fiery burn of a puchka on the sphincter the next day, and your tips to the policeman will be worth it.
+`} 
+image_name ="vkiss.svg"
+/>
+
 <B4 blogContent ={`Title:I dig my nose
 Date:2023-jul-24
 42br
