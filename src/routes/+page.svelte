@@ -54,6 +54,9 @@ Here's how it ought to go down: behind a rustling shrubbery in a pre-independenc
 You start off by first opening your mouth just a tad, right after you've been resting peacefully with closed lips, perhaps under the democratic but competitive shade of a gulmohar with other proximity seekers. Adroitly signal to your girl, by gently brushing her teeth with a flick of the tip of your tongue, that you wish for her reciprocation. Preferably with the eyes diplomatically half-closed. The moment she responds, close your eyes and instead of the usual old-fashioned caress, suck inward as though you were trying to draw out the sweet juice of a ripe Chaunsa mango. This variety of mango was named after Indian ruler Sher Shah Suri to celebrate his victory over Humayun at Bihar's Chausa, something we, as hindoo Indians, should deny and rename the mango. Sorry, I digress. You usually see it in July and August. It used to come from Hardoi, Uttar Pradesh. The Chaunsa is best enjoyed when sucked. I love mangoes.
 42br
 Anyway, if she's clued into this mango variation, your Valentine will act in the same way and suck the air from your mouth, like a vacuum pump. In this way, in a very short while, the air will have been entirely drawn out of your mouths. Your lips will stick so tightly that there will almost be a hint of pain instead of pleasure. It'll be the sort of pain that's highly pleasurable, like the fiery burn of a puchka on the sphincter the next day, and your tips to the policeman will be worth it.
+42br
+By the way, while you are enjoying the manual vacuum 
+in each other's mouth, I should tell you that it was a very hairy German guy Otto von Guericke in the mid-17th century, born in Magdeburg, Saxony-Anhalt, Germany in 1602, who invented the vacuum pump in 1650. This device was a pioneering development in creating a vacuum, a space devoid of matter, which was a revolutionary concept at the time. 
 `} 
 image_name ="vkiss.webp"
 />
