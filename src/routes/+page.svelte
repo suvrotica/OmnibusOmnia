@@ -55,7 +55,7 @@ You start off by first opening your mouth just a tad, right after you've been re
 42br
 Anyway, if she's clued into this mango variation, your Valentine will act in the same way and suck the air from your mouth, like a vacuum pump. In this way, in a very short while, the air will have been entirely drawn out of your mouths. Your lips will stick so tightly that there will almost be a hint of pain instead of pleasure. It'll be the sort of pain that's highly pleasurable, like the fiery burn of a puchka on the sphincter the next day, and your tips to the policeman will be worth it.
 `} 
-image_name ="vkiss.svg"
+image_name ="vkiss.webp"
 />
 
 <B4 blogContent ={`Title:I dig my nose
