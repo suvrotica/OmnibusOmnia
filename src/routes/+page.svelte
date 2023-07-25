@@ -63,7 +63,7 @@ in each other's mouth, I should tell you that it was a very hairy German guy Ott
 To demonstrate the power of the vacuum, he arranged a public demonstration where sixteen horses (eight on each side) tried to pull the hemispheres apart. Despite their strength, the horses were unable to separate the hemispheres. Only when air was let back into the sphere could the hemispheres be separated.
 42br
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/luIqVQT4QWs?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/luIqVQT4QWs?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 `} 
 image_name ="vkiss.webp"
 
