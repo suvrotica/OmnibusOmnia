@@ -42,6 +42,24 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent ={`Title:Meow says the Manhole
+Date:2023-jul-25
+42br
+In India, given our limited access to firearms and weak forearms, we try to content ourselves with a German technology called schadenfreude. With it, you can partake in the misery of others, not in an empathetic way but in the reverse. It works. Right now we have some rain in Kolkata and the usual waterlogged streets, but hey, look at the Hindi shits in Delhi. This gives us happiness, and we take the snake that was slithering around and cook it. The reptiles do bite, but the Calcatian venom kills. It tastes just like chicken. 
+42br
+Meow says the many manholes that are now perfectly hidden. These are just as instructive in demonstrating the power of a democracy to make issues, big and small, disappear. Women take note; they are refined and advanced, and although the name suggests discrimination, they are fair as long as your circumference will allow. In fact, it's because of the marvelous health exhibits that at least in Kolkata the name is justified, as for a man it is indeed a hole, not so for the belligerent podgy twenty-first century fat-endowed bags of better and bitter bile that always look where they're going, or get stuck halfway and raise hell. 
+42br
+I've been 3D printing shitart, especially the ones that resemble the elongated heads of the politicians that have clogged the nation like a drain with their gooch hair and dingleberries that have coated the parliament with this fecal crust. I'm always freaking out and checking every time it's a perfect match, like there's a team of holy artisans chiseling away at a turd until it plops into the perfect portrait of the people posing as prince charming.
+42br
+I mean, it's just super holy and all, I tell myself, a miracle and whatnot, right after soggy brown bread and mildew fungus in a damp cloth that's been rotting with the love of someone's sweat and the sun. I mean the sun god. In Nepal and Bihar, they're so totally into the sun that I'm amazed at how they come out unscathed. Must be the style of chanting. If I get it wrong, I won't have any bowel movements for weeks. Just gurgling gas, bloat and a growing distemper of misanthropic ill will. 
+42br
+Of course, now with the advent of AI, I don't need to shit anymore; Chatgpt does it for me, does a splendid job, and wipes the hallowed rosebud clean. Sitting for a turd to plop is so passé. The next iteration will be a black hole positioned ostentatiously in the poop hole. And talking about holes, you'd think that with the world's largest particle accelerator, what could NOT happen? With all this string theory crap and whatnot, we'd soon have a high-tech civilization-X crapper. Shit makes the pious prudes sick, especially the luddite ladies. I was hoping that with science on our side, men (and women) could defecate into a distant galaxy through a wormhole positioned inside our asshole, just next to that blackhole. That’s creative thinking at work. Those guys at the Large Hadron Collider should hire me. No seriously... 
+`} 
+image_name ="mhole.svg"
+
+/>
+
+
 <B4 blogContent ={`Title:Vacuum kissing in Kolkata
 Date:2023-jul-25
 42br
