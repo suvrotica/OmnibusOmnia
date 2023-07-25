@@ -61,9 +61,7 @@ By the way, while you are enjoying the manual vacuum
 in each other's mouth, I should tell you that it was a very hairy German guy Otto von Guericke in the mid-17th century, born in Magdeburg, Saxony-Anhalt, Germany in 1602, who invented the vacuum pump in 1650. This device was a pioneering development in creating a vacuum, a space devoid of matter, which was a revolutionary concept at the time. The invention of the barometer by Evangelista Torricelli, which demonstrated the existence of a vacuum, had a significant impact on von Guericke. He was intrigued by the concept of vacuum and the idea that 'nature abhors a vacuum', a common belief in science at the time. In 1654, Guericke, who was the mayor of Magdeburg at the time, had two large copper hemispheres made. When fitted together, they formed a sphere about a meter in diameter. Guericke then used his newly invented vacuum pump to remove the air from inside the sphere.
 
 To demonstrate the power of the vacuum, he arranged a public demonstration where sixteen horses (eight on each side) tried to pull the hemispheres apart. Despite their strength, the horses were unable to separate the hemispheres. Only when air was let back into the sphere could the hemispheres be separated.
-42br
-<iframe width="560" height="315" src="https://www.youtube.com/embed/luIqVQT4QWs?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="320" height="180" src="https://www.youtube.com/embed/luIqVQT4QWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 `} 
 image_name ="vkiss.webp"
