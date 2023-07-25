@@ -57,9 +57,9 @@ Anyway, if she's clued into this mango variation, your Valentine will act in the
 42br
 By the way, while you are enjoying the manual vacuum 
 in each other's mouth, I should tell you that it was a very hairy German guy Otto von Guericke in the mid-17th century, born in Magdeburg, Saxony-Anhalt, Germany in 1602, who invented the vacuum pump in 1650. This device was a pioneering development in creating a vacuum, a space devoid of matter, which was a revolutionary concept at the time. 
-`} 
+42pic("otto.svg")`} 
 image_name ="vkiss.webp"
-42pic("otto.svg")
+
 />
 
 <B4 blogContent ={`Title:I dig my nose
