@@ -42,6 +42,45 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
+
+<B4 blogContent ={`Title:Bed wetting 
+Date:2023-jul-26
+42br
+42bq("
+This land on which I stand,
+Came from my shit yes that's it.
+I stand proud close to the cloud,
+I'm feet deep in my shallow shit.
+42br
+Holy the lord, whose extension chord,
+May reach all the way to here.
+I may need to recharge my lighter,
+The battery is down I fear.
+42br
+I look down on the people,
+That I stepped on to rise. 
+Dumb ass mother fuckers,
+Stupid senile ungulates I despise.
+42br
+But every night when I piss,
+The mountain of shit melts.
+I'm back to square fucking one,
+With deep bruises and welts.
+42br
+Enemies can't be lovers,
+Spite is all there is.
+I hate this fucking shit ass life,
+I hate most my own flood of piss.
+42br
+The bed is wet, the triumph unset,
+I am now again a boy in pain.
+The homework needs to be done,
+I find my life very vain.
+")
+`} 
+image_name ="bedw.webp"
+
+/>
 <B4 blogContent ={`Title:People are assholes
 Date:2023-jul-26
 42br
