@@ -50,7 +50,7 @@ Would you rather they look up to see a hole, expect a wind, but instead get an a
 42br
 42bq("What this book, oh you must look,
 It's about a hole god we call. 
-Must be this through which miss,
+Must be this through which I miss,
 Something created us all.
 42br
 Really we're all as they say,
