@@ -123,7 +123,7 @@ image_name ="mhole.svg"
 <B4 blogContent ={`Title:Vacuum kissing in Kolkata
 Date:2023-jul-25
 42br
-Now, as an old fart, since I have it pretty dry, it doesn't stop me from describing the metamorphosis of the vacuum kiss or how the metaphors could be moved around to adjust to the sensibilities of the city of joy, helping you, the young hearts, in the process.
+Now, an old fart, I have it pretty dry, but it doesn't stop me from describing the metamorphosis of the vacuum kiss or how the metaphors could be moved around to adjust to the sensibilities of the city of joy, helping you, the young hearts, in the process.
 42br
 Things have opened up quite a bit since Edison’s scandalous film of the first on-screen kiss in 1896. The public's perception of puckering up can have some different meanings all together these days. If you're in my city and the smell reminds you that some people are puckering snakes and that the hygiene of others needs some thought, you might not want to leave your bathroom. But I digress; as it happens, I have diarrhea, a happy comeuppance of rain, vain and jolly shitting pain, and I'm wondering how aquifers are connected, etcetera. But back to the kissing: a different puckering involving lips on your face instead of the ass. 
 42br
