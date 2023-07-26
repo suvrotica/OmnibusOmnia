@@ -49,7 +49,7 @@ I'm happy I was able to fart today. For the last few days, every fart was a mass
 Would you rather they look up to see a hole, expect a wind, but instead get an avalanche of catastrophic disasters? But such are the times that are to come, though, and I plan to prepare the world by, in fact, writing exactly such a book warning of the duplicitous nature of man. Just the center page will do: the picture on the right with an accurate image of my sphincter releasing this accidental revelation, and the text of the matter as translated by artificial intelligence on the right. This is all I preach and all I teach. Shit, I've got to run again. I feel like farting, but I don't know what's inside.
 42br
 42bq("What this book, oh you must look,
-It's about a hole god we call. 
+It's about a - hole god - we call. 
 Must be this through which I miss,
 Something created us all.
 42br
@@ -61,7 +61,23 @@ You and I too I confess.
 Super holy this our descent,
 Shit shot from that lubricated hole.
 I fly to the top with glee very free,
-A shit exasperated soul.")
+A shit exasperated soul.
+42br
+Your ass you bust but this shit you trust,
+In currency notes and courts of law.
+If you don't listen to bullshit,
+They cut your balls with a saw.
+42br
+No one wants to think,
+Thinking is too hard you see.
+Just pretending to think,
+Is wiser, so that's what it'll be.
+42br
+You go to school but remain a fool,
+Half baked assumptions taught.
+The teachers are puppets that poot,
+The fart that they have got.
+")
 `} 
 image_name ="assbook.webp"
 
