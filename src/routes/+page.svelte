@@ -42,7 +42,13 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
+<B4 blogContent ={`Title:The trees are dying
+Date:2023-jul-26
+42br
+`} 
+image_name ="tree.svg"
 
+/>
 <B4 blogContent ={`Title:Bed wetting 
 Date:2023-jul-26
 42br
