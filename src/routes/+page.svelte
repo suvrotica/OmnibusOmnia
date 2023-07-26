@@ -47,6 +47,7 @@ Date:2023-jul-26
 42br
 I'm happy I was able to fart today. For the last few days, every fart was a massacre, a tale of two shities, as it were, one liquid and one gas, as I had never known before. This, I imagine, must have been the sort of transformational inspiration that some of the ancient sages had when they saw stars orbiting around their heads after such a shitstorm. I'm glad I live away from human habitat, as such farts might cause immeasurable and immense damage to the psychology of the young ones around. 
 Would you rather they look up to see a hole, expect a wind, but instead get an avalanche of catastrophic disasters? But such are the times that are to come, though, and I plan to prepare the world by, in fact, writing exactly such a book warning of the duplicitous nature of man. Just the center page will do: the picture on the right with an accurate image of my sphincter releasing this accidental revelation, and the text of the matter as translated by artificial intelligence on the right. This is all I preach and all I teach. Shit, I've got to run again. I feel like farting, but I don't know what's inside.
+42br
 42bq("What this book, oh you must look,
 It's about a hole god we call. 
 Must be this through which miss,
