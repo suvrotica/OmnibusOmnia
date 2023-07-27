@@ -52,6 +52,8 @@ I think this alien craze is another anthropomorphic wish to prove that something
 It has to do with the kind of stories that you grow up with. I was born in India but had a very American growing up when it comes to the fiction, and I can see where they get the images from. It's really very transparent, though; the stories you'd hear can all be traced back to the early sci-fi stories. H.G. Wells Arthur, C. Clarke Ray, Bradbury Robert, A. Heinlein, Isaac Asimov, Philip K. Dick, Larry Niven, or their variants, have been planted in American psychology. We are still using Asimov's dictum in AI to guide their morality, just as he used it in fiction. Once you know the history, you'll see why these keep appearing where they do. Same thing with Japan. Utsuro bune. And others. If Ramayana and Mahabharata had emphasized these things today, you'd have sadhguru types or the osho crowd bleeding through his nose talking about them and how they are coming to save the Indian ass.
 42br
 <iframe width="320" height="180" src="https://www.youtube.com/embed/eVYA5aBIGWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+42br
+<iframe width="320" height="180" src="https://www.youtube.com/embed/dVQ6nF2bJwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 `} 
 
 image_name ="ufo.svg"
