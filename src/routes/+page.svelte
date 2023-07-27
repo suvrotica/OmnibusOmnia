@@ -44,7 +44,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 <!-- svelte-ignore a11y-no-redundant-roles -->
 
 
-<B4 blogContent ={`Title:I don't give a flying fuck, really! 
+<B4 blogContent ={`Title:I don't give a flying fuck! 
 Date:2023-jul-27
 42br
 I think this alien craze is another anthropomorphic wish to prove that something human or humanoid-like is central to the universe. No one would be interested if you told them there is indeed intelligence, but that isn't the greedy fuck you, kill you, take you, fake shit up, and sort; no one would be interested, or even now, if you talked about slime mold or even cephalopod intelligence. I've stopped paying attention to these alien stories; they're just as clearly concocted as day and reek of attention-seeking humans behind them, not anything genuine. just a waste of time, unless it is Scully, and I am that kid who used to be Moulder in my dreams, and the sex was good.
