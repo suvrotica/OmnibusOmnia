@@ -43,7 +43,7 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
 
-<B4 blogContent ={`Title:Dab - Home Delivery
+<B4 blogContent ={`Title:Beat you up - Home Delivery
 Date:2023-jul-27
 42br
 `} 
