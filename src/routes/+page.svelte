@@ -54,6 +54,13 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
+		blogContent={`Title:The cobbler
+	Date:2023-jul-28
+	42br
+`}
+		image_name="cobbler.svg"
+	/>
+<B4
 		blogContent={`Title:The sheep
 Date:2023-jul-28
 42br
