@@ -54,9 +54,12 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
-		blogContent={`Title:Dengue 
+		blogContent={`Title:Dengue I love you
 Date:2023-jul-28
 42br
+You may ask, if you're interested in asking, or in the general habit of annoying shit like that, what's the use of boasting about civilization if in a metropolis an itty bitty mosquito bite can fuck you up? Well, you've come to the right place. Not that I have any idea, but I'm exactly the kind of therapeutic vomit that would have close to an answer. You see, we're free to call ourselves whatever; that word civilization is just a word; it's a placeholder. Mostly a catch-all for mischievous logic, to spin shit up for naive people to just be happy with the superficial patina of paint that's put on, the shiny mascara, and stay listening to the grinning platitudinous bullshit of the soulless spinners of shit, who sugarcoat their spit before they land on your face.
+42br
+In Kolkata or in other cities in India, healthcare isn't a priority for the people you thought you'd elected through a fair process of democratic elections. No, none of that. These imbeciles sit on a chair and simply spend the days surrounded by nodding sycophants who lick their shit-oozing assholes and get nothing done except ensuring their bullshit family and friends get ahead in life or their political group. As a result, the issues that were there before they came to power only festered and multiplied, and the superficial cover-ups suppressed flare-ups temporarily. Since in a democracy like ours accountability is zero and feedback isn't allowed, the assholes have a free reign—I mean the mosquitoes.
 
 `}
 		image_name="dengue.svg"
