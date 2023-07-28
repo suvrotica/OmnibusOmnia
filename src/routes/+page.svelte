@@ -71,7 +71,18 @@ My phallus will fill you to your rim.
 Holy this vow, not a marital cow,
 That is killed when pastures aren't green.
 Written in rhyme, dripping in slime,
-Fit for a documentary on screen.")
+Fit for a documentary on screen.
+42br
+Now I'm an empty cart, old man full of fart,
+Ain't nothing that's happening good.
+To live, I need to make sure I shit,
+And for that ladies I need your tasty food.
+42br
+I can cook, but where is the love,
+Or the dish tastes like poop. 
+Then I eat shit and produce shit,
+Ain't nothing but piss in that soup.
+")
 42br
 `} 
 image_name ="shake.svg"
