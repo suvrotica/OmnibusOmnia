@@ -53,6 +53,36 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 
 <details>
 	<summary>Blogs</summary>
+
+<B4
+		blogContent={`Title:Manic splat 
+	Date:2023-jul-28
+	42br
+42bq("I fell flat, splat, just like that,
+I may be dead in the head.
+My gut and butt splattered on the floor,
+The bloody floor now all red.
+42br
+I thought I could fly, that I wouldn't die,
+Just another manic trip.
+Now I'm broken, sweet words not spoken,
+Just waiting for the power switch to flip.
+42br
+This my day, official birthday, 
+What a day to be fucking dead.
+I had no brain, thought superman was plain,
+Jumped off the Burj Khalifa instead.
+42br
+At least I won't be depressed, 
+This is it my friends,
+The story of a manic depressive, 
+This is always how it ends.")
+`}
+		image_name="splat.svg"
+	/>
+
+
+
 <B4
 		blogContent={`Title:The cobbler
 	Date:2023-jul-28
