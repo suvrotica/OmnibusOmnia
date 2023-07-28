@@ -58,30 +58,15 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 		blogContent={`Title:Manic splat 
 	Date:2023-jul-28
 	42br
-42bq("I fell flat, splat, just like that,
-I may be dead in the head.
-My gut and butt splattered on the floor,
-The bloody floor now all red.
+42bq("I fell flat, splat, just like that, I may be dead in the head. My gut and butt splattered on the road, The bloody street now all red.
 42br
-I thought I could fly, that I wouldn't die,
-Just another mellow manic trip.
-Now I'm broken, sweet words not spoken,
-Just waiting for the power panel to flip.
+I thought I could fly, that I wouldn't die, Just another mellow manic trip. Now I'm broken, sweet words not spoken, The tea I cannot sip. 
 42br
-This was my day, my shit soft like clay, 
-What a day to be a fucking fossil.
-Should've looked where I was going 
-Always an easy rustic road kill.
+Started as a good day, my shit soft like clay, What a day to be a fucking fossil. Should've looked where I was going, Now a splattered road kill.
 42br
-At least I won't be depressed, 
-This is it my friends,
-The story of a manic depressive, 
-This is always how it starts and it ends.
+At least I can't be depressed anymore, This is it my happy friend, The story of a manic depressive, This is how it starts and how it ends.
 42br
-My balls full of juice for a miss to choose, 
-There may still be semen not vain.
-Like mother fucking Mary use a straw, 
-The fools will think it's that Jesus again.")
+My balls full of juice for a miss to choose, There may still be semen not vain. Like mother fucking mary use a straw, The fools will think it's that jesus again.")
 `}
 		image_name="splat.svg"
 	/>
