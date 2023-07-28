@@ -12,8 +12,7 @@
 	<!-- Navigation -->
 
 	<ul>
-		
-<li><a href="/">BLOG</a></li>
+		<li><a href="/">BLOG</a></li>
 	</ul>
 	<ul>
 		<li><a href="/disclaimer">Disclaimer</a></li>

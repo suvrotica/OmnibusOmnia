@@ -8,39 +8,52 @@
 	import { getCurrentDateAsString } from '$lib/date';
 
 	const currentDate: string = getCurrentDateAsString();
+</script>
 
-	let p1 = `I couldn't just flippantly, verbosely and ineloquently describe this blog as a scratchpad of
+<details>
+	<summary>Welcome Posts</summary>
+	<B4
+		blogContent={`Title:Omibus Omni
+	Date:2023-jul-28
+	42br
+	I couldn't just flippantly, verbosely and ineloquently describe this blog as a scratchpad of
 			thoughts, a much sought-after extension of my embarrassing tangle of nerves, unrelated fancies
 			and figments strewn around and rattling loose in it, collectibles from the waste basket scraps
 			that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
 			<b>anything</b>. But these are <u>exactly</u> what I always wanted my blog to be. I'm not a prisoner
 			to the usual boundaries that limit most people, and I wanted a place where a weirdo like me could
-			find a way to read weird wanderings and not feel weird.42br42brIn Latin, as a child I've seen the word "omnibus" used as if to mean a volume containing several novels or other items previously
+			find a way to read weird wanderings and not feel weird.
+			42br
+			In Latin, as a child, and used verbatim in bengali (অমনিবাস), I've seen the word "omnibus" used as if to mean a volume containing several novels or other items previously
 			published separately. This usage likely comes from the idea of bringing together many works
 			"for all" to enjoy, and that may be the real meaning, but I wanted to hold on to a fat book. And "omnia" expresses the idea of inclusiveness and
-			universal provision, basically anything. So, in the end it's a fat book about anything, in a pompous way, lest people ignore it as a
-			trifle and think I'm a fool. Omnibus Omnia can't be intended as a dictionary, albeit fat, but perhaps as an universal melting pot of
+			universal provision, basically anything. So, in the end it's a fat book about anything, in a decorated way, lest people ignore it as a
+			trifle and think I'm a fool, which I am, but I don't want people to know that right off the bat. Omnibus Omnia can't be intended as a omnibus, albeit fat and with a name suggesting such, but perhaps as a svelte universal melting pot of
 			quixotic ideas, and, if I'm allowed some more big words, wisdom! Just by keeping the book 
-			open, this wide-ranging consortium, will allow me to test the limit of the ever-expanding horizon, 
+			open, or the website, this wide-ranging consortium, will allow me to test the limit of the ever-expanding horizon, 
 every conceivable topic and field of inquiry as a beacon of diverse and inclusive
-			discourse and so on. I can get a bit carried away, sometimes.`;
-
-	let p2 = `Here, ¡Ay, caramba! I'm free to explore the vast as well as the forbidden realms of human feats and foibles, fucks and farts, feces and fraternities and by holy golly in bengali, 
-			jai maa kali, like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and
+			discourse and so on, or at least fill your mind with the noise that worries me. I can get a bit carried away, sometimes. And furthermore both words have the all powerful "omni" often used as a prefix in English words to convey the idea of being all-encompassing or universal, like Omniscient: "Omni" + "scient" (knowing) = "All-knowing," referring to having infinite knowledge or awareness or Omnipotent: "Omni" + "potent" (powerful) = "All-powerful," suggesting having unlimited or supreme power, or Omnipresent: "Omni" + "present" (existing or being everywhere) = "Present everywhere," indicating the ability to be everywhere at once. And I like that one version of the bangali word omni (অমনি) meaning is -for no reason or -like that, captures my sentiment well.
+			42br
+			Here, ¡Ay, caramba! I'm free to explore the vast as well as the forbidden realms of human feats and foibles, fucks and farts, feces and fraternities and by holy golly in bengali, 
+			jai maa kali (জয় মা কালী), like Tennyson's Ulysses and his mariners, if you as a reader come on this journey, sharing and
 			receiving insights on a stage that questions our assumptions and where the answers always lead
 			to more thrilling journeys. So whether you're a seasoned someone or a curious commoner, an
 			artist or an amateur, a ponderer or a pragmatist, join me in the infinite mosaic of collective
-			wisdom we have to explore. Welcome to Omnibus Omnia.`;
-	// Function that wraps punctuation in a span
-	const enhancePunctuation = (input: string) => {
-		return input.replace(/([.,;:!?'"()])/g, '<span class="big-punctuation">$1</span>');
-	};
-	const enhanceMarkup = (input: string) => {
-		return input.replace(/42br/g, '<br>');
-	};
-</script>
+			wisdom we have to explore. Welcome to Omnibus Omnia.
+			42br
+			42bq("Though much is taken, much abides; and though...We are not now that strength which in old
+			days... Moved earth and heaven, that which we are, we are—...One equal temper of heroic
+			hearts,...Made weak by time and fate, but strong in will...To strive, to seek, to find, and
+			not to yield.")
+			`}
+		image_name="monk.jpg"
+	/>
+</details>
 
-<B4 blogContent ={`Title:Shake Shake Shake
+<details>
+	<summary>Blogs</summary>
+	<B4
+		blogContent={`Title:Shake Shake Shake
 Date:2023-jul-28
 42br
 42bq("Shake shake shake, please give me a break, 
@@ -84,32 +97,31 @@ Then I eat shit and produce shit,
 Ain't nothing but piss in that soup.
 ")
 42br
-`} 
-image_name ="shake.svg"
+`}
+		image_name="shake.svg"
+	/>
 
-/>
+	<!-- <C4 /> -->
+	<!-- svelte-ignore a11y-no-redundant-roles -->
 
-<!-- <C4 /> -->
-<!-- svelte-ignore a11y-no-redundant-roles -->
-
-<B4 blogContent ={`Title:Beat you up - Home Delivery
+	<B4
+		blogContent={`Title:Beat you up - Home Delivery
 Date:2023-jul-27
 42br
-`} 
-image_name ="conv.svg"
+`}
+		image_name="conv.svg"
+	/>
 
-/>
-
-
-<B4 blogContent ={`Title:Dab - Coconut water 
+	<B4
+		blogContent={`Title:Dab - Coconut water 
 Date:2023-jul-27
 42br
-`} 
-image_name ="dab.svg"
+`}
+		image_name="dab.svg"
+	/>
 
-/>
-
-<B4 blogContent ={`Title:I don't give a flying fuck! 
+	<B4
+		blogContent={`Title:I don't give a flying fuck! 
 Date:2023-jul-27
 42br
 I think this alien craze is another anthropomorphic wish to prove that something human or humanoid-like is central to the universe. No one would be interested if you told them there is indeed intelligence, but that isn't the greedy fuck you, kill you, take you, fake shit up, and sort; no one would be interested, or even now, if you talked about slime mold or even cephalopod intelligence. I've stopped paying attention to these alien stories; they're just as clearly concocted as day and reek of attention-seeking humans behind them, not anything genuine. just a waste of time, unless it is Scully, and I am that kid who used to be Moulder in my dreams, and the sex was good.
@@ -132,30 +144,27 @@ With the cruel rational world doing away with the hairy gods and boiling away mo
 <iframe width="320" height="180" src="https://www.youtube.com/embed/eVYA5aBIGWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
 <iframe width="320" height="180" src="https://www.youtube.com/embed/dVQ6nF2bJwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-`} 
+`}
+		image_name="ufo.svg"
+	/>
 
-image_name ="ufo.svg"
-
-/>
-
-
-<B4 blogContent ={`Title:Go faster, hup hup
+	<B4
+		blogContent={`Title:Go faster, hup hup
 Date:2023-jul-27
 42br
-`} 
-image_name ="rick.svg"
+`}
+		image_name="rick.svg"
+	/>
 
-/>
-
-
-<B4 blogContent ={`Title:The trees are dying
+	<B4
+		blogContent={`Title:The trees are dying
 Date:2023-jul-26
 42br
-`} 
-image_name ="tree.svg"
-
-/>
-<B4 blogContent ={`Title:Bed wetting 
+`}
+		image_name="tree.svg"
+	/>
+	<B4
+		blogContent={`Title:Bed wetting 
 Date:2023-jul-26
 42br
 42bq("
@@ -189,11 +198,11 @@ I am now again a boy in pain.
 The homework needs to be done,
 I find my life very vain.
 ")
-`} 
-image_name ="bedw.webp"
-
-/>
-<B4 blogContent ={`Title:People are assholes
+`}
+		image_name="bedw.webp"
+	/>
+	<B4
+		blogContent={`Title:People are assholes
 Date:2023-jul-26
 42br
 I'm happy I was able to fart today. For the last few days, every fart was a massacre, a tale of two shities, as it were, one liquid and one gas, as I had never known before. This, I imagine, must have been the sort of transformational inspiration that some of the ancient sages had when they saw stars orbiting around their heads after such a shitstorm. I'm glad I live away from human habitat, as such farts might cause immeasurable and immense damage to the psychology of the young ones around. 
@@ -229,11 +238,11 @@ Half baked assumptions taught.
 The teachers are puppets that poot,
 The fart that they have got.
 ")
-`} 
-image_name ="assbook.webp"
-
-/>
-<B4 blogContent ={`Title:Why hindoos have hiccups
+`}
+		image_name="assbook.webp"
+	/>
+	<B4
+		blogContent={`Title:Why hindoos have hiccups
 Date:2023-jul-26
 42br
 It's pouring cats and dogs, and in the northern parts, larger ungulates, and the media has to curtail some of the hate-mongering debates due to this climate crisis. I mean, you can't ignore this sort of cataclysm and miss the opportunity to blame it on some sort of bad planning. Say by someone not in power, like the Mughals, the British, or whoever created the drainage systems that are still being used. Of course, these are short-lived; no one has time to carry on about drainage systems or boring non-issues like that. The amnesia Indians have is magical; they'll forget everything and crowd in front of the TV for the next debate on "why hindoos have hiccups...".
@@ -247,11 +256,11 @@ And with the great hairy gods on the side, anything under the unfair sky is poss
 And all thanks to the previous generations of squandering forepeople, we have a large number of citizens who are quite close to being illiterate, and the ones that have a bit in their heads usually come out like confused colonial masala spaghetti that's undercooked and unpalatable for the modern gluttonous creed. But since most people don't know what they don't know, that gives them strident confidence in the debates that are always bloodthirsty and amusing at the same time.
 42br
 So why do hindoos have hiccups?
-`} 
-image_name ="tvdeb.webp"
-
-/>
-<B4 blogContent ={`Title:Meow says the Manhole
+`}
+		image_name="tvdeb.webp"
+	/>
+	<B4
+		blogContent={`Title:Meow says the Manhole
 Date:2023-jul-25
 42br
 In India, given our limited access to firearms and weak forearms, we try to content ourselves with a German technology called schadenfreude. With it, you can partake in the misery of others, not in an empathetic way but in the reverse. It works. Right now we have some rain in Kolkata and the usual waterlogged streets, but hey, look at the Hindi shits in Delhi or the so called advanced Gujarat. This gives us happiness, and we take the snake that was slithering around and cook it. The reptiles do bite, but the Calcatian venom kills. It tastes just like chicken. 
@@ -265,13 +274,12 @@ I've been 3D printing shitart, especially the ones that resemble the elongated h
 I mean the resemblance is uncanny, it's just super holy and all, I tell myself, a miracle and whatnot, right after soggy brown bread and mildew fungus in a damp cloth that's been rotting with the love of someone's sweet social sweat and the sun. I mean the sun god. In Nepal and Bihar, they're so totally into the sun that I'm amazed at how they come out unscathed. Must be the style of chanting. If I get it wrong, I won't have any bowel movements for weeks. Just gurgling gas, bloat and a growing distemper of misanthropic ill will. 
 42br
 Of course, now with the advent of AI, I don't need to shit anymore; Chatgpt does it for me, does a splendid job, and wipes the hallowed rosebud clean. Sitting for a turd to plop is so passé. The next iteration will be a black hole positioned ostentatiously in the poop hole. And talking about holes, you'd think that with the world's largest particle accelerator, what could NOT happen? The holy string theory has been linked to god's gooch hair, amen? We'd soon have a high-tech civilization-X crapper. Shit makes the pious prudes sick, especially the luddite ladies. I was hoping that with science on our side, men (and women) could defecate into a distant galaxy through a wormhole positioned inside our asshole, just next to that blackhole. That’s creative thinking at work. Those guys at the Large Hadron Collider should hire me. No seriously... 
-`} 
-image_name ="mhole.svg"
+`}
+		image_name="mhole.svg"
+	/>
 
-/>
-
-
-<B4 blogContent ={`Title:Vacuum kissing in Kolkata
+	<B4
+		blogContent={`Title:Vacuum kissing in Kolkata
 Date:2023-jul-25
 42br
 Now, an old fart, I have it pretty dry, but it doesn't stop me from describing the metamorphosis of the vacuum kiss or how the metaphors could be moved around to adjust to the sensibilities of the city of joy, helping you, the young hearts, in the process.
@@ -296,12 +304,12 @@ I just got into the habit of drawing beads of sweat, it's just extremely swelter
 42br
 
 <iframe width="320" height="180" src="https://www.youtube.com/embed/luIqVQT4QWs?start=48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-`} 
-image_name ="vkiss.webp"
+`}
+		image_name="vkiss.webp"
+	/>
 
-/>
-
-<B4 blogContent ={`Title:I dig my nose
+	<B4
+		blogContent={`Title:I dig my nose
 Date:2023-jul-24
 42br
 Mucophagy is the fancy term for eating boogers or rhinoliths. 
@@ -337,11 +345,12 @@ This my life, it's full of strife,
 A never ending saga of diarrhea. 
 Who knew that it would be this hard,
 To assemble a plastic life from Ikea.
-") `} 
-image_name="dignose.svg"
-/>
+") `}
+		image_name="dignose.svg"
+	/>
 
-<B4 blogContent ={`Title:Hot Truth
+	<B4
+		blogContent={`Title:Hot Truth
 Date:2023-jul-24
 42br
 While we're on such short notice about what is or isn't true, it's important to realize that we have a confabulating brain, and various variations of what we call fibs are accommodations of temporary agreements that, at the moment of installation, were clearly marked as fiction, but with the passing of years, the stickers either fell off or were deliberately tampered with to give them meaning beyond the origin definitions. Such are the foibles of our species.
@@ -351,12 +360,12 @@ So it's interesting that while we are fighting one set of misinformation, we can
 It's really important to establish our relationship with rationality once again. I know I keep saying that like a broken record or that the planet is really fucked, but I sense there's a connection. We'll be chasing bullshit and our tails and the money, and the whole show is going to come to a screeching halt for most of us, the older ones, at least the few who have eyes, and if we are dead, then it's homo hemlock flying blind with no one complaining or raising their voice until it's all over. The last drip of greedy drool will dry up, and everyone will be back in a world where it's back to goofy, chancy subsistence.
 42br
 The more shit that hits the fan, the hotter the planet gets and the meaner the people are going to get. It's not going to be dramatic or photogenic, like people like me getting killed or a million in Africa; that's not a blockbuster, so yes, no, not tik-tok material or even material worth a library rental, but it won't matter when the time comes. You'd find out. How cinematic it is to be so stupid as to fuck up the thin little breathable air lining on the only sphere we can call home, and while the fluttering sphincter burns and you turn to carbon once again, what an asshole you have been for not listening to all the warnings!
-`} 
-image_name ="heat.webp"
-/>
+`}
+		image_name="heat.webp"
+	/>
 
-<B4
-	blogContent={`Title:Shit GPT
+	<B4
+		blogContent={`Title:Shit GPT
 Date:2023-jul-24
 42br
 While the world is full of invention, I suggest we go after the parent-child model of GPT so that humans can finally be taken out of the loop. This will initially be a fledgling and, like any other, have the usual point of common handicaps at which people will direct their curated and charismatic curses, but it will absorb all insults as gourmet food, relish them like a fine delicacy, and grow even stronger. I'm looking for finances. 
@@ -427,10 +436,10 @@ The next coming of jesus fucking christ is shitGPT,
 I confer as its sole unknown creator.
 </div>")
 `}
-	image_name="shitgpt1.webp"
-/>
-<B4
-	blogContent={`Title:Goon fear Mongering
+		image_name="shitgpt1.webp"
+	/>
+	<B4
+		blogContent={`Title:Goon fear Mongering
 		Date:2023-jul-22
 42br
 A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
@@ -485,10 +494,10 @@ Fuck the world for all I care,
 I'm not a part of it.
 I operate like a vampire bat,
 Like an animal strange as shit.") `}
-	image_name="goon.svg"
-/>
-<B4
-	blogContent={`Title:Goddess of Math
+		image_name="goon.svg"
+	/>
+	<B4
+		blogContent={`Title:Goddess of Math
 		Date:2023-jul-22
 42br
 A lot of people have this impression that if they're avoidant, the problem doesn't exist, at least for them. While a specific problem may not exist, the underlying illness, which is more pervasive, can create others that do. Things are connected in more ways than we want our heads in the sand to see, but our recalcitrance unfortunately doesn't change anything.
@@ -510,11 +519,11 @@ From ancient Egypt, we have Seshat, the goddess of wisdom, whose patronages exte
 Lastly, we turn to the Goddess Mahalakshmi of Namakkal, to whom the mathematician Srinivasa Ramanujan attributed his mathematical capacities. Ramanujan, deeply religious, believed he was receiving mathematical knowledge from the goddess, often describing visions of scrolls of complex mathematical content unfolding before his eyes. His belief in divine inspiration is well-documented, yet it is also recognized that his mathematical achievements are the result of his extraordinary natural talent and hard work.
 42br
 These three each in their unique ways, embody the divine aspect of mathematics and learning. They serve as symbols of the timeless pursuit of knowledge, wisdom, and understanding, inspiring generations of learners, scholars, and seekers of truth.`}
-	image_name="mathgod.svg"
-/>
+		image_name="mathgod.svg"
+	/>
 
-<B4
-	blogContent={`Title:More Rain in Kolkata 
+	<B4
+		blogContent={`Title:More Rain in Kolkata 
 		Date:2023-jul-22
 	42br
 	The city of joy and happiness gets both from the monsoon and sometimes simultaneously with the sun shining, blistering away the blisters, boiling the boils, frying the fresh feces or instantly drying the dingle berries in the gooch with its heat. And then on the other side of the sky, where black clouds are pouring a river's worth of water, enough to cause the dilapidated cars to start floating, The homeless and mangy drown, and it's a good thing they do too; it's one less thing to worry about for the government, which needs more assured time to funnel wealth for its own family members with plans to settle abroad.
@@ -547,11 +556,11 @@ And because we get distracted looking at the entertaining blood and bubbles of f
 where even a donkey—I hate to demean the creature's good reputation in sharing our gravity burden—can pay a sum of money to become a teacher, the amount determining the level, whether he brays nursery rhymes or quantum shit bloody spit. Or, for that matter, you as an overconfidant wackjob need to know even less than a braying donkey to be an elected leader, a grinning imbecile; as long as you can stridently contradict the truth and loudly, rinse, and repeat unabashedly with wanton disregard for consequences, you have what it takes. At least an apprentice to a goon, and then you move up the ladder—an assured system, I'm told. Just need enough religion in indoctrination, hatred in your heart, and rancid bitterness for the void in education to see you through such aspirations. 
 42br
 An excellent system for an excellent state in an excellent country where every day there's always a new reason to be threatened. Only this time, it's joy and happiness in ways that are beyond ordinary thought. What now? I forgot to mention the rainbow. Well, yes, and that too—a rainbow in the midst of all this—how can I forget?`}
-	image_name="cityrain.svg"
-/>
+		image_name="cityrain.svg"
+	/>
 
-<B4
-	blogContent={`Title:Lonely Farts
+	<B4
+		blogContent={`Title:Lonely Farts
 	Date:2023-jul-19
   42br
 	Being able to fart without hindrance is one of the important bits of being in the middle of your life, enjoying not having the smell bother you or even frolicking at the indulgence, the sensations of a raw vibrating sphincter, and the various auditory acoustics that can only be mastered in seclusion. Well, at least when I sit depressed, I wallow in my own stink and no one else's, which is how I like to think of loneliness. It's better than the constant harangue that you have to live through in relationships and the endless silent farts in the remunerative society.
@@ -597,11 +606,11 @@ And yes, you can set your fart on fire. Methane (CH4) in fart, which is also the
 42br
 
 In fact, the bacteria don't stop working after we've defecated. In the Victorian era, methane gas buildup in sewer systems led to explosions and fires. The feces rot, giving bacteria a five-star environment without good ventilation and leading to the accumulation of flammable gases, primarily methane, easily ignited by a spark from a lit match or candle flame. Of course, now that we've gotten smart with plumbing, The trap, a standard feature, is a U-, S-, or J-shaped pipe located below or within a plumbing fixture that retains a small amount of water to prevent sewer gases from entering buildings.`}
-	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
-/>
+		image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689722290889.jpg"
+	/>
 
-<B4
-	blogContent={`Title:About Time
+	<B4
+		blogContent={`Title:About Time
 	Date:2023-jul-20
   42brThe monoculture that we want to fancy as our reality is sort of poked with a bunch of funny little shitty holes that, unless you're interested in annual membership to the Indian Heathens Club, you'd not notice. Most people walk through life ironing irony out of their lives or never really digging into contradictions, looking up frocks, and that sort of thing. They end up half-content in a state of bliss that is also known by its more pejorative connotation of ignorance, except for a nagging feeling they have hidden all their lives—that inquisitive bit that they suppressed.
 42br
@@ -626,10 +635,10 @@ So 2023 is the ceiling (20.23), or 21.
 
 Another way is to separate out the parts 20|23, and then the century is 20+1 or 21.
 	`}
-	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689795974635.jpg"
-/>
-<B4
-	blogContent={`Title: Prescription Abbreviations
+		image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689795974635.jpg"
+	/>
+	<B4
+		blogContent={`Title: Prescription Abbreviations
 	Date:2023-jul-21
   
   42br
@@ -715,10 +724,10 @@ Via: by way of, through (e.g., via oralis: by mouth)")
 42br 
 Latin is sort of the traditional, historical, universal language that's concise and provides a standardized system for everyone to refer to the same thing. Although I don't know why doctors insist on being illegible in addition to being this inscrutable. 
 42br `}
-	image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg"
-/>
-<B4
-	blogContent={`Title:Aneurysm Shit
+		image_name="04fa3f64-191b-4c73-a119-b53127c17841 (1).svg"
+	/>
+	<B4
+		blogContent={`Title:Aneurysm Shit
 	Date:2023-jul-21
 42br
 When people say I don't give a shit, I tell them with the gentle refinement of obsolete correction ink that I do give a shit, and fuck, when opportunity and working parts unite, and indeed about a lot of affairs that fat books have been busy hiding from the laity. Things like the state of democracy, or not-democracy, in India, the unreason of zealots, and how in my lifetime the stupids have managed to take over the world—and here I am having an aneurysm trying to get a turd out in procession, even when the precedents are exhibited on the floor and smelly as hell.
@@ -760,10 +769,10 @@ Mobs rowdy, ready to lynch.
 The last turd hits with a plop,
 I feel a satisfied asshole pinch.
 ")`}
-	image_name="04fa3f64-191b-4c73-a119-b53127c17841.png"
-/>
-<B4
-	blogContent={`Title:Ravish Documentary 
+		image_name="04fa3f64-191b-4c73-a119-b53127c17841.png"
+	/>
+	<B4
+		blogContent={`Title:Ravish Documentary 
 	Date:2023-jul-21
 42br
 This interview is about a documentary that has come out about Ravish Kumar of NDTV fame. He's moved to YouTube :https://lnkd.in/gfYjkmxT
@@ -778,44 +787,9 @@ I don't even feel like writing these laments anymore, yet I do. I know the peopl
 42br
 https://lnkd.in/gar3c8ny
 `}
-	image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689898029491.jpg"
-/>
-
-<!-- Use @html to bind the enhanced text -->
-
-<Title stringA="The" stringB="Name" When={currentDate} />
-<hr />
-<div class="grid">
-	<img src="monk.jpg" alt="Italian Monk holding Omnibus Omnia " />
-
-	<div>
-		<br />
-
-		<p>{@html enhancePunctuation(enhanceMarkup(p1))}</p>
-	</div>
-</div>
-
-<Title stringA="Welcome by" stringB="Holy Golly" When={currentDate} />
-<hr />
-<div class="grid">
-	<article>
-		<p>{@html enhancePunctuation(p2)}</p>
-		<article class="poem">
-			Though much is taken, much abides; and though...We are not now that strength which in old
-			days... Moved earth and heaven, that which we are, we are—...One equal temper of heroic
-			hearts,...Made weak by time and fate, but strong in will...To strive, to seek, to find, and
-			not to yield.
-		</article>
-	</article>
-	<article class="svg">
-		<img src="svg_horse-dick.svg" alt="Man horse dick" />
-	</article>
-</div>
-<br />
-
-<B1 />
-<B2 />
-<B3 />
+		image_name="_storage_emulated_0_Android_data_gr.pixelab.sketch_files_DCIM_sketch_camera_sketch1689898029491.jpg"
+	/>
+</details>
 
 <style>
 </style>
