@@ -78,7 +78,7 @@ Ain't nothing that's happening good.
 To live, I need to make sure I shit,
 And for that ladies I need your tasty food.
 42br
-I can cook, but where is the love,
+I can cook, but no love in the nook,
 Or the dish tastes like poop. 
 Then I eat shit and produce shit,
 Ain't nothing but piss in that soup.
