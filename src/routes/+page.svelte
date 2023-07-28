@@ -68,7 +68,7 @@ Just another manic trip.
 Now I'm broken, sweet words not spoken,
 Just waiting for the power switch to flip.
 42br
-This my day, on paper birthday, 
+This was my day, my shit soft like clay, 
 What a day to be fucking pretend dead.
 I had no brain, thought superman was plain,
 Jumped off an imaginary Burj Khalifa instead.
