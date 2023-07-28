@@ -72,6 +72,9 @@ Over the centuries, dengue continued to cause periodic outbreaks in various regi
 The first known recorded outbreak of dengue-like symptoms occurred in China during the Jin Dynasty, around 265–420 AD. At the time, the disease was referred to as "water poison" (shuiyin) due to its association with water and the idea that it spread through contaminated water sources.
 An American physician, Benjamin Rush, during an outbreak in Philadelphia, wrote the first clear and comprehensive clinical description of dengue fever in 1779. However, it wasn't until the late 19th century that dengue's transmission and the role of mosquitoes were discovered.
 42br
+In 1881, Carlos Finlay, a Cuban physician, hypothesized the theory that the Aedes aegypti species of mosquitoes transmitted dengue, particularly the female mosquito, from one infected person to another. Walter Reed and his colleagues during the Spanish-American War in 1898 confirmed his theory experimentally. They demonstrated that Aedes aegypti mosquitoes were indeed responsible for transmitting the dengue virus.
+42br
+Since then, knowledge about dengue has continued to evolve, and it is now recognized as a significant global health threat, particularly in tropical and subtropical regions. Transmitted primarily by Aedes mosquitoes, the dengue virus, which belongs to the Flaviviridae family, causes dengue. 
 `}
 		image_name="dengue.svg"
 	/>
