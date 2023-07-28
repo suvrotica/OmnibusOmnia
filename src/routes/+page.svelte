@@ -40,6 +40,34 @@ every conceivable topic and field of inquiry as a beacon of diverse and inclusiv
 	};
 </script>
 
+<B4 blogContent ={`Title:Shake Shake Shake
+Date:2023-jul-28
+42br
+Shake shake shake, please give me a break, 
+I don't have any money honey. 
+I'm sort of broke,  a wanker, poor bloke,
+I'm waiting for the sun to be sunny.
+42br
+I promise you miss, on god's goodly piss,
+I'll shower you with gifts this year.
+As I can see, twenty twenty three, 
+Is the year to get laid my dear.
+42br
+So ready your hole, clear your soul,
+Wait till I steady my rock.
+Until then shaking me is vain,
+I'd like it if you suck my cock.
+42br
+I want to stand on my feet again miss,
+Misery, disease and poverty defeat. 
+Would you want to stay on my side,
+Allow me to stand on my feet?
+42br
+`} 
+image_name ="shake.svg"
+
+/>
+
 <!-- <C4 /> -->
 <!-- svelte-ignore a11y-no-redundant-roles -->
 
