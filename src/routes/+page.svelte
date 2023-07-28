@@ -76,7 +76,7 @@ Jumped off an imaginary Burj Khalifa instead.
 At least I won't be depressed, 
 This is it my friends,
 The story of a manic depressive, 
-This is always how starts and ends.")
+This is always how it starts and it ends.")
 `}
 		image_name="splat.svg"
 	/>
