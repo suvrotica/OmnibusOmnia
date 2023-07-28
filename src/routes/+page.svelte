@@ -54,6 +54,20 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
+		blogContent={`Title:The sheep
+Date:2023-jul-28
+42br
+The population is sodomized to absurd levels of servility, to penury, and devoid of anything worthwhile but air in their heads. They are led like meek sheep with their heads in the grass or sniffing each other's gooch, picking up trivial fights over dingle berries.
+42br
+Suppressed, repressed, depressed—a whole broken link of dysfunctional dystrophy, led by imaginary narcissistic, capricious, and pernicious assholes that live on clouds—that's behind the dystopia that's this fucking country and this city. People have so many blind spots that they might be better off without this exaggeration of extra sight they call education. It isn't if your eyes are still closed and you're still an old-fashioned tribal fuckpot donning technology.
+42br
+In the luxury of our cozy teapots and comfortable satiated feelings from a scratched scrotal sac, we are content with the arithmetic of our finances within the fences and within the generation that immediates us. We keep pushing questions to the back of our minds, where we know they will drop like a heavy stone into a bottomless pit, never to be seen again. What posterity, and we scratch our balls some more, a little liberally closer to the gooch, touching the asshole, and then sniff the finger. We are alive; what else can we want from life? Fuck posterity.
+`}
+		image_name="sheep.svg"
+	/>
+
+
+<B4
 		blogContent={`Title:Dengue I love you
 Date:2023-jul-28
 42br
