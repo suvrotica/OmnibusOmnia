@@ -67,7 +67,11 @@ Dengue fever can progress to severe forms such as dengue hemorrhagic fever (DHF)
 42br
 For those who want to know about dengue, here's a brief overview:
 
-The term "dengue" has an interesting etymology and a complex history that dates back centuries. The word "dengue" is from the Swahili phrase "ki denga pepo," which translates to "evil spirit caused cramp-like seizure." It's also why it's known as breakbone disease. This reflects the initial belief among locals in East Africa that malevolent spirits or supernatural forces caused the symptoms of the disease.
+The term "dengue" has an interesting etymology and a complex history that dates back centuries. The word "dengue" is from the Swahili phrase "ki denga pepo," which translates to "evil spirit caused cramp-like seizure." This reflects the initial belief among locals in East Africa that malevolent spirits or supernatural forces caused the symptoms of the disease.
+Over the centuries, dengue continued to cause periodic outbreaks in various regions, including Asia, Africa, and North America. It gained different names in different places, such as "breakbone fever" in the Caribbean and "dandy fever" in Europe.
+The first known recorded outbreak of dengue-like symptoms occurred in China during the Jin Dynasty, around 265–420 AD. At the time, the disease was referred to as "water poison" (shuiyin) due to its association with water and the idea that it spread through contaminated water sources.
+An American physician, Benjamin Rush, during an outbreak in Philadelphia, wrote the first clear and comprehensive clinical description of dengue fever in 1779. However, it wasn't until the late 19th century that dengue's transmission and the role of mosquitoes were discovered.
+42br
 `}
 		image_name="dengue.svg"
 	/>
