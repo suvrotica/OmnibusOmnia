@@ -61,7 +61,17 @@ I'd like it if you suck my cock.
 I want to stand on my feet again miss,
 Misery, disease and poverty defeat. 
 Would you want to stay on my side,
-Allow me to stand on my feet?")
+Allow me to stand on my feet?
+42br
+To an imaginary hole, I request thus a casserole,
+Of delicious gourmet food in the interim.
+Once I steady my stand, back on my feet and hand,
+My phallus will fill you to your rim.
+42br
+Holy this vow, not a marital cow,
+That is killed when pastures aren't green.
+Written in rhyme, dripping in slime,
+Fit for a documentary on screen.")
 42br
 `} 
 image_name ="shake.svg"
