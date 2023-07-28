@@ -68,15 +68,15 @@ Just another manic trip.
 Now I'm broken, sweet words not spoken,
 Just waiting for the power switch to flip.
 42br
-This my day, official birthday, 
-What a day to be fucking dead.
+This my day, on paper birthday, 
+What a day to be fucking pretend dead.
 I had no brain, thought superman was plain,
-Jumped off the Burj Khalifa instead.
+Jumped off an imaginary Burj Khalifa instead.
 42br
 At least I won't be depressed, 
 This is it my friends,
 The story of a manic depressive, 
-This is always how it ends.")
+This is always how starts and ends.")
 `}
 		image_name="splat.svg"
 	/>
