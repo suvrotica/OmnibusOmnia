@@ -74,6 +74,11 @@ An American physician, Benjamin Rush, during an outbreak in Philadelphia, wrote 
 42br
 In 1881, Carlos Finlay, a Cuban physician, hypothesized the theory that the Aedes aegypti species of mosquitoes transmitted dengue, particularly the female mosquito, from one infected person to another. Walter Reed and his colleagues during the Spanish-American War in 1898 confirmed his theory experimentally. They demonstrated that Aedes aegypti mosquitoes were indeed responsible for transmitting the dengue virus.
 42br
+In 1944, Albert Sabin and Robert Phillips led a team of researchers that first identified the causal viral agent of dengue fever. They successfully isolated the dengue virus during an outbreak in the laboratory of the U.S. Army in the Philippines.
+
+Albert Sabin and his colleagues used a combination of techniques, including inoculating patients and volunteers, to isolate and identify the virus responsible for dengue fever. Their groundbreaking work helped establish that dengue fever is caused by a virus and not by a bacterium, as was previously believed.
+
+After the virus was isolated, further research and characterization of different dengue virus serotypes (DEN-1, DEN-2, DEN-3, and DEN-4) took place in subsequent years. This led to a better understanding of the different strains of the virus and their role in causing the disease.
 Since then, knowledge about dengue has continued to evolve, and it is now recognized as a significant global health threat, particularly in tropical and subtropical regions. Transmitted primarily by Aedes mosquitoes, the dengue virus, which belongs to the Flaviviridae family, causes dengue. 
 `}
 		image_name="dengue.svg"
