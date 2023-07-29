@@ -70,7 +70,7 @@ You might think it's okay, but religious or casteist irrationality creeps into p
 42br
 Thankfully, no one's paying any attention to what I'm writing; otherwise, they'd be worried like me and spend sleepless nights waiting for dawn, which thankfully does always arrive, albeit a tad early for some, depending on when you went to bed or what you have to do getting out of bed.
 42br
-And if you are, that is, paying attention, watch this documentary:
+And if you are, that is, paying attention, watch this documentary by Richard Dawkins based loosely on his book:
 <iframe width="320" height="180" src="https://www.youtube.com/embed/NvTn3-a-QJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
 `}
