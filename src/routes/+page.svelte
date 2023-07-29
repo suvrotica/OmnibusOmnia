@@ -69,9 +69,10 @@ I fear that the new breed of transhumans may be an entirely different story—a 
 You might think it's okay, but religious or casteist irrationality creeps into policies as excuses, and soon what starts with sweet-smelling incense and warm candlelight is thick bamboo inserted into your rectum until it comes out through your mouth, and once impaled, it's too late to talk, debate, or complain. Like the sham democracy, you have installed one more pernicious evil that's going to squish your balls painfully slowly until you're dead, or enrolled as just another willing yes boy of the propaganda that's foisted.
 42br
 Thankfully, no one's paying any attention to what I'm writing; otherwise, they'd be worried like me and spend sleepless nights waiting for dawn, which thankfully does always arrive, albeit a tad early for some, depending on when you went to bed or what you have to do getting out of bed.
-And if you are watch this documentary:
+42br
+And if you are, that is, paying attention, watch this documentary:
 <iframe width="320" height="180" src="https://www.youtube.com/embed/NvTn3-a-QJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+42br
 `}
 image_name ="lout.webp"
 />
