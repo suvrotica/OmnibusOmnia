@@ -60,7 +60,7 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 	42br
 42bq("I fell flat, splat, just like that, I may be dead in the head. My gut and butt splattered on the road, The bloody street now all red.
 42br
-I thought I could fly, that I wouldn't die, Just another mellow manic trip. Now I'm broken, sweet words not spoken, The maiden lips waiting I cannot sip. 
+I thought I could fly, that I wouldn't die, Just another mellow manic trip. Now I'm broken, sweet bye byes remain unspoken, The maiden lips waiting I cannot sip. 
 42br
 Started as a good day, my shit soft like clay, What a day to be a fucking fossil. Should've looked where I was going, Now a splattered road kill.
 42br
