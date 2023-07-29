@@ -66,7 +66,7 @@ Started as a good day, my shit soft like clay, What a day to be a fucking fossil
 42br
 At least I can't be depressed anymore, This is it my happy friend, The story of a manic depressive, This is how it starts and how it ends.
 42br
-My balls full of juice for a miss to choose, There may still be semen not vain. Like mother fucking mary use a straw, The fools will think it's that jesus again.")
+My balls full of juice for a miss to choose, There may still be semen not vain. Like mother fucking mary use a straw, The hoi polloi will think it's that jesus again.")
 `}
 		image_name="splat.svg"
 	/>
