@@ -71,7 +71,26 @@ My balls full of juice for a miss to choose, There may still be semen not vain. 
 Or here I wait, a sun dried fate,
 The cars further flatten my pride.
 Of what remains of a man of pains,
-Now shreds of skin on the side. ")
+Now shreds of skin on the side. 
+42br
+And this I'll say, since I'm dead anyway,
+You can't stop a lonely corpse from a boast. 
+Know this the world is shit and piss,
+I put shit like butter on toast.
+42br
+My shit and piss in river this,
+Will get into your food and then.
+A piece of me in molecules if be,
+Will control the shit stain of your brain.
+42br
+I'll then make you feel, keel over congeal,
+Into the piece of shit you are.
+Full of fear, foolishness and fuck,
+The shit homo hemlock fucking scar.
+
+
+
+")
 
 `}
 		image_name="splat.svg"
