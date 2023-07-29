@@ -54,7 +54,10 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4 blogContent ={`
-I don't think Elon is evil. 
+Title:Elon isn't evil
+Date:2023-jul-29
+42br
+I don't think Elon is evil. Twitter fiasco notwithstanding.
 42br
 I'm sort of worried that if it ever came to it that a face-reading device would be invented, mine would fare worse than his. I mean, look at him. What's there not to like? But generally, as a nerd, I am partial to and incredibly proud of Elon. If you think about the stuff he's doing today, close your eyes, and imagine someone else, you wouldn't have to think very far. The people that he represents or the pristine imagination that he preserves are those of children and adolescents that are dismissed in everyday conversations as frivolity of no consequence that needs to be handed down the garbage of indoctrinated bullshit. I know I belong to that pariah tribe too, just a bit too x-rated—not the kind of x that Elon likes, to be clear. 
 42br
