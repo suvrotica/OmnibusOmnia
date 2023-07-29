@@ -57,6 +57,9 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 Title:What say you 
 Date:2023-jul-29
 42br
+<iframe width="320" height="180" src="https://www.youtube.com/embed/iAFzDCimZXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+42br
+
 `} 
 image_name ="ordg.svg"
 />
