@@ -54,6 +54,18 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4 blogContent ={`
+I don't think Elon is evil. 
+42br
+I'm sort of worried that if it ever came to it that a face-reading device would be invented, mine would fare worse than his. I mean, look at him. What's there not to like? But generally, as a nerd, I am partial to and incredibly proud of Elon. If you think about the stuff he's doing today, close your eyes, and imagine someone else, you wouldn't have to think very far. The people that he represents or the pristine imagination that he preserves are those of children and adolescents that are dismissed in everyday conversations as frivolity of no consequence that needs to be handed down the garbage of indoctrinated bullshit. I know I belong to that pariah tribe too, just a bit too x-rated—not the kind of x that Elon likes, to be clear. 
+42br
+Descartes, the French mathematician and father of analytical geometry, popularized it as the symbol for an unknown quantity in mathematics in his publication "La Géométrie" in 1637. That must have been the inspiration. That's how he thinks. His first-principles thinking involves questioning and deconstructing assumptions to arrive at the most basic and essential elements of a problem, rather than relying on analogies or accepting conventional wisdom. He's trying to do the right thing, and it's hard to keep a balance in all of this given that he has to put up with the worst examples of men and then smile and say he's a fan, etcetera. I'm sure he pukes his guts out to balance his four humors. These cretins are lucky to have been born in the same century.
+`} 
+image_name ="elon.svg"
+/>
+
+ 
+ 
+<B4 blogContent ={`
 Title:Can't sleep
 Date:2023-jul-29
 42br
