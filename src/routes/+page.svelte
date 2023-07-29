@@ -53,7 +53,24 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 
 <details>
 	<summary>Blogs</summary>
-
+<B4 blogContent ={`
+Title:Can't sleep
+Date:2023-jul-29
+42br
+Sometimes I can't sleep at night, and I stare into the darkness until it thins.
+42br
+I like these early, very early hours of the morning. There's a sense of pervasive potential; the previous day is history, and the moments next are full of new things, unpredictable, unprecedented, and unplanned, mostly beyond our control, but while we can't wash off unpleasantness in a foreboding, we are always in a unique situation in the history of the universe, very lucky to be the ones with the powers of imagination and with a very fortunate and astronomically large chance to be here, given all the probabilities we have beat to get here.
+42br
+At these moments, I remember how lucky we all are, and if we are aware of even a bit of how miraculously improbable everything is, we will be able to focus on the meaningful parts of our existence, and the superficial, make-believe, thin artificial world will hurt us less. I say this, and I know I keep saying it.
+42br
+There's a tendency to repeat in everything we do, and I see that in my writing as well, not in any way that I think is worthwhile in and of itself but that it adds emphasis to who I am, a worry-wort nobody, who can type on his phone, and irritate the honorable sensibilities of good citizens the world over. As a saint, you do saintly things over and over, not occasionally; if you're a bore, you're always boring; if you're an asshole, you get my point. That's really what defines a human, or at least by definition: we are consistent, even in our limitations.
+42br
+I fear that the new breed of transhumans may be an entirely different story—a saint who's an asshole, extremely boring, and a hypocrite! Wait, we already have too many of them here in India; we don't need bots for that, but maybe there are other combinatorial manifestations, and for them, the books will have to be rewritten. A politician who's a criminal and has a history of pathological issues trying to stay honest—what's that? There's no need for that either. I'm sure we'll find junior positions for them as trainees. If you need to put corruption in machine learning form, India is definitely the IT hub of choice for Elon Musk. Imagine how useful these algorithms will be in disrupting democracy the world over, given that the training was accomplished under the supervision of the super-holy mother of democracy.
+42br
+Thankfully, no one's paying any attention to what I'm writing; otherwise, they'd be worried like me and spend sleepless nights waiting for dawn, which thankfully does always arrive, albeit a tad early for some, depending on when you went to bed or what you have to do getting out of bed.
+`}
+image_name ="lout.webp"
+/>
 <B4
 		blogContent={`Title:Manic splat 
 	Date:2023-jul-28
