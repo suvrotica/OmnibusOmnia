@@ -57,6 +57,9 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 Title:Selfie
 Date:2023-jul-29
 42br
+I don't like taking selfies. It rubs everything that's wrong with the world against the very grains of my nature. I don't have any need to see myself in a frame, just to remind the constantly agitated, anxious, narcissistic demon inside that I already exist. He knows. He takes great pains to remind me of that.
+42br
+The "fusiform face area" (FFA) is located in the fusiform gyrus, which is part of the temporal lobe in the brain. It is specifically involved in processing facial recognition and other aspects related to faces other than your own. The area responsible for processing and recognizing your own face is called the "self-face area." Studies have shown that the right hemisphere of the brain, particularly the right occipital cortex and the right fusiform gyrus, is involved in processing self-facial information. This area is thought to be important for distinguishing your own face from others and contributes to the self-recognition process. As may be the case, mine may not be working right. I see a demon, a worm, or something ghastly in the face that's supposed to be me—not literally, but I get the feeling I'm looking at something disgusting.
 `} 
 image_name ="selfie.svg"
 />
