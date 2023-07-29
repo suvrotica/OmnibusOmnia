@@ -68,6 +68,11 @@ At least I can't be depressed anymore, This is it my happy friend, The story of 
 42br
 My balls full of juice for a miss to choose, There may still be semen not vain. Like mother fucking mary use a straw, The hoi polloi will think it's that jester jesus again.
 42br
+From shit shine he will make cheap wine,
+From the drunk discontented dead, divine dread.
+Fuck and gape the billion fools senseless he will,
+Moslims and hindoos will give him head. 
+42br
 Or here I wait, a sun dried fate,
 The cars further flatten my pride.
 Of what remains of a man of pains,
