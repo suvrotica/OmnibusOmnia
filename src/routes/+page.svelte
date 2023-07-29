@@ -66,6 +66,9 @@ This I know because I belong to that pariah tribe too, just a bit too x-rated—
 He's trying to do the right thing, and it's hard to keep a balance in all of this given that he has to put up with the worst examples of men and then smile and say he's a fan, etcetera. I'm sure he pukes his guts out to balance his four humors. These cretins are lucky to have been born in the same century. I know how hard it is to be an entrepreneur; it's harder to be a successful one and then be so successful that people get jealous and want you to fail. That's a club that's clueless, and I don't subscribe to that.
 42br
 He is human and prone to err, like we, wee. And that's that, only that I hope he's more sensitive to his footprint, not just his carbon; now that he's a giant, his movements cause grave upheavals in the lives of the mere ordinary, many like us, the silly shit crumbs, who lead miserable, meaningless, woeful lives and are hanging on tenuously to this precarious, slimy, rich man's cum-soaked rock with an uncertain and increasingly highly underappreciated grip. 
+42br
+<iframe width="320" height="180" src="https://www.youtube.com/embed/ASdTt9atGGY " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+42br
 `} 
 image_name ="elon.svg"
 />
