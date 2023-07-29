@@ -293,10 +293,15 @@ The part that I really like about the aliens: They have a tendency to insert ana
 Just like gods, they never bother to solve complicated problems that would indeed beyond doubt prove who they are. No, no, no, they just hide in the dark to fuel conspiratorial theories so that some people can keep making some money off of them. Works I guess.
 42br
 With the cruel rational world doing away with the hairy gods and boiling away most of the softer hocus-pocus in the heat, it's time to fixate on the last available thing that can walk through television sets into people's heads even in times of abject misery and war. Perhaps an alien wandering aimlessly will demand no test of credulity after this testimony, at least not stringent ones. But let us hope the quality of the hoax is improved upon, given that we have Leonardo, Mid Journey, and other AI that can bring a more realistic touch to the lanky, pale, or green midgets that you and I have been introduced to.
+
 42br
 <iframe width="320" height="180" src="https://www.youtube.com/embed/eVYA5aBIGWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
 <iframe width="320" height="180" src="https://www.youtube.com/embed/dVQ6nF2bJwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+42br
+<iframe width="320" height="180" src="https://www.youtube.com/embed/j9w-i5oZqaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+42br
+
 `}
 		image_name="ufo.svg"
 	/>
