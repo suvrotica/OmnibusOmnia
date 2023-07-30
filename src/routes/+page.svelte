@@ -68,7 +68,7 @@ The men rule who can think.
 The weakest link honest men,
 Their balls have shit that stink.
 42br 
-Our gods know, how shit will flow,
+Jesus doth knoweth, how shit will floweth,
 Once we shit in their brain.
 The wise disappoint me everyday,
 Power drain, vain utter shit stain.
