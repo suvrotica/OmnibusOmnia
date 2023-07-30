@@ -88,6 +88,11 @@ Fuck brown, the black, and the china men.
 Jesus land is only alabaster white,
 Of the white, for the white, by the white, amen. 
 42br 
+The indian red, booze head, on a diabetic bed,
+Flock with the feathered fools in casino.
+With peyote they dance, in trance,
+Assured extinction in slo mo.
+42br
 So suck my cock girl, suck me hard,
 As if I'm your long lost daddy.
 Picking you up from kinder-fucking-garten,
