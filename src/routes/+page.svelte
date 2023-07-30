@@ -101,7 +101,7 @@ Gang rape the climate crisis in the head.
 Our god's trump card, can't discard,
 Hallelujah he must be back.
 Like the second coming of christ,
-Or we kick bloody your scrotal sac.
+Or we kick bloody your scrotal voting sac.
 42br
 It's destined it's divine, so fine,
 Slavery legalized with added visa pain.
