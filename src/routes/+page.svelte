@@ -104,8 +104,8 @@ Like the second coming of christ,
 Or we kick bloody your scrotal sac.
 42br
 It's destined it's divine, so fine,
-We'll bring slavery back with pain.
-The babbling cunts won't be free,
+Slavery legalized with added visa pain.
+The cunts won't be free with their cunts,
 We'll make america great again. 
 ")
 `} 
