@@ -92,6 +92,21 @@ So suck my cock girl, suck me hard,
 As if I'm your long lost daddy.
 Picking you up from kinder-fucking-garten,
 In a world totally fucked already. 
+42br
+We'll incarcerate the zygote killers,
+Ban evolution and teach genesis instead. 
+We'll collaborate with oily and gassy, 
+Gang rape the climate crisis in the head.
+42br
+Our god's trump card, can't discard,
+Hallelujah he must be back.
+Like the second coming of christ,
+Or we kick bloody your scrotal sac.
+42br
+It's destined it's divine, so fine,
+We'll bring slavery back again.
+The cunts won't be free,
+And the whites supremacy regain. 
 ")
 `} 
 image_name ="greedy.svg"
