@@ -58,7 +58,30 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 Title:Greedy as fuck
 Date:2023-jul-30
 42br
-
+42bq("Greedy as fuck, my shit gets stuck,
+I like cunts of every kind.
+I like to deflower them from stem,
+Sink my teeth into the rind.
+42br 
+The land of the free, holy the tree,
+The men rule who can think.
+The weakest link honest men,
+Their balls have shit that stink.
+42br 
+Our gods know, how shit will flow,
+Once we shit in their brain.
+The wise disappoint me everyday,
+Power drain, vain utter shit stain.
+42br
+Let us say our prayers well and dwell,
+Take servant girls and slap sense into them.
+Fuck them for they know not, 
+What it is to eat god's good semen. 
+42br
+Verily thus us, goodly we go, 
+And fuck with impunity the crust. 
+The rituals are rote, a boat on the moat, 
+Must be safe for in god we trust. ")
 `} 
 image_name ="greedy.svg"
 />
