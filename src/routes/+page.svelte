@@ -63,8 +63,8 @@ I like cunts of every kind.
 I like to deflower them from stem,
 Sink my teeth into the rind.
 42br 
-The land of the free, holy the tree,
-The men rule who can think.
+The land of the free, holy the chopped tree,
+The men of oil rule, who think.
 The weakest link honest men,
 Their balls have shit that stink.
 42br 
