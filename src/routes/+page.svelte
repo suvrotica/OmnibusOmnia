@@ -81,7 +81,13 @@ What it is to eat god's good semen.
 Verily thus us, goodly we go, 
 And fuck with impunity the crust. 
 The rituals are rote, a boat on the moat, 
-Must be safe for in god we trust. ")
+Must be safe for in god we trust.
+42br
+Also while we are at it, taking a shit,
+Fuck brown, the black, and the china men. 
+Jesus land is only alabaster white,
+Of the white, for the white, by the white, amen. 
+")
 `} 
 image_name ="greedy.svg"
 />
