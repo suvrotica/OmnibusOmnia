@@ -76,7 +76,7 @@ Power drain, vain utter shit stain.
 Let us say our prayers well and dwell,
 Take servant girls and slap sense into them.
 Fuck them for they know not, 
-What it is to eat god's oily semen. 
+What it is to swallow god's oily semen. 
 42br
 Verily thus us, goodly we go, 
 And fuck with impunity the crust. 
