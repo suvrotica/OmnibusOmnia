@@ -98,6 +98,11 @@ Ban evolution and teach genesis instead.
 We'll collaborate with oily and gassy, 
 Gang rape the climate crisis in the head.
 42br
+We'll use respectable words,
+Respectfully fuck your sorry science ass.
+Euphemisms are green examples of, 
+Gaslighting without any polluting gas. 
+42br 
 Our god's trump card, can't discard,
 Hallelujah he must be back.
 Like the second coming of christ,
