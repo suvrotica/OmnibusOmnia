@@ -87,6 +87,11 @@ Also while we are at it, taking a shit,
 Fuck brown, the black, and the china men. 
 Jesus land is only alabaster white,
 Of the white, for the white, by the white, amen. 
+42br 
+So suck my cock girl, suck me hard,
+As if I'm your long lost daddy.
+Picking you up from kinder-fucking-garten,
+In a world totally fucked already. 
 ")
 `} 
 image_name ="greedy.svg"
