@@ -104,9 +104,9 @@ Like the second coming of christ,
 Or we kick bloody your scrotal sac.
 42br
 It's destined it's divine, so fine,
-We'll bring slavery back again.
-The cunts won't be free,
-And the whites supremacy regain. 
+We'll bring slavery back with pain.
+The babbling cunts won't be free,
+We'll make america great again. 
 ")
 `} 
 image_name ="greedy.svg"
