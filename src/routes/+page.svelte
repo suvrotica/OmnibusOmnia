@@ -55,7 +55,7 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 	<summary>Blogs</summary>
 
 <B4 blogContent ={`
-Title:Greedy as fuck
+Title:Make america great again 
 Date:2023-jul-30
 42br
 42bq("Greedy as fuck, my shit gets stuck,
