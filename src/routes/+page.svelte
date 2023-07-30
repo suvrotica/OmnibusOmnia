@@ -80,7 +80,7 @@ What it is to swallow god's oily semen.
 42br
 Verily thus us, goodly we go, 
 And fuck with impunity the crust. 
-The rituals are rote, a boat on the moat, 
+The rituals are rote, a boat on the money moat, 
 Must be safe for in god we trust.
 42br
 Also while we are at it, taking a shit,
