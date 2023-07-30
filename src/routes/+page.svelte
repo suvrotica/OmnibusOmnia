@@ -53,6 +53,15 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 
 <details>
 	<summary>Blogs</summary>
+
+<B4 blogContent ={`
+Title:Greedy as fuck
+Date:2023-jul-30
+42br
+
+`} 
+image_name ="greedy.svg"
+/>
 <B4 blogContent ={`
 Title:What say you 
 Date:2023-jul-29
