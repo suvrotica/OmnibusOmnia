@@ -99,7 +99,7 @@ We'll collaborate with oily and gassy,
 Gang rape the climate crisis in the head.
 42br
 We'll use respectable words,
-Respectfully fuck your sorry science ass.
+Respectfully fuck the sorry sciencey ass.
 Euphemisms are green examples of, 
 Gaslighting without any polluting gas. 
 42br 
