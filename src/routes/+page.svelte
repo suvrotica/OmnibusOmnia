@@ -62,6 +62,11 @@ Can't get the cunts to spread legs.
 Methinks the end is nigh,
 I can't even afford wine few kegs.
 42br
+The skill to subjugate or kill,
+Of yore your name so holy hence.
+All the faith look furtive and scared,
+All built within this hallowed fence. 
+42br
 Tarry not my lord, in such accord,
 Tell me if I should shit in their mouth.
 Whither you advice in the north,
