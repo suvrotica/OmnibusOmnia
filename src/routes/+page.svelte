@@ -59,6 +59,7 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 		blogContent={`Title:We are weird 
 	Date:2023-jul-31
 	42br
+We've walked quite far from the tree that we climbed down, from gestures to grunts to words to iconography, logograms, phonetics, phonemes, and language. And then there was the printing press, and now with the digital revolution, there's a lot we've done to make it easy to communicate and cooperate, and soon we'll be communicating telepathically like the gods, sending gossip and weird memes, fake news, porn, and a wide assortment of shit that keeps our boat with holes afloat. How we grit our teeth and think of ways we won't, can't, or shan't, how we all secretly desire a flaming death to the end of everything around us, except just us. Of civilization. We'd rather be in the trees, except now we've cut them down. Or we'd complain that the entertainment isn't all that we thought it would be and that the asshole is extra itchy, or that we crave sugary drinks, the corruption in our hearts, the bullshit at the core of civilization, and that it's really the weirdness we miss most of all.
 `} 
 image_name ="weird.svg"
 />
