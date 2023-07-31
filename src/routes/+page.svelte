@@ -54,11 +54,66 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
-		blogContent={`Title:A bearded cat
+		blogContent={`Title:I swim in a pool
 	Date:2023-jul-31
 	42br
+42bq("I get in the pool, to get cool,
+Lately the heat is getting really hot.
+And when I swim, hit by whim,
+I poop when I like a particular spot.
+42br
+It may be a hairy guy, I'm very very shy,
+My asshole quivering with lust.
+Or at times, an untimely fart, 
+Pushes a few turds with the thrust. 
+42br
+I'm very smart, hastily depart, 
+People think it's someone else.
+The bubbles in the gas, foul stench it has,
+Break on the surface with the smell. 
+42br
+Sometimes the turds float, a brownish coat, 
+Of slippery slime that glisten in the sun.
+People get very sick, the water very thick, 
+Defecation can be just so much fun.
+42br
+Now I don't know, that pool I cannot go,
+The water is a rank smelling goop,
+You can't move a bit, full of puke and spit,
+The unkindness shown to my poop.
+42br
+Today the sun is hot, I'm pissed in my cot,
+The heat is just overbearing. 
+I'll ignore the scum, my pool here I come, 
+A little diarrhea will sundry smiles bring. 
+42br
+Doom scrolling nerds, will order my turds, 
+The greatest psychedelic there is.
+On bulk purchase, per ten kilo case,
+I'll add a gallon of warm foamy piss.
+42br
+How I want to shit, in massive amounts that is,
+To fill the whole fucking sea.
+Next nobel prize, you wouldn't be surprised, 
+Surely must come to me.
+42br
+Darkness in my soul has colored my shit like coal,
+But I'm really very fond of my shit.
+The smoke in my poot, smells just like soot,
+Twilight is so mysteriously unlit.
+42br
+Climate change is here, my shit everywhere, 
+How cool is that to boot.
+Mother nature as bitch, indecorous climate witch, 
+Getting badly burned by their poot.
+42br
+Dear fucking god, I'm a cheerless sod,
+Don't let this heat fuck my ass.
+Constipated as hell, I'll ring your heaven's bell,
+I'm so full of shit and gas.
+")
 `} 
-image_name ="catg.svg"
+image_name ="pool.png"
 />
 <B4
 		blogContent={`Title:All mighty balls
