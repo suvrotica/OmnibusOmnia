@@ -57,6 +57,26 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 		blogContent={`Title:All mighty balls
 	Date:2023-jul-31
 	42br
+42bq("Dear balls all mighty, my shit very tighty,
+Can't get the cunts to spread legs.
+Methinks the end is nigh,
+I can't even afford wine few kegs.
+42br
+Tarry not my lord, in such accord,
+Tell me if I should shit in their mouth.
+Whither you advice in the north,
+Or the yodeling fools of the south.
+42br
+Ere the chant, I can't recant,
+I shit it with my spine.
+The goodly master pardon folly,
+I am always so asinine. 
+42br
+Hark a cunt, what she want,
+Master I must be off.
+Thence through fart I communicate,
+Sire please don't be so scoff.
+")
 `} 
 image_name ="dickg.svg"
 />
