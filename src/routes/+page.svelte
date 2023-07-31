@@ -54,7 +54,7 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
-		blogContent={`Title:I swim in a pool
+		blogContent={`Title:I get in a pool
 	Date:2023-jul-31
 	42br
 42bq("I get in the pool, to get cool,
@@ -62,7 +62,7 @@ Lately the heat is getting really hot.
 And when I swim, hit by whim,
 I poop when I like a particular spot.
 42br
-It may be a hairy guy, I'm very very shy,
+I may be a hairy guy, I'm very very shy,
 My asshole quivering with lust.
 Or at times, an untimely fart, 
 Pushes a few turds with the thrust. 
