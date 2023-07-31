@@ -54,6 +54,13 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
+		blogContent={`Title:A bearded cat
+	Date:2023-jul-31
+	42br
+`} 
+image_name ="catg.svg"
+/>
+<B4
 		blogContent={`Title:All mighty balls
 	Date:2023-jul-31
 	42br
