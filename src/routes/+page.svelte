@@ -77,7 +77,12 @@ All built within this hallowed fence.
 An all star ass, your religious gas,
 Stink up lands far and wide.
 When shit comes to shine, your mine,
-Corrupting strength inside.
+Corrupting strength the stench inside.
+42br
+Super holy now, diarrhea somehow,
+Fanning animosity, pus filled pits. 
+In my dreams you come, sticky cum,
+I spread it on my man tits. 
 42br
 Tarry not my lord, in such accord,
 Tell me if I should shit in their mouth.
