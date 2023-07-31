@@ -63,30 +63,30 @@ They say we're fucked this time.
 No more of that warming riff,
 Now into the boiling clime.
 42br
-It's going to get hot
-The sun will now sizzle the skin
-If you don't have water
-You'll head for the loony bin
+It's going to get shit shocking hot, 
+The sun will now sizzle the skin. 
+If you don't have water in the loom, 
+You'll head for the loony bin. 
 42br
-Yes you'll literally go tits up
-As the planet boils this year
-Penguins will shit on the melting pole
-Polar bears drown in the clear
+Yes you'll literally go tits up, 
+As the planet boils this year. 
+Penguins will shit on the melting pole, 
+Polar bears drown in the clear. 
 42br
-If all the ice melts this fast
-Oceans will eat the coast
-Forest fires will run amok
-We'll be sitting crispy roast 
+If all the ice melts this fast, 
+Oceans will devour the coast. 
+Forest fires will run amok, 
+We'll be sitting crispy roast. 
 42br
 No trace of race, all black face, 
-Carbon based delusional asshole.
+Carbon based delusional assholes.
 The gods and goods all burnt, 
-Just the smell of burnt coal.
+Just the smell of burnt rubber soles.
 42br
-We might upset the goldilocks 
-The air we breathe is thin
-Let's stop before we go over the ledge 
-Let something meaningful begin
+We might upset the goldilocks,
+The air we breathe is thin.
+Let's stop before we go over the ledge, 
+Let something meaningful begin.
 42br
 Or not, let us get fucked pronto, 
 Our shit scattered on the planet like so. 
