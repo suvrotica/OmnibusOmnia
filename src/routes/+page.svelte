@@ -67,6 +67,11 @@ Of yore your name so holy hence.
 All the faith look furtive and scared,
 All built within this hallowed fence. 
 42br
+An all star ass, your religious gas,
+Stink up lands far and wide.
+When shit comes to shine, your mine,
+Corrupting strength inside.
+42br
 Tarry not my lord, in such accord,
 Tell me if I should shit in their mouth.
 Whither you advice in the north,
