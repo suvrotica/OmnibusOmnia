@@ -54,6 +54,64 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:City of my dream
+	Date:2023-aug-1
+	42br
+42bq("
+City of my dream, twisted it seems,
+Like my fantasies from before.
+The gridlock of bricks, wooden sticks,
+No humans living there anymore. 
+42br
+Or even if they are, they're alien,
+They don't know their neighbor still. 
+A comparative enmity of thinking, 
+A pervasive feeling of ill will.
+42br
+The sky plain, the sun or rain,
+The cycles keep shiny the sheen. 
+Future comes and melts into past,
+The present in the city between.
+42br
+My life as I look back in foggy glass, 
+A childhood spent in awe.
+The package of gods and goddesses,
+Heaven's hilarious bribery law.
+42br
+It wasn't really the dark clouds,
+That were unpleasantly bright. 
+The rainbows were talking to me,
+I hushed them to be quiet. 
+42br
+But the unquiet grew, and now it's loud,
+The voices have sinews and force.
+The nights descend every now and then,
+The nightmares are my source. 
+42br
+Welled up anger, signs of danger, 
+A simmering caldera of furious force. 
+On the surface a placid lake,
+A baby duck taking a swimming course. 
+42br
+Impending doom, the fear and gloom,
+The anxiety and depression of being. 
+Hardly anything at all I have,
+To deal with what I am not seeing. 
+42br
+Waning my mind, weak the bind,
+With reality as I knew as a child. 
+Now the games are up,
+Weeds growing everywhere are wild.
+42br
+A nagging unsettling doom looms,
+Awake, a futile sisyphian thankless task.
+A morbid shadow long hands outstretched, 
+To pour life into life's ghoulish mask.
+")
+`} 
+image_name ="cityd.png"
+/>
+<B4
 		blogContent={`Title:I get in a pool
 	Date:2023-jul-31
 	42br
