@@ -54,6 +54,17 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:Overconfident 
+	Date:2023-aug-1
+	42br
+People who only say confident things and give off a gleaming appearance of positivity are usually overcompensating for their insecurities. They have to hide behind a front because they think it's wrong to be comfortable with insecurities. But from experience, I know the best way to deal with life is head-on. Difficulties and failures are a part of everyone's lives and businesses as well. Wearing colored goggles and burying one's head in the sand never helped. I have a clear-eyed, rational, and practical worldview that helps me weigh the pros and cons without bias. and that's really key.
+42br
+Unrealistic expectations often lead to unhealthy outcomes. It's better to plan properly and go step by step; rushing into decisions with blinkers on isn't the best way to go about a venture. I've felt the headwinds, I understand the stakes and the pitfalls, and I advise people to be cautious. Productivity is a term that's become trite through abuse and overuse. Once upon a time, it meant doing more in less time. But now, it's just a sneaky way for companies to extract more sweat from their employees for less pay. How convenient it would be for them, you'd think, but not really. 
+`} 
+image_name ="oconf.svg"
+/>
+
+<B4
 blogContent={`Title:City of my dream
 	Date:2023-aug-1
 	42br
