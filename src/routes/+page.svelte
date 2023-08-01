@@ -107,6 +107,11 @@ A nagging unsettling doom looms,
 Awake, a futile sisyphian thankless task.
 A morbid shadow long hands outstretched, 
 To pour life into life's ghoulish mask.
+42br
+Everything that I knew has somehow morphed, 
+Into something that doesn't recognize me. 
+I don't exist for the reality that I perceive, 
+I imagine how beautiful it all could be. 
 ")
 `} 
 image_name ="cityd.png"
