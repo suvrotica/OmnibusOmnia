@@ -54,6 +54,59 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:My piss I pitch
+	Date:2023-aug-1
+42br
+42bq("
+My piss I pitch, to unbelievers in a ditch, 
+And verily they lap it up.
+Some of them queer in a sense, 
+Demand they be served in a cup.
+42br
+I praise the gods, and stir the sizzling rods,
+Until through the ass it goes to the throat. 
+Then the atheists I toast on a wine flame,
+Removing the skin, with salt I roast.
+42br
+Perfect for later the brain of the slain,
+Since it doesn't complain at all.
+I put it in a jar of disgraced brine,
+With my collection of dancing balls.
+42br
+The stars are dim, the dust like cream,
+Covers this super holy place. 
+In exchange for security I gave the gods,
+Defiled young girls fucked in the face.
+42br
+Harems in heaven, for gods are good men,
+Their interests are close to my heart.
+The dream of being a god I cherish, 
+I need to master the hypnotizing fart.
+42br
+Propaganda and bullshit I fit wherever it fits,
+Fools are easy to be found. 
+Psychology is dear, I corrupt with fear,
+My ambiguities are circular and round.
+42br
+I'm assembling my army of religious cocks,
+Lowest denomination dimwitted souls.
+With wanton disregard for anything rational, 
+I'll train these into pure assholes. 
+42br
+Earlier you start, stickier your fart,
+I start training bullshit in the womb.
+They come out forever praising, 
+An invisible man who'll decide their tomb.
+42br
+Holy as hell, I'm naked as you can tell, 
+I dangle my dong like a gong. 
+Soon I'll be king, the females in a ring,
+Suck only my balls and schlong.
+")
+`} 
+image_name ="pissp.svg"
+/>
+<B4
 blogContent={`Title:Overconfident 
 	Date:2023-aug-1
 42br
