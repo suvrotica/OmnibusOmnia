@@ -50,7 +50,21 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 		image_name="monk.jpg"
 	/>
 </details>
+<details>
+	<summary>Music and Songs</summary>
+<B4
+blogContent={`Title:Popcorn song
+	Date:2023-aug-2
+42br
+The "Popcorn Song" is a catchy instrumental tune originally composed by Gershon Kingsley in 1969. It gained popularity in the 1970s and became widely recognized as a fun, upbeat melody. The song's playful, repetitive nature made it a favorite for dance performances and has been covered and remixed by various artists over the years. Its title reflects the resemblance of the synth sounds to popping popcorn, giving it a unique and memorable quality.
+42br
+<iframe width="320" height="180" src="https://www.youtube.com/embed/uS3_SgILyy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+42br
+`} 
+image_name ="popc.svg"
+/>
 
+</details> 
 <details>
 	<summary>Blogs</summary>
 <B4
