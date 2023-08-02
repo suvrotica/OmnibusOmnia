@@ -54,6 +54,46 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:Mushroom mush
+	Date:2023-aug-2
+42br
+42bq("
+Mushroom mush, quiet be hush,
+In the temple of god's dick.
+Light a candle and think of hell,
+A drop of blessing cum will drop thick.
+42br
+War and piss, or if you need a miss,
+This is where you cum.
+I always do, to practice my voodoo,
+I sing songs backwards and hum.
+42br
+Just like they say, I always pray,
+To god twice or as many times.
+Holy this shrine, his dick mine,
+Plump balls full of holy rhymes.
+42br
+In the world outside, they hide,
+From killing kits, from other shits.
+I as you see am blessed and in peace,
+Just come here to get my hourly hits.
+42br
+When shit comes to storm, laxatives are norm,
+At least it softens the hit a bit.
+Or feed them treasonous beans,
+And let he who farts the most be declared fit.
+42br
+Such are the holy times, boiling climes,
+I pray for an end every day.
+In these mighty balls, civilization falls,
+Everything is just god's ejaculate spray.
+")
+`} 
+image_name ="mush.svg"
+/>
+
+
+<B4
 blogContent={`Title:Your lips are red
 	Date:2023-aug-2
 42br
