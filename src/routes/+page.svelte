@@ -54,6 +54,41 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:Your lips are red
+	Date:2023-aug-2
+42br
+42bq("
+Your lips are red, like they bled,
+I like the alluring gap in-between. 
+Through that gap, my tongue will map,
+The gums of the future queen. 
+42br
+The clouds must ring, the winds sing,
+One of those chick pleasing songs,
+My balls are plump, I can always hump,
+My sweetly aching schlong.
+42br
+How romantic it is, I mean your tits,
+It's a lovely love affair. 
+Hormones getting horny, poem's getting corny, 
+Love your scented pubic hair.
+42br
+I crane my neck, a kiss I peck,
+My love is suffering in my ball. 
+The flowers for you, this gift too,
+My seeds in your holes will crawl.
+42br
+In-between your legs, I grope and beg,
+Think about all the sticky sweat.
+My sugar plum, please let me cum,
+Where our loins intersect.
+")
+`} 
+image_name ="lips.svg"
+/>
+
+
+<B4
 blogContent={`Title:My piss I pitch
 	Date:2023-aug-1
 42br
