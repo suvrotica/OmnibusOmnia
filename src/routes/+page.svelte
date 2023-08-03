@@ -58,6 +58,8 @@ blogContent={`Title:Popcorn song
 42br
 The "Popcorn Song" is a catchy instrumental tune originally composed by Gershon Kingsley in 1969. It gained popularity in the 1970s and became widely recognized as a fun, upbeat melody. The song's playful, repetitive nature made it a favorite for dance performances and has been covered and remixed by various artists over the years. Its title reflects the resemblance of the synth sounds to popping popcorn, giving it a unique and memorable quality.
 42br
+42pic("Rec1.jpg")
+42pic("Rec2.jpg")
 Some of these relate to me because I was born in 1975. And most ears wouldn't be able to, unless they're as old as mine or nostalgically tuned. These were on two sides of a 45 rpm record.
 I had a crush on a girl called Tuktuki, and these early gramophone records—the Philips record player, the DIY amplifier my uncle made, and this girl's face—my uncle's house in Ballygunge, Kolkata, and my innocent imaginations and expectations of how the world would be all come back to me when I listen to this track. I had lots of hope then. I don't now. I am even more limited than that weak, infatuated boy.
 42br
