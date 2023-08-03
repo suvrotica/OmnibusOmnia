@@ -105,7 +105,7 @@ The goons who took everything understood.
 I dance like I am in trance or in France,
 A madman who is yet to go more mad.
 They can't find a bin loony enough,
-That’s how much he's made the doctor sad. 
+That’s how much I've made the doctor sad. 
 ")
 `} 
 image_name ="dicks.svg"
