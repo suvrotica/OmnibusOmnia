@@ -81,32 +81,32 @@ The houses where I've lived,
 On too many streets, memories fail in fills.
 They merge and melt, not really clearly felt,
 The failure of the few hebbian hills.
-42b
+42br 
 Always wanted to renovate, at any rate, 
 Calcutta of past is now fiction, and my father's house.
 I wanted to build and almost did in San Antonio, but jesus intervened,
 Back when I had a credit card and a spouse. 
-42b
+42br 
 Just a roof over my head, an existence, a bed, 
 Now I'm just happy with a slum deed.
 My dreams are not for me anymore.
 But for the millions I see with this need,
-42b
+42br 
 And not just in Kolkata or poor countries, 
 Homelessness is the product of greed.
 It's not alright to sleep under the sky,
 Let's tax based on the genie index lead.
-42b
+42br 
 We have the engineering teams to dream.
 3D AI built environmentally friendly clay. 
 By law mansions become public shelters, 
 Until everyone has a place to stay.
-42b
+42br 
 As with anything, it's not that we can't, 
 It's just that our priorities are wrong. 
 Laws should punish governments for homelessness, not the homeless, 
 These conversations ought to be strong.
-42b
+42br 
 Just think about it, no other species, 
 Except homo sapiens has this penalty to pay.
 We have sunk so low in the distortions, 
