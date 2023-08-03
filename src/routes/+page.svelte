@@ -96,6 +96,16 @@ The day is holy my cavity pain gone,
 My diarrhea solid like a rock. 
 I think I can even smell my fart, 
 Hallelujah a resurrection of my cock.
+42br
+Every scheme a scam, jism in jam,
+Shit crumbs in everyday food.
+So holy this land, I pray with folded hand,
+The goons who took everything understood.
+42br
+I dance like I am in trance or in France,
+A madman who is yet to go more mad.
+They can't find a bin loony enough,
+That’s how much he's made the doctor sad. 
 ")
 `} 
 image_name ="dicks.svg"
