@@ -74,10 +74,9 @@ image_name ="popc.svg"
 	<summary>Blogs</summary>
 <B4
 blogContent={`Title:Houses I've lived
-	Date:2023-aug-2
+	Date:2023-aug-3
 42br
-42bq
-("
+42bq("
 The houses where I've lived,
 On too many streets, memories fail in fills.
 They merge and melt, not really clearly felt,
