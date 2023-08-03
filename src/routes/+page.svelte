@@ -73,6 +73,34 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:Cavity pain gone
+	Date:2023-aug-2
+42br
+42bq("
+Holy hole, rubric of a troll,
+Deep set fear, shit smeared rear. 
+Mustachioed goons come festooned, 
+Chanting doctored lines held so dear. 
+42br
+Fools with football or what's it called, 
+Must give the game a fucking name. 
+In erudite clubs of reason now prisons, 
+Of dogmas of their own fame. 
+42br
+I slip on slippers, I swim sans flippers, 
+The rainwater in my room now. 
+Shit shit everywhere, but none of it is mine, 
+The septic tank broke somehow. 
+42br
+The day is holy my cavity pain gone, 
+My diarrhea solid like a rock. 
+I think I can even smell my fart, 
+Hallelujah a resurrection of my cock.
+")
+`} 
+image_name ="dicks.svg"
+/>
+<B4
 blogContent={`Title:Mushroom mush
 	Date:2023-aug-2
 42br
