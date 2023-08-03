@@ -73,6 +73,21 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:Malaria the word
+	Date:2023-aug-3
+42br
+Words like "malaria," "sunrise," and "heartfelt" reveal our past ignorance of science. "Malaria" comes from the Italian phrase "mal'aria," or "bad air," as people once thought the disease came from swamp air. We now know it's caused by mosquitoes. "Sunrise" and "sunset" are terms people use to describe the sun moving around the earth, even though it's actually the earth rotating. And "heartfelt" refers to emotions believed to come from the heart, even though we know they originate in the brain. 
+42br
+These words remind us how far we've come in our understanding of the world. Even at the pauper stage of my personal existence, I know I'm surrounded by conveniences that the greatest of kings didn't live to see. What a time to be not dead yet!
+42br
+So these days I let a mosquito settle down without the practiced belligerence that we've been taught. Mommy mosquitoes need blood to lay their eggs. After she takes a blood meal, she uses the protein and iron from the blood to produce eggs. Without that, nothing—imagine how significant we are.
+42br
+Daddy mosquitoes, on the other hand, in a way that human gung-ho males may not identify today, don't need blood and mainly feed on nectar and other plant sugars. Without them, this bloody mommy and sweet daddie, a gap in the ecosystem as a source of food for other animals would eventually get us extinct. 
+
+`} 
+image_name ="aug33.svg"
+/>
+<B4
 blogContent={`Title:Houses I've lived
 	Date:2023-aug-3
 42br
