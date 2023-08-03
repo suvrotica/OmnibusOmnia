@@ -73,7 +73,7 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
-blogContent={`Title:Cavity pain gone
+blogContent={`Title:Houses I've lived
 	Date:2023-aug-2
 42br
 42bq
