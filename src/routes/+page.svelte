@@ -80,7 +80,7 @@ blogContent={`Title:Cavity pain gone
 Holy hole, rubric of a troll,
 Deep set fear, shit smeared rear. 
 Mustachioed goons come festooned, 
-Chanting doctored lines held so dear. 
+Tongue lashing dangling dicks near.  
 42br
 Fools with football or what's it called, 
 Must give the game a fucking name. 
