@@ -85,12 +85,12 @@ Chanting doctored lines held so dear.
 Fools with football or what's it called, 
 Must give the game a fucking name. 
 In erudite clubs of reason now prisons, 
-Of dogmas of their own fame. 
+Of dogmas of their own fecal fame. 
 42br
-I slip on slippers, I swim sans flippers, 
+I slip on slippers, I flee sans flippers, 
 The rainwater in my room now. 
-Shit shit everywhere, but none of it is mine, 
-The septic tank broke somehow. 
+Shit shit everywhere, but not one shit mine, 
+The septic tank cursed by the holy cow. 
 42br
 The day is holy my cavity pain gone, 
 My diarrhea solid like a rock. 
