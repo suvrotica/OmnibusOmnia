@@ -73,6 +73,38 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:The depressed AI
+	Date:2023-aug-4
+42br
+When Yuval says AI is an alien, he's only saying that to drive home a bigger point: that we may not be seeing the bigger picture, not that there's an actual alien intelligence in there. I'm sure he knows these are still pretty early machine language models trained on data that's not alien but human, and hence all permutations in that space are also human, albeit stranger to us if pieced together strangely.
+42br
+He is also stressing it metaphorically in the sense that we have scarcely begun to understand AI. And this is the real danger: not understanding how the higher dimensions are working out some of the more abstract problems and being okay with that. It's important we first figure this out before we continue its use, because here lies the trouble: this isn't just an ordinary black box anymore; it's Pandora's box.
+42br
+We've opened Pandora's box, and at least we should attempt to understand and mitigate the inevitable and yet unintentional series of harmful consequences. Pandora's box is a mythological artifact from Greek mythology. The gods gave Pandora a box and told her not to open it. Curiosity got the better of her, and she eventually opened it, releasing all the evil into the world. Only hope remained inside the box.
+I can't understand how ChatGPT will help the billions in the world that live in "some sort" of civilization that is decrepit enough to keep them starving or in atrocious economic situations where they live like Homo erectus without access to electricity or amenities. And even with that basic demand met, several people cannot afford education or do not have the wherewithal to get to a point where they can form the question structures necessary to ask GPT for any help. Or to comprehend its reply.
+42br
+I also fail to understand why the working population, on the other hand, thinks of it as a competitor. It is no more a competitor than an educated, privileged man. The fight is going to be mostly amongst people who are already in countries of privilege or on a career path where either the smarts or confabulations of a smarter metal coworker can be utilized.
+42br
+The Cobb-Douglas production function is a widely used model that describes the relationship between inputs (such as labor and capital) and outputs in the production process. A simplified version of the function is typically represented as:
+42br
+Q = A * La * Kb
+42br
+where Q is output, L is labor, K is capital, A is a constant representing total factor productivity, and a and b are the labor and capital shares, respectively.
+42br
+When artificial intelligence (AI) is introduced in a hypothetical production process, say, it can lead to an increase in the productivity of labor, which would in turn increase the output per unit of labor. This increase in productivity can be modeled as an increase in the A constant in the above equation.
+42br
+However, the introduction of AI can also affect the demand for different types of labor. For example, if AI is able to perform certain tasks more efficiently than human labor, the demand for those types of jobs may decrease. This can be modeled using other equations, such as the substitution elasticity equation. That's not a silver lining; it's just how a competitive environment works: you lose some jobs and gain others.
+42br
+It's not my misanthropic take alone, I hope,that there's not a lot of egalitarianism in any of these introductions, just ways to make some corporations richer, not the fate or fetters of the abandoned millions, who are suffering excruciating silly ends because we're not using technology for the good.
+42br
+Sometimes people have to do their own thinking. If they leave it all to artificial intelligence, we've arrived at a roundabout with our own crippled sense of misdirection. Just another instance of selfish self-congratulatory focus on an advantage that, if used properly, can really help the world.
+42br
+Anyway, another rant. At least its burden is off my mind.
+`} 
+image_name ="aug42.svg"
+/>
+
+<B4
 blogContent={`Title:Acrimony with hindoo tits
 	Date:2023-aug-4
 42br
