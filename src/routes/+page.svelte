@@ -83,7 +83,8 @@ People with a full stomach without bloating, irascible intestinal worms who have
 42br
 My problems are different, of course; I am a different beast, with different pubic hair and naturally occurring lice of other species. I am, in fact, an alien, as I sometimes feel. Sure, I pucker my asshole and snake a turd just like the rest of the shithole homo sapiens, but there's something different about me. Sure, I piss and play with my piss like the rest of the retarded generation, but I sense a satisfaction that's missing in them. It is most likely that I am a retarded fuck who should just shut up and keep to himself, which is what I do.
 42br
-But one day I'm going to be a Bengali Babu,or at least dress up as one again, and go to someone's asshole's wedding if they invite me. I haven't been to anyone's wedding for such a long time. Shit, and at the rate I'm losing teeth, I'll have none left before I get invited to one. Well, probably I'll die before long. Who's going to invite a carcass to a wedding?
+But one day I'm going to be a Bengali Babu,or at least dress up as one again, and go to some asshole's wedding if they invite me. I haven't been to anyone's wedding for such a long time. Shit, and at the rate I'm losing teeth, I'll have none left before I get invited to one. Well, probably I'll die before long. Who's going to invite a carcass to a wedding?
+
 `} 
 image_name ="Babu.jpg"
 />
