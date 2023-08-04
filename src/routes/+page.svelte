@@ -73,6 +73,45 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:
+	Date:2023-aug-4
+42br
+42bq("
+I a hindoo, must fight, underwear tight, 
+Today Moslims, tomorrow some other shits.
+We are numerous but somehow endangered, 
+But I the hindoo invented mathematics.
+42br
+They fill my head with god's goodly shit,
+And clean my brain with his piss for sin. 
+This is done sanctimoniously before I throw,
+My loony brain into the the holy dust bin.
+42br
+Now I'm a holy man of pure good,
+Of this greatest nation yes I am.
+I only say what they tell me to say,
+I go where no goon has gone, ma'am.
+42br
+In people's asses with sharp artifices,
+Sharper than it is needed to cut a goat.
+Hence now we have a sharper society,
+I mince my oath with meat in my coat.
+42br
+Brick bats and guns no not needed,
+We borrow the police for that.
+If we have the gods on our side,
+Why worry about who bells the cat.
+42br
+Holy my land, saffron my color, 
+Albeit that an arabic word I think. 
+Must fight, set random shit right, 
+Fart holy where it would stink. 
+")
+`} 
+image_name ="aug41.svg"
+/>
+
+<B4
 blogContent={`Title:Malaria the word
 	Date:2023-aug-3
 42br
