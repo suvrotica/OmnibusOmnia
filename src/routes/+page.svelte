@@ -765,8 +765,9 @@ Thankfully, no one's paying any attention to what I'm writing; otherwise, they'd
 For me, usually that's taking a shit, and worrying some more, until the shit dries into flakes or I feel like getting up and making myself a cup of tea.
 42br
 And if you are, that is, paying attention, watch this documentary by Richard Dawkins based loosely on his book the god delusion:
-<iframe width="320" height="180" src="https://www.youtube.com/embed/NvTn3-a-QJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/kwsTrVoCfSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
+
 `}
 image_name ="lout.webp"
 />
