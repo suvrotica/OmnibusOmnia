@@ -77,10 +77,10 @@ blogContent={`Title:
 	Date:2023-aug-4
 42br
 42bq("
-I a hindoo, must fight, underwear tight, 
-Today Moslims, tomorrow some other shits.
+I a person, must fight, underwear tight, 
+Today people in caps, and other shits.
 We are numerous but somehow endangered, 
-But I the hindoo invented mathematics.
+A hairy bag of acrimony with hindoo tits.
 42br
 They fill my head with god's goodly shit,
 And clean my brain with his piss for sin. 
