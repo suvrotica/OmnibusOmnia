@@ -84,7 +84,10 @@ People with a full stomach without bloating, irascible intestinal worms who have
 My problems are different, of course; I am a different beast, with different pubic hair and naturally occurring lice of other species. I am, in fact, an alien, as I sometimes feel. Sure, I pucker my asshole and snake a turd just like the rest of the shithole homo sapiens, but there's something different about me. Sure, I piss and play with my piss like the rest of the retarded generation, but I sense a satisfaction that's missing in them. It is most likely that I am a retarded fuck who should just shut up and keep to himself, which is what I do.
 42br
 But one day I'm going to be a Bengali Babu,or at least dress up as one again, and go to some asshole's wedding if they invite me. I haven't been to anyone's wedding for such a long time. Shit, and at the rate I'm losing teeth, I'll have none left before I get invited to one. Well, probably I'll die before long. Who's going to invite a carcass to a wedding?
-
+42br
+Too bad the Bengali race aren't rapists by profession. I mean, the dress sort of lends a helping hand. Just take your schlong out and do your job. Other than that, you could be a professional pisser or shitter. It's very roomy in there, in the dhoti, but not very athletic. It gets in the way if you want to do some elaborate factory work; the parts of the dhoti will get into the machine and pull you into the rolling contraption.
+42br
+No wonder the race isn't really up to any good and has earned its reputation as lazy. It all started with the fucking choice of attire; the forefathers should've known better. But they were probably just wankers, happy to get the dick out at a moment's notice, which is what mattered the most to them, and fuck the podgy foremothers. The assholes—don't you just love them? They look so cute side by side in those black and white pictures.
 `} 
 image_name ="Babu.jpg"
 />
