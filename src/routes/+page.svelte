@@ -73,7 +73,7 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
-blogContent={`Title:
+blogContent={`Title:Acrimony with hindoo tits
 	Date:2023-aug-4
 42br
 42bq("
