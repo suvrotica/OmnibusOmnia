@@ -87,7 +87,7 @@ I also fail to understand why the working population, on the other hand, thinks 
 42br
 The Cobb-Douglas production function is a widely used model that describes the relationship between inputs (such as labor and capital) and outputs in the production process. A simplified version of the function is typically represented as:
 42br
-Q = A * La * Kb
+Q = A * L^a * K^b
 42br
 where Q is output, L is labor, K is capital, A is a constant representing total factor productivity, and a and b are the labor and capital shares, respectively.
 42br
