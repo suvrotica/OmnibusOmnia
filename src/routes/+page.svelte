@@ -72,6 +72,23 @@ image_name ="popc.svg"
 </details> 
 <details>
 	<summary>Blogs</summary>
+
+<B4
+blogContent={`Title:Mustachioed Hooliganity
+	Date:2023-aug-4
+42br
+The newly erected kingdom of India, as it were, is not one of castles, knights, and dragons. Not of facilities, education, healthcare, or employment. No, this kingdom is one of spirit, a shared identity among the shaggy masses who laud the mustachioed hooligans of yesteryear, long before the introduction of the rule of law. Watersports for people of lower castes seem to have about the right amount of silliness for such a realm. This week was filled with celebratory hullabaloo.
+42br
+This Mustachioed Hooliganity is not quite anarchy, if their press is to be believed, but a throwback to an earlier time, when gods roamed the streets. Anarchy is for young, naive souls who believe in freedom, usually the opposition, minorities, atheists, lower vulgarities, and other obscenities that have not yet discovered how much hard work it takes for the appointed goons to keep them in their place. No, the Hooliganity is, in essence, a kingdom built upon the shoulders of the many mustachioed precedents of the past. Whereas these nitwits that complain descend from disgruntled natives who had done the hard work of civil disobedience and other forbidden acts so that the current generation shouldn't have to, but still do.
+42br
+The rule of law has always been a tricky thing, especially when you consider that laws are essentially just words scrawled on a piece of parchment by someone long dead who probably had a lot more hair, teeth, optimism, and significantly fewer piles than the present generation and knew less. The hooligans circumvent the obscure parts by not consulting and are hailed as heroes in this kingdom, celebrated for their rambunctious spirit, captured in many a media tale, and their prodigious facial hair, revered in daily mustache-growing debates.
+42br
+In the Mustachioed Hooliganity, there is an order in the disorder. Here, chaos is a friend, the ever-intrusive guest who shows up at the most inconvenient of times and won't leave until it has turned your world upside down, especially when your money stops working overnight. There's always a post-hoc postmortem offered, usually outrageous, even comical, but straight from Moses. These hooligans live by the commandment: If it's good for the leaders and doesn't kill me right away, it's probably okay'. This is the rule of the mustachioed thumb, permanently stuck up the rears of the citizens who like it. The kingdom of the holy goon-mongers wouldn't have it any other way.
+`} 
+image_name ="aug43.svg"
+/>
+
+
 <B4
 blogContent={`Title:The depressed AI
 	Date:2023-aug-4
