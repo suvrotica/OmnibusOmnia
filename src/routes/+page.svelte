@@ -73,6 +73,36 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
+blogContent={`Title:Private scrotal sac
+	Date:2023-aug-5
+42br
+42bq("I fuck men, collect semen,
+A girl at moral odds.
+Men are turds, I better like birds,
+Their meat tastes better afterwards.
+42br
+This my private scrotal sac,
+I squeeze for an ejaculate spray.
+It sprays gourmet cum aroma,
+Of the choice of men I say.
+42br
+Or gods including hindoo and greek,
+Or the one who can't be named or seen.
+All their cum tastes and smells same,
+If you ask this girl who's tasted the fucks clean.
+42br
+I squeeze the balls between,
+My legs when I sleep at night.
+It's hairy and warm and cuddly.
+Other than the stink it's alright. 
+") 
+`} 
+image_name ="aug51.svg"
+/>
+
+
+
+<B4
 blogContent={`Title:Putin's Balls
 	Date:2023-aug-5
 42br
