@@ -95,6 +95,11 @@ Not trampling on any dead thing.
 42br
 My balls and belly, maybe on telly, A naked man pissing on the run. Who knew I could get so famous so fast, An ass of a guy, his back to the sun.
 42br
+Almost fifty so now not shifty,
+I only wank at imaginary numbers. 
+Deep in thought that's all I got,
+I run through the maze of matrices.
+42br
 Suvro my name, Ghosh a bengali surname,
 But they say I have shit faced the race.
 My public relations weak, with feeble my voice I squeek,
