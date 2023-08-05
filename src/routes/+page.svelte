@@ -72,6 +72,97 @@ image_name ="popc.svg"
 </details> 
 <details>
 	<summary>Blogs</summary>
+<B4
+blogContent={`Title:Putin's Balls
+	Date:2023-aug-5
+42br
+42bq("I'm putin the permanent, 
+My balls are rather large. 
+That is why you have me, 
+As the manly man in charge. 
+42br
+I just invaded Ukraine, 
+An example of what I do. 
+If you fancy poetry, 
+Ode to peace is just "Toodaloo". 
+42br
+I needed an ass licker in Ukraine, 
+But polonium tea for Zelenskyy. 
+He licked all the wrong holes, so,
+Say "hell no" to democracy. 
+42br
+I like inventing history much, 
+Making things up is so much fun. 
+People will believe anything, 
+You just pull a fast and rotten one.  
+42br
+I hate the impotent UN, 
+I hate the spineless west. 
+The dumb Americans disgust me, 
+Think of them as pest. 
+42br
+They don't have the balls it takes, 
+Hide behind stickers and glue. 
+I'll make them wear short pink frocks, 
+To do spastic dance for you. 
+42br
+They'll shit their silly frocks, 
+When I stop their precious fuel. 
+The softy cocks hide in the dark, 
+When asked for a nuclear duel. 
+42br
+
+And sanctions my ass, 
+They can't hurt a billionaire!
+If the russians get bruised and raped, 
+Do you really think I care?
+42br
+I force obsequious nations into, 
+Glib equivocation all the time. 
+By keeping their ass on pointy fence, 
+They get mad vlad's discount wine. 
+42br
+For my rich friends and I, 
+Rest of the world is shit. 
+Whatever you have is really ours,
+Will blitz it if we see it fit.
+42br
+I need no justification, 
+Just look at my huge balls. 
+It's just a matter of time, 
+Before your country falls. 
+42br
+Again my name is putin, 
+I have an appetite for risk. 
+I like people who lick my anus, 
+And those that suck my dick. 
+42br
+Ha Ha Ha Hiss Hiss Hiss
+42br
+Xi Jinping Gassy Belarusian King,
+And the bearded mother of democracy and his crooks. 
+The fat ass nuclear Kim Jong Un, 
+My cook, he fooks, up your ass he looks. 
+42br
+My blood curdling eyes, 
+Will make you vomit your food
+I have nuclear weapons ready
+Pointed at you for general good
+42br
+Fear mongering works, 
+I write all the rules. 
+Fiction pairs easy with fear, 
+I peddle lies to fools. 
+42br
+It pays to be an aggressor, 
+Make threats and commit fraud. 
+When you fake shit up as you go, 
+You're treated like a god.")
+`} 
+image_name ="putin.png"
+/>
+
+
 
 <B4
 blogContent={`Title:Babu
