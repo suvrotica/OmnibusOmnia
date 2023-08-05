@@ -72,6 +72,36 @@ image_name ="popc.svg"
 </details> 
 <details>
 	<summary>Blogs</summary>
+
+<B4
+blogContent={`Title:
+	Date:2023-aug-5
+42br
+42bq("
+I run to piss, I've started to hiss,
+I can feel the droplets drip.
+The gods always know, to make it flow,
+All I do is run a trip.
+42br 
+Yessiree, I run, like a bullet from a gun,
+The wind blowing my hair.
+I can feel a full fart forming, 
+I knew heaven was goodly fair.
+42br
+These drops will drown, small insects brown,
+But that's alright I sing.
+It's really a matter of morals I feel,
+Not trampling on any dead thing.
+42br
+My balls and belly, maybe on telly, 
+A naked man pissing on the run.
+Who knew I could get so famous so fast,
+An ass of a guy with a hairy bum.
+") 
+`} 
+image_name ="run.svg"
+/>
+
 <B4
 blogContent={`Title:Private scrotal sac
 	Date:2023-aug-5
