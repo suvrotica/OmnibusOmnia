@@ -93,10 +93,7 @@ But that's alright I sing.
 It's really a matter of morals I feel,
 Not trampling on any dead thing.
 42br
-My balls and belly, maybe on telly, 
-A naked man pissing on the run.
-Who knew I could get so famous so fast,
-An ass of a guy with a hairy bum.
+My balls and belly, maybe on telly, A naked man pissing on the run. Who knew I could get so famous so fast, An ass of a guy, his back to the sun.
 42br
 Suvro my name, Ghosh a bengali surname,
 But they say I have shit faced the race.
