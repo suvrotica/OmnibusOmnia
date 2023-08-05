@@ -74,7 +74,7 @@ image_name ="popc.svg"
 	<summary>Blogs</summary>
 
 <B4
-blogContent={`Title:
+blogContent={`Title:I run to piss
 	Date:2023-aug-5
 42br
 42bq("
