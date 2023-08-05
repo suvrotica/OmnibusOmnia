@@ -99,6 +99,11 @@ Suvro my name, Ghosh a bengali surname,
 But they say I have shit faced the race.
 My public relations weak, with feeble my voice I squeek,
 May the drunken devil defend my case. 
+42br
+And so I run, son of a gun,
+My face bright with what might.
+Full fart ahead, I run until I'm dead, 
+For possibilities however slight. 
 ") 
 `} 
 image_name ="run.svg"
