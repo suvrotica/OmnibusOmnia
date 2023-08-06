@@ -73,8 +73,14 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
-blogContent={`Title:
+blogContent={`Title:Shit in coffee 
 	Date:2023-aug-6
+42br
+The other day, my mom asked me if coffee had shit in it. This isn't the sort of thing my mom's interested in, but apparently the misinformation channel she watches has recently decided to misinform their viewers on stuff they use every day. Well, for common, everyday coffee, the answer is no.
+42br
+The only coffee that you would hear shit brought up is kopi luwak, also known as civet coffee. It's a type of coffee made from coffee beans that have been eaten and then excreted by a civet, a small nocturnal mammal. The beans are collected from the feces, cleaned, and then processed to produce coffee. It's considered one of the most expensive coffees in the world due to its unique production process. However, there are ethical concerns about the treatment of civets on some coffee plantations, so it's essential to ensure its sourcing is ethical and sustainable if you choose to try it. As this isn't really the civet's choice of meal or habitat, once we found out the beans in their shit were tasty, their future was fucked forever.
+42br
+In birds, including chickens, both eggs and shit are expelled through the cloaca, the bird version of the swiss-army asshole, a common opening for eggs, piss, and shit in birds. The egg is formed in the chicken's reproductive system and travels through the oviduct before being laid through the cloaca. But in the end, eggs, piss, and shit do come out through the same opening in chickens, which is something to think about. 
 
 `} 
 image_name ="aug62.svg"
