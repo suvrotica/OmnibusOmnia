@@ -72,6 +72,17 @@ image_name ="popc.svg"
 </details> 
 <details>
 	<summary>Blogs</summary>
+<B4
+blogContent={`Title:I run to piss
+	Date:2023-aug-5
+42br
+LinkedIn deleted me. In the present generation of cancel-culture, this is expected. Anyway, fuck them. In India, the types of people who can aspire to upward mobility are: Long-tongued ungulates who can walk on two legs and speak Hindi; concentric assholes who are fluid with the nefarious political science needed to maintain the Hindu state of the present day, pretending it's based on the teachings of the past, used and reused; even refused douchbags who perform the general administration and filler paperwork of smudging the truth; permanently dull and blank ambitionless morons who give the appearance of volume by headcount; pedigreed Hindu fanatics who know nothing of the faith except that it's not some other faith; and are disguised wellbred goons.
+
+Most of us, in the prime of whatever it is we are supposed to be in the prime of, have no idea why about most things we pretend a familiarity in everyday life, even when it's our bona fide bread, and secure that this layer of abstraction or ignorance won't hurt us, we go about our business, expanding it, ultimately until we have no idea how anything works anymore and we're going about our business at the mercy of various fancy lookup services. Now that I'm sort of mad, I don't know what I'm supposed to look up. What's the lookup service for looking up lookup services? when you're mad, when a lot of stuff you've written that doesn't have a backup is gone. I guess I picked up where I left off. If I can salvage any from memory or scraps, I will. Happy restart to me!
+`} 
+image_name ="aug61.svg"
+/>
+
 
 <B4
 blogContent={`Title:I run to piss
