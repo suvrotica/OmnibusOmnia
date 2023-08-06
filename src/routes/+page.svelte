@@ -73,8 +73,8 @@ image_name ="popc.svg"
 <details>
 	<summary>Blogs</summary>
 <B4
-blogContent={`Title:I run to piss
-	Date:2023-aug-5
+blogContent={`Title:Fuck LinkedIn 
+	Date:2023-aug-6
 42br
 LinkedIn deleted me. In the present generation of cancel-culture, this is expected. Anyway, fuck them. In India, the types of people who can aspire to upward mobility are: Long-tongued ungulates who can walk on two legs and speak Hindi; concentric assholes who are fluid with the nefarious political science needed to maintain the Hindu state of the present day, pretending it's based on the teachings of the past, used and reused; even refused douchbags who perform the general administration and filler paperwork of smudging the truth; permanently dull and blank ambitionless morons who give the appearance of volume by headcount; pedigreed Hindu fanatics who know nothing of the faith except that it's not some other faith; and are disguised wellbred goons.
 
