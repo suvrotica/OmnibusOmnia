@@ -72,6 +72,42 @@ image_name ="popc.svg"
 </details> 
 <details>
 	<summary>Blogs</summary>
+
+<B4
+blogContent={`Title:Sun
+	Date:2023-aug-7
+42br
+42bq("
+I'm really fucking tired, these planets I've sired,
+All shit balls of despair.
+I'm furious and full of fumes,
+Misery I can't share.
+42br
+The third rock, worst in the flock,
+Thinks it's some kind of special thing.
+There's plenty like you strewn around,
+This is just a shit corner of the circus ring.
+42br
+The fuck pot species, idiots,
+The apes on the planet bed, 
+Yes the mother fucking cunts drive,
+My solar flares through my head.
+42br
+I'm saving a fart, sweetheart,
+I'll aim that at you, men and women. 
+Once I fart, bless your heart,
+You'll be with fucking god, invisible, amen.
+42br
+The planet will be toast, of coarse,
+But that's all right I know.
+Sometimes you need pest control,
+This pest needs to go.
+")
+`} 
+image_name ="aug71.svg"
+/>
+
+
 <B4
 blogContent={`Title:Shit in coffee 
 	Date:2023-aug-6
