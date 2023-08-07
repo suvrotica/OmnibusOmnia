@@ -74,6 +74,12 @@ image_name ="popc.svg"
 	<summary>Blogs</summary>
 
 <B4
+blogContent={`Title:A smile 
+	Date:2023-aug-7
+`} 
+image_name ="aug73.svg"
+/>
+<B4
 blogContent={`Title:I sell my shit
 	Date:2023-aug-7
 42br
