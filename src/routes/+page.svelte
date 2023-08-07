@@ -22,7 +22,7 @@
 			that should have seen a shredder, or, somewhat more crudely, <b>everything</b> about
 			<b>anything</b>. But these are <u>exactly</u> what I always wanted my blog to be. I'm not a prisoner
 			to the usual boundaries that limit most people, and I wanted a place where a weirdo like me could
-			find a way to read about the weird wanderings of a profligate mind and not feel weird.
+			find a way to read about the weird wanderings of a profligate traveling mind and not feel weird.
 			42br
 			In Latin, as a child, and used verbatim in bengali (অমনিবাস), I've seen the word "omnibus" used as if to mean a volume containing several novels or other items previously
 			published separately. This usage likely comes from the idea of bringing together many works
