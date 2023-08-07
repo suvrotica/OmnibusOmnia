@@ -76,6 +76,28 @@ image_name ="popc.svg"
 <B4
 blogContent={`Title:I sell my shit
 	Date:2023-aug-7
+42br
+42bq("
+I sell my shit, yes that's it,
+I don't have any other call. 
+I eat and poop, I scoop up the goop,
+And sell it in the nearby stall.
+42br
+Can't spell my name, there goes fame,
+Crooked are the ways of the time.
+A simpleton I am, my shit like jam,
+Sometimes it may be like slime.
+42br
+Or when I have diarrhea it's watery,
+It's really cheap crap as shit. 
+I often resort to mixing dog poop,
+To raise the consistency a bit.
+42br
+I often claim it's holy and shit,
+Or it's good for a pregnant cunt.
+If you don't want them both,
+This is what you want.
+")
 
 
 `} 
