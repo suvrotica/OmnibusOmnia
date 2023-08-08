@@ -117,6 +117,34 @@ image_name ="popc.svg"
 </details> 
 <details>
 	<summary>Blogs</summary>
+
+<B4
+blogContent={`Title:I sing a song 
+	Date:2023-aug-8
+42br
+42bq("
+I sing a song like there's nothing wrong,
+But everyone has the devil kissed. 
+Just yesterday they attempted murder,
+Today on my head they pissed.
+42br
+A philistine phallus was forced,
+I gagged full of urine and cum.
+They said if I don't stop singing,
+They'd light me up soaked in rum.
+42br
+Imagine the gods dismay,
+From behind the clouds in the sky. 
+They said the only thing I could do,
+Was shut the croaking fuck up or die.
+
+
+")
+`} 
+image_name ="aug85.svg"
+/>
+
+
 <B4
 blogContent={`Title:Prince of heart ♥ 
 	Date:2023-aug-8
