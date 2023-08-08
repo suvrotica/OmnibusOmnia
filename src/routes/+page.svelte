@@ -139,7 +139,7 @@ I let them enjoy their pain.
 
 ")
 `} 
-image_name ="aug83.svg"
+image_name ="aug84.svg"
 />
 <B4
 blogContent={`Title:A corporate fellow
