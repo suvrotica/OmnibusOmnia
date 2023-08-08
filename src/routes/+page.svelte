@@ -53,6 +53,27 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Music and Songs</summary>
 <B4
+blogContent={`Title:Last kind words 
+	Date:2023-aug-8
+42br
+"The Last Kind Words" is a haunting and poignant blues song that has been recorded by various artists over the years. The song's origins can be traced back to the early 20th century, and it is considered a classic example of the Delta blues genre. While the song has been covered by numerous musicians, the most well-known version is likely that of Geeshie Wiley, recorded in 1930.
+42br
+Lyrically, "The Last Kind Words" is a mournful tale of lost love and regret. The song's protagonist laments the departure of their lover and expresses a deep sense of sorrow and longing. The lyrics evoke a sense of loneliness and despair, capturing the raw emotions that are characteristic of traditional blues music.
+42br
+The song's title, "The Last Kind Words," refers to the final words spoken between the singer and their departing lover. These last words carry a sense of finality, as the singer knows that their relationship has come to an end. The phrase "last kind words" implies that even though the words exchanged were kind, they mark the end of the relationship and a sense of final farewell.
+42br
+Musically, "The Last Kind Words" is characterized by its simple yet emotive melody, often played on a slide guitar. The song's slow tempo and mournful guitar playing contribute to its somber atmosphere. Geeshie Wiley's haunting vocal delivery adds to the overall emotional impact of the song, conveying the depth of the singer's feelings.
+42br
+The song's enduring appeal lies in its ability to convey universal themes of heartache, loss, and longing. It captures the essence of the blues genre, which often serves as a means of catharsis and self-expression for its performers and listeners alike. "The Last Kind Words" has been covered by various artists over the years, attesting to its lasting impact on the blues tradition.
+42br
+<iframe width="320" height="180" src="https://www.youtube.com/embed/XobT0tT7JQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+42br
+
+`} 
+image_name ="aug82.svg"
+/>
+
+<B4
 blogContent={`Title:Popcorn song
 	Date:2023-aug-2
 42br
