@@ -66,7 +66,7 @@ Musically, "The Last Kind Words" is characterized by its simple yet emotive melo
 42br
 The song's enduring appeal lies in its ability to convey universal themes of heartache, loss, and longing. It captures the essence of the blues genre, which often serves as a means of catharsis and self-expression for its performers and listeners alike. "The Last Kind Words" has been covered by various artists over the years, attesting to its lasting impact on the blues tradition.
 42br
-<iframe width="320" height="180" src="https://www.youtube.com/embed/XobT0tT7JQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/qIsbDzMRTf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
 42bq("
  The last kind word I heard my daddy say
