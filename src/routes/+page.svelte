@@ -76,6 +76,24 @@ image_name ="popc.svg"
 <B4
 blogContent={`Title:A smile 
 	Date:2023-aug-7
+42br
+42bq("
+I sketch a smiling face so that, 
+When I close my eyes I've something to see.
+Even with an uncaring selfish world,
+I always have someone smiling at me.
+42br
+So this happy face smiles at me,
+No matter what peeves the world around.
+I may be in a tempest tossed and turmoil,
+I just need to look at the happiness she's found.
+42br
+Now I'm old and hated by all,
+I have nothing that I can call my own.
+Just a faint and feeble mind,
+And this smile that won't ever bemoan.
+
+")
 `} 
 image_name ="aug73.svg"
 />
