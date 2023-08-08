@@ -122,6 +122,22 @@ image_name ="popc.svg"
 blogContent={`Title:A corporate fellow
 	Date:2023-aug-8
 42br
+42bq("
+A corporate fellow, shit now yellow, mood mellow,
+But I wasn't like this you know.
+I used to roar, now a weeping whore under a sycamore,
+Even my farts smell like snow.
+42br
+People finger me in emails,
+Yes, I the worshipper of the sun god and Shiva.
+My great great grandfather spoke in a dream, 
+He said I was suffering an asshole fever.
+42br
+The only cure was to fist myself,
+And then insert my laptop in my ass.
+Once done I should go take a dip,
+The rest will be done by the chemistry and gas.
+")
 `} 
 image_name ="aug83.svg"
 />
