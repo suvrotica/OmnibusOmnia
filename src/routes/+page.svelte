@@ -56,7 +56,7 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 blogContent={`Title:Last kind words 
 	Date:2023-aug-8
 42br
-"The Last Kind Words" is a haunting and poignant blues song that has been recorded by various artists over the years. The song's origins can be traced back to the early 20th century, and it is considered a classic example of the Delta blues genre. While the song has been covered by numerous musicians, the most well-known version is of Geeshie Wiley, recorded in 1930.
+"The Last Kind Words" is a haunting and poignant blues song that has been recorded by various artists over the years. The song's origins can be traced back to the early 20th century, and it is considered a classic example of the Delta blues genre. While the song has been covered by numerous musicians, the most well-known version is of <b>Geeshie Wiley</b>, recorded in 1930.
 42br
 Lyrically, "The Last Kind Words" is a mournful tale of lost love and regret. The song's protagonist laments the departure of their lover and expresses a deep sense of sorrow and longing. The lyrics evoke a sense of loneliness and despair, capturing the raw emotions that are characteristic of traditional blues music.
 42br
