@@ -122,7 +122,7 @@ image_name ="popc.svg"
 blogContent={`Title:A corporate fellow
 	Date:2023-aug-8
 42br
-} 
+`} 
 image_name ="aug83.svg"
 />
 
