@@ -68,7 +68,32 @@ The song's enduring appeal lies in its ability to convey universal themes of hea
 42br
 <iframe width="320" height="180" src="https://www.youtube.com/embed/XobT0tT7JQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
+42bq("
+The last kind words I heard my daddy say
+Lord, the last kind words I heard my daddy say
+If I die, if I die in the German war
+I want you to send my body, send it to my mother, Lord
+42br
+If I get killed, if I get killed, please don't bury my soul
+I cry, just like a baby, I'll never, never get old
+And I lay down and I die, Lord, I die, just like a man
+And I want you to please bury my body, Lord, I b'lieve my soul will fly away
+42br
+And I don't want no, no good woman
+To cry after me, Lord
+I don't want no, no good woman
+To cry after me
+You know if I can't be your man, I won't be your man at all
+And I give you my money, and you can't give me no money at all
+42br
+The last kind words I heard my daddy say
+Lord, the last kind words I heard my daddy say
+If I die, if I die in the German war
+I want you to send my body, send it to my mother, Lord
 
+
+
+")
 `} 
 image_name ="aug82.svg"
 />
