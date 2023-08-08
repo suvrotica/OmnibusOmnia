@@ -69,30 +69,29 @@ The song's enduring appeal lies in its ability to convey universal themes of hea
 <iframe width="320" height="180" src="https://www.youtube.com/embed/XobT0tT7JQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
 42bq("
-The last kind words I heard my daddy say
-Lord, the last kind words I heard my daddy say
-If I die, if I die in the German war
+ The last kind word I heard my daddy say
+Lord, the last kind word I heard my daddy say
+42br
+If I die, if I die in the german war
 I want you to send my body, send it to my mother, Lord
 42br
 If I get killed, if I get killed, please don't bury my soul
-I cry, just like a baby, I'll never, never get old
-And I lay down and I die, Lord, I die, just like a man
-And I want you to please bury my body, Lord, I b'lieve my soul will fly away
+I prefer just leave me out, let the buzzards eat me whole
 42br
-And I don't want no, no good woman
-To cry after me, Lord
-I don't want no, no good woman
-To cry after me
-You know if I can't be your man, I won't be your man at all
-And I give you my money, and you can't give me no money at all
+When you see me comin', look 'cross the rich man's field
+If I don't bring you flower, I'll bring you bolted meal
 42br
-The last kind words I heard my daddy say
-Lord, the last kind words I heard my daddy say
-If I die, if I die in the German war
-I want you to send my body, send it to my mother, Lord
-
-
-
+I went to the depot, I looked up at the stars
+Cried, some train don't come, there'll be some walkin' done
+42br
+My mama told me just before she died
+Lord, precious daughter, don't you be so wild
+42br
+The Mississippi river, you know it's deep and wide
+I can stand right here, see my babe from the other side
+42br
+What you do to me, baby, it never gets outta me
+I may not see you after I cross the deep blue sea
 ")
 `} 
 image_name ="aug82.svg"
