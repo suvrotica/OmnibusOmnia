@@ -117,7 +117,30 @@ image_name ="popc.svg"
 </details> 
 <details>
 	<summary>Blogs</summary>
+<B4
+blogContent={`Title:Prince of heart ♥ 
+	Date:2023-aug-8
+42br
+42bq("
+I am the prince of heart, my life a cosmic art,
+I bloody young girls for eternal love.
+The cunts are head over heels for cheap thrills,
+I use tools, anesthesia and a glove.
+42br
+You would think they would know, but no,
+They always fall for wrong shit.
+They look for stuff that's bound to be trouble,
+Stuff their parents say "stay away from it."
+42br
+They don't listen, full of contempt and denial,
+Their hormones surging in their vein.
+I don't even camouflage my extracting mouth,
+I let them enjoy their pain.
 
+")
+`} 
+image_name ="aug83.svg"
+/>
 <B4
 blogContent={`Title:A corporate fellow
 	Date:2023-aug-8
