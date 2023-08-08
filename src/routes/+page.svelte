@@ -137,8 +137,16 @@ Imagine the gods dismay,
 From behind the clouds in the sky. 
 They said the only thing I could do,
 Was shut the croaking fuck up or die.
-
-
+42br
+With such gods who needs anal rods,
+The poor deceived old me, I pity. 
+My faithful harmonium hurum by my side,
+I decide to leave the city.
+42br
+I'll look for a land where a hand,
+Will find me as a friend.
+There I'll sing with joy again,
+Otherwise this is the very end.
 ")
 `} 
 image_name ="aug85.svg"
