@@ -1426,21 +1426,8 @@ Ain't nothing but piss in that soup.
 	<!-- <C4 /> -->
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 
-	<B4
-		blogContent={`Title:Beat you up - Home Delivery
-Date:2023-jul-27
-42br
-`}
-		image_name="conv.svg"
-	/>
+	
 
-	<B4
-		blogContent={`Title:Dab - Coconut water 
-Date:2023-jul-27
-42br
-`}
-		image_name="dab.svg"
-	/>
 
 	<B4
 		blogContent={`Title:I don't give a flying fuck! 
@@ -1475,21 +1462,9 @@ With the cruel rational world doing away with the hairy gods and boiling away mo
 		image_name="ufo.svg"
 	/>
 
-	<B4
-		blogContent={`Title:Go faster, hup hup
-Date:2023-jul-27
-42br
-`}
-		image_name="rick.svg"
-	/>
+	
 
-	<B4
-		blogContent={`Title:The trees are dying
-Date:2023-jul-26
-42br
-`}
-		image_name="tree.svg"
-	/>
+	
 	<B4
 		blogContent={`Title:Bed wetting 
 Date:2023-jul-26
@@ -1614,7 +1589,9 @@ Now, an old fart, I have it pretty dry, but it doesn't stop me from describing t
 Things have opened up quite a bit since Edison’s scandalous film of the first on-screen kiss in 1896. The public's perception of puckering up can have some different meanings all together these days. If you're in my city and the smell reminds you that some people are puckering snakes and that the hygiene of others needs some thought, you might not want to leave your bathroom. But I digress; as it happens, I have diarrhea, a happy comeuppance of rain, vain and jolly shitting pain, and I'm wondering how aquifers are connected, etcetera. But back to the kissing: a different puckering involving lips on your face instead of the ass. 
 42br
 
-Here's how it ought to go down: behind a rustling shrubbery in a pre-independence landmark where you enter, you pay a fee to the underpaid, gaunt police or someone pretending to be an officer of some sort, just for this proximity. Usually already with a girl, who could also be arranged by the said public servant in the previous sentence for a few bucks more. I make no judgments on your abilities. I have none. Girls never get attracted to me. I'd be the last creature they'd consider mating with if the planet was just about to get ass raped and asshole gaped by aliens. But forget about losers like me and proceed with confidence. But don't overdo it; girls like a measured bit. They want to have room to work on it so that they can feel like they're contributing, a fixer-upper, with money, just conveniently, air in the head, so that he can be led by the leash, usually to shopping malls. If you already seem like you're on cloud nine, there's not much she can improve upon.
+Here's how it ought to go down: behind a rustling shrubbery in a pre-independence landmark where you enter, you pay a fee to the underpaid, gaunt police or someone pretending to be an officer of some sort, just for this proximity. Usually already with a girl, who could also be arranged by the said public servant in the previous sentence for a few bucks more. 
+This packaging between men as success objects and women as sex objects in the city of joy has made the payment ratios in this garden of Eden comparatively easy math.
+I pass no judgments on your abilities or inadequacies of course. I have many issues myself. Girls never get attracted to me. I'd be the last creature they'd consider mating with if the planet was just about to get ass raped and asshole gaped by aliens. But forget about losers like me and proceed with confidence. But don't overdo it; girls like a measured bit. They want to have room to work on it so that they can feel like they're contributing, a fixer-upper, with money, just conveniently, air in the head, so that he can be led by the leash, usually to shopping malls. If you already seem like you're on cloud nine, there's not much she can improve upon.
 42br
 You start off by first opening your mouth just a tad, right after you've been resting peacefully with closed lips, customary in polluted cities. Might want to open your nostrils if those are pinched or clogged with soot too. You'd have to be quick since the money has bought you only finiteness under the democratic but competitive shade of a gulmohar with other proximity seekers. Adroitly signal to your girl, by gently brushing her teeth with a flick of the tip of your tongue, that you wish for her reciprocation. Preferably with the eyes diplomatically half-closed. The moment she responds, close your eyes and instead of the usual old-fashioned caress, suck inward as though you were trying to draw out the sweet juice of a ripe Chaunsa mango. This variety of mango was named after Indian ruler Sher Shah Suri to celebrate his victory over Humayun at Bihar's Chausa, something we, as hindoo Indians, should deny and rename the mango. Sorry, I digress. You usually see it in July and August. It used to come from Hardoi, Uttar Pradesh. The Chaunsa is best enjoyed when sucked. I love mangoes.
 42br
