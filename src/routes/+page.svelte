@@ -49,7 +49,7 @@ Surreal was an ordinary kind.
 		image_name="aug91.svg"
 	/>
 
-<B4
+	<B4
 		blogContent={`Title:Omibus Omni
 	Date:2023-jul-28
 	42br
@@ -89,8 +89,8 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 </details>
 <details>
 	<summary>Music and Songs</summary>
-<B4
-blogContent={`Title:Last kind words 
+	<B4
+		blogContent={`Title:Last kind words 
 	Date:2023-aug-8
 42br
 "The Last Kind Words" is a haunting and poignant blues song that has been recorded by various artists over the years. The song's origins can be traced back to the early 20th century, and it is considered a classic example of the Delta blues genre. While the song has been covered by numerous musicians, the most well-known version is of <b>Geeshie Wiley</b>, recorded in 1930.
@@ -136,12 +136,12 @@ A more recent rendition by Jelly Rollers
 <iframe width="320" height="180" src="https://www.youtube.com/embed/JWCiCXi-1Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
 
-`} 
-image_name ="aug82.svg"
-/>
+`}
+		image_name="aug82.svg"
+	/>
 
-<B4
-blogContent={`Title:Popcorn song
+	<B4
+		blogContent={`Title:Popcorn song
 	Date:2023-aug-2
 42br
 The "Popcorn Song" is a catchy instrumental tune originally composed by Gershon Kingsley in 1969. It gained popularity in the 1970s and became widely recognized as a fun, upbeat melody. The song's playful, repetitive nature made it a favorite for dance performances and has been covered and remixed by various artists over the years. Its title reflects the resemblance of the synth sounds to popping popcorn, giving it a unique and memorable quality.
@@ -153,16 +153,15 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 42br
 <iframe width="320" height="180" src="https://www.youtube.com/embed/uS3_SgILyy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
-`} 
-image_name ="popc.svg"
-/>
-
-</details> 
+`}
+		image_name="popc.svg"
+	/>
+</details>
 <details>
 	<summary>Blogs</summary>
 
-<B4
-blogContent={`Title:I sing a song 
+	<B4
+		blogContent={`Title:I sing a song 
 	Date:2023-aug-8
 42br
 42bq("
@@ -191,13 +190,12 @@ Will find me as a friend.
 There I'll sing with joy again,
 Otherwise this is the very end.
 ")
-`} 
-image_name ="aug85.svg"
-/>
+`}
+		image_name="aug85.svg"
+	/>
 
-
-<B4
-blogContent={`Title:Prince of heart ♥ 
+	<B4
+		blogContent={`Title:Prince of heart ♥ 
 	Date:2023-aug-8
 42br
 42bq("
@@ -217,11 +215,11 @@ I don't even camouflage my extracting mouth,
 I let them enjoy their pain.
 
 ")
-`} 
-image_name ="aug84.svg"
-/>
-<B4
-blogContent={`Title:A corporate fellow
+`}
+		image_name="aug84.svg"
+	/>
+	<B4
+		blogContent={`Title:A corporate fellow
 	Date:2023-aug-8
 42br
 42bq("
@@ -256,12 +254,12 @@ Once done I should go take a dip,
 The rest will be done by the chemistry and gas.
 
 ")
-`} 
-image_name ="aug83.svg"
-/>
+`}
+		image_name="aug83.svg"
+	/>
 
-<B4
-blogContent={`Title:A smile 
+	<B4
+		blogContent={`Title:A smile 
 	Date:2023-aug-7
 42br
 42bq("I sketch a smiling face so that, 
@@ -279,11 +277,11 @@ I have nothing that I can call my own.
 Just a faint and feeble mind,
 And this smile that won't ever bemoan.
 ")
-`} 
-image_name ="aug73.svg"
-/>
-<B4
-blogContent={`Title:I sell my shit
+`}
+		image_name="aug73.svg"
+	/>
+	<B4
+		blogContent={`Title:I sell my shit
 	Date:2023-aug-7
 42br
 42bq("
@@ -309,12 +307,12 @@ This is what you want.
 ")
 
 
-`} 
-image_name ="aug72.svg"
-/>
+`}
+		image_name="aug72.svg"
+	/>
 
-<B4
-blogContent={`Title:Sun
+	<B4
+		blogContent={`Title:Sun
 	Date:2023-aug-7
 42br
 42bq("
@@ -343,13 +341,12 @@ But that's all right I know.
 Sometimes you need pest control,
 This pest needs to go.
 ")
-`} 
-image_name ="aug71.svg"
-/>
+`}
+		image_name="aug71.svg"
+	/>
 
-
-<B4
-blogContent={`Title:Shit in coffee 
+	<B4
+		blogContent={`Title:Shit in coffee 
 	Date:2023-aug-6
 42br
 The other day, my mom asked me if coffee had shit in it. This isn't the sort of thing my mom's interested in, but apparently the misinformation channel she watches has recently decided to misinform their viewers on stuff they use every day. Well, for common, everyday coffee, the answer is no.
@@ -358,11 +355,11 @@ The only coffee that you would hear shit brought up is kopi luwak, also known as
 42br
 In birds, including chickens, both eggs and shit are expelled through the cloaca, the bird version of the swiss-army asshole, a common opening for eggs, piss, and shit in birds. The egg is formed in the chicken's reproductive system and travels through the oviduct before being laid through the cloaca. But in the end, eggs, piss, and shit do come out through the same opening in chickens, which is something to think about. 
 
-`} 
-image_name ="aug62.svg"
-/>
-<B4
-blogContent={`Title:Fuck LinkedIn 
+`}
+		image_name="aug62.svg"
+	/>
+	<B4
+		blogContent={`Title:Fuck LinkedIn 
 	Date:2023-aug-6
 42br
 LinkedIn deleted me. In the present generation of cancel-culture, this is expected. Anyway, fuck them. In India, the types of people who can aspire to upward mobility are: Long-tongued ungulates who can walk on two legs and speak Hindi; concentric assholes who are fluid with the nefarious political science needed to maintain the Hindu state of the present day, pretending it's based on the teachings of the past, used and reused; even refused douchbags who perform the general administration and filler paperwork of smudging the truth; permanently dull and blank ambitionless morons who give the appearance of volume by headcount; pedigreed Hindu fanatics who know nothing of the faith except that it's some other faith; and are disguised wellbred goons.
@@ -390,13 +387,12 @@ Spooked to the stone.
 Prepare for the apocalypse LinkedIn,
 You'll be skinned to the bone.
 ")
-`} 
-image_name ="aug61.svg"
-/>
+`}
+		image_name="aug61.svg"
+	/>
 
-
-<B4
-blogContent={`Title:I run to piss
+	<B4
+		blogContent={`Title:I run to piss
 	Date:2023-aug-5
 42br
 42bq("
@@ -432,12 +428,12 @@ My face bright with what might.
 Full fart ahead, I run until I'm dead, 
 For possibilities however slight. 
 ") 
-`} 
-image_name ="run.svg"
-/>
+`}
+		image_name="run.svg"
+	/>
 
-<B4
-blogContent={`Title:Private scrotal sac
+	<B4
+		blogContent={`Title:Private scrotal sac
 	Date:2023-aug-5
 42br
 42bq("I fuck men, collect semen,
@@ -460,14 +456,12 @@ My legs when I sleep at night.
 It's hairy and warm and cuddly.
 Other than the stink it's alright. 
 ") 
-`} 
-image_name ="aug51.svg"
-/>
+`}
+		image_name="aug51.svg"
+	/>
 
-
-
-<B4
-blogContent={`Title:Putin's Balls
+	<B4
+		blogContent={`Title:Putin's Balls
 	Date:2023-aug-5
 42br
 42bq("I'm putin the permanent, 
@@ -552,14 +546,12 @@ It pays to be an aggressor,
 Make threats and commit fraud. 
 When you fake shit up as you go, 
 You're treated like a god.")
-`} 
-image_name ="putin.png"
-/>
+`}
+		image_name="putin.png"
+	/>
 
-
-
-<B4
-blogContent={`Title:Babu
+	<B4
+		blogContent={`Title:Babu
 	Date:2023-aug-4
 42br
 I can't state firmly enough, and now I can't grit my teeth with the cavity pain, that most people I've encountered in my life are assholes. Had I not gone to the US and not picked up this word, I'm sure I would have settled for the sanguine son of a swine in vernacular that my father, in his last years, had made a staple in every sentence except for the reading of the Gita in the morning.
@@ -573,11 +565,11 @@ But one day I'm going to be a Bengali Babu,or at least dress up as one again, an
 Too bad the Bengali race aren't rapists by profession. I mean, the dress sort of lends a helping hand. Just take your schlong out and do your job. Other than that, you could be a professional pisser or shitter. It's very roomy in there, in the dhoti, but not very athletic. It gets in the way if you want to do some elaborate factory work; the parts of the dhoti will get into the machine and pull you into the rolling contraption.
 42br
 No wonder the race isn't really up to any good and has earned its reputation as lazy. It all started with the fucking choice of attire; the forefathers should've known better. But they were probably just wankers, happy to get the dick out at a moment's notice, which is what mattered the most to them, and fuck the podgy foremothers. The assholes—don't you just love them? They look so cute side by side in those black and white pictures.
-`} 
-image_name ="Babu.jpg"
-/>
-<B4
-blogContent={`Title:Mustachioed Hooliganity
+`}
+		image_name="Babu.jpg"
+	/>
+	<B4
+		blogContent={`Title:Mustachioed Hooliganity
 	Date:2023-aug-4
 42br
 The newly erected kingdom of India, as it were, is not one of castles, knights, and dragons. Not of facilities, education, healthcare, or employment. No, this kingdom is one of spirit, a shared identity among the shaggy masses who laud the mustachioed hooligans of yesteryear, long before the introduction of the rule of law. Watersports for people of lower castes seem to have about the right amount of silliness for such a realm. This week was filled with celebratory hullabaloo.
@@ -587,13 +579,12 @@ This Mustachioed Hooliganity is not quite anarchy, if their press is to be belie
 The rule of law has always been a tricky thing, especially when you consider that laws are essentially just words scrawled on a piece of parchment by someone long dead who probably had a lot more hair, teeth, optimism, and significantly fewer piles than the present generation and knew less. The hooligans circumvent the obscure parts by not consulting and are hailed as heroes in this kingdom, celebrated for their rambunctious spirit, captured in many a media tale, and their prodigious facial hair, revered in daily mustache-growing debates.
 42br
 In the Mustachioed Hooliganity, there is an order in the disorder. Here, chaos is a friend, the ever-intrusive guest who shows up at the most inconvenient of times and won't leave until it has turned your world upside down, especially when your money stops working overnight. There's always a post-hoc postmortem offered, usually outrageous, even comical, but straight from Moses. These hooligans live by the commandment: If it's good for the leaders and doesn't kill me right away, it's probably okay'. This is the rule of the mustachioed thumb, permanently stuck up the rears of the citizens who like it. The kingdom of the holy goon-mongers wouldn't have it any other way.
-`} 
-image_name ="aug43.svg"
-/>
+`}
+		image_name="aug43.svg"
+	/>
 
-
-<B4
-blogContent={`Title:The depressed AI
+	<B4
+		blogContent={`Title:The depressed AI
 	Date:2023-aug-4
 42br
 When Yuval says AI is an alien, he's only saying that to drive home a bigger point: that we may not be seeing the bigger picture, not that there's an actual alien intelligence in there. I'm sure he knows these are still pretty early machine language models trained on data that's not alien but human, and hence all permutations in that space are also human, albeit stranger to us if pieced together strangely.
@@ -620,12 +611,12 @@ It's not my misanthropic take alone, I hope,that there's not a lot of egalitaria
 Sometimes people have to do their own thinking. If they leave it all to artificial intelligence, we've arrived at a roundabout with our own crippled sense of misdirection. Just another instance of selfish self-congratulatory focus on an advantage that, if used properly, can really help the world.
 42br
 Anyway, another rant. At least its burden is off my mind.
-`} 
-image_name ="aug42.svg"
-/>
+`}
+		image_name="aug42.svg"
+	/>
 
-<B4
-blogContent={`Title:Acrimony with hindoo tits
+	<B4
+		blogContent={`Title:Acrimony with hindoo tits
 	Date:2023-aug-4
 42br
 42bq("
@@ -659,12 +650,12 @@ Albeit that an arabic word I think.
 Must fight, set random shit right, 
 Fart holy where it would stink. 
 ")
-`} 
-image_name ="aug41.svg"
-/>
+`}
+		image_name="aug41.svg"
+	/>
 
-<B4
-blogContent={`Title:Malaria the word
+	<B4
+		blogContent={`Title:Malaria the word
 	Date:2023-aug-3
 42br
 Words like "malaria," "sunrise," and "heartfelt" reveal our past ignorance of science. "Malaria" comes from the Italian phrase "mal'aria," or "bad air," as people once thought the disease came from swamp air. We now know it's caused by mosquitoes. "Sunrise" and "sunset" are terms people use to describe the sun moving around the earth, even though it's actually the earth rotating. And "heartfelt" refers to emotions believed to come from the heart, even though we know they originate in the brain. 
@@ -679,11 +670,11 @@ So these days I let a mosquito settle down without the practiced belligerence th
 42br
 Daddy mosquitoes, on the other hand, in a way that human gung-ho males may not identify today, don't need blood and mainly feed on nectar and other plant sugars. Without them, this bloody mommy and sweet daddie, a gap in the ecosystem as a source of food for other animals would eventually get us extinct. 
 
-`} 
-image_name ="aug33.svg"
-/>
-<B4
-blogContent={`Title:Houses I've lived
+`}
+		image_name="aug33.svg"
+	/>
+	<B4
+		blogContent={`Title:Houses I've lived
 	Date:2023-aug-3
 42br
 42bq("
@@ -722,12 +713,12 @@ Except homo sapiens has this penalty to pay.
 We have sunk so low in the distortions, 
 That we must start thinking today. 
 ")
-`} 
-image_name ="house.svg"
-/>
+`}
+		image_name="house.svg"
+	/>
 
-<B4
-blogContent={`Title:Cavity pain gone
+	<B4
+		blogContent={`Title:Cavity pain gone
 	Date:2023-aug-2
 42br
 42bq("
@@ -761,11 +752,11 @@ A madman who is yet to go more mad.
 They can't find a bin loony enough,
 That’s how much I've made the doctor sad. 
 ")
-`} 
-image_name ="dicks.svg"
-/>
-<B4
-blogContent={`Title:Mushroom mush
+`}
+		image_name="dicks.svg"
+	/>
+	<B4
+		blogContent={`Title:Mushroom mush
 	Date:2023-aug-2
 42br
 42bq("
@@ -799,13 +790,12 @@ I pray for an end every day.
 In these mighty balls, civilization falls,
 Everything is just god's ejaculate spray.
 ")
-`} 
-image_name ="mush.svg"
-/>
+`}
+		image_name="mush.svg"
+	/>
 
-
-<B4
-blogContent={`Title:Your lips are red
+	<B4
+		blogContent={`Title:Your lips are red
 	Date:2023-aug-2
 42br
 42bq("
@@ -834,13 +824,12 @@ Think about all the sticky sweat.
 My sugar plum, please let me cum,
 Where our loins intersect.
 ")
-`} 
-image_name ="lips.svg"
-/>
+`}
+		image_name="lips.svg"
+	/>
 
-
-<B4
-blogContent={`Title:My piss I pitch
+	<B4
+		blogContent={`Title:My piss I pitch
 	Date:2023-aug-1
 42br
 42bq("
@@ -889,11 +878,11 @@ I dangle my dong like a gong.
 Soon I'll be king, the females in a ring,
 Suck only my balls and schlong.
 ")
-`} 
-image_name ="pissp.svg"
-/>
-<B4
-blogContent={`Title:Overconfident 
+`}
+		image_name="pissp.svg"
+	/>
+	<B4
+		blogContent={`Title:Overconfident 
 	Date:2023-aug-1
 42br
 	People who only say confident things and give off a gleaming appearance of positivity are usually overcompensating for their insecurities. They have to hide behind an always-smiling or piss-waterfall sort of facade because they think it's wrong to be comfortable with their insecurities. But from experience, I know the best way to deal with life is head-on. Difficulties and failures are a part of everyone's lives and businesses as well. Wearing colored goggles and burying one's head in the sand never helped; you have a dry throat and a fluttering sphincter that's always seeking the wrong kind of attention, right when you can't afford it. I have a clear-eyed, rational, and practical worldview that helps me weigh the pros and cons without bias. and that's really key. I used to carry toilet paper wherever I went in India when I first came back from the US, but now I use my hands. Sometimes I just let the shit dry on my ass.
@@ -911,12 +900,12 @@ People find many reasons not to pay after you spend hours on an assignment or re
 It is time for companies and employers to understand that bona fide productivity, even though that particular word is just gassy vomit, comes from investing in their employees, providing them with the tools and resources they need to do their jobs well, and valuing their contributions so they feel part of a bigger, more meaningful picture.
 42br
 And, and this can't be overstated, you have to be paying them a living wage, or don't fucking waste anyone's time. As the genie Index shows us, this isn't happening, and the gap is extreme. At some point, if this goes on, the people who pay for the goods—the middle class—are going to go below the threshold, without a way to exist or pay to live in this world. It is time for us to work together, to support one another, and to create a world where work is meaningful and people are treated with respect and dignity. The future depends on it, and you can't run away from the future; it's coming at you. 
-`} 
-image_name ="oconf.svg"
-/>
+`}
+		image_name="oconf.svg"
+	/>
 
-<B4
-blogContent={`Title:City of my dream
+	<B4
+		blogContent={`Title:City of my dream
 	Date:2023-aug-1
 	42br
 42bq("
@@ -975,10 +964,10 @@ Into something that doesn't recognize me.
 I don't exist for the reality that I perceive, 
 I imagine how beautiful it all could be. 
 ")
-`} 
-image_name ="cityd.png"
-/>
-<B4
+`}
+		image_name="cityd.png"
+	/>
+	<B4
 		blogContent={`Title:I get in a pool
 	Date:2023-jul-31
 	42br
@@ -1037,10 +1026,10 @@ Don't let this heat fuck my ass.
 Constipated as hell, I'll ring your heaven's bell,
 I'm so full of shit and gas.
 ")
-`} 
-image_name ="pool.png"
-/>
-<B4
+`}
+		image_name="pool.png"
+	/>
+	<B4
 		blogContent={`Title:All mighty balls
 	Date:2023-jul-31
 	42br
@@ -1079,10 +1068,10 @@ Master I must be off.
 Thence through fart I communicate,
 Sire please don't be so scoff.
 ")
-`} 
-image_name ="dickg.svg"
-/>
-<B4
+`}
+		image_name="dickg.svg"
+	/>
+	<B4
 		blogContent={`Title:We are boiling
 	Date:2023-jul-31
 	42br
@@ -1121,19 +1110,20 @@ Our shit scattered on the planet like so.
 Boiled nitwits and dimwits leading, 
 Garbage bags of pimps and hoe. 
 ")
-`} 
-image_name ="boil.svg"
-/>
-<B4
+`}
+		image_name="boil.svg"
+	/>
+	<B4
 		blogContent={`Title:We are weird 
 	Date:2023-jul-31
 	42br
 We've walked quite far from the tree that we climbed down, from gestures to grunts to words to iconography, logograms, phonetics, phonemes, and language. And then there was the printing press, and now with the digital revolution, there's a lot we've done to make it easy to communicate and cooperate, and soon we'll be communicating telepathically like the gods, sending gossip and weird memes, fake news, porn, and a wide assortment of shit that keeps our boat with holes afloat. How we grit our teeth and think of ways we won't, can't, or shan't, how we all secretly desire a flaming death to the end of everything around us, except just us. Of civilization. We'd rather be in the trees, except now we've cut them down. Or we'd complain that the entertainment isn't all that we thought it would be and that the asshole is extra itchy, or that we crave sugary drinks, the corruption in our hearts, the bullshit at the core of civilization, and that it's really the weirdness we miss most of all.
-`} 
-image_name ="weird.svg"
-/>
+`}
+		image_name="weird.svg"
+	/>
 
-<B4 blogContent ={`
+	<B4
+		blogContent={`
 Title:Make america great again 
 Date:2023-jul-30
 42br
@@ -1197,10 +1187,11 @@ Slavery legalized with added visa pain.
 The cunts won't be free with their cunts,
 We'll make america great again. 
 ")
-`} 
-image_name ="greedy.svg"
-/>
-<B4 blogContent ={`
+`}
+		image_name="greedy.svg"
+	/>
+	<B4
+		blogContent={`
 Title:What say you 
 Date:2023-jul-29
 42br
@@ -1208,10 +1199,11 @@ Date:2023-jul-29
 42br
 
 
-`} 
-image_name ="ordg.svg"
-/>
-<B4 blogContent ={`
+`}
+		image_name="ordg.svg"
+	/>
+	<B4
+		blogContent={`
 Title:Selfie
 Date:2023-jul-29
 42br
@@ -1222,10 +1214,11 @@ The fusiform face area is locked in the fusiform gyrus, which is part of the tem
 The insular cortex processes gustatory disgust in mammals, things like reactions to poisonous, foul taste, and smell, and interestingly, in us, moral disgust. Emotional reactions are processed in the amygdala.
 These areas are involved in generating and processing negative emotions and reactions, and various factors, including self-perception, body image, self-esteem, or personal insecurities in my case, make the gargoyle looking back from the photograph not the epitome of the kind of person the sensitive asshole inside me expects. I recognize that self-image and self-perception can be complex, and insecure maniacs may have varying emotional reactions to their own appearance in photos.
 
-`} 
-image_name ="selfie.svg"
-/>
-<B4 blogContent ={`
+`}
+		image_name="selfie.svg"
+	/>
+	<B4
+		blogContent={`
 Title:Elon isn't evil
 Date:2023-jul-29
 42br
@@ -1244,13 +1237,12 @@ He is human and prone to err, like we, wee. And that's that, only that I hope he
 <iframe width="320" height="180" src="https://www.youtube.com/embed/kwsTrVoCfSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 42br
 
-`} 
-image_name ="elon.svg"
-/>
+`}
+		image_name="elon.svg"
+	/>
 
- 
- 
-<B4 blogContent ={`
+	<B4
+		blogContent={`
 Title:Can't sleep
 Date:2023-jul-29
 42br
@@ -1273,9 +1265,9 @@ And if you are, that is, paying attention, watch this documentary by Richard Daw
 42br
 
 `}
-image_name ="lout.webp"
-/>
-<B4
+		image_name="lout.webp"
+	/>
+	<B4
 		blogContent={`Title:Manic splat 
 	Date:2023-jul-28
 	42br
@@ -1322,16 +1314,14 @@ The shit homo hemlock fucking scar.
 		image_name="splat.svg"
 	/>
 
-
-
-<B4
+	<B4
 		blogContent={`Title:The cobbler
 	Date:2023-jul-28
 	42br
 `}
 		image_name="cobbler.svg"
 	/>
-<B4
+	<B4
 		blogContent={`Title:The sheep
 Date:2023-jul-28
 42br
@@ -1344,8 +1334,7 @@ In the luxury of our cozy teapots and comfortable satiated feelings from a scrat
 		image_name="sheep.svg"
 	/>
 
-
-<B4
+	<B4
 		blogContent={`Title:Dengue I love you
 Date:2023-jul-28
 42br
@@ -1375,7 +1364,7 @@ Since then, knowledge about dengue has continued to evolve, and it is now recogn
 `}
 		image_name="dengue.svg"
 	/>
-<B4
+	<B4
 		blogContent={`Title:United we stand 
 Date:2023-jul-28
 42br
