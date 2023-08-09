@@ -17,6 +17,7 @@
 	Date:2023-aug-9
 	42br
 I'm intent on keeping a memoir because I know that when I'm gone, there will be people wondering what music I liked, what books I read, and what defined this ludicrous audacity of a bengali black sheep, and I don't want to disappoint them.
+42br
 42bq("
 I'm on glass and sand on a fruitless errand,
 But I must persist to futility.
