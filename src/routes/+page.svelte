@@ -17,6 +17,7 @@
 	Date:2023-aug-9
 	42br
 I'm intent on keeping a memoir because I know that when I'm gone, there will be people wondering what music I liked, what books I read, and what defined this ludicrous audacity of a bengali black sheep, and I don't want to disappoint them.
+But I'm really sort of doing this for myself; I could care less about the selfish progeny or their vicissitudes. This is really an exploration of the self; an unexamined life isn't justice done, and the halfway mark is about the right time for it, for it might be that you never get to see the other half.
 42br
 And I know I'll die soon, as my unpopularity is climbing and the cost of eliminating an unprotected Indian civilian is dropping precipitously to a point where I might just do it myself and save the gentlemen the ignominy. In fact, in the city of joy, if you're male and listed for murder and not high on the celebrity score, the average goon with self-respect may not even take my case. The minimum is rape; at least there's some fun involved, hilarity with friends, and a drunken shindig with colluding officers of law. 
 42br
@@ -24,8 +25,7 @@ It was different in Hyderabad when I had the money. That image is a reconstructi
 42br
 What they'll do in city lovely is, I suspect, train a newbie to carelessly run a sharp fish knife through my intestines, spill it on the floor, and watch the trainee vomit and laugh up a hysteric storm of imprecations that would bring up my entire family, living and nonliving. There's very little change in the last name; I go from Ghosh to Ghost, if you believe such things.
 42br
-But I'm really sort of doing this for myself; I could care less about the selfish progeny or their vicissitudes. This is really an exploration of the self; an unexamined life isn't justice done, and the halfway mark is about the right time for it, for it might be that you never get to see the other half.
-42br
+
 42bq("
 I'm on glass and sand on a fruitless errand,
 But I must persist to futility.
