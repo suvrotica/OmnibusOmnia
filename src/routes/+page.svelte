@@ -197,6 +197,11 @@ Work is really very light.
 It's delegation, masquerade, and subterfuge,
 That’s the reason for all the fight.
 42br
+Most of the actual work is done,
+By people who get compensated the least.
+We're there swinging the hairy productivity shlong,
+Like a freshly anus fingered, ferocious beast.
+42br
 People finger me in emails,
 Yes, I the worshipper of the sun god and Shiva.
 My great great grandfather spoke in a dream, 
