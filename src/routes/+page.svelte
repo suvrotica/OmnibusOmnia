@@ -187,6 +187,16 @@ But I wasn't like this you know.
 I used to roar, now a weeping whore under a sycamore,
 Even my farts smell like snow.
 42br
+My head always hot, like fresh shit in a pot,
+Often I go off my rails.
+This sets off a cascade of office farts, 
+The office is sailing on smelly sails.
+42br
+It's basically this, we're ego full of pious piss,
+Work is really very light.
+It's delegation, masquerade, and subterfuge,
+That’s the reason for all the fight.
+42br
 People finger me in emails,
 Yes, I the worshipper of the sun god and Shiva.
 My great great grandfather spoke in a dream, 
@@ -196,6 +206,7 @@ The only cure was to fist myself,
 And then insert my laptop in my ass.
 Once done I should go take a dip,
 The rest will be done by the chemistry and gas.
+
 ")
 `} 
 image_name ="aug83.svg"
