@@ -503,9 +503,9 @@ image_name ="putin.png"
 blogContent={`Title:Babu
 	Date:2023-aug-4
 42br
-I can't state firmly enough, and now I can't grit my teeth with the cavity pain, that most people I've encountered in my life are assholes. Had I not gone to the US and not picked up this word, I'm sure I would have settled for the sanguine son of a pig in vernacular that my father, in his last years, had made a staple in every sentence except for the reading of the Gita in the morning.
+I can't state firmly enough, and now I can't grit my teeth with the cavity pain, that most people I've encountered in my life are assholes. Had I not gone to the US and not picked up this word, I'm sure I would have settled for the sanguine son of a swine in vernacular that my father, in his last years, had made a staple in every sentence except for the reading of the Gita in the morning.
 42br
-People with a full stomach without bloating, irascible intestinal worms who have retired, malignant tumors in full remission, a sufficient positive bank balance that they can afford to forget to count, and a deaf and dumb wife who is also blind wouldn't understand the need for the belligerence I feel.
+People with a full stomach without bloating, irascible intestinal worms that have retired after their meal, malignant tumors in full remission, a sufficient positive bank balance that they can afford to forget to count, and a deaf and dumb wife who is also blind wouldn't understand the need for the belligerence I feel.
 42br
 My problems are different, of course; I am a different beast, with different pubic hair and naturally occurring lice of other species. I am, in fact, an alien, as I sometimes feel. Sure, I pucker my asshole and snake a turd just like the rest of the shithole homo sapiens, but there's something different about me. Sure, I piss and play with my piss like the rest of the retarded generation, but I sense a satisfaction that's missing in them. It is most likely that I am a retarded fuck who should just shut up and keep to himself, which is what I do.
 42br
