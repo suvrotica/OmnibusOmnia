@@ -13,6 +13,36 @@
 <details>
 	<summary>Welcome Posts</summary>
 	<B4
+		blogContent={`Title:Memoir
+	Date:2023-aug-9
+	42br
+I'm intent on keeping a memoir because I know that when I'm gone, there will be people wondering what music I liked, what books I read, and what defined this ludicrously common man, and I don't want to disappoint them.
+42bq("
+I'm on glass and sand on a fruitless errand,
+But I must persist to futility.
+The paths well marked I refrain,
+It's the shit stained leading out of the city.
+42br
+Holy my hole, my dick and balls,
+Tied with a rubber band.
+Masculinity I need on occasions,
+Aloha colored grandstand.
+42br
+Hoping I score when I am no more,
+When I am dead and long gone.
+When people can spray piss all they want,
+Or shoot shit on me a tonne.
+42br
+At least they'll know he lived a life full of life,
+Filthy as a whore or worse in mind.
+In his fantastic landscapes everything could be,
+Surreal was an ordinary kind.
+")
+	`}
+		image_name="aug91.svg"
+	/>
+
+<B4
 		blogContent={`Title:Omibus Omni
 	Date:2023-jul-28
 	42br
