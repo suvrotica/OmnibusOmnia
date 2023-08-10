@@ -172,8 +172,8 @@ It just sits there and licks me,
 Disgusting just the same.
 42br
 It follows me wherever I go, to the high or low,
-I kinda stuck I think.
-It smells awful always.
+I'm kinda stuck I think.
+It smells like shit always.
 I'm surrounded by its godawful stink.
 ")
 `}
