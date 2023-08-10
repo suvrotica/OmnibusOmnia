@@ -161,6 +161,33 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
+
+<B4
+		blogContent={`Title:A bug
+	Date:2023-aug-10
+42br
+42bq("
+I dick like tick with an eye I spy,
+This my holy wee spot.
+Shall not the gods weep to see,
+The tears flowing down hot.
+42br
+I may faint this morning I wanted to paint,
+With piss this wall glowing yellow.
+This now from where shit swine without a care,
+A disgusting slimy mellow fellow.
+42br
+I resign with a bladder full,
+A mind hopeless with cruel thoughts.
+Perspicacity escapes my mind now,
+I shall attempt to shit in several pots.
+")
+`}
+		image_name="aug102.svg"
+	/>
+
+
+
 <B4
 		blogContent={`Title:A bug
 	Date:2023-aug-10
