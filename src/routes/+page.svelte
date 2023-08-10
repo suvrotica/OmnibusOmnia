@@ -175,6 +175,11 @@ It follows me wherever I go, to the high or low,
 I'm kinda stuck I think.
 It smells like shit always.
 I'm surrounded by its godawful stink.
+42br
+At night I put it in my cunt give it what it wants,
+In the morning it's back to licking.
+If I get pregnant with it, there'll be many,
+The planet will be sick and swarming. 
 ")
 `}
 		image_name="aug101.svg"
