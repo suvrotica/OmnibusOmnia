@@ -161,7 +161,24 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
-
+<B4
+		blogContent={`Title:A bug
+	Date:2023-aug-10
+42br
+42bq("
+A bug on my skin a crawling creeping thing,
+Dunno from where it came.
+It just sits there and licks me,
+Disgusting just the same.
+42br
+It follows me wherever I go, to the high or low,
+I kinda stuck I think.
+It smells awful always.
+I'm surrounded by its godawful stink.
+")
+`}
+		image_name="aug101.svg"
+	/>
 	<B4
 		blogContent={`Title:I sing a song 
 	Date:2023-aug-8
