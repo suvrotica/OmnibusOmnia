@@ -163,11 +163,11 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 	<summary>Blogs</summary>
 
 <B4
-		blogContent={`Title:A bug
+		blogContent={`Title:A dick like tick
 	Date:2023-aug-10
 42br
 42bq("
-I dick like tick with an eye I spy,
+A dick like tick with an eye I spy,
 This my holy wee spot.
 Shall not the gods weep to see,
 The tears flowing down hot.
