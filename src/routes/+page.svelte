@@ -439,7 +439,7 @@ Prepare for the apocalypse LinkedIn,
 You'll be skinned to the bone.
 ")
 `}
-		image_name="aug61.svg"
+		image_name="aug121.svg"
 	/>
 
 	<B4
