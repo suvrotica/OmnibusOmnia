@@ -162,7 +162,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <details>
 	<summary>Blogs</summary>
 <B4
-		blogContent={`Title:This new god 
+		blogContent={`Title:I poot soot 
 	Date:2023-aug-12
 42br
 42bq("
