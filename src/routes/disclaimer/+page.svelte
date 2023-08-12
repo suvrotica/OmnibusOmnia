@@ -13,7 +13,7 @@ I don't want to deny the darkness that's inside me anymore. And it's my sincere 
 42br
 I, for one, don't usually have a future onlooker in mind, except for a future me. I draw because I like to draw. I cherish the "I" part of art, and my unconcern for the "we" insulates me from the emotional afflictions that encumber people who use art to draw attention to themselves.
 42br
-42pic("aug102.svg")
+42pic("aug61.svg")
 In any case, I am much better off as a person misunderstood and an invisible, ignored nonentity who aspires to an ambition, equally misunderstood and from an outsider's perspective utterly futile. 
 My sketching like my limericks and verse, are all amateurish fare, except that, unlike other polite, conservative people, I'm quite intrepid. On the surface, what might appear to be crass and misanthropic has a deeper groove. The pain in my life as told by a contrarian and an iconoclast is still an oversimplification of what is going on in my head, but at least it's the beginning of a conversation. And like William Blake, I'll go unnoticed until much later, when historians will start examining the discarded fossils with an investigative lens. But again, it doesn't matter.
 42br
