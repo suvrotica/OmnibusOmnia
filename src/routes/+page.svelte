@@ -161,8 +161,54 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
-
-
+<B4
+		blogContent={`Title:This new god 
+	Date:2023-aug-12
+42br
+42bq("
+I poot soot, I know it's moot,
+But that's really who I am.
+Shit shocking news, numb my fuse,
+You'll see melted cheese and ham.
+42br
+Yes that's what I've been craving,
+And orange soda of the older Gen.
+Can't go back to the eighties,
+Can't go back to when I was ten.
+42br
+Now in middlessence, a nonsense,
+I earn less than a Calcutta street whore.
+Pasted to my chest are the oldies,
+More gassy explosive sentiments sore.
+42br
+Dignity I get my foot, no one gives a hoot,
+The good times are passing me by.
+Assholes galore, thieves and whores,
+Half starved and gaunt my furious eye.
+42br
+I swear on my shit, when I'm dead,
+I'll be a bad ass shit fucking ghost.
+A poltergeist that'll rattle foundations,
+Shake the earth beneath the post.
+42br
+I'll fuck all my enemies and more,
+I'll screw their heads reverse.
+I'll go up their ass and out their nostrils,
+Chanting their religious verse.
+42br
+I'll take the respective holy book,
+And shove it in their ass.
+And thread it through, until they gag,
+And keep it in until vomit or gas.
+42br
+Fucking flegm, assholes all,
+Life is such a virulent vomit. 
+I hope a meteor hits the earth tonight,
+Fuck I can't say I give a shit.
+")
+`}
+		image_name="aug123.svg"
+	/>
 <B4
 		blogContent={`Title:This new god 
 	Date:2023-aug-12
