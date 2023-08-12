@@ -162,6 +162,33 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <details>
 	<summary>Blogs</summary>
 
+
+<B4
+		blogContent={`Title:This new god 
+	Date:2023-aug-12
+42br
+42bq("
+This new god It his massive shit,
+Buried the town and the people under.
+His farts were really bad, made men sad,
+The sound was like thunder.
+42br
+Holy father He was very amused,
+He said bravo my son it.
+Fuck the people for the sin,
+Of not knowing what came in,
+And soon He also did verily shit.
+42br
+Holy mother She said I will too,
+And she let a torrent of piss below. 
+The villagers thought it was rain, soon slain,
+In their own miseries and woe.
+")
+`}
+		image_name="Aug121.svg"
+	/>
+
+
 <B4
 		blogContent={`Title:A dick like tick
 	Date:2023-aug-10
