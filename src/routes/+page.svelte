@@ -185,7 +185,7 @@ The villagers thought it was rain, soon slain,
 In their own miseries and woe.
 ")
 `}
-		image_name="Aug121.webp"
+		image_name="Aug122.webp"
 	/>
 
 
