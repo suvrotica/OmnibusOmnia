@@ -162,6 +162,43 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <details>
 	<summary>Blogs</summary>
 <B4
+		blogContent={`Title:The Perseids 
+	Date:2023-aug-13
+42br
+The Perseids are one of the most popular meteor showers of the year. They are active every year from mid-July to late August, but they peak on August 12-13. This year, the peak will be on August 13, 2023.
+The Perseids are named after the constellation Perseus. This is because the meteors appear to come from the direction of the constellation Perseus. The radiant of the Perseids is located in the constellation Perseus, near the Double Cluster.
+42br
+The name Perseus is derived from the Greek word "Perseidai", which means "sons of Perseus". In Greek mythology, Perseus was a hero who killed the Gorgon Medusa. He is also the father of Andromeda, who was saved from a sea monster by Perseus.
+42br
+The Perseids are caused by Earth passing through the debris left behind by Comet Swift-Tuttle. This comet orbits the Sun every 133 years. When Earth passes through the comet's debris trail, the particles collide with our atmosphere and burn up, creating meteors.
+42br
+The Perseids are known for their bright and fast meteors. They can often be seen streaking across the sky at speeds of up to 60 miles per second. Some Perseids can even be bright enough to be seen during the day.
+42br
+This year, the Perseids will be visible in the Northern Hemisphere. The best time to see them is after midnight, when the radiant (the point in the sky where the meteors appear to come from) is high in the sky. If you have a dark sky, you can expect to see up to 100 meteors per hour during the peak.
+42br
+Some tips for viewing the Perseids:
+42br
+* Find a dark location with a clear view of the sky.
+* Get away from city lights and streetlights.
+* Lie on your back and look up at the sky.
+* Be patient and wait for the meteors to appear.
+* If you have a telescope, you can use it to see the meteors more closely.
+42br
+The Perseids are a beautiful sight to behold. If you have the chance to see them, I highly recommend it.
+42br
+In addition to the Perseids, there are three other major meteor showers each year:
+42br
+* The Quadrantids: This shower peaks on January 4. It is the most active meteor shower of the year, with up to 200 meteors per hour.
+* The Lyrids: This shower peaks on April 22. It is known for its faint meteors, but it can still be a beautiful sight.
+* The Leonids: This shower peaks on November 17. It is known for its fireballs, which are large and bright meteors.
+
+
+
+`}
+		image_name="aug131.jpg"
+	/>
+
+<B4
 		blogContent={`Title:I poot soot 
 	Date:2023-aug-12
 42br
