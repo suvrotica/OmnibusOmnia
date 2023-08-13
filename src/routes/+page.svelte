@@ -176,7 +176,7 @@ And orange soda of the older Gen.
 Can't go back to the eighties,
 Can't go back to when I was ten.
 42br
-Now in middlessence, a nonsense,
+Now in middlescence, a nonsense,
 I earn less than a Calcutta street whore.
 Pasted to my chest are the oldies,
 More gassy explosive sentiments sore.
