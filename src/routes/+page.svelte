@@ -178,21 +178,25 @@ This year, the Perseids will be visible in the Northern Hemisphere. The best tim
 42br
 Some tips for viewing the Perseids:
 42br
-* Find a dark location with a clear view of the sky.
-* Get away from city lights and streetlights.
-* Lie on your back and look up at the sky.
-* Be patient and wait for the meteors to appear.
-* If you have a telescope, you can use it to see the meteors more closely.
+* Find a dark location with a clear view of the sky.<br>
+* Get away from city lights and streetlights.<br>
+* Lie on your back and look up at the sky.<br>
+* Be patient and wait for the meteors to appear.<br>
+* If you have a telescope, you can use it to see the meteors more closely.<br>
 42br
 The Perseids are a beautiful sight to behold. If you have the chance to see them, I highly recommend it.
 42br
 In addition to the Perseids, there are three other major meteor showers each year:
 42br
-* The Quadrantids: This shower peaks on January 4. It is the most active meteor shower of the year, with up to 200 meteors per hour.
-* The Lyrids: This shower peaks on April 22. It is known for its faint meteors, but it can still be a beautiful sight.
-* The Leonids: This shower peaks on November 17. It is known for its fireballs, which are large and bright meteors.
+* The Quadrantids: This shower peaks on January 4. It is the most active meteor shower of the year, with up to 200 meteors per hour.<br>
+* The Lyrids: This shower peaks on April 22. It is known for its faint meteors, but it can still be a beautiful sight.<br>
+* The Leonids: This shower peaks on November 17. It is known for its fireballs, which are large and bright meteors.<br>
 
+Here is a schedule of the best times to see the Perseids in Kolkata:
 
+August 13, 2023: After midnight<br>
+August 14, 2023: 1:00 AM to 4:00 AM<br>
+August 15, 2023: 2:00 AM to 5:00 AM<br>
 
 `}
 		image_name="aug131.jpg"
