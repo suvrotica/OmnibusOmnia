@@ -11,7 +11,7 @@
     42br
 
 I don't want to deny the darkness that's inside me anymore. And it's my sincere wish that by screaming the clues and hints about my mental health, I might make a difference to many who don't have a voice and suffer silently. And perhaps in a way, the imperfections that I try to delineate in characters are all part of me; that's how I know they exist, and this negotiated encounter with my fears and fragility may help someone else overcome their demons.
-42picr("aug141.svg")42br
+42picr("aug141.svg")
 I, for one, don't usually have a future onlooker in mind, except for a future me. I draw because I like to draw. I cherish the "I" part of art, and my unconcern for the "we" insulates me from the emotional afflictions that encumber people who use art to draw attention to themselves.
 42br
 42pic("aug61.svg")
