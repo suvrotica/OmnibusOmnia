@@ -25,7 +25,7 @@ It was different in Hyderabad when I had the money. That image is a reconstructi
 42br
 What they'll do in city lovely is, I suspect, train a newbie to carelessly run a sharp fish knife through my intestines, spill it on the floor, and watch the trainee vomit and laugh up a hysteric storm of imprecations that would bring up my entire family, living and nonliving. There's very little change in the last name; I go from Ghosh to Ghost, if you believe such things.
 42br
-42yt("https://youtu.be/agEPmYdbQLs")
+42yt("agEPmYdbQLs")
 42bq("
 I'm on glass and sand on a fruitless errand,
 But I must persist to futility.
