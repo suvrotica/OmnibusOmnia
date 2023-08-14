@@ -9,9 +9,9 @@
     42br
     I see art as therapy, both through the use of words and lines. The limitations of language are constricting, but art can act as a safety valve and cure the constipation. It's better than slamming the door, I've found. There's a lot we can't effectively articulate that finds expression in the simplicity, vividness, flexibility, and strangeness that only art can provide—the best tour guide when you're shopping outside the status quo. Those long, muted conversations, the inarticulate madness, the silliness, or some glimpses of the grief I carry are what this blog is trying to capture.
     42br
-
-I don't want to deny the darkness that's inside me anymore. And it's my sincere wish that by screaming the clues and hints about my mental health, I might make a difference to many who don't have a voice and suffer silently. And perhaps in a way, the imperfections that I try to delineate in characters are all part of me; that's how I know they exist, and this negotiated encounter with my fears and fragility may help someone else overcome their demons.
 42picr("aug141.svg")
+I don't want to deny the darkness that's inside me anymore. And it's my sincere wish that by screaming the clues and hints about my mental health, I might make a difference to many who don't have a voice and suffer silently. And perhaps in a way, the imperfections that I try to delineate in characters are all part of me; that's how I know they exist, and this negotiated encounter with my fears and fragility may help someone else overcome their demons.
+42br
 I, for one, don't usually have a future onlooker in mind, except for a future me. I draw because I like to draw. I cherish the "I" part of art, and my unconcern for the "we" insulates me from the emotional afflictions that encumber people who use art to draw attention to themselves.
 42br
 42pic("aug61.svg")
