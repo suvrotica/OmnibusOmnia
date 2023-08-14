@@ -170,9 +170,14 @@ The crushing poverty I continue to experience in these years is not only a state
 42br
 The hubris of all our proud accommodations is just mere fiction, and that's why it's so easy for those in the scam business to do so well, as long as you can act the part as if you are the part. Right now, India is the land of fraudsters, freeloaders, and freaks. They come with zero real material, but with acting and gaslighting, for all practical purposes, everything else can be arranged or stretched, just like my sphincter.
 42br
+The duplicity of the leaders is so common that a raven in gaudy feathers is coming into question not because of the contrast in the juxtaposition; that's just the bitter reality of India as evident in our Gini coefficient. It is called into question because, regardless of political affiliation, more and more of what they say is lip service and hollow rhetoric, which may sound gung-ho in a parliamentary debate but is ultimately ineffective in affecting policy changes or uprooting corruption and the kafkaesque implementation of remedies. This is part of the bigger pathology. We are looking at a patient whose cancer has metastasized, and although the prognosis is grim, the discoveries shouldn't surprise us.
+42br
+Although there isn't any need for fancy accoutrements for declaring class, for example, a Louis Vuitton handbag, a luxury class vehicle, or other expensive brands in apparel, watches, and various personal accessories, people are compelled to, at the very least, give an impression of what they are not inside. Most Indians are going through the social evolution of growing prosperous, and it has the demerit of the shallow assumption that class and competence are reflected in appearance and perpetuated because the media has bolstered their assumption that this is indeed the case. Anyone dressed like Mahatma Gandhi wouldn't be able to get anywhere near the parliament, anyone in power, or anyone of any importance today. Happy Independence Day to me, now that I remember it's past midnight.
+42br
 As it so happens, all I really care about is a night of restful sleep, a decent session of shit, and just some quiet time with my own mind. And I like it when the turd is so large that you think the world's going to end, but eventually the sphincter manages to stretch to that ludicrous monstrosity, and the world's saved. But occasionally. Only occasionally. 
+42yt("https://youtu.be/MpLJ1Tc8GGU")
 `}
-		image_name="aug142.svg"
+		image_name="aug143.svg"
 	/>
 
 
