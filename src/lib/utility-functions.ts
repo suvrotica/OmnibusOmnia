@@ -65,13 +65,20 @@ export function replace42picWithFigure(blogContent: string): string {
 	});
 }
 
-export function replace42yt(blogContent: string): string {
-	return blogContent.replace(/42yt\((.*?)\)/g, (match, imageName) => {
-		return `<iframe width="560" height="315" src="https://www.youtube.com/embed/\1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;});
+export function replace42ytWithIframe(blogContent: string): string {
+	return blogContent.replace(/42yt\("([^"]+)"\)/g, (match, videoUrl) => {
+		const videoId = videoUrl.match(/(?:\/|v=)([\w-]{11})(?:$|&|\?|#)/)[1];
+		return `
+            <iframe
+                width="320"
+                height="180"
+                src="https://www.youtube.com/embed/${videoId}"
+                frameborder="0"
+                allowfullscreen
+            ></iframe>
+        `;
+	});
 }
-
-
-
 
 export function replace42picWithFigureR(blogContent: string): string {
 	return blogContent.replace(/42picr\("([\s\S]*?)"\)/g, (match, imageName) => {

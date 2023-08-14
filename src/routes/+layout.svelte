@@ -53,7 +53,7 @@
 		float: left;
 		margin-right: 2px; /* Adjust as needed for spacing between the image and text */
 	}
-:global(.float-right) {
+	:global(.float-right) {
 		float: right;
 		margin-left: 2px; /* Adjust as needed for spacing between the image and text */
 	}

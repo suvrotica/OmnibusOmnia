@@ -6,9 +6,9 @@
 		enhancePunctuation,
 		replace4bWithBreak,
 		replace42tableWithHTMLTable,
-		replace42picWithFigure, 
-replace42yt, 
-replace42picWithFigureR
+		replace42picWithFigure,
+		replace42ytWithIframe,
+		replace42picWithFigureR
 	} from '$lib/utility-functions';
 	import { onMount, afterUpdate } from 'svelte';
 
@@ -18,9 +18,9 @@ replace42picWithFigureR
 	const { title, date, remainingContent } = extractTitleAndDate(blogContent);
 
 	let newBlogContent = replaceBqWithDiv(remainingContent);
-newBlogContent = replace42yt(newBlogContent);
+	newBlogContent = replace42ytWithIframe(newBlogContent);
 	newBlogContent = replace42picWithFigureR(newBlogContent);
-newBlogContent = replace42picWithFigure(newBlogContent);
+	newBlogContent = replace42picWithFigure(newBlogContent);
 	newBlogContent = replace42brWithBreak(newBlogContent);
 	newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = replace42tableWithHTMLTable(newBlogContent);

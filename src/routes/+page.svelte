@@ -25,7 +25,7 @@ It was different in Hyderabad when I had the money. That image is a reconstructi
 42br
 What they'll do in city lovely is, I suspect, train a newbie to carelessly run a sharp fish knife through my intestines, spill it on the floor, and watch the trainee vomit and laugh up a hysteric storm of imprecations that would bring up my entire family, living and nonliving. There's very little change in the last name; I go from Ghosh to Ghost, if you believe such things.
 42br
-42yt("agEPmYdbQLs")
+42yt("https://youtu.be/iqIDBNtrMGQ")
 42bq("
 I'm on glass and sand on a fruitless errand,
 But I must persist to futility.
@@ -161,7 +161,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
-<B4
+	<B4
 		blogContent={`Title:The Perseids 
 	Date:2023-aug-13
 42br
@@ -202,7 +202,7 @@ August 15, 2023: 2:00 AM to 5:00 AM<br>
 		image_name="aug131.jpg"
 	/>
 
-<B4
+	<B4
 		blogContent={`Title:I poot soot 
 	Date:2023-aug-12
 42br
@@ -250,7 +250,7 @@ Fuck I can't say I give a shit.
 `}
 		image_name="aug123.svg"
 	/>
-<B4
+	<B4
 		blogContent={`Title:This new god 
 	Date:2023-aug-12
 42br
@@ -275,8 +275,7 @@ In their own miseries and woe.
 		image_name="Aug122.webp"
 	/>
 
-
-<B4
+	<B4
 		blogContent={`Title:A dick like tick
 	Date:2023-aug-10
 42br
@@ -300,9 +299,7 @@ I shall attempt to shit in several pots.
 		image_name="aug102.svg"
 	/>
 
-
-
-<B4
+	<B4
 		blogContent={`Title:A bug
 	Date:2023-aug-10
 42br
@@ -1589,9 +1586,6 @@ Ain't nothing but piss in that soup.
 	<!-- <C4 /> -->
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 
-	
-
-
 	<B4
 		blogContent={`Title:I don't give a flying fuck! 
 Date:2023-jul-27
@@ -1625,9 +1619,6 @@ With the cruel rational world doing away with the hairy gods and boiling away mo
 		image_name="ufo.svg"
 	/>
 
-	
-
-	
 	<B4
 		blogContent={`Title:Bed wetting 
 Date:2023-jul-26
