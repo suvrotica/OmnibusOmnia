@@ -51,7 +51,11 @@
 	}
 	:global(.float-left) {
 		float: left;
-		margin-right: 10px; /* Adjust as needed for spacing between the image and text */
+		margin-right: 2px; /* Adjust as needed for spacing between the image and text */
+	}
+:global(.float-right) {
+		float: right;
+		margin-left: 2px; /* Adjust as needed for spacing between the image and text */
 	}
 	:global(article) {
 		padding: 5px;
