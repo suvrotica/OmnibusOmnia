@@ -25,7 +25,7 @@ It was different in Hyderabad when I had the money. That image is a reconstructi
 42br
 What they'll do in city lovely is, I suspect, train a newbie to carelessly run a sharp fish knife through my intestines, spill it on the floor, and watch the trainee vomit and laugh up a hysteric storm of imprecations that would bring up my entire family, living and nonliving. There's very little change in the last name; I go from Ghosh to Ghost, if you believe such things.
 42br
-42yt("https://youtu.be/iqIDBNtrMGQ")
+
 42bq("
 I'm on glass and sand on a fruitless errand,
 But I must persist to futility.
@@ -161,6 +161,21 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
+
+<B4
+		blogContent={`Title:My crushing poverty
+	Date:2023-aug-14
+42br
+The crushing poverty I experienced in these years was not only a statement of financial accounting but also of human nature—the deplorable way in which we treat each other by one artificially created difference or another, by color of something or the other, by law, by religion, by caste, by money, by power, by clothes, by mannerism, by locality, by preference of brands, by superstition, or by any means necessary. The hubris of all our proud accommodations is just mere fiction, and that's why it's so easy for those in the scam business to do so well, as long as you can act the part as if you are the part. For all practical purposes, everything else can be arranged or stretched, just like my sphincter.
+42br
+As it so happens, all I really care about is a night of restful sleep, a decent session of shit, and just some quiet time with my own mind. And I like it when the turd is so large that you think the world's going to end, but eventually the sphincter manages to stretch to that ludicrous monstrosity, and the world's saved. But occasionally. Only occasionally. 
+
+`}
+		image_name="aug142.svg"
+	/>
+
+
+
 	<B4
 		blogContent={`Title:The Perseids 
 	Date:2023-aug-13
