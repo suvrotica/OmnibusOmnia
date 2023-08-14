@@ -166,10 +166,11 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 		blogContent={`Title:My crushing poverty
 	Date:2023-aug-14
 42br
-The crushing poverty I experienced in these years was not only a statement of financial accounting but also of human nature—the deplorable way in which we treat each other by one artificially created difference or another, by color of something or the other, by law, by religion, by caste, by money, by power, by clothes, by mannerism, by locality, by preference of brands, by superstition, or by any means necessary. The hubris of all our proud accommodations is just mere fiction, and that's why it's so easy for those in the scam business to do so well, as long as you can act the part as if you are the part. For all practical purposes, everything else can be arranged or stretched, just like my sphincter.
+The crushing poverty I continue to experience in these years is not only a statement of financial accounting but also of human nature—the deplorable way in which I see we treat each other by one artificially created difference or another, by color of something or the other: skin/hair/eye/teeth, by law, by religion, by caste, by money, by power, by clothes, by mannerism, by language, by accent, by locality, by preference of brands, by superstition, by the smell of farts, or by any means necessary.
 42br
-As it so happens, all I really care about is a night of restful sleep, a decent session of shit, and just some quiet time with my own mind. And I like it when the turd is so large that you think the world's going to end, but eventually the sphincter manages to stretch to that ludicrous monstrosity, and the world's saved. But occasionally. Only occasionally. 
-
+The hubris of all our proud accommodations is just mere fiction, and that's why it's so easy for those in the scam business to do so well, as long as you can act the part as if you are the part. Right now, India is the land of fraudsters, freeloaders, and freaks. They come with zero real material, but with acting and gaslighting, for all practical purposes, everything else can be arranged or stretched, just like my sphincter.
+42br
+As it so happens, all I really care about is a night of restful sleep, a decent session of sh*t, and just some quiet time with my own mind. And I like it when the turd is so large that you think the world's going to end, but eventually the sphincter manages to stretch to that ludicrous monstrosity, and the world's saved. But occasionally. Only occasionally. 
 `}
 		image_name="aug142.svg"
 	/>
