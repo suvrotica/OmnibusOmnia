@@ -185,7 +185,7 @@ We flutter flags but don't think; don't ask the hard questions. This nation coul
 42br
 42picr("aug152.svg")
 Once you understand entropy, you'll see that it takes a whole lot of meticulous, hard work to create something useful, but very little work or an absence of maintenance to destroy it. And true to the laws of thermodynamics, the 77th Independence Day has been an elaborate fluttering of yet more flags, signifying that we aren't in fact interested in the first kind, and millions of invisible gods willing, the second type of work is ongoing, and by Shiva, we shall have the nation in the drain in a jiffy, if not sooner. And so for the commoner on the street, drinking tea, whose chest needs to puff with pride, they just need to take a deep breath and count their lozenges, knowing that at least they're still standing on the flooded streets, aka drains. Come next year, the tea stall, the road, the lozenges, hell, the whole city may be under several feet of water, or excuses of reconstruction, given that Mother Nature has been such a bitch lately. Enjoy your tea while you still can.
-
+As is customarily suitable towards the end, when there's nothing else to say, happy 77th independence day, you all. 
 `}
 		image_name="aug151.svg"
 	
