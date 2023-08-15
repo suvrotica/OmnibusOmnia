@@ -96,8 +96,11 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 	Date:2023-aug-15
 42br
 42yt("https://youtu.be/o10AM5-NpMk") 
-/>
 
+
+`}
+		image_name="aug153.svg"
+	/>
 <B4
 		blogContent={`Title:Last kind words 
 	Date:2023-aug-8
