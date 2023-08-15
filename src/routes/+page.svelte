@@ -95,6 +95,24 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 		blogContent={`Title:Many Others
 	Date:2023-aug-15
 42br
+"Petite Fleur" is an instrumental jazz standard composed by Sidney Bechet in 1952. It was first recorded by Bechet with the Sidney Bechet All Stars in January 1952. The song was a commercial success, reaching number 5 on the Billboard Hot 100 chart in the United States. It has been covered by many artists, including Chris Barber, Petula Clark, and Manu Dibango.
+42br
+The song is in the key of G minor and has a slow, bluesy tempo. The melody is simple but catchy, and Bechet's clarinet playing is virtuosic. The song has a wistful, nostalgic feel, and it has been interpreted as a tribute to Bechet's childhood in Louisiana.
+42br
+The title "Petite Fleur" means "Little Flower" in French. The song's lyrics, which were written by Fernand Bonifay and Mario Bua in 1959, are in French. The lyrics are about a young woman who is like a flower, and who is loved by many men.
+42br
+"Petite Fleur" is a classic jazz standard that has been enjoyed by audiences for generations. It is a beautiful and moving song that captures the essence of jazz music.
+42br
+Here are some additional facts about the song:<br>
+42br
+* The song was inspired by Bechet's childhood in Louisiana, where he would often see flowers growing in the fields.<br>
+* The song's melody is based on a traditional New Orleans tune called "Jolie Blon'."<br>
+* The song was originally recorded in G minor, but it is often played in A♭ minor.<br>
+* The song has been covered by over 100 artists, including Chris Barber, Petula Clark, Manu Dibango, and Angélique Kidjo.<br>
+* The song was featured in the films Ginger and Rosa (2012) and Ocean's 8 (2018).<br>
+* The song was used as the theme song for the French television show Les Petits Mouchoirs (2010).<br>
+
+42br
 42yt("https://youtu.be/o10AM5-NpMk") 
 
 
@@ -236,7 +254,7 @@ The Perseids are known for their bright and fast meteors. They can often be seen
 42br
 This year, the Perseids will be visible in the Northern Hemisphere. The best time to see them is after midnight, when the radiant (the point in the sky where the meteors appear to come from) is high in the sky. If you have a dark sky, you can expect to see up to 100 meteors per hour during the peak.
 42br
-Some tips for viewing the Perseids:
+Some tips for viewing the Perseids:<br>
 42br
 * Find a dark location with a clear view of the sky.<br>
 * Get away from city lights and streetlights.<br>
