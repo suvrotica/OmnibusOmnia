@@ -91,7 +91,14 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 </details>
 <details>
 	<summary>Music and Songs</summary>
-	<B4
+<B4
+		blogContent={`Title:Many Others
+	Date:2023-aug-15
+42br
+42yt("https://youtu.be/o10AM5-NpMk") 
+/>
+
+<B4
 		blogContent={`Title:Last kind words 
 	Date:2023-aug-8
 42br
