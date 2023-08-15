@@ -165,7 +165,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 
 <B4
 		blogContent={`Title:77th flag fluttering 
-	Date:2023-aug-14
+	Date:2023-aug-15
 42br
 Flag = patriotism, national pride, true something, etcetera. The flags that ought to be fluttering on the rooftops on the 77th Independence Day are rain-soaked and crest-fallen by the weight of the water, if not by the metaphorically implied meaning of what India has failed to be, and even in the gusty winds because of the haze, I can't make out the colors. I think the more we confuse words with inventive expectations unrelated to their original interpretation or intent, the less likely India will make headway as a nation.
 42br
