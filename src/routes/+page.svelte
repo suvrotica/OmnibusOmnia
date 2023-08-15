@@ -162,6 +162,31 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <details>
 	<summary>Blogs</summary>
 
+
+<B4
+		blogContent={`Title:My crushing poverty
+	Date:2023-aug-14
+42br
+Flag = patriotism, national pride, true something, etcetera. The flags that ought to be fluttering on the rooftops on the 77th Independence Day are rain-soaked and crest-fallen by the weight of the water, if not by the metaphorically implied meaning of what India has failed to be, and even in the gusty winds because of the haze, I can't make out the colors. I think the more we confuse words with inventive expectations unrelated to their original interpretation or intent, the less likely India will make headway as a nation.
+42br
+While a logo, or a certain geometrical arrangement of shapes and colors, represents a country's uniqueness in the roster of other such combinations on the world stage, these patterns are mere understanding, placeholders, or shortcuts to convey the impression of something that is much more complex, interesting, and bigger in scope where the representation or proxy is needed.
+42br
+And even inside the border, feeling one with an assortment of parts of a country, culture, and language that are largely just an accommodation of our imagination, we do indeed look for a crutch, a symbolic representation for the one unchangeable among the many changeable variations.
+42br
+But after the festive theme has elapsed, the flags will end up jamming landfills, sewers, and rivers, not to mention strewn across thoroughfares, where most people will either step on them or find them as just another irritating inconvenience. And given the torments of the season that muddy the rivers, block more sewers, and bring on more unnecessary man-made floods,
+42br 
+At this point, a little thinking, which has become an extremely difficult exercise these days, will reveal that the core component of national unity is to realize that we are a small cog in a big machine. If we do our part right, chances are the whole hulk of metal won't come screaming down. Even high-falutin concepts eventually come down to mundane realizations, which unfortunately aren't all that glamorous and require work and personal sacrifice. But here, we can't turn to the leaders for precedent, or at least for honorable ones. There's a dearth. The only ones we've got are ones we can only look down on for nefarious careers in machiavellian or plain white crime. Or up, if that's where we want to go.
+42br 
+And it is only after we depart from the flimflam that we realize that the ministers are really pulling fluffy wool over our eyes. We should recognize that encouraging a few rituals infested with ulterior motives and tribal fanfare is really just a deceptive diversion. And it doesn't alleviate any of the existential anxieties that come with living in a poor and extremely corrupt country that, thanks to its minister and alliance, is plunging headlong into a one-way, slimy abyss. And this is what should worry us when the flag-fluttering euphoria subsides and we find ourselves none the better.
+42br 
+It's fascinating how many of the tricks that politicians play are as old as the earliest civilizations. Yet, the sad part of our education system is that it doesn't teach us how to be more rational or where our blind spots are—our cognitive biases. The majority fall, time and again, for the same lies, pretenses, and superficial amity, where there's nothing but a hollow shell of deception.
+42br 
+We flutter flags but don't think; don't ask the hard questions. This nation could be one of the best countries in the world, but it's not. We are still a poor, underdeveloped, and extremely corrupt country, no matter how high we flutter the flags or their size. The realizations are strange, and the contradictions are sad.
+`}
+		image_name="aug151.svg"
+	
+/>
+
 <B4
 		blogContent={`Title:My crushing poverty
 	Date:2023-aug-14
