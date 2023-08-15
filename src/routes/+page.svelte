@@ -182,6 +182,10 @@ And it is only after we depart from the flimflam that we realize that the minist
 It's fascinating how many of the tricks that politicians play are as old as the earliest civilizations. Yet, the sad part of our education system is that it doesn't teach us how to be more rational or where our blind spots are—our cognitive biases. The majority fall, time and again, for the same lies, pretenses, and superficial amity, where there's nothing but a hollow shell of deception.
 42br 
 We flutter flags but don't think; don't ask the hard questions. This nation could be one of the best countries in the world, but it's not. We are still a poor, underdeveloped, and extremely corrupt country, no matter how high we flutter the flags or their size. The realizations are strange, and the contradictions are sad.
+42br
+Once you understand entropy, you'll see that it takes a whole lot of meticulous, hard work to create something useful, but very little work or an absence of maintenance to destroy it. And true to the laws of thermodynamics, the 77th Independence Day has been an elaborate fluttering of yet more flags, signifying that we aren't in fact interested in the first kind, and millions of invisible gods willing, the second type of work is ongoing, and by Shiva, we shall have the nation in the drain in a jiffy, if not sooner. And so for the commoner on the street, drinking tea, whose chest needs to puff with pride, they just need to take a deep breath and count their lozenges, knowing that at least they're still standing on the flooded streets. Come next year, the tea stall, the road, the lozenges, hell, the whole city may be under several feet of water, or excuses of reconstruction, given that Mother Nature has been such a bitch lately. Enjoy your tea while you still can. 
+
+
 `}
 		image_name="aug151.svg"
 	
