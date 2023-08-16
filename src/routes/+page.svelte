@@ -189,6 +189,18 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
+<B4
+		blogContent={`Title:Satyr
+	Date:2023-aug-16
+42br
+Sometimes it's inevitable that the conflicts of mediocrity and ambition often surrender to the plainspeak of a monotonous alarm clock, the harbinger of a sudden but sure realization set in the future that I am just another hardscrabble, not a leader, not a visionary, or not anymore. And I wake up from the distorted utopian Greek dream where I was a lusty satyr, but somehow I misplaced my glasses and couldn't tell which way was up.
+42br
+I use the alarm clock as a placeholder for the modern artifact of symbolic persistent effort; anything else will do as well. But I want to emphasize that for some of us, it's persistent and endless, or at least until death does us apart. So now I console myself; the idea that one man should overtake the rest is flawed. I find the idea convenient that it is deeply in love with the other neurosis that ails the narcissistic personality of the species. Or this desire to be segregated into differentiated classes of one form or another is innate and perhaps has an evolutionary function at its core that is now far removed from its usefulness. But that in general, for artificial segregation to work, say we deem it necessary for a luxury class to exist, exploitation is a must, and it's important for a vast majority to be in the economy classes or less, and just hang on. Or otherwise, the math of labor won't work out.
+`}
+		image_name="satyr.png"
+	
+/>
+
 
 
 <B4
