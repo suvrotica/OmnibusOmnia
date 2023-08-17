@@ -191,7 +191,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 	<summary>Blogs</summary>
 
 <B4
-		blogContent={`Title:Satyr
+		blogContent={`Title:Shit I shot
 	Date:2023-aug-17
 42br
 42bq("Shit I shot the summer was hot,
