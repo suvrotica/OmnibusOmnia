@@ -189,6 +189,48 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
+
+<B4
+		blogContent={`Title:Satyr
+	Date:2023-aug-17
+42br
+42bq("Shit I shot the summer was hot,
+The mountains where I dwell. 
+Feces slippery, the men ordinary,
+I can't say I sleep well.
+42br 
+Holy this vow, I say wow,
+The loo, a temple savvy. 
+Attached last night, lost sight,
+When the shit was too heavy.
+42br 
+Now I the priest, tryst under my cyst,
+Must shit in air and fan my farts.
+The devotees all drowned,
+Possible the avalanche in these parts.
+42br 
+God with his anal rod is not a fraud,
+Pray or get fucked like a whore. 
+Pay me now, or I tell on you,
+To gape your asshole more.
+42br 
+Holy divine grace, my ass on your face,
+Lord's cum splattered with force.
+Get a grip, come for a long trip,
+Recite the mantra till hell is hoarse.
+
+
+")
+
+`}
+		image_name="aug171.png"
+	
+/>
+
+
+
+
+
 <B4
 		blogContent={`Title:Satyr
 	Date:2023-aug-16
