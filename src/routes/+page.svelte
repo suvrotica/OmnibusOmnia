@@ -92,26 +92,17 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Music and Songs</summary>
 <B4
-		blogContent={`Title:Many Others
+		blogContent={`Title:Petite Fleur 
 	Date:2023-aug-15
 42br
-"Petite Fleur" is an instrumental jazz standard composed by Sidney Bechet in 1952. It was first recorded by Bechet with the Sidney Bechet All Stars in January 1952. The song was a commercial success, reaching number 5 on the Billboard Hot 100 chart in the United States. It has been covered by many artists, including Chris Barber, Petula Clark, and Manu Dibango.
+Petite Fleur is an instrumental jazz standard composed by Sidney Bechet in 1952. It was first recorded by Bechet with the Sidney Bechet All Stars in January 1952. The song was a commercial success, reaching number 5 on the Billboard Hot 100 chart in the United States. It has been covered by many artists, including Chris Barber, Petula Clark, and Manu Dibango.
+The song's melody is based on a traditional New Orleans tune called "Jolie Blon'
 42br
 The song is in the key of G minor and has a slow, bluesy tempo. The melody is simple but catchy, and Bechet's clarinet playing is virtuosic. The song has a wistful, nostalgic feel, and it has been interpreted as a tribute to Bechet's childhood in Louisiana.
 42br
-The title "Petite Fleur" means "Little Flower" in French. The song's lyrics, which were written by Fernand Bonifay and Mario Bua in 1959, are in French. The lyrics are about a young woman who is like a flower, and who is loved by many men.
+The title Petite Fleur means "Little Flower" in French. The song's lyrics, which were written by Fernand Bonifay and Mario Bua in 1959, are in French. The lyrics are about a young woman who is like a flower, and who is loved by many men.
 42br
-"Petite Fleur" is a classic jazz standard that has been enjoyed by audiences for generations. It is a beautiful and moving song that captures the essence of jazz music.
-42br
-Here are some additional facts about the song:<br>
-42br
-* The song was inspired by Bechet's childhood in Louisiana, where he would often see flowers growing in the fields.<br>
-* The song's melody is based on a traditional New Orleans tune called "Jolie Blon'."<br>
-* The song was originally recorded in G minor, but it is often played in A♭ minor.<br>
-* The song has been covered by over 100 artists, including Chris Barber, Petula Clark, Manu Dibango, and Angélique Kidjo.<br>
-* The song was featured in the films Ginger and Rosa (2012) and Ocean's 8 (2018).<br>
-* The song was used as the theme song for the French television show Les Petits Mouchoirs (2010).<br>
-
+Petite Fleur is a classic jazz standard that has been enjoyed by audiences for generations. It is a beautiful and moving song that captures the essence of jazz music.
 42br
 42yt("https://youtu.be/o10AM5-NpMk") 
 
@@ -207,7 +198,7 @@ When the shit was too heavy.
 Now I the priest, tryst under my cyst,
 Must shit in air and fan my farts.
 The devotees all drowned,
-Possible the avalanche in these parts.
+From the avalanche in these parts.
 42br 
 God with his anal rod is not a fraud,
 Pray or get fucked like a whore. 
