@@ -234,6 +234,11 @@ Pray or get fucked like a whore.
 Pay me now, or I tell on you,
 To gape your asshole more.
 42br 
+I add new age lip-gloss to
+The antique antiseptic holy shit.
+I lit candles in a cunt, the nun, 
+Buried with my candle still lit in it. 
+42br 
 Holy divine grace, my ass on your face,
 Lord's cum splattered with force.
 Get a grip, come for a long trip,
