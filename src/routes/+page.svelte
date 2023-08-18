@@ -188,9 +188,9 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 42br
 42bq("
 The sun bleeds ink I think,
-That’s then the reason we have night.
+That’s then the reason we have night, right?
 My mind isn't clear, mixed with fear,
-Apprehensive of my plight.
+Apprehensive of my plight in sight.
 42br
 I have no where to go, or hide,
 No one to call my kith or kin.
