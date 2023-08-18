@@ -181,6 +181,35 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <details>
 	<summary>Blogs</summary>
 
+
+<B4
+		blogContent={`Title:The sun bleeds ink
+	Date:2023-aug-18
+42br
+42bq("
+The sun bleeds ink I think,
+That’s then the reason we have night.
+My mind isn't clear, mixed with fear,
+Apprehensive of my plight.
+42br
+I have no where to go, or hide,
+No one to call my kith or kin.
+When the night falls I'm wrapped in it,
+Then to the sinking I just give in.
+42br
+I fall and fall, unlike the nightfall,
+The darkness in me has no end.
+There's no going back anywhere safe.
+No holding safe hands or a friend.
+
+")
+
+`}
+		image_name="aug182.png"
+	
+/>
+
+
 <B4
 		blogContent={`Title:Shit I shot
 	Date:2023-aug-17
