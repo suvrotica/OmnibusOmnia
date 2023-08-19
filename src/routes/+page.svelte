@@ -184,7 +184,23 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <B4
 		blogContent={`Title:The bird
 	Date:2023-aug-19
-
+42br
+42bq("
+My brain half dead, a sage had said,
+Lead a blind bird to a dark glee.
+This bird, a feathered turd,
+Torments me, I must thus flee.
+42br 
+Look at her size, she'll gobble me up,
+And still have room for a fish fry. 
+If her kith and kin find out,
+The city of joy will run dry.
+42br 
+I shine darkness on her as asked,
+That’s all I can do in this dream.
+I hope I'm not pissing my bed wet,
+Or shitting out my lubricant anal cream.
+") 
 
 `}
 		image_name="aug191.png"
