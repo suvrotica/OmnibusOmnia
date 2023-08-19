@@ -181,6 +181,16 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <details>
 	<summary>Blogs</summary>
 
+<B4
+		blogContent={`Title:The bird
+	Date:2023-aug-19
+
+
+`}
+		image_name="aug191.png"
+	
+/>
+
 
 <B4
 		blogContent={`Title:The sun bleeds ink
