@@ -200,6 +200,17 @@ I shine darkness on her as asked,
 That’s all I can do in this dream.
 I hope I'm not pissing my bed wet,
 Or shitting out my lubricant anal cream.
+42br 
+Bloated with gas, a commoner has,
+Usually a Pepsi cola in his dream.
+In this arrangement, the freak misers,
+Have ads for lotteries and fraud schemes.
+42br 
+Fuck the gods the frauds for deceit,
+And gape their anus for poor quality shit.
+If my reality can't be improved,
+At least I demand my dreams bettered a bit.
+
 ") 
 
 `}
