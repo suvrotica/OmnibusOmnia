@@ -91,6 +91,17 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 </details>
 <details>
 	<summary>Music and Songs</summary>
+
+<B4
+		blogContent={`Title: Passacaglia
+	Date:2023-aug-20
+42br
+42yt("https://youtu.be/zzBXZ__LN_M") 
+
+
+`}
+		image_name="aug201.png"
+	/>
 <B4
 		blogContent={`Title:Petite Fleur 
 	Date:2023-aug-15
