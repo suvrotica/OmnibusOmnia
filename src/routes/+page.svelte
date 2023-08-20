@@ -2435,7 +2435,7 @@ I feel a satisfied asshole pinch.
 42br
 This interview is about a documentary that has come out about Ravish Kumar of NDTV fame. He's moved to YouTube :https://lnkd.in/gfYjkmxT
 42br
-42pic("aug192.png")
+42pic("aug192.svg")
 The TV news after Ravish left doesn't occasion any reflection anymore; the actors on stage merely lip sync to what's been fed to them. The heinous atrocities against women in Manipur aren't any worse than the inaction of power in calming a situation that had only brought one long, stale, reluctant piece of flaring and glaring aberration to the surface, with thousands of others buried or given a deaf ear. And customary to how physics work in politics, a flurry of cosmetic knee-jerk statements and actions and scapegoats to showcase the rule of law will follow when in reality it will be another thick coat of inaction varnish and sleight of hand. At least it will open up suitable avenues for brownie points for the brown nosers. Then silence, until another video. 
 42br
 Both ears of people, both in power and those with the responsibility to elect them, are deaf. And mine with the shrill cacophony of biligerent debates that ride on the ridiculous as much as my nerves. Mostly on issues that aren't there or weaponized fibs to serve agendas that favor certain groups of people, whether political or business. I know mine is a feeble voice here against the maddening roar of many who are held hostage by self-interest. Whether by habitual unconcern, occupation, mindset, religion, or simply because they've never really thought critically in their lives, Critical thinking was always a paragraph we memorized, and it rarely came up in the minds of the syllabus makers as a way of approaching life. 
