@@ -205,7 +205,7 @@ They beat brains to a pulp.
 I like the way it feels now.
 The reality a blurred utopia of bliss.
 The reign of shit follows on the heels of,
-The those that drink all the piss.
+The shit of those that drink all the piss.
 42br
 So I don't miss a drop and yum yum,
 And pray for more like a whore.
