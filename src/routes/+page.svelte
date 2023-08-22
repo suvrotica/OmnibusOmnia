@@ -221,6 +221,21 @@ Fuck the cunts who show stunts,
 I ain't got time for their trapeze.
 I only wait for the piss from god,
 Sometimes it's just his cum like a sneeze. 
+42br 
+If grinning grim, this must be him,
+Steady your asshole for a fuck.
+Holy that hole, pillaged by his pole,
+Don't forget the complementary suck.
+42br
+Then as a holy whore you do more,
+You go and spread the word of god.
+Bring the young and impressionable,
+You use your dick as an anal rod.
+42br
+Hallelujah his piss is bliss,
+Come let's all die for this shit.
+Let's just say bull fucking crap,
+While we so totally at it.
 ") 
 `}
 		image_name="aug223.png"
