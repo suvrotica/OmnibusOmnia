@@ -193,6 +193,40 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 	<summary>Blogs</summary>
 
 
+<B4
+		blogContent={`Title:A dangling dong
+	Date:2023-aug-22
+42br
+42bq("A dangling dong, dunno what's wrong,
+I drink creator's piss in a gulp.
+Rest of the world upside down,
+They beat brains to a pulp.
+42br
+I like the way it feels now.
+The reality a blurred utopia of bliss.
+The reign of shit follows on the heels of,
+The those that drink all the piss.
+42br
+So I don't miss a drop and yum yum,
+And pray for more like a whore.
+By the balls of god I will get the bladder's worth,
+Or not let another live to see a higher score.
+42br 
+Shit comes to snot, I will not stop,
+In my quest I'll kill the infidels first.
+The blasphemous and the sacrilegious all die,
+Who don't share my thirst.
+42br 
+Fuck the cunts who show stunts,
+I ain't got time for their trapeze.
+I only wait for the piss from god,
+Sometimes it's just his cum like a sneeze. 
+") 
+`}
+		image_name="aug223.png"
+	
+/>
+
 
 <B4
 		blogContent={`Title:The extraction
