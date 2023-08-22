@@ -200,7 +200,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 42bq("A dangling dong, dunno what's wrong,
 I drink creator's piss in a gulp.
 Rest of the world upside down,
-They beat brains to a pulp.
+They beat thinking brains to a pulp.
 42br
 I like the way it feels now.
 The reality a blurred utopia of bliss.
