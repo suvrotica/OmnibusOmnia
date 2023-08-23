@@ -206,8 +206,8 @@ But deep down, Mukerjee and Banerjee ponder that question. Is our reality just a
 42br
 As you move thoughts through the ebb and flow of your days—washing dishes, attending meetings, laughing at jokes only half-funny—the festering froth itches at the back of your mind, like a forgotten song whose tune you can hum but whose words escape you, and you bloat with the despondence of a convict jailed in an airless coffin cell. Then you pass a stranger on the street, and in that fleeting eye contact, there's a mutual recognition. A quiet understanding that both of you are wondering the same thing: Is this real? Or just another layer of the dream?
 42br
-But as you ponder these succulent thoughts, life has a funny way of pulling you back in. A child's laughter, the warmth of a lover's embrace, the satisfaction of a job well done These little moments anchor you. They whisper, "Whether a dream or reality, this is what matters now. And it is this now that pulls you back into the ebb and flow of the sewing machine, of the moving thread against the constant clockwork of the needle. Or if there's nothing to pull you back in, it's just darkness, a pitch-black wall, and a silent stillness that echoes even more of the vacuum all around you.
- 
+But as you ponder these heavy thoughts, life has a funny way of pulling you back in. A child's laughter, the warmth of a lover's embrace, the satisfaction of a job well done, or the urgent need to defecate! These little moments anchor you, especially the last one does for me: when you gotta go, you gotta go. They whisper, "Whether a dream or reality, this is what matters now. And it is this turd that pulls you back into the ebb and flow of time in the sewing machine, of the moving thread against the constant clockwork of the needle. Or if there's nothing to pull you back in, it's just darkness, a pitch-black wall, and a silent stillness that echoes even more of the vacuum all around you, with a turd staring blankly at you. Now who's turd is that?
+
  
 `}
 		image_name="aug231.png"
