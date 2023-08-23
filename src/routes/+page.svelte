@@ -191,6 +191,18 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
+<B4
+		blogContent={`Title:My Pigeon Friend
+	Date:2023-aug-24
+42br
+And I know the person in me is dead; he's long dead. The experiences that he had and the injuries he succumbed to eventually made him die inside, slowly but surely, and what's left is this empty husk of a person that can't be nudged to speak, to laugh, or to live. He's dead for all practical participatory purposes, gone deep into the hollow eyes of his, that now focus into infinity and beyond, the fuzzy metaphysical blur between the converging lines that are in front of him. These were once diverging, when the times were better and the sunlight felt like family. Now that everything is cold and everyone is hostile, not an inch can be veered into the verandah without raising the heckles of paranoid delusion. The darkness is stifling but safe, friendless but accommodating. What else can I want?
+I wait for my pigeon friend. She doesn't come wrapped with the human selfishness.
+`}
+		image_name="aug181.png"
+	
+/>
+
+
 
 <B4
 		blogContent={`Title:You dream
