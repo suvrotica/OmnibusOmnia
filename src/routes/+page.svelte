@@ -196,7 +196,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 		blogContent={`Title:You dream
 	Date:2023-aug-23
 42br
-You dream, and that dream comes true, and while living that dream, you dream again, and that comes true, and so on, and then you dream up reality, and you touch down, back from where you started, the fancy gobblygook noodles straighten out into a question mark and then a dot and disappear. You stare into the blank, until it too disappears in a frenzy of babbling schizophrenic people spiral that leads into a tunnel of infinite, meandering, hopelessly confusing nursery rhymes that are half familiar and half diabolical. You open your eyes and realize that it was a nightmare.
+You dream, and that dream comes true, and while living that dream, you dream again, and that comes true, and so on, and then you dream up reality, and you touch down, back from where you started, the fancy gobblygook noodles straighten out into a question mark and then a dot and disappear. You stare into the blank, until it too disappears in a frenzy of babbling schizophrenic people spiral that leads into a tunnel of infinite, meandering, hopelessly confusing nursery rhymes that are half familiar and half diabolical. You open your eyes and realize that it was a nightmare. You wake up again, realizing that it was yet another nightmare, and so on, until you can't wake up anymore and you sleep peacefully through the night, but this time you don't wake up.
 
 `}
 		image_name="aug231.png"
