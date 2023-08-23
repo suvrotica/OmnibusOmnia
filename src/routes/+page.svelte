@@ -197,7 +197,18 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 	Date:2023-aug-23
 42br
 You dream, and that dream comes true, and while living that dream, you dream again, and that comes true, and so on, and then you dream up reality, and you touch down, back from where you started, the fancy gobblygook noodles straighten out into a question mark and then a dot and disappear. You stare into the blank, until it too disappears in a frenzy of babbling schizophrenic people spiral that leads into a tunnel of infinite, meandering, hopelessly confusing nursery rhymes that are half familiar and half diabolical. You open your eyes and realize that it was a nightmare. You wake up again, realizing that it was yet another nightmare, and so on, until you can't wake up anymore and you sleep peacefully through the night, but this time you don't wake up.
-
+42br
+And isn't that the jest of life? The weird cosmic humor with which the universe treats us as we go around in circles, chasing tales of our own dreams, like a puppy chasing its own tail, always so close yet forever out of grasp!
+42br
+In the street-side cheap dark coffee shops of the city of obfuscated joy, where the clink of half-broken porcelain cups collides with half-muted murmurs of half-hearted conversations, you might overhear someone say, “Is life not just a series of nested dreams?”. And just as quickly, the thought is lost in the aroma of freshly baked bengali nimki and the ever-pressing issue of what to have for lunch.
+42br
+But deep down, Mukerjee and Banerjee ponder that question. Is our reality just another palimpsest of an infinite pastry? And if so, who's the dreamer? Perhaps it's a god, if you believe in one, and that comes with its own rabbit hole. Or maybe it's a child somewhere dreaming up worlds to keep himself amused on a rainy afternoon, which is equally unsettling.
+42br
+As you move thoughts through the ebb and flow of your days—washing dishes, attending meetings, laughing at jokes only half-funny—the festering froth itches at the back of your mind, like a forgotten song whose tune you can hum but whose words escape you, and you bloat with the despondence of a convict jailed in an airless coffin cell. Then you pass a stranger on the street, and in that fleeting eye contact, there's a mutual recognition. A quiet understanding that both of you are wondering the same thing: Is this real? Or just another layer of the dream?
+42br
+But as you ponder these succulent thoughts, life has a funny way of pulling you back in. A child's laughter, the warmth of a lover's embrace, the satisfaction of a job well done These little moments anchor you. They whisper, "Whether a dream or reality, this is what matters now. And it is this now that pulls you back into the ebb and flow of the sewing machine, of the moving thread against the constant clockwork of the needle. Or if there's nothing to pull you back in, it's just darkness, a pitch-black wall, and a silent stillness that echoes even more of the vacuum all around you.
+ 
+ 
 `}
 		image_name="aug231.png"
 	
