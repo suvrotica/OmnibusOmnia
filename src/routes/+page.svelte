@@ -193,6 +193,24 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 </details>
 <details>
 	<summary>Blogs</summary>
+
+<B4
+		blogContent={`Title:Alien Ants
+	Date:2023-aug-26
+42br
+
+And once the august readers, who rarely read to benefit from the pompous designate, get the strength to hold a dictionary to flip through, in case that's an excuse against the diction, then in the future, a carbon-based life form will read what I've written. It's really this: Fuck all faith. Well, the news that lit my wick just came in: in UP, a teacher encouraged his class of eight-year-olds to beat up a boy for being Muslim. I saw the video; this isn't the sort of milieu I stand up for. It makes me really mad.
+42br
+The hopelessly hoping and praying generation hasn't gone away; it just hopelessly stooped really low and started to hit below the belt or at random soft places. New lows hit every day now, and it's not difficult to see where a tragedy in a national character like this can eventually end up—a big lump, well, yet another lump in the throat. Imagine if there indeed was a bearded man up there of whichever flock, and if he were really happy clicking away those snaps, by now the museum of morbidity and human depravity in his cloud storage would be nearly full.
+42br
+What will it take for an invasion of the alien crystal ants to figure out we're just another carbon-based fuckface? Just way more capricious, avaricious, and shitclogged with holy books stuffed up our asses.
+
+`}
+		image_name="aug262.png"
+	
+/>
+
+
 <B4
 		blogContent={`Title:My Pigeon Friend
 	Date:2023-aug-24
