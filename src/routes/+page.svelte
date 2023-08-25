@@ -202,6 +202,7 @@ And I try not to look into shiny surfaces that reflect back a face that reminds 
 42br 
 As more of the stray sun gets into my tired eyes, I realize how little time I have left and why it is that I see in my mother's tired eyes my sense of failing, not the course she had hoped for her destiny's child. And how so many like me give up, who begin their lives secure in the morning with the joys of being alive, only to sink into the traps created by the depravity of the multitude of millions and leave without a mark.
 42br 
+42picr("aug251.png")
 I don't know who I am, but I've always felt I'd like to live my life for a cause, and I will. That cause or the other, the aims or goals aren't important for me anymore. I know what the world is missing; it's missing common sense and it's missing a voice, and I know I'll be unpopular if I try to preach sense, but there's at least a middle ground, by masquerading as a commoner's go-to person of some sort, so that I can nudge the good crowd to the better informed, data-driven state of the art instead of wallowing in the tragedy of the past backwater centuries. Show them the light in the hazard of the sea, where tempests are common and getting lost is every person's worry. So I transform myself from that guy on that marooned island to the lightkeeper who has his hands on the gears that control the lights of the lighthouse on that island.
 
 `}
