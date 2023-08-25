@@ -310,6 +310,7 @@ That background is a festive red and yellow for a reason. If you like to worry a
 42br
 Which is worse, being ass-fucked or being mind-fucked? For the latter, do we even have a choice? Ass fucking requires a certain level of awareness, even if it’s as straight as a straightforward case of heterosexual rape in broad daylight. The victim (unless dead, unconscious, asleep, mentally challenged, or memory impaired) knows that the privileged event is about to transpire, is transpiring, or has already transpired. And I’m not being metaphorical by assfucking. I literally mean a real asshole being violated by one or more roughly cylindrical objects, animate or inanimate, with or without lubrication. The duration may vary, but is usually limited to the privileged unit of an hour.
 42br 
+42pic("aug261.png")
 With mind fuck, there’s no intimation, and often the victim isn’t aware when the event is transpiring or for how long. We don’t know, for instance, if a giant mind-fucking phallus was, is, or will be in the vicinity of our unprepared mind. Our parents begin the process, fucking our infantile minds like bloody livers. Teachers take over, and then religion. Over our lifetime, we become a dedicated receptacle, a miasma of inviting orifices, parties to the chain of mind-fucking that only stops with death. And our faces look content, like the face I've sketched, bloated with the ejaculated promises that reside in the rectum.
 
 `}
