@@ -204,7 +204,9 @@ And once the august readers, who rarely read to benefit from the pompous designa
 The hopelessly hoping and praying generation hasn't gone away; it just hopelessly stooped really low and started to hit below the belt or at random soft places. New lows hit every day now, and it's not difficult to see where a tragedy in a national character like this can eventually end up—a big lump, well, yet another lump in the throat. Imagine if there indeed was a bearded man up there of whichever flock, and if he were really happy clicking away those snaps, by now the museum of morbidity and human depravity in his cloud storage would be nearly full.
 42br
 What will it take for an invasion of the alien crystal ants to figure out we're just another carbon-based fuckface? Just way more capricious, avaricious, and shitclogged with holy books stuffed up our asses.
-
+42br
+<a href="https://www.google.com/amp/s/m.timesofindia.com/city/agra/private-school-teacher-encourages-students-to-slap-classmate-in-ups-muzaffarnagar-stirs-row/amp_articleshow/103071257.cms">News with the Video</a>
+ 
 `}
 		image_name="aug262.png"
 	
