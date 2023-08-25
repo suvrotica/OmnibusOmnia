@@ -195,7 +195,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 	<summary>Blogs</summary>
 
 <B4
-		blogContent={`Title:Alien Ants
+		blogContent={`Title:Alien Invasion 
 	Date:2023-aug-26
 42br
 
@@ -203,15 +203,14 @@ And once the august readers, who rarely read to benefit from the pompous designa
 42br
 The hopelessly hoping and praying generation hasn't gone away; it just hopelessly stooped really low and started to hit below the belt or at random soft places. New lows hit every day now, and it's not difficult to see where a tragedy in a national character like this can eventually end up—a big lump, well, yet another lump in the throat. Imagine if there indeed was a bearded man up there of whichever flock, and if he were really happy clicking away those snaps, by now the museum of morbidity and human depravity in his cloud storage would be nearly full.
 42br
-42picr("aug264.png")
-What will it take for an invasion of the alien crystal ants to figure out we're just another carbon-based fuckface? Just way more capricious, avaricious, and shitclogged with holy books stuffed up our asses.
+What will it take? An invasion of the alien shape-shifting bots to figure out we're just another carbon-based fuckface? Just way more capricious, avaricious, and shitclogged with holy books stuffed up our asses.
 This is a different kind of poverty that you can't blame on someone else; it's entirely and utterly our doing. The unabashed rehearsals of the macabre elements of these rascals need to get more stern discipline than the sheepish skullduggery and files under the carpet sort of remedy.
 
 42br
 <a href="https://www.google.com/amp/s/m.timesofindia.com/city/agra/private-school-teacher-encourages-students-to-slap-classmate-in-ups-muzaffarnagar-stirs-row/amp_articleshow/103071257.cms">News with the Video</a>
  
 `}
-		image_name="aug262.png"
+		image_name="aug264.png"
 	
 />
 
