@@ -203,23 +203,28 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 42bq("
 We now hit, the hindoos will first shit,
 Our rights are safe on the moon.
-No muslim or other shit mind it,
+No moslame or other shit mind it,
 Our base camp will have mustachioed goon.
 42br 
-No jesus fucking christ shit,
+No jesus fucking christ heist shit,
 I tell early on already you know.
 Only cowdung and cow urine based,
-Produce will go in the next shipment bro.
+My pant's zipper open and I say hello. 
 42br 
-Holy chants, feverish flag unfurling dance,
-The rocks, blocks the docks of the rocket base.
-The moon is ours, puja prayer and flowers,
-Only I and I alone own moon and space.
+Holy chants, full feverish flag furling dance,
+Hairy hindoo cocks blocks the docks of the rocket base.
+The moon is ours, puja prayers and flowers,
+Adani Ambani and I soon by noon, will own moon and space.
 42br 
-Three hundred thirty million roads,
-Names of all the moon lanes.
-After the hindu deities I tell,
-The parliament of nonsense.
+Three hundred thirty million goodly gods,
+Names of all the manly moon lanes.
+After the hindu deities I foretell,
+To the parliament of opposing nonsense.
+42br
+Half moon my eye, my shit I let dry, 
+Thinking of my billionaire kith and kin. 
+We will set earth on fire, let the fuck rot, 
+While we on the moon drink sherry and gin. 
 ")
 
 `}
