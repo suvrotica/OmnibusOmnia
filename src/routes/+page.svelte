@@ -194,6 +194,44 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <details>
 	<summary>Blogs</summary>
 
+
+
+<B4
+		blogContent={`Title:My moon
+	Date:2023-aug-27
+42br
+42bq("
+We now hit, the hindoos will first shit,
+Our rights are safe on the moon.
+No muslim or other shit mind it,
+Our base camp will have mustachioed goon.
+42br 
+No jesus fucking christ shit,
+I tell early on already you know.
+Only cowdung and cow urine based,
+Produce will go in the next shipment bro.
+42br 
+Holy chants, feverish flag unfurling dance,
+The rocks, blocks the docks of the rocket base.
+The moon is ours, puja prayer and flowers,
+Only I and I alone own moon and space.
+42br 
+Three hundred thirty million roads,
+Names of all the moon lanes.
+After the hindu deities I tell,
+The parliament of nonsense.
+")
+
+`}
+		image_name="aug241.png"
+	
+/>
+
+
+
+
+
+
 <B4
 		blogContent={`Title:Alien Invasion 
 	Date:2023-aug-26
