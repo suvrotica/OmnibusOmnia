@@ -241,7 +241,11 @@ Happy the scientists now, need to kill them somehow,
 Or they'll make honeymoon on moon cheap.
 Poison south indian tart with my poison fart,
 Make godi media give them solid grief. 
-
+42br 
+Wanna give the gandhis gonorrhea dysentery and diarrhea,
+How I hope to see that family die shitting.
+That day I become the king immortal,
+My head like a giant moon permanent fitting.
 ")
 
 `}
