@@ -236,8 +236,11 @@ Around the moon will show a finger to anyone now.
 New attempts to land will fail,
 The atmosphere filled with hindoo farts,
 And monkeys with fire in their tail.
-
-
+42br
+Happy the scientists now, need to kill them somehow,
+Or they'll make coming to moon fun and cheap.
+Poison south indian tart for poison fart,
+Make godi media give them solid grief. 
 
 ")
 
