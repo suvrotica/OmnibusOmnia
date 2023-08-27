@@ -225,6 +225,20 @@ Half moon my eye, my shit I let dry,
 Thinking of my billionaire kith and kin. 
 We will set earth on fire, let the fuck rot, 
 While we on the moon drink sherry and gin. 
+42br 
+Foul all like coal except my soul,
+Nasty and ghastly mostly hairy men.
+Fuck off, be gone, all mine now,
+My friends and I have sent bottles of urine and semen.
+42br 
+A fence in space of hate and fate,
+Around the moon will show a finger to anyone now.
+New attempts to land will fail,
+The atmosphere filled with hindoo farts,
+And monkeys with fire in their tail.
+
+
+
 ")
 
 `}
