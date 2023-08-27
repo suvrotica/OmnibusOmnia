@@ -239,7 +239,7 @@ And moony monkeys with fire in their tail.
 42br
 Happy the scientists now, need to kill them somehow,
 Or they'll make honeymoon on moon cheap.
-Poison south indian tart for poison fart,
+Poison south indian tart with my poison fart,
 Make godi media give them solid grief. 
 
 ")
