@@ -245,7 +245,7 @@ Make godi media give them solid grief.
 ")
 
 `}
-		image_name="aug241.png"
+		image_name="aug241.svg"
 	
 />
 
@@ -270,7 +270,7 @@ This is a different kind of poverty that you can't blame on someone else; it's e
 <a href="https://www.google.com/amp/s/m.timesofindia.com/city/agra/private-school-teacher-encourages-students-to-slap-classmate-in-ups-muzaffarnagar-stirs-row/amp_articleshow/103071257.cms">News with the Video</a>
  
 `}
-		image_name="aug264.png"
+		image_name="aug264.svg"
 	
 />
 
