@@ -201,7 +201,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 	Date:2023-aug-27
 42br
 42bq("
-We now hit, in craters, the hindoos will first shit,
+We now hit, soon pan spit in craters, the hindoos will first shit,
 Our rights are safe on the heavenly moon.
 No moslame or other shit, I remind it,
 Our base camp will have a mustachioed goon.
