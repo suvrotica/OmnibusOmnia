@@ -201,44 +201,44 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 	Date:2023-aug-27
 42br
 42bq("
-We now hit, the hindoos will first shit,
-Our rights are safe on the moon.
-No moslame or other shit mind it,
-Our base camp will have mustachioed goon.
+We now hit, in craters, the hindoos will first shit,
+Our rights are safe on the heavenly moon.
+No moslame or other shit, I remind it,
+Our base camp will have a mustachioed goon.
 42br 
-No jesus fucking christ heist shit,
-I tell early on already you know.
-Only cowdung and cow urine based,
-My pant's zipper open and I say hello. 
+Or no jesus fucking christ heist shit,
+I tell, early hard on already you know.
+Only cowdung and cow urine based war,
+My pant's zipper open and I say let's play hello. 
 42br 
-Holy chants, full feverish flag furling dance,
+Holy cheeky chants, full feverish flag furling dance,
 Hairy hindoo cocks blocks the docks of the rocket base.
-The moon is ours, puja prayers and flowers,
-Adani Ambani and I soon by noon, will own moon and space.
+The moon is ours, puja prayers and bulbous flowers,
+Adani Ambani and I soon by a pious noon, will own moon and space.
 42br 
 Three hundred thirty million goodly gods,
 Names of all the manly moon lanes.
 After the hindu deities I foretell,
-To the parliament of opposing nonsense.
+To the wretched parliament of opposing nonsense.
 42br
 Half moon my eye, my shit I let dry, 
 Thinking of my billionaire kith and kin. 
 We will set earth on fire, let the fuck rot, 
 While we on the moon drink sherry and gin. 
 42br 
-Foul all like coal except my soul,
+Fiendish and foul all like coal except my soul,
 Nasty and ghastly mostly hairy men.
-Fuck off, be gone, all mine now,
-My friends and I have sent bottles of urine and semen.
+Fuck off, be gone, it's all mine now,
+I have sent political bottles of semen.
 42br 
 A fence in space of hate and fate,
-Around the moon will show a finger to anyone now.
-New attempts to land will fail,
-The atmosphere filled with hindoo farts,
-And monkeys with fire in their tail.
+Chandrayan will show a finger to anyone now.
+New attempts to land will fucking fail,
+The atmosphere filled with holy hindoo farts,
+And moony monkeys with fire in their tail.
 42br
 Happy the scientists now, need to kill them somehow,
-Or they'll make coming to moon fun and cheap.
+Or they'll make honeymoon on moon cheap.
 Poison south indian tart for poison fart,
 Make godi media give them solid grief. 
 
