@@ -242,6 +242,11 @@ Or they'll make honeymoon on moon cheap.
 Poison south indian tart with my poison fart,
 Make godi media give them solid grief. 
 42br 
+They go south, open the scientist's mouth,
+And pour the shit from a temple.
+Like magic, science die with the sick,
+And their families are sad as hell.
+42br 
 Wanna give the gandhis gonorrhea dysentery and diarrhea,
 How I hope to see that family die shitting.
 That day I become the king immortal,
