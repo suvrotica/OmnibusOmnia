@@ -246,6 +246,14 @@ Wanna give the gandhis gonorrhea dysentery and diarrhea,
 How I hope to see that family die shitting.
 That day I become the king immortal,
 My head like a giant moon permanent fitting.
+42br 
+We won this moon race, shit on many a face,
+And by the holy piles of shiva we shall shit more.
+Mars next my slogan text,
+To orgasm the election whore to a roar.
+
+
+
 ")
 
 `}
