@@ -12,6 +12,50 @@
 
 <details>
 	<summary>Welcome Posts</summary>
+
+	<B4
+		blogContent={`Title:When I die. 
+	Date:2023-aug-28
+	42br
+42bq("
+When I die, I die a boorish bengali,
+Who lived his early years in awe. 
+And in the later arrangement of years,
+I might see the poles in miserable thaw.
+42br
+A heated earth, a famished hearth,
+I tried to ride this apocalypse to death.
+But I feel the wind slipping from my lungs,
+As I slowly lose my earthly breath.
+42br
+A mere speck of a misanthropic man,
+Troubled in his mind and by the moon.
+The doom and gloom, or the boom,
+Of the bomb yet to go off, too often, too soon.
+42br
+I wish to be rediscovered, alive a ghost,
+I fancy a scary face of a grim race.
+In the haunting that will surely follow,
+Obliterate the Sapiens sans a trace.
+42br
+If not in life, maybe then in death my virtue,
+In a come-back sketch or more.
+The rare rituals of squiggles of the mind,
+Of mine will remain as strange as before.
+42br
+This river of life, now cuts me like a knife,
+The leftovers of the flesh drift in pain. 
+In a distant time, in one favorable clime,
+I'll be back with my promise again.
+")
+
+
+	`}
+		image_name="aug281.jpg"
+	/>
+
+
+
 	<B4
 		blogContent={`Title:Memoir? 
 	Date:2023-aug-9
