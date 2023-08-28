@@ -304,7 +304,7 @@ To orgasm the election whore to a roar.
 
 
 ")
-
+<a href="https://www.google.com/amp/s/www.opindia.com/2023/08/swami-chakrapani-maharaj-demands-that-moon-should-be-declared-a-hindu-rashtra/amp/">News with the Video</a>
 `}
 		image_name="aug241.svg"
 	
