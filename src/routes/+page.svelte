@@ -211,7 +211,7 @@ I swear touching early morning nature calls.
 Only cowdung and cow urine based war,
 My pant's zipper open and I say look at my balls. 
 42br 
-Holy cheeky chants, full feverish flag furling dance,
+Holy cheeky chants, full feverish flag furling cunts,
 Hairy hindoo cocks blocks the docks of the rocket base.
 The moon is ours, puja prayers and bulbous flowers,
 Adani Ambani and I soon by a pious noon, will own moon and space.
