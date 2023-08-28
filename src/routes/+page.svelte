@@ -207,9 +207,9 @@ No moslame or other shit, I remind it,
 Our base camp will have a mustachioed goon.
 42br 
 Or no jesus fucking christ heist shit,
-I tell, early hard on already you know.
+I swear touching early morning nature calls.
 Only cowdung and cow urine based war,
-My pant's zipper open and I say let's play hello. 
+My pant's zipper open and I say look at my balls. 
 42br 
 Holy cheeky chants, full feverish flag furling dance,
 Hairy hindoo cocks blocks the docks of the rocket base.
