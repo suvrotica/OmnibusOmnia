@@ -4,7 +4,6 @@
 	import B2 from '../routes/blog/Blog-002.svelte';
 	import B3 from '../routes/blog/Blog-003.svelte';
 	import B4 from '../routes/blog/Blog-004.svelte';
-	import CreatePost from '../routes/blog/CreatePost.svelte';
 
 	// import C4 from '../routes/blog/C4.svelte';
 	import { getCurrentDateAsString } from '$lib/date';
@@ -12,7 +11,6 @@
 	const currentDate: string = getCurrentDateAsString();
 </script>
 
-<CreatePost />
 <details>
 	<summary>Welcome Posts</summary>
 
