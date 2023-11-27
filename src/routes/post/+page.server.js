@@ -11,8 +11,7 @@ async function createBlogPost(title, content, imageUrl) {
       title VARCHAR(255),
       content TEXT,
       image_url VARCHAR(255),
-      created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-    );
+      created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
   `;
 
 	await pool.sql`
