@@ -1,11 +1,6 @@
 import { sql } from '@vercel/postgres';
 
-export async function POST({ request }) {
-	const form = await request.formData();
-	const title = form.get('title');
-	const content = form.get('content');
-	const imageUrl = form.get('image_url');
-
+async function createBlogPost(title, content, imageUrl) {
 	await sql`
     CREATE TABLE IF NOT EXISTS blog_posts (
       id SERIAL PRIMARY KEY,
@@ -20,6 +15,20 @@ export async function POST({ request }) {
     INSERT INTO blog_posts (title, content, image_url)
     VALUES (${title}, ${content}, ${imageUrl});
   `;
-
-	return new Response(JSON.stringify({ message: 'Blog post created' }), { status: 201 });
 }
+
+export const actions = {
+	default: async ({ request }) => {
+		const form = await request.formData();
+		const title = form.get('title');
+		const content = form.get('content');
+		const imageUrl = form.get('image_url');
+
+		try {
+			await createBlogPost(title, content, imageUrl);
+			return new Response(JSON.stringify({ message: 'Blog post created' }), { status: 201 });
+		} catch (err) {
+			return new Response(JSON.stringify({ error: err.message }), { status: 500 });
+		}
+	}
+};
