@@ -33,7 +33,7 @@ export const actions = {
 			await createBlogPost(title, content, imageUrl);
 
 			console.log('Blog post was created', id);
-			throw redirect(303, '/');
+			throw redirect(303, '/disclaimer');
 			return { message: 'Blog post was created' }; // Return a plain object
 		} catch (err) {
 			return { error: err.message }; // Return a plain object
