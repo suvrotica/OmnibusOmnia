@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
 	import { onMount } from 'svelte';
 	import Header from '$lib/components/header.svelte';
 	import '@picocss/pico';

@@ -4,12 +4,15 @@
 	import B2 from '../routes/blog/Blog-002.svelte';
 	import B3 from '../routes/blog/Blog-003.svelte';
 	import B4 from '../routes/blog/Blog-004.svelte';
+	import CreatePost from '../routes/blog/CreatePost.svelte';
+
 	// import C4 from '../routes/blog/C4.svelte';
 	import { getCurrentDateAsString } from '$lib/date';
 
 	const currentDate: string = getCurrentDateAsString();
 </script>
 
+<CreatePost />
 <details>
 	<summary>Welcome Posts</summary>
 
@@ -53,8 +56,6 @@ I'll be back with my promise again.
 	`}
 		image_name="aug281.jpg"
 	/>
-
-
 
 	<B4
 		blogContent={`Title:Memoir? 
@@ -136,7 +137,7 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 <details>
 	<summary>Music and Songs</summary>
 
-<B4
+	<B4
 		blogContent={`Title: Passacaglia
 	Date:2023-aug-20
 42br
@@ -146,7 +147,7 @@ These remind people of god, but remind me that I'm always full of shit, and unle
 `}
 		image_name="aug201.png"
 	/>
-<B4
+	<B4
 		blogContent={`Title:Petite Fleur 
 	Date:2023-aug-15
 42br
@@ -165,7 +166,7 @@ Petite Fleur is a classic jazz standard that has been enjoyed by audiences for g
 `}
 		image_name="aug153.svg"
 	/>
-<B4
+	<B4
 		blogContent={`Title:Last kind words 
 	Date:2023-aug-8
 42br
@@ -238,9 +239,7 @@ I had a crush on a girl called Tuktuki, and these early gramophone records—the
 <details>
 	<summary>Blogs</summary>
 
-
-
-<B4
+	<B4
 		blogContent={`Title:My moon
 	Date:2023-aug-27
 42br
@@ -307,15 +306,9 @@ To orgasm the election whore to a roar.
 <a href="https://www.google.com/amp/s/www.opindia.com/2023/08/swami-chakrapani-maharaj-demands-that-moon-should-be-declared-a-hindu-rashtra/amp/">News with the Video</a>
 `}
 		image_name="aug241.svg"
-	
-/>
+	/>
 
-
-
-
-
-
-<B4
+	<B4
 		blogContent={`Title:Alien Invasion 
 	Date:2023-aug-26
 42br
@@ -332,11 +325,9 @@ This is a different kind of poverty that you can't blame on someone else; it's e
  
 `}
 		image_name="aug264.svg"
-	
-/>
+	/>
 
-
-<B4
+	<B4
 		blogContent={`Title:My Pigeon Friend
 	Date:2023-aug-24
 42br
@@ -353,12 +344,9 @@ I don't know who I am, but I've always felt I'd like to live my life for a cause
 
 `}
 		image_name="aug181.png"
-	
-/>
+	/>
 
-
-
-<B4
+	<B4
 		blogContent={`Title:You dream
 	Date:2023-aug-23
 42br
@@ -377,11 +365,9 @@ But as you ponder these heavy thoughts, life has a funny way of pulling you back
  
 `}
 		image_name="aug231.png"
-	
-/>
+	/>
 
-
-<B4
+	<B4
 		blogContent={`Title:A dangling dong
 	Date:2023-aug-22
 42br
@@ -427,11 +413,9 @@ While we so totally at it.
 ") 
 `}
 		image_name="aug223.png"
-	
-/>
+	/>
 
-
-<B4
+	<B4
 		blogContent={`Title:The extraction
 	Date:2023-aug-22
 42br
@@ -442,12 +426,9 @@ That background is a festive red and yellow for a reason. If you like to worry a
 
 `}
 		image_name="aug222.png"
-	
-/>
+	/>
 
-
-
-<B4
+	<B4
 		blogContent={`Title:The mind-fucked face
 	Date:2023-aug-21
 42br
@@ -459,9 +440,8 @@ With mind fuck, there’s no intimation, and often the victim isn’t aware when
 Eventually you discover the hidden panel door behind the ear, and then once you're done with the screws, what's inside is mostly just tightly packed, coiled feces and pubic hair intricately woven into the fabric of your brain. Once you flush the feces down the drain, burn the fucking hair, and close the claptrap of a cupboard, you can finally restart the loser life that you have always wished for without feeling guilty or stupid about it.
 `}
 		image_name="aug212.jpg"
-	
-/>
-<B4
+	/>
+	<B4
 		blogContent={`Title:The bird
 	Date:2023-aug-19
 42br
@@ -495,11 +475,9 @@ At least I demand my dreams bettered a bit.
 
 `}
 		image_name="aug191.png"
-	
-/>
+	/>
 
-
-<B4
+	<B4
 		blogContent={`Title:The sun bleeds ink
 	Date:2023-aug-18
 42br
@@ -523,11 +501,9 @@ No holding safe hands or a friend.
 
 `}
 		image_name="aug182.png"
-	
-/>
+	/>
 
-
-<B4
+	<B4
 		blogContent={`Title:Shit I shot
 	Date:2023-aug-17
 42br
@@ -566,14 +542,9 @@ Recite the mantra till hell is hoarse.
 
 `}
 		image_name="aug171.png"
-	
-/>
+	/>
 
-
-
-
-
-<B4
+	<B4
 		blogContent={`Title:Satyr
 	Date:2023-aug-16
 42br
@@ -587,12 +558,9 @@ There's one thing that's settled: for all creatures big and small, in luxury or 
 
 `}
 		image_name="satyr.png"
-	
-/>
+	/>
 
-
-
-<B4
+	<B4
 		blogContent={`Title:77th flag fluttering 
 	Date:2023-aug-15
 42br
@@ -618,10 +586,9 @@ Once you understand entropy, you'll see that it takes a whole lot of meticulous,
 As is customarily suitable towards the end, when there's nothing else to say, happy 77th independence day, you all. 
 `}
 		image_name="aug151.svg"
-	
-/>
+	/>
 
-<B4
+	<B4
 		blogContent={`Title:My crushing poverty
 	Date:2023-aug-14
 42br
@@ -638,8 +605,6 @@ As it so happens, all I really care about is a night of restful sleep, a decent 
 `}
 		image_name="aug143.svg"
 	/>
-
-
 
 	<B4
 		blogContent={`Title:The Perseids 
