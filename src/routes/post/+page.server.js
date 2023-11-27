@@ -5,6 +5,7 @@ async function createBlogPost(title, content, imageUrl) {
 	const pool = createPool({
 		connectionString: POSTGRES_URL
 	});
+
 	await pool.sql`
     CREATE TABLE IF NOT EXISTS blog_posts (
       id SERIAL PRIMARY KEY,
@@ -14,11 +15,13 @@ async function createBlogPost(title, content, imageUrl) {
       created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
   `;
 
-	await pool.sql`
+	const rowInserted = await pool.sql`
     INSERT INTO blog_posts (title, content, image_url)
     VALUES (${title}, ${content}, ${imageUrl});
     
   `;
+
+	return rowInserted;
 }
 
 export const actions = {
@@ -29,7 +32,8 @@ export const actions = {
 		const imageUrl = form.get('image_url');
 
 		try {
-			await createBlogPost(title, content, imageUrl);
+			const rowInserted = await createBlogPost(title, content, imageUrl);
+			console.log(rowInserted.id);
 			return { message: 'Blog post was created' }; // Return a plain object
 		} catch (err) {
 			return { error: err.message }; // Return a plain object
