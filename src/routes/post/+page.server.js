@@ -17,6 +17,7 @@ async function createBlogPost(title, content, imageUrl) {
 	await pool.sql`
     INSERT INTO blog_posts (title, content, image_url)
     VALUES (${title}, ${content}, ${imageUrl});
+    
   `;
 }
 
