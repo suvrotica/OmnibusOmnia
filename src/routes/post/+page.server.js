@@ -1,7 +1,11 @@
-import { sql } from '@vercel/postgres';
+import { createPool } from '@vercel/postgres';
+import { POSTGRES_URL } from '$env/static/private';
 
 async function createBlogPost(title, content, imageUrl) {
-	await sql`
+	const pool = createPool({
+		connectionString: POSTGRES_URL
+	});
+	await pool.sql`
     CREATE TABLE IF NOT EXISTS blog_posts (
       id SERIAL PRIMARY KEY,
       title VARCHAR(255),
@@ -11,7 +15,7 @@ async function createBlogPost(title, content, imageUrl) {
     );
   `;
 
-	await sql`
+	await pool.sql`
     INSERT INTO blog_posts (title, content, image_url)
     VALUES (${title}, ${content}, ${imageUrl});
   `;
