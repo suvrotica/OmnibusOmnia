@@ -30,9 +30,9 @@ export const actions = {
 
 		try {
 			await createBlogPost(title, content, imageUrl);
-			return new Response(JSON.stringify({ message: 'Blog post was created' }), { status: 201 });
+			return { message: 'Blog post was created' }; // Return a plain object
 		} catch (err) {
-			return new Response(JSON.stringify({ error: err.message }), { status: 500 });
+			return { error: err.message }; // Return a plain object
 		}
 	}
 };
