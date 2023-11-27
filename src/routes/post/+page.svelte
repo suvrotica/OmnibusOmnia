@@ -2,6 +2,7 @@
 	let title = '';
 	let content = '';
 	let imageUrl = '';
+	
 </script>
 
 <form method="post">
