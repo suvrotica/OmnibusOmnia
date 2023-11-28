@@ -9,12 +9,17 @@
 	<div class="blog-posts">
 		{#each data?.blogPosts as post}
 			<div class="blog-post">
-				<h2>{post.title}</h2>
 				<!-- <img src={post.image_url} alt={post.title} /> -->
 				<!-- <p>{post.content}</p> -->
 				<Post
 					title={post.title}
-					date={post.created_at}
+					date={post.created_at
+						.toLocaleDateString('en-GB', {
+							year: 'numeric',
+							month: 'short',
+							day: '2-digit'
+						})
+						.replace(/\s/g, '-')}
 					blogContent={post.content}
 					image_name={post.image_url}
 				/>
