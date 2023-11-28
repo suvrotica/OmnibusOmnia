@@ -1,12 +1,12 @@
 <script>
 	export let data;
+	console.log(data);
 </script>
 
 <h1>Blog Posts</h1>
 {#if data?.blogPosts && data?.blogPosts.length > 0}
 	<div class="blog-posts">
-		<!-- svelte-ignore missing-declaration -->
-		{#each blogPosts as post}
+		{#each data?.blogPosts as post}
 			<div class="blog-post">
 				<h2>{post.title}</h2>
 				<img src={post.image_url} alt={post.title} />
