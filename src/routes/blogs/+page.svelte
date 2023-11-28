@@ -1,11 +1,11 @@
 <script>
-	export let blogPosts;
+	export let data;
 </script>
 
 <h1>Blog Posts</h1>
-
-{#if blogPosts && blogPosts.length > 0}
+{#if data?.blogPosts && data?.blogPosts.length > 0}
 	<div class="blog-posts">
+		<!-- svelte-ignore missing-declaration -->
 		{#each blogPosts as post}
 			<div class="blog-post">
 				<h2>{post.title}</h2>
