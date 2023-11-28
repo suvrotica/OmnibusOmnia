@@ -1,7 +1,7 @@
 <script>
 	export let data;
 	console.log(data);
-	import B4 from '../blog/Blog-004.svelte';
+	import Post from '$lib/components/post.svelte';
 </script>
 
 <h1>Blog Posts</h1>
@@ -12,7 +12,12 @@
 				<h2>{post.title}</h2>
 				<!-- <img src={post.image_url} alt={post.title} /> -->
 				<!-- <p>{post.content}</p> -->
-				<B4 blogContent={post.content} image_name={post.image_url} />
+				<Post
+					title={post.title}
+					date={post.created_at}
+					blogContent={post.content}
+					image_name={post.image_url}
+				/>
 			</div>
 		{/each}
 	</div>
