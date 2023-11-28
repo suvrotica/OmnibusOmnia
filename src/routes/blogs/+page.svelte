@@ -1,8 +1,7 @@
 <script>
 	export let data;
 	console.log(data);
-	import B4 from '../Blog-004.svelte';
-</script>
+	import B4 from "../blog/Blog-004.svelte"
 
 <h1>Blog Posts</h1>
 {#if data?.blogPosts && data?.blogPosts.length > 0}
