@@ -12,6 +12,7 @@
 				<!-- <img src={post.image_url} alt={post.title} /> -->
 				<!-- <p>{post.content}</p> -->
 				<Post
+					id={post.id}
 					title={post.title}
 					date={post.created_at
 						.toLocaleDateString('en-GB', {
@@ -20,6 +21,7 @@
 							day: '2-digit'
 						})
 						.replace(/\s/g, '-')}
+					tagSet={post.tag_set}
 					blogContent={post.content}
 					image_name={post.image_url}
 				/>

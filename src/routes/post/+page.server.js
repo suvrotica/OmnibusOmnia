@@ -8,17 +8,19 @@ async function createBlogPost(title, content, imageUrl) {
 
 	await pool.sql`
     CREATE TABLE IF NOT EXISTS blog_posts (
-      id SERIAL PRIMARY KEY,
-      title VARCHAR(255),
-      content TEXT,
-      image_url VARCHAR(255),
-      created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+		id SERIAL PRIMARY KEY,
+		title VARCHAR(255) NOT NULL,
+		content TEXT NOT NULL,
+		image_url VARCHAR(255) NOT NULL,
+		tag_set VARCHAR(255) NOT NULL,
+		created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL
+	  );
+	  
   `;
 
 	const rowInserted = await pool.sql`
-    INSERT INTO blog_posts (title, content, image_url)
-    VALUES (${title}, ${content}, ${imageUrl});
-    
+    INSERT INTO blog_posts (title, content, image_url, tag_set)
+  	VALUES (${title}, ${content}, ${imageUrl}, ${tagSet});
   `;
 
 	return rowInserted;
