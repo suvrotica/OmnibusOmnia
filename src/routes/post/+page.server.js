@@ -32,12 +32,13 @@ export const actions = {
 		const title = form.get('title');
 		const content = form.get('content');
 		const imageUrl = form.get('image_url');
-
+		const tagSet = form.get('tag_set');
 		try {
-			const rowInserted = await createBlogPost(title, content, imageUrl);
+			const rowInserted = await createBlogPost(title, content, imageUrl, tagSet);
 			console.log(rowInserted.id);
 			return { message: 'Blog post was created' }; // Return a plain object
 		} catch (err) {
+			console.log('Error in posting to server: ', err.message);
 			return { error: err.message }; // Return a plain object
 		}
 	}
