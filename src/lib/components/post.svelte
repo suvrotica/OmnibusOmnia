@@ -32,20 +32,22 @@
 {#each topics as topic}
 	<details>
 		<!-- svelte-ignore a11y-no-redundant-roles -->
-		<summary role="button" class="contrast"
-			>{'Post:' + id + ' ' + date + ' : ' + title + ' - ' + topic}
-		</summary>
-		<article>
-			<article class="float-left svg">
-				<figure>
-					<img src={image_name} alt="pic" />
-					<img src="/sign.svg" alt="sign" width="50%" style="display: block; margin: 0 auto;" />
-					<figcaption class="yellow-banner">
-						{title}
-					</figcaption>
-				</figure>
+		<summary>{topic} </summary>
+		<details>
+			<!-- svelte-ignore a11y-no-redundant-roles -->
+			<summary role="button" class="contrast">{'Post:' + id + ' ' + date + ' : ' + title}</summary>
+			<article>
+				<article class="float-left svg">
+					<figure>
+						<img src={image_name} alt="pic" />
+						<img src="/sign.svg" alt="sign" width="50%" style="display: block; margin: 0 auto;" />
+						<figcaption class="yellow-banner">
+							{title}
+						</figcaption>
+					</figure>
+				</article>
+				<p>{@html newBlogContent}</p>
 			</article>
-			<p>{@html newBlogContent}</p>
-		</article>
+		</details>
 	</details>
 {/each}

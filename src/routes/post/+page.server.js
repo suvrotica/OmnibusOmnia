@@ -1,7 +1,7 @@
 import { createPool } from '@vercel/postgres';
 import { POSTGRES_URL } from '$env/static/private';
 
-async function createBlogPost(title, content, imageUrl) {
+async function createBlogPost(title, content, imageUrl, tagSet) {
 	const pool = createPool({
 		connectionString: POSTGRES_URL
 	});
