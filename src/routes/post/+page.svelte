@@ -1,11 +1,16 @@
 <script>
 	let title = '';
 	let content = '';
-	let imageUrl = '';
+	let imageUrl = ''; // This will be updated with the URL from the uploaded file
 	let tagSet = '';
+	let file = null;
+
+	function onChange(event) {
+		file = event.target.files[0];
+	}
 </script>
 
-<form method="post">
+<form method="post" enctype="multipart/form-data">
 	<input type="text" bind:value={title} name="title" placeholder="Title" required />
 	<textarea
 		bind:value={content}
@@ -15,21 +20,31 @@
 		cols="50"
 		required
 	/>
-	<input type="text" bind:value={imageUrl} name="image_url" placeholder="Image URL" required />
+	<input type="hidden" bind:value={imageUrl} name="image_url" />
 	<input
 		type="text"
 		bind:value={tagSet}
 		name="tag_set"
-		placeholder="Enter tags (comma-separate them e.g. tag1,tag2,tag3)"
+		placeholder="Enter tags (comma-separated e.g. tag1,tag2,tag3)"
 		required
 	/>
+
+	<input
+		type="file"
+		id="image-upload"
+		name="image-upload"
+		accept="image/*,video/mpeg"
+		on:change={onChange}
+	/>
+	<label for="image-upload">Choose a file</label>
+
 	<button type="submit">Submit Post</button>
 </form>
 
 <style>
 	textarea {
-		width: 100%; /* or any specific width */
-		height: 200px; /* or any specific height */
-		resize: vertical; /* allows vertical resizing */
+		width: 100%;
+		height: 200px;
+		resize: vertical;
 	}
 </style>
