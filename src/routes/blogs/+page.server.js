@@ -6,9 +6,9 @@ export async function load({}) {
 		connectionString: POSTGRES_URL
 	});
 
-	const blogPosts = await pool.sql`
+	const { rows } = await pool.sql`
     SELECT * FROM blog_posts;
   `;
 
-	return { props: { blogPosts } };
+	return { blogPosts: rows };
 }

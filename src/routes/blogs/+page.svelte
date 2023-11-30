@@ -1,11 +1,12 @@
 <script>
-	export let blogPosts;
+	export let data;
+	console.log(data.blogPosts);
 
 	import Post from '$lib/components/post.svelte';
 </script>
 
-{#if blogPosts && blogPosts.length > 0}
-	{#each blogPosts as post}
+{#if data.blogPosts && data.blogPosts.length > 0}
+	{#each data.blogPosts as post}
 		<Post
 			id={post.id}
 			title={post.title}
