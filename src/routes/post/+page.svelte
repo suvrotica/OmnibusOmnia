@@ -3,7 +3,7 @@
 	let content = '';
 	let imageUrl = ''; // This will be updated with the URL from the uploaded file
 	let tagSet = '';
-	let file = null;
+	let file;
 
 	function onChange(event) {
 		file = event.target.files[0];
