@@ -1,6 +1,6 @@
 <script>
 	export let blogPosts;
-	console.log(data);
+
 	import Post from '$lib/components/post.svelte';
 </script>
 
