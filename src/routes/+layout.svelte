@@ -73,10 +73,10 @@
 	}
 
 	:global(p, article) {
-		margin: 30px;
+		margin: 5px;
 		padding: 5px;
 		text-align: justify;
-		line-height: 30px;
+		line-height: 0.9;
 		font-weight: 100;
 		font-size: 20px;
 		color: whitesmoke;
