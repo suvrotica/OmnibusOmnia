@@ -73,12 +73,12 @@
 	}
 
 	:global(p, article) {
-		margin: 5px;
+		margin: 30px;
 		padding: 5px;
 		text-align: justify;
-		line-height: 0.9;
+		line-height: 30px;
 		font-weight: 100;
-		font-size: 22px;
+		font-size: 20px;
 		color: whitesmoke;
 	}
 	:global(.big-punctuation) {
