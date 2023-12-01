@@ -10,17 +10,16 @@
 		replace42ytWithIframe,
 		replace42picWithFigureR
 	} from '$lib/utility-functions';
-
+        export let id = '';
 	export let title = '';
-	export let date = '';
-	export let image_name = '';
-	export let blogContent = '';
-	export let id = '';
-	export let tagSet = ''; // Comma-separated tags
+	export let created_at = '';
+	export let image_url = '';
+	export let content = '';
+	export let tag_set = ''; 
 
-	let topics = tagSet.split(',').map((tag) => tag.trim());
+	let topics = tag_set.split(',').map((tag) => tag.trim());
 
-	let newBlogContent = replaceBqWithDiv(blogContent);
+	let newBlogContent = replaceBqWithDiv(content);
 	newBlogContent = replace42ytWithIframe(newBlogContent);
 	newBlogContent = replace42picWithFigureR(newBlogContent);
 	newBlogContent = replace42picWithFigure(newBlogContent);
@@ -35,11 +34,11 @@
 		<summary>{topic} </summary>
 		<details>
 			<!-- svelte-ignore a11y-no-redundant-roles -->
-			<summary role="button" class="contrast">{'Post:' + id + ' ' + date + ' : ' + title}</summary>
+			<summary role="button" class="contrast">{'Post:' + id + ' ' + created_at + ' : ' + title}</summary>
 			<article>
 				<article class="float-left svg">
 					<figure>
-						<img src={image_name} alt="pic" />
+						<img src={image_url} alt="pic" />
 						<img src="/sign.svg" alt="sign" width="50%" style="display: block; margin: 0 auto;" />
 						<figcaption class="yellow-banner">
 							{title}
