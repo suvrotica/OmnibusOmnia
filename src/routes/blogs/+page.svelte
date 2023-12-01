@@ -1,25 +1,23 @@
 <script>
 	export let data;
-	console.log(data.blogPosts);
-
 	import Post from '$lib/components/post.svelte';
 </script>
 
 {#if data.blogPosts && data.blogPosts.length > 0}
 	{#each data.blogPosts as post}
 		<Post
-			id={post.id}
-			title={post.title}
-			date={post.created_at
+			{post.id}
+			{post.title}
+			{post.created_at
 				.toLocaleDateString('en-GB', {
 					year: 'numeric',
 					month: 'short',
 					day: '2-digit'
 				})
 				.replace(/\s/g, '-')}
-			tagSet={post.tag_set}
-			blogContent={post.content}
-			image_name={post.image_url}
+			{post.tag_set}
+			{post.content}
+			{post.image_url}
 		/>
 	{/each}
 {:else}
