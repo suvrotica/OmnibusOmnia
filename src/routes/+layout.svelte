@@ -57,11 +57,6 @@
 		float: right;
 		margin-left: 2px; /* Adjust as needed for spacing between the image and text */
 	}
-	:global(article) {
-		padding: 5px;
-		padding-bottom: 2px;
-		margin-bottom: 2px;
-	}
 	:global(.yellow-banner) {
 		font-family: 'Gaegu', cursive;
 		text-align: center;
@@ -78,9 +73,13 @@
 	}
 
 	:global(p, article) {
+		margin: 5px;
+		padding: 5px;
 		text-align: justify;
 		line-height: 0.9;
-		font-weight: 300;
+		font-weight: 100;
+		font-size: 22px;
+		color: whitesmoke;
 	}
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
