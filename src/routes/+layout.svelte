@@ -123,4 +123,11 @@
 	:global(.column) {
 		padding: 30px;
 	}
+
+	:global(textarea) {
+		width: 100%;
+		height: 200px;
+		resize: vertical;
+	}
+
 </style>
