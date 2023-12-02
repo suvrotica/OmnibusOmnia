@@ -22,9 +22,7 @@
 	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
 </script>
 
-{#each topics as topic}
-	<details>
-		<summary>{topic}</summary>
+
 		<details>
 			<!-- svelte-ignore a11y-no-redundant-roles -->
 			<summary role="button" class="contrast"
@@ -52,5 +50,3 @@
 				<p>{@html newBlogContent}</p>
 			</article>
 		</details>
-	</details>
-{/each}
