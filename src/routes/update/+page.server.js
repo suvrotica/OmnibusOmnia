@@ -29,6 +29,6 @@ export const actions = {
 		};
 
 		await updateBlogPost(blogPost);
-		return { status: 303, headers: { location: '/blog-posts' } }; // Redirect after successful update
+		return { status: 303, headers: { location: '/blogs' } }; // Redirect after successful update
 	}
 };
