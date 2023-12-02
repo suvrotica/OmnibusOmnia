@@ -40,10 +40,3 @@
 	<button type="submit">Submit Post</button>
 </form>
 
-<style>
-	textarea {
-		width: 100%;
-		height: 200px;
-		resize: vertical;
-	}
-</style>
