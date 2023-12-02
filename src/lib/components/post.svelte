@@ -25,7 +25,7 @@
 
 		<details>
 			<!-- svelte-ignore a11y-no-redundant-roles -->
-			<summary role="button" class="contrast"
+			<summary role="button" class="secondary"
 				>{'Post: ' +
 					post.id +
 					' ' +
