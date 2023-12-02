@@ -26,17 +26,15 @@
 		<details>
 			<!-- svelte-ignore a11y-no-redundant-roles -->
 			<summary role="button" class="secondary"
-				><span role ="button" class="contrast" >{'Post: ' +
+				><span role ="button" class="contrast" >{
 					post.id} </span>{
-					' ' +
 					post.created_at.toLocaleDateString('en-GB', {
 						year: 'numeric',
 						month: 'short',
 						day: '2-digit'
 					}) +
-					' : ' +
-					post.title}</summary
-			>
+					'-' +
+					post.title}</summary>
 			<article>
 				<article class="float-left svg">
 					<figure>
