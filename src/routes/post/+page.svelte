@@ -36,7 +36,7 @@
 		accept="image/*,video/mpeg"
 		on:change={onChange}
 	/>
-	<label for="image-upload">Choose a file</label>
+	<label for="image-upload">Choose image only</label>
 
 	<button type="submit">Submit Post</button>
 </form>
