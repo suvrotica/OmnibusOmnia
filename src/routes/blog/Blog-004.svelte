@@ -29,7 +29,7 @@
 <details>
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<summary role="button" class="contrast">{date + ' : ' + title} </summary>
-	<article>
+<article>
 		<article class="float-left svg">
 			<figure>
 				<img src="/{image_name}" alt="pic" />
@@ -42,7 +42,7 @@
 		</article>
 
 		<p>{@html newBlogContent}</p>
-	</article>
+	</article>	
 </details>
 
 <!-- Your styles here -->

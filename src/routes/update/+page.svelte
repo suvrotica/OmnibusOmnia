@@ -1,46 +1,49 @@
 <script>
-    export let data;
-    let selectedBlogPost;
-
-    function selectBlogPost(post, index) {
-        selectedBlogPost = selectedBlogPost?.id !== post.id ? post : undefined;
-    }
+	export let data;
+	let selectedBlogPost;
+	console.log(data);
+	function selectBlogPost(post, index) {
+		selectedBlogPost = selectedBlogPost?.id !== post.id ? post : undefined;
+	}
 </script>
 
 <h1>Update Blog Post</h1>
-<div class="update-wrapper">
-    <div class="update-content">
-        <ol>
-            {#each data?.blogPosts as post, index}
-            <li>
-                <input
-                    id={`blog-checkbox-${index}`}
-                    type="checkbox"
-                    checked={selectedBlogPost?.id === post.id}
-                    on:click={() => selectBlogPost(post, index)}
-                />
-                {`Post Id: ${post.id} Title: ${post.title}`}
-            </li>
-            {/each}
-        </ol>
-        {#if selectedBlogPost}
-        <form method="post" action="?/update">
-            <input type="hidden" name="id" value={selectedBlogPost.id} />
 
-            <label for="title">New Title</label>
-            <input id="title" name="title" type="text" required value={selectedBlogPost.title} />
+<ol>
+	{#each data?.blogPosts as post, checkId}
+		<li>
+			<input
+				id={`blog-checkbox-${checkId}`}
+				type="checkbox"
+				checked={selectedBlogPost?.id === post.id}
+				on:click={() => selectBlogPost(post, checkId)}
+			/>
+			{`Post Id: ${post.id} Title: ${post.title}`}
+		</li>
+	{/each}
+</ol>
+{#if selectedBlogPost}
+	<form method="post" action="?/update">
+		<input type="hidden" name="id" value={selectedBlogPost.id} />
 
-            <label for="content">New Content</label>
-            <textarea id="content" name="content" required>{selectedBlogPost.content}</textarea>
+		<label for="title">New Title</label>
+		<input id="title" name="title" type="text" required value={selectedBlogPost.title} />
 
-            <label for="image_url">New Image URL</label>
-            <input id="image_url" name="image_url" type="text" required value={selectedBlogPost.image_url} />
+		<label for="content">New Content</label>
+		<textarea id="content" name="content" required>{selectedBlogPost.content}</textarea>
 
-            <label for="tag_set">New Tags (comma-separated)</label>
-            <input id="tag_set" name="tag_set" type="text" required value={selectedBlogPost.tag_set} />
+		<label for="image_url">New Image URL</label>
+		<input
+			id="image_url"
+			name="image_url"
+			type="text"
+			required
+			value={selectedBlogPost.image_url}
+		/>
 
-            <button type="submit">Update Post</button>
-        </form>
-        {/if}
-    </div>
-</div>
+		<label for="tag_set">New Tags (comma-separated)</label>
+		<input id="tag_set" name="tag_set" type="text" required value={selectedBlogPost.tag_set} />
+
+		<button type="submit">Update Post</button>
+	</form>
+{/if}

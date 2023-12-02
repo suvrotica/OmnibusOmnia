@@ -57,21 +57,29 @@
 		float: right;
 		margin-left: 2px; /* Adjust as needed for spacing between the image and text */
 	}
+
 	:global(.yellow-banner) {
 		font-family: 'Gaegu', cursive;
 		text-align: center;
 		font-weight: 700;
 		color: black;
-		background-color: yellow;
+		background-color: rgb(236, 236, 182);
 		border: 2px solid black;
 		box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 		border-radius: 5px;
+		margin-top: 10px;
 	}
 	:global(.svg) {
 		background-color: white;
-		margin: 10px;
 	}
-
+	:global(.content) {
+		background-color: rgb(46, 44, 44);
+		margin-top: 10px;
+	}
+	:global(img, figure) {
+		display: block;
+		margin: auto;
+	}
 	:global(p, article) {
 		margin: 5px;
 		padding: 5px;
@@ -89,7 +97,7 @@
 	}
 	:global(.poem) {
 		font-family: 'Gaegu', cursive;
-		margin-top: 0px;
+
 		background-color: #ece3cc;
 		box-shadow: none;
 		/*background-image: url('/back.webp');
