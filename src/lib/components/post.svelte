@@ -26,8 +26,8 @@
 		<details>
 			<!-- svelte-ignore a11y-no-redundant-roles -->
 			<summary role="button" class="secondary"
-				>{'Post: ' +
-					post.id +
+				><span role ="button" class="contrast" >{'Post: ' +
+					post.id} </span>{
 					' ' +
 					post.created_at.toLocaleDateString('en-GB', {
 						year: 'numeric',
