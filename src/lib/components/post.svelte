@@ -14,14 +14,14 @@
 
 	let topics = post.tag_set.split(',').map((tag) => tag.trim());
 
-	let newBlogContent = replaceBqWithDiv(post.content);
+	let newBlogContent = replace42cWithHighlight(post.content);
+	newBlogContent = replaceBqWithDiv(newBlogContent);
 	newBlogContent = replace42ytWithIframe(newBlogContent);
 	newBlogContent = replace42picWithFigureR(newBlogContent);
 	newBlogContent = replace42picWithFigure(newBlogContent);
 	newBlogContent = replace42brWithBreak(newBlogContent);
 	newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
-	newBlogContent = replace42cWithHighlight(newBlogContent);
 </script>
 
 <details>
