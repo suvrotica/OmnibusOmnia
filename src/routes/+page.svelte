@@ -1,10 +1,11 @@
 <script lang="ts">
+	import Highlight from '$lib/components/highlight.svelte';
 	import Title from '$lib/components/title.svelte';
 	import B1 from '../routes/blog/Blog-001.svelte';
 	import B2 from '../routes/blog/Blog-002.svelte';
 	import B3 from '../routes/blog/Blog-003.svelte';
 	import B4 from '../routes/blog/Blog-004.svelte';
-
+	import Post from '$lib/components/post.svelte';
 	// import C4 from '../routes/blog/C4.svelte';
 	import { getCurrentDateAsString } from '$lib/date';
 

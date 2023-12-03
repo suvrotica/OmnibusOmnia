@@ -91,3 +91,9 @@ export function replace42picWithFigureR(blogContent: string): string {
         `;
 	});
 }
+function replace42cWithHighlight(text: string): string {
+	const pattern = /42c\("([^"]+)","([^"]+)"\)/g;
+	return text.replace(pattern, (match, language, codeContent) => {
+		return `<Highlight language="language-${language}" codeContent={\`${codeContent}\`} />`;
+	});
+}

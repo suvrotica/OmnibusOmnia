@@ -6,7 +6,8 @@
 		replace42picWithFigure,
 		replace42picWithFigureR,
 		replace4bWithBreak,
-		replace42tableWithHTMLTable
+		replace42tableWithHTMLTable,
+		replace42cWithHighlight
 	} from '$lib/utility-functions';
 
 	export let post;
@@ -20,6 +21,7 @@
 	newBlogContent = replace42brWithBreak(newBlogContent);
 	newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
+	newBlogContent = replace42cWithHighlight(newBlogContent);
 </script>
 
 <details>
