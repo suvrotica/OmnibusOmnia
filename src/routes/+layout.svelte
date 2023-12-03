@@ -89,13 +89,7 @@
 		font-size: 20px;
 		color: whitesmoke;
 	}
-	:global(pre[class*='language-'], code[class*='language-']) {
-		font-family: 'Gaegu', cursive;
-		line-height: 0.9;
-		font-weight: 100;
-		font-size: 16px;
-		background-color: #111111;
-	}
+
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
 	}
