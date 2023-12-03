@@ -11,7 +11,7 @@
 
 	const currentDate: string = getCurrentDateAsString();
 </script>
-
+<Highlight language="language-js" codeContent="let x=3;" />
 <details>
 	<summary>Welcome Posts</summary>
 

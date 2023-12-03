@@ -1,4 +1,11 @@
 <script>
+	import Prism from 'prismjs';
+	import 'prismjs/themes/prism-okaidia.css';
+
+	import { onMount } from 'svelte';
+	onMount(() => {
+		Prism.highlightAll();
+	});
 	import {
 		replace42brWithBreak,
 		replaceBqWithDiv,
@@ -22,7 +29,6 @@
 	newBlogContent = replace42brWithBreak(newBlogContent);
 	newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
-	console.log(newBlogContent);
 </script>
 
 <details>
