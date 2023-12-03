@@ -94,7 +94,7 @@
 		line-height: 0.9;
 		font-weight: 100;
 		font-size: 16px;
-		background-color: #050505;
+		background-color: #111111;
 	}
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
