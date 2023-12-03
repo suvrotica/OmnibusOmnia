@@ -94,6 +94,6 @@ export function replace42picWithFigureR(blogContent: string): string {
 export function replace42cWithHighlight(text: string) {
 	const pattern = /42c\("([^"]+)","([^"]+)"\)/g;
 	return text.replace(pattern, (match, language, codeContent) => {
-		return `<pre><code class="language-${language}">${codeContent}</code></pre>`;
+		return `<pre><code class="language-${language} ">${codeContent}</code></pre>`;
 	});
 }
