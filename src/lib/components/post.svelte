@@ -35,7 +35,7 @@
 <details>
 	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<summary role="button" class="secondary"
-		><span role="button" class="contrast"><img src={post.image_url} alt="pic" />{post.id} </span>{'   ' +
+		><span role="button" class="contrast"><img src={post.image_url} width=20px alt="pic" />{post.id} </span>{'   ' +
 			post.created_at.toLocaleDateString('en-GB', {
 				year: '2-digit',
 				month: 'short',
