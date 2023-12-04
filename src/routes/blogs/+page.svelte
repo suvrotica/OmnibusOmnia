@@ -5,11 +5,16 @@
     function groupPostsByTag(posts) {
     const grouped = {};
     posts.forEach(post => {
-        const tag = post.tag_set;
-        if (!grouped[tag]) {
-            grouped[tag] = [];
-        }
-        grouped[tag].push(post);
+        // Split the tag_set string into an array of tags
+        const tags = post.tag_set ? post.tag_set.split(',') : ['Other'];
+
+        tags.forEach(tag => {
+            tag = tag.trim(); // Trim whitespace from each tag
+            if (!grouped[tag]) {
+                grouped[tag] = [];
+            }
+            grouped[tag].push(post);
+        });
     });
     return grouped;
 }
