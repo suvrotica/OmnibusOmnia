@@ -40,7 +40,7 @@
         {#if data.blogPosts && data.blogPosts.length > 0}
             <ul>
                 {#each data.blogPosts as post}
-                    <li><a href="javascript:void(0)" on:click={() => selectID(post.id)}>{post.title}</a></li>
+                    <li on:click={() => selectID(post.id)}>{post.title}</li>
                 {/each}
             </ul>
         {:else}
