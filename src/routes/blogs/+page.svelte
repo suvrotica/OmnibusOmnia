@@ -49,6 +49,7 @@
     </div>
     <div class="item3">
         {#if selectedPost}
+            {selectedPost.title}
             <Post {selectedPost} />
         {:else}
             <p>Select a post to view its details</p>
