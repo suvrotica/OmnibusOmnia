@@ -20,15 +20,15 @@
         'header header header header header header'
         'menu main main main main main';
         gap: 10px;
-        background-color: #2196F3;
+        
         padding: 10px;
     }
 
     .grid-container > div {
-        background-color: rgba(255, 255, 255, 0.8);
+        
         text-align: center;
-        padding: 20px 0;
-        font-size: 30px;
+        padding: 10px 0;
+        font-size: 20px;
     }
 </style>
 
