@@ -33,19 +33,21 @@
 
 
 <details>
-	<!-- svelte-ignore a11y-no-redundant-roles -->
-	<summary role="button" class="secondary"
-		>{post.id + '-' +
+	
+	<summary>
+                        {post.id + 
+                        '-' +
 			post.created_at.toLocaleDateString('en-GB', {
 				year: '2-digit',
 				month: 'short',
 				day: '2-digit'
 			}) +
 			'-' +
-			post.title}</summary
+			post.title}
+        </summary
 	>
 
-	<article class="content">
+	<article>
 		<figure>
 			<img src={post.image_url} alt="pic" />
 
