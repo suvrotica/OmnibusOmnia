@@ -2,26 +2,21 @@
     export let data;
     import Post from '$lib/components/post.svelte';
 
-    // Function to group posts by tags
     function groupPostsByTag(posts) {
-        const grouped = {};
-        posts.forEach(post => {
-            (post.tag_set || []).forEach(tag => {
-                if (!grouped[tag]) {
-                    grouped[tag] = [];
-                }
-                grouped[tag].push(post);
-            });
-        });
-        return grouped;
-    }
+    const grouped = {};
+    posts.forEach(post => {
+        const tag = post.tag_set;
+        if (!grouped[tag]) {
+            grouped[tag] = [];
+        }
+        grouped[tag].push(post);
+    });
+    return grouped;
+}
 
-    const groupedPosts = groupPostsByTag(data.blogPosts);
+const groupedPosts = groupPostsByTag(data.blogPosts);
+
 </script>
-
-<style>
-    /* Your styles here */
-</style>
 
 {#if Object.keys(groupedPosts).length > 0}
     {#each Object.keys(groupedPosts) as tag}
@@ -35,3 +30,4 @@
 {:else}
     <h2>No blog posts available</h2>
 {/if}
+
