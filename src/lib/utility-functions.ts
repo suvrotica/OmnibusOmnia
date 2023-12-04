@@ -69,13 +69,10 @@ export function replace42ytWithIframe(blogContent: string): string {
 	return blogContent.replace(/42yt\("([^"]+)"\)/g, (match, videoUrl) => {
 		const videoId = videoUrl.match(/(?:\/|v=)([\w-]{11})(?:$|&|\?|#)/)[1];
 		return `
-            <iframe
-                width="320"
-                height="180"
-                src="https://www.youtube.com/embed/${videoId}?ps=docs&controls=1&autoplay=1&mute=1"
-                frameborder="0"
-                allowfullscreen
-            ></iframe>
+  <div style="aspect-ratio: 1.755; position: relative; margin: 0 auto;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0; margin: 0;" src="https://www.youtube-nocookie.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
         `;
 	});
 }
