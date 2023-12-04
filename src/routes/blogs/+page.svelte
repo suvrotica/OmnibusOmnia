@@ -1,16 +1,27 @@
 <script>
-    export let data;
+    import { onMount } from 'svelte';
     import Post from '$lib/components/post.svelte';
 
+    export let data;
     let selectedPost = null;
     let dialog;
 
+    onMount(() => {
+        if (typeof window !== 'undefined') {
+            dialog = document.querySelector('#postDialog');
+            // Uncomment the line below if using a dialog polyfill
+            dialogPolyfill.registerDialog(dialog);
+        }
+    });
+
     function openDialog(post) {
+        console.log("Opening dialog for post", post);
         selectedPost = post;
         dialog.showModal();
     }
 
     function closeDialog() {
+        console.log("Closing dialog");
         dialog.close();
     }
 </script>
@@ -29,10 +40,19 @@
         margin-top: 20px;
     }
 
-    dialog {
-        border: none;
-        border-radius: 10px;
+    .modal-dialog {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 1000;
+        background-color: white;
         padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        max-width: 90%;
+        max-height: 90%;
+        overflow: auto;
     }
 </style>
 
@@ -45,7 +65,7 @@
         {/each}
     </div>
 
-    <dialog bind:this={dialog}>
+    <dialog id="postDialog" class="modal-dialog" bind:this={dialog}>
         {#if selectedPost}
             <Post {selectedPost} />
             <button on:click={closeDialog}>Close</button>
