@@ -72,7 +72,7 @@ export function replace42ytWithIframe(blogContent: string): string {
             <iframe
                 width="320"
                 height="180"
-                src="https://www.youtube.com/embed/${videoId}?ps=docs&controls=0"
+                src="https://www.youtube.com/embed/${videoId}?ps=docs&controls=1&autoplay=1&mute=1"
                 frameborder="0"
                 allowfullscreen
             ></iframe>
