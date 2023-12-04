@@ -11,6 +11,26 @@
 	<h2>No blog posts available</h2>
 {/if}
 
+<div class="grid-container">
+  <div class="item1">Header</div>
+  <div class="item2">
+    <!-- Svelte component to list blog posts -->
+    
+
+    {#if data.blogPosts && data.blogPosts.length > 0}
+      <ul>
+        {#each data.blogPosts as post}
+          <li><a href="#{post.id}">{post.title}</a></li>
+        {/each}
+      </ul>
+    {:else}
+      <h2>No blog posts available</h2>
+    {/if}
+  </div>
+  <div class="item3">
+    <!-- Main content area for displaying a selected post -->
+  </div>
+</div>
 <style>
 .item1 { grid-area: header; }
 .item2 { grid-area: menu; }
@@ -36,15 +56,7 @@
 
 
 
-<h1>Grid Layout</h1>
 
-<p>The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning:</p>
-
-<div class="grid-container">
-  <div class="item1">Header</div>
-  <div class="item2">Menu</div>
-  <div class="item3">Main</div>  
-</div>
 
 
 
