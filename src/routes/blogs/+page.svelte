@@ -12,10 +12,7 @@
             <summary>{post.tag_set === "Music" ? "Music" : "Blogs"}</summary>
             <Post {post} />
         </details>
-        <details>
-            <summary>All</summary>
-            <Post {post} />
-        </details>
+        
     {/each}
 {:else}
     <h2>No blog posts available</h2>
