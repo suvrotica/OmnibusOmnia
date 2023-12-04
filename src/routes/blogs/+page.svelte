@@ -2,7 +2,7 @@
     import Post from '$lib/components/post.svelte';
 
     export let data;
-    let selectedPost = null;
+    let selectedPost;
 
     function selectPost(post) {
         selectedPost = post;
