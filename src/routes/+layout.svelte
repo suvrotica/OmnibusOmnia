@@ -44,7 +44,8 @@
 	:global(summary) {
 		font-family: 'Gaegu', cursive;
 		font-weight: 300;
-		font-size: 24px;
+                text-align: left;
+		font-size: 20px;
 	}
 	:global(h1, h2, h3, h4, h5, h6) {
 		font-family: 'Amatic SC', cursive;
