@@ -2,10 +2,10 @@
     import Post from '$lib/components/post.svelte';
 
     export let data;
-    let selectedPost;
+    let selectedID;
 
-    function selectPost(post) {
-        selectedPost = post;
+    function selectPost(id) {
+        selectedID = id;
     }
 </script>
 
@@ -40,7 +40,7 @@
         {#if data.blogPosts && data.blogPosts.length > 0}
             <ul>
                 {#each data.blogPosts as post}
-                    <li><a href="javascript:void(0)" on:click={() => selectPost(post)}>{post.title}</a></li>
+                    <li><a href="javascript:void(0)" on:click={() => selectID(post.id)}>{post.title}</a></li>
                 {/each}
             </ul>
         {:else}
@@ -48,9 +48,13 @@
         {/if}
     </div>
     <div class="item3">
-        {#if selectedPost}
-            {selectedPost.title}
-            <Post {selectedPost} />
+         {#if data.blogPosts && data.blogPosts.length > 0}
+             {#each data.blogPosts as post}
+                {#if selectedID===post.id}
+                  {post.title}
+                  <Post {post} />
+                {/if}
+            {/each}
         {:else}
             <p>Select a post to view its details</p>
         {/if}
