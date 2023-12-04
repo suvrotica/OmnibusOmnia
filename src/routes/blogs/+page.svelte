@@ -10,7 +10,7 @@
 	{#each data.blogPosts as post}
            <details>
                <summary>Music</summary>
-               {#if post.tag_set[0]==="Technical"}
+               {#if post.tag_set==="Technical"}
                   <Post {post} />
                {/if}
            </details>
