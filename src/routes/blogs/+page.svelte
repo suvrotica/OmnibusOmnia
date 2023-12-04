@@ -4,7 +4,7 @@
 </script>
 
 
-<details open>
+
   
 {#if data.blogPosts && data.blogPosts.length > 0}
 	{#each data.blogPosts as post}
