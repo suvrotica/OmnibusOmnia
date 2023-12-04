@@ -9,10 +9,14 @@
 {#if data.blogPosts && data.blogPosts.length > 0}
 	{#each data.blogPosts as post}
            <details>
-               <summary>Music</summary>
-               {#if post.tag_set==="Technical"}
+               
+               {#if post.tag_set==="Music"}
+                  <summary>Music</summary>
                   <Post {post} />
-               {/if}
+               {:else}
+                  <summary>Blogs</summary>
+                  <Post {post} />
+                {/if}
            </details>
            <details>
                <summary>all</summary>
