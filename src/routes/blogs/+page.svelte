@@ -1,18 +1,36 @@
 <script>
-	export let data;
-	import Post from '$lib/components/post.svelte';
+    export let data;
+    import Post from '$lib/components/post.svelte';
+
+    // Function to group posts by tags
+    function groupPostsByTag(posts) {
+        const grouped = {};
+        posts.forEach(post => {
+            (post.tag_set || []).forEach(tag => {
+                if (!grouped[tag]) {
+                    grouped[tag] = [];
+                }
+                grouped[tag].push(post);
+            });
+        });
+        return grouped;
+    }
+
+    const groupedPosts = groupPostsByTag(data.blogPosts);
 </script>
 
+<style>
+    /* Your styles here */
+</style>
 
-
-  
-{#if data.blogPosts && data.blogPosts.length > 0}
-    {#each data.blogPosts as post}
+{#if Object.keys(groupedPosts).length > 0}
+    {#each Object.keys(groupedPosts) as tag}
         <details>
-            <summary>{post.tag_set === "Music" ? "Music" : "Blogs"}</summary>
-            <Post {post} />
+            <summary>{tag}</summary>
+            {#each groupedPosts[tag] as post}
+                <Post {post} />
+            {/each}
         </details>
-        
     {/each}
 {:else}
     <h2>No blog posts available</h2>
