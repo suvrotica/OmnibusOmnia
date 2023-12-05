@@ -24,10 +24,10 @@ export function extractTitleAndDate(blogContent: string): {
 }
 
 export function replace42brWithBreak(blogContent: string): string {
-	return blogContent.replace(/42br/g, '<br><br>');
+	return blogContent.replace(/42br/g, '');
 }
 export function replace42lblWithLabel(blogContent: string): string {
-	return blogContent.replace(/42lbl\("([\s\S]*?)"\)/g, '<kbd>$1</kbd><br>');
+	return blogContent.replace(/42lbl\("([\s\S]*?)"\)/g, '<kbd>$1</kbd>');
 }
 export function replaceNewLineWithBreak(blogContent: string): string {
 	return blogContent.replace(/\n/g, '<br>');
