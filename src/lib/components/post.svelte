@@ -14,7 +14,8 @@
 		replace42picWithFigureR,
 		replace4bWithBreak,
 		replace42tableWithHTMLTable,
-		replace42cWithHighlight
+		replace42cWithHighlight,
+                replaceNewLineWithBreak
 	} from '$lib/utility-functions';
 
 	export let post;
@@ -22,6 +23,7 @@
 	let topics = post.tag_set.split(',').map((tag) => tag.trim());
 
 	let newBlogContent = replace42cWithHighlight(post.content);
+        newBlogContent = replaceNewLineWithBreak(newBlogContent);
 	newBlogContent = replaceBqWithDiv(newBlogContent);
 	newBlogContent = replace42ytWithIframe(newBlogContent);
 	newBlogContent = replace42picWithFigureR(newBlogContent);
