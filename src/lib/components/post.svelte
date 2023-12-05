@@ -32,7 +32,7 @@
 	newBlogContent = replace42brWithBreak(newBlogContent);
 	newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
-        newBlogContent)=replace42lblWithLabel(newBlogContent));
+        newBlogContent = replace42lblWithLabel(newBlogContent);
 </script>
 
 
