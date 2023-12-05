@@ -97,7 +97,7 @@
 	:global(.bgPaper) {
 		background-color: #ece3cc;
 	}
-	:global(.poem) {
+	:global(.poem kbd) {
 		font-family: 'Gaegu', cursive;
 
 		background-color: #ece3cc;
