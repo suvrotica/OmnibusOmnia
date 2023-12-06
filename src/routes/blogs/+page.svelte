@@ -1,41 +1,37 @@
 <script>
-    export let data;
-    import Post from '$lib/components/post.svelte';
-    import Gallery from '$lib/components/gallery.svelte';
+	export let data;
+	import Post from '$lib/components/post.svelte';
 
-    function groupPostsByTag(posts) {
-    const grouped = {};
-    posts.forEach(post => {
-        // Split the tag_set string into an array of tags
-        const tags = post.tag_set ? post.tag_set.split(',') : ['Other'];
+	function groupPostsByTag(posts) {
+		const grouped = {};
+		posts.forEach((post) => {
+			// Split the tag_set string into an array of tags
+			const tags = post.tag_set ? post.tag_set.split(',') : ['Other'];
 
-        tags.forEach(tag => {
-            tag = tag.trim();
-            if (!grouped[tag]) {
-                grouped[tag] = [];
-            }
-            grouped[tag].push(post);
-        });
-    });
-    return grouped;
-}
+			tags.forEach((tag) => {
+				tag = tag.trim();
+				if (!grouped[tag]) {
+					grouped[tag] = [];
+				}
+				grouped[tag].push(post);
+			});
+		});
+		return grouped;
+	}
 
-const groupedPosts = groupPostsByTag(data.blogPosts);
+	const groupedPosts = groupPostsByTag(data.blogPosts);
 </script>
 
 {#if Object.keys(groupedPosts).length > 0}
-    {#each Object.keys(groupedPosts) as tag}
+	{#each Object.keys(groupedPosts) as tag}
+		<details>
+			<summary>{tag} ({groupedPosts[tag].length})</summary>
 
-        <details>
-            <summary>{tag} ({groupedPosts[tag].length})</summary>
-            <h6>Gallery</h6>
-            <Gallery posts = {groupedPosts[tag]} />
-            {#each groupedPosts[tag] as post}
-                <Post {post} />
-            {/each}
-        </details>
-    {/each}
+			{#each groupedPosts[tag] as post}
+				<Post {post} />
+			{/each}
+		</details>
+	{/each}
 {:else}
-    <h2>No blog posts available</h2>
+	<h2>No blog posts available</h2>
 {/if}
-

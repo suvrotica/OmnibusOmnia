@@ -1,7 +1,7 @@
 <script>
 	export let data;
 	let selectedBlogPost;
-	console.log(data);
+
 	function selectBlogPost(post, index) {
 		selectedBlogPost = selectedBlogPost?.id !== post.id ? post : undefined;
 	}
