@@ -5,10 +5,6 @@ export async function load({}) {
 	const pool = createPool({
 		connectionString: POSTGRES_URL
 	});
-
-	const { rows } = await pool.sql`
-    SELECT * FROM blog_posts;
-  `;
-
+	const { rows } = await pool.sql`SELECT * FROM blog_posts ORDER BY title;`;
 	return { blogPosts: rows };
 }

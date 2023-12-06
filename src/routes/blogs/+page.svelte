@@ -9,7 +9,7 @@
         const tags = post.tag_set ? post.tag_set.split(',') : ['Other'];
 
         tags.forEach(tag => {
-            tag = tag.trim(); // Trim whitespace from each tag
+            tag = tag.trim();
             if (!grouped[tag]) {
                 grouped[tag] = [];
             }
@@ -26,7 +26,7 @@ const groupedPosts = groupPostsByTag(data.blogPosts);
 {#if Object.keys(groupedPosts).length > 0}
     {#each Object.keys(groupedPosts) as tag}
         <details>
-            <summary>{tag}</summary>
+            <summary>{tag} ({groupedPosts[tag].length})</summary>
             {#each groupedPosts[tag] as post}
                 <Post {post} />
             {/each}
