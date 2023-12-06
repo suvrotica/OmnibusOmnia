@@ -3,7 +3,6 @@
 	import 'prismjs/themes/prism-okaidia.css';
 	import { onMount } from 'svelte';
 	onMount(() => Prism.highlightAll());
-
 	import {
 		replace42brWithBreak,
 		replaceBqWithDiv,

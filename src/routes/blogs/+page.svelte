@@ -1,6 +1,7 @@
 <script>
     export let data;
     import Post from '$lib/components/post.svelte';
+    import Gallery from '$lib/components/gallery.svelte';
 
     function groupPostsByTag(posts) {
     const grouped = {};
@@ -20,13 +21,15 @@
 }
 
 const groupedPosts = groupPostsByTag(data.blogPosts);
-
 </script>
 
 {#if Object.keys(groupedPosts).length > 0}
     {#each Object.keys(groupedPosts) as tag}
+
         <details>
             <summary>{tag} ({groupedPosts[tag].length})</summary>
+            <h6>Gallery</h6>
+            <Gallery posts = {groupedPosts[tag]} />
             {#each groupedPosts[tag] as post}
                 <Post {post} />
             {/each}
