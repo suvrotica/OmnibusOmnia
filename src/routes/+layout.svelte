@@ -44,7 +44,7 @@
 	:global(summary) {
 		font-family: 'Gaegu', cursive;
 		font-weight: 300;
-                text-align: left;
+		text-align: left;
 		font-size: 20px;
 	}
 	:global(h1, h2, h3, h4, h5, h6) {
@@ -62,26 +62,27 @@
 	:global(.yellow-banner) {
 		font-family: 'Gaegu', cursive;
 		text-align: center;
-		font-weight: 700;
+		font-weight: 300;
 		color: black;
-		background-color: rgb(236, 236, 182);
-		border: 2px solid black;
+		background-color: rgb(156, 174, 192);
+		border: 1px solid black;
 		box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-		border-radius: 5px;
-		margin-top: 10px;
+		border-radius: 1px;
+		margin-top: 1px;
+		padding: 0px;
 	}
 	:global(.svg) {
 		background-color: white;
 	}
 	:global(.content) {
-		background-color: rgb(46, 44, 44);
-		margin-top: 10px;
+		margin: 1px;
+		padding: 1px;
 	}
 	:global(img, figure) {
 		display: block;
 		margin: auto;
 	}
-	:global(p, article) {
+	:global(p) {
 		margin: 5px;
 		padding: 5px;
 		text-align: justify;
@@ -90,7 +91,14 @@
 		font-size: 20px;
 		color: whitesmoke;
 	}
-
+	:global(article) {
+		padding: 0px;
+		margin-top: 0px;
+		text-align: justify;
+		line-height: 0.9;
+		font-weight: 100;
+		font-size: 20px;
+	}
 	:global(.big-punctuation) {
 		font-family: 'Poppins', sans-serif;
 	}

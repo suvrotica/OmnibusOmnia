@@ -26,7 +26,6 @@
 {#if Object.keys(groupedPosts).length > 0}
 	{#each Object.keys(groupedPosts) as tag}
 		<Gallery {tag} {groupedPosts} />
-		<hr />
 	{/each}
 {:else}
 	<h2>No blog posts available</h2>

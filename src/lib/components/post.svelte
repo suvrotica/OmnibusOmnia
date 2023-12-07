@@ -18,7 +18,7 @@
 
 	export let post;
 
-	$: newBlogContent = post.content;
+	let newBlogContent = post.content;
 	newBlogContent = replace42cWithHighlight(post.content);
 	newBlogContent = replaceNewLineWithBreak(newBlogContent);
 	newBlogContent = replaceBqWithDiv(newBlogContent);
@@ -31,11 +31,11 @@
 	newBlogContent = replace42lblWithLabel(newBlogContent);
 </script>
 
-<summary>{post.title}</summary>
+<!-- <summary>{post.title}</summary> -->
 <article>
 	<figure>
-		<img src={post.image_url} alt="pic" />
 		<figcaption class="yellow-banner">{post.title}</figcaption>
+		<img src={post.image_url} alt="pic" />
 	</figure>
 </article>
 <article class="content">{@html newBlogContent}</article>

@@ -16,7 +16,7 @@
 		<aside class="sidebar">
 			<ul>
 				{#each groupedPosts[tag] as post}
-					<button on:click={() => selectPost(post)} class="secondary contrast">
+					<button class="yellow-banner" on:click={() => selectPost(post)}>
 						{post.title}
 					</button>
 				{/each}
@@ -33,6 +33,6 @@
 <style>
 	.container {
 		display: grid;
-		grid-template-columns: 1fr 3fr; /* sidebar and main content */
+		grid-template-columns: 1fr 4fr; /* sidebar and main content */
 	}
 </style>
