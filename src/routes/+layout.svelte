@@ -3,7 +3,6 @@
 	import Header from '$lib/components/header.svelte';
 	import '@picocss/pico';
 	let fontLoaded = false;
-	import { inject } from '@vercel/analytics';
 
 	inject();
 	let fontLink;
