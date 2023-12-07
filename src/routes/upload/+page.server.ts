@@ -1,5 +1,7 @@
 import { error } from '@sveltejs/kit';
 import { put } from '@vercel/blob';
+
+export const prerender = false;
 interface ActionContext {
 	request: {
 		formData: () => Promise<FormData>;

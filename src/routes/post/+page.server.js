@@ -2,7 +2,7 @@ import { createPool } from '@vercel/postgres';
 import { POSTGRES_URL } from '$env/static/private';
 import { put } from '@vercel/blob';
 import { error } from '@sveltejs/kit';
-
+export const prerender = false;
 async function createBlogPost(title, content, imageUrl, tagSet) {
 	const pool = createPool({ connectionString: POSTGRES_URL });
 
