@@ -20,6 +20,7 @@
 	const title = 'Suvro Ghosh Blog';
 	const description =
 		"Dive into the world of technology and opinion with a blog from Suvro Ghosh, where personal insights meet professional expertise. Explore in-depth tutorials, latest tech trends, and personal stories from a seasoned leader's perspective. Join Suvro and the community of tech enthusiasts and start enhancing your skills today!";
+	
 </script>
 
 <svelte:head>
