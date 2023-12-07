@@ -23,6 +23,7 @@
 </script>
 
 <svelte:head>
+	<link rel="icon" href="https://fav.farm/💩" />
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
 	<title>{title}</title>
 	<meta name="description" content={description} />
