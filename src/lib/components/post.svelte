@@ -12,14 +12,15 @@
 		replace4bWithBreak,
 		replace42tableWithHTMLTable,
 		replace42cWithHighlight,
-        replaceNewLineWithBreak,
-        replace42lblWithLabel
+		replaceNewLineWithBreak,
+		replace42lblWithLabel
 	} from '$lib/utility-functions';
 
 	export let post;
-	let newBlogContent;
+
+	$: newBlogContent = post.content;
 	newBlogContent = replace42cWithHighlight(post.content);
-    newBlogContent = replaceNewLineWithBreak(newBlogContent);
+	newBlogContent = replaceNewLineWithBreak(newBlogContent);
 	newBlogContent = replaceBqWithDiv(newBlogContent);
 	newBlogContent = replace42ytWithIframe(newBlogContent);
 	newBlogContent = replace42picWithFigureR(newBlogContent);
@@ -27,17 +28,14 @@
 	newBlogContent = replace42brWithBreak(newBlogContent);
 	newBlogContent = replace4bWithBreak(newBlogContent);
 	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
-    newBlogContent = replace42lblWithLabel(newBlogContent);
+	newBlogContent = replace42lblWithLabel(newBlogContent);
 </script>
 
-
-<details>
-	<summary>{post.title}</summary>
-	<article>
-		<figure>
-			<img src={post.image_url} alt="pic" />
-			<figcaption class="yellow-banner">{post.title}</figcaption>
-		</figure>
-	</article>
-	<article class="content">{@html newBlogContent}</article>
-</details>
+<summary>{post.title}</summary>
+<article>
+	<figure>
+		<img src={post.image_url} alt="pic" />
+		<figcaption class="yellow-banner">{post.title}</figcaption>
+	</figure>
+</article>
+<article class="content">{@html newBlogContent}</article>
