@@ -16,8 +16,6 @@
 		<aside class="sidebar">
 			<ul>
 				{#each groupedPosts[tag] as post}
-					<!-- svelte-ignore a11y-click-events-have-key-events -->
-					<!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
 					<button on:click={() => selectPost(post)} class="secondary contrast">
 						{post.title}
 					</button>

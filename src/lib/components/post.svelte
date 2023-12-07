@@ -34,6 +34,7 @@
 <summary>{post.title}</summary>
 <article>
 	<figure>
+		console.log({post.image_url});
 		<img src={post.image_url} alt="pic" />
 		<figcaption class="yellow-banner">{post.title}</figcaption>
 	</figure>
