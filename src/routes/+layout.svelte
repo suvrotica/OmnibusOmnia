@@ -6,26 +6,19 @@
 	import { onMount } from 'svelte';
 	import Header from '$lib/components/header.svelte';
 	import '@picocss/pico';
-	let fontLoaded = false;
-
-	let fontLink;
-	onMount(() => {
-		fontLink = document.createElement('link');
-		fontLink.href =
-			'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&family=Montserrat+Alternates:wght@100;400&family=Abel&family=Gaegu:wght@300;400;700&family=Poppins:ital,wght@0,100;1,100&family=Montserrat:wght@300&family=Amatic+SC:wght@400;700&family=Kablammo&family=Great+Vibes&family=Indie+Flower&display=swap';
-		fontLink.rel = 'stylesheet';
-		fontLoaded = true;
-		document.head.appendChild(fontLink);
-	});
 	const title = 'Suvro Ghosh Blog';
 	const description =
 		"Dive into the world of technology and opinion with a blog from Suvro Ghosh, where personal insights meet professional expertise. Explore in-depth tutorials, latest tech trends, and personal stories from a seasoned leader's perspective. Join Suvro and the community of tech enthusiasts and start enhancing your skills today!";
-	
 </script>
 
 <svelte:head>
 	<link rel="icon" href="https://fav.farm/💩" />
+	<link
+		href="https://fonts.googleapis.com/css2?family=Gaegu:wght@300;400;700&family=Amatic+SC:wght@400;700&family=Poppins:ital,wght@0,100;1,100&display=swap"
+		rel="stylesheet"
+	/>
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
 	<title>{title}</title>
 	<meta name="description" content={description} />
 </svelte:head>
