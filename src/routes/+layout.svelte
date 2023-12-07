@@ -4,7 +4,6 @@
 	import '@picocss/pico';
 	let fontLoaded = false;
 
-	inject();
 	let fontLink;
 	onMount(() => {
 		fontLink = document.createElement('link');
