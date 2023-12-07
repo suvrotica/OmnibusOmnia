@@ -5,21 +5,21 @@
 
 <!-- Title -->
 <div class="title">
-	<Title stringA="Omnibus" stringB="Omnia" />
+	<Title stringA="SuvroGhosh" stringB="Blog" />
 </div>
 
 <nav>
 	<!-- Navigation -->
 
 	<ul>
-		<li><a href="/">BLOG</a></li>
+		<li><a href="/">Home</a></li>
 	</ul>
 	<ul>
 		<li><a href="/disclaimer">Disclaimer</a></li>
-		
+		<li><a href="/upload">Upload</a></li>
+		<li><a href="/update">Update</a></li>
 		<li><a href="/post">Post</a></li>
 		<li><a href="/blogs">Blogs</a></li>
-		
 	</ul>
 </nav>
 

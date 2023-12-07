@@ -3,7 +3,7 @@
 	import { inject } from '@vercel/analytics';
 	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
 	inject({ mode: dev ? 'development' : 'production' });
-	injectSpeedInsights({ mode: dev ? 'development' : 'production' });
+	injectSpeedInsights();
 	import Header from '$lib/components/header.svelte';
 	import '@picocss/pico';
 	const title = 'Suvro Ghosh Blog';
