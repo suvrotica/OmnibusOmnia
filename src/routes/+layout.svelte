@@ -17,10 +17,15 @@
 		fontLoaded = true;
 		document.head.appendChild(fontLink);
 	});
+	const title = 'Suvro Ghosh Blog';
+	const description =
+		"Dive into the world of technology with [Your Name]'s blog, where personal insights meet professional expertise. Explore in-depth tutorials, latest tech trends, and personal stories from a seasoned developer's perspective. Join our community of tech enthusiasts and start enhancing your skills today!";
 </script>
 
 <svelte:head>
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+	<title>{title}</title>
+	<meta name="description" content={description} />
 </svelte:head>
 
 <main class="container">
