@@ -32,13 +32,6 @@
 </main>
 
 <style>
-	header {
-		transform: rotate(2deg);
-	}
-	footer {
-		transform: rotate(2deg);
-	}
-
 	:global(body) {
 		font-family: 'Gaegu', cursive;
 		font-weight: 300;
@@ -137,7 +130,7 @@
 	}
 
 	:global(.column) {
-		padding: 30px;
+		padding: 10px;
 	}
 
 	:global(textarea) {
