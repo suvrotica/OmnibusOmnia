@@ -63,14 +63,17 @@
 
 	:global(.yellow-banner) {
 		font-family: 'Gaegu', cursive;
-		text-align: center;
+		font-size: 20px;
+
+		text-align: left;
 		font-weight: 300;
-		color: black;
-		background-color: rgb(156, 174, 192);
+		color: rgb(236, 236, 236);
+		background-color: rgb(25, 25, 26);
 		border: 1px solid black;
 		box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-		border-radius: 1px;
-		margin-top: 1px;
+		border-radius: 0px;
+		margin-top: 0px;
+		margin-bottom: 0px;
 		padding: 0px;
 	}
 	:global(.svg) {
@@ -83,7 +86,7 @@
 	:global(img, figure) {
 		display: block;
 		margin: auto;
-background-color: white;
+		background-color: white;
 	}
 	:global(p) {
 		margin: 5px;

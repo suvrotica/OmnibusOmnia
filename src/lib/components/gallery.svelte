@@ -14,13 +14,13 @@
 	<summary>{tag} ({groupedPosts[tag].length})</summary>
 	<div class="container">
 		<aside class="sidebar">
-			<ul>
+			<nav>
 				{#each groupedPosts[tag] as post}
 					<button class="yellow-banner" on:click={() => selectPost(post)}>
 						{post.title}
 					</button>
 				{/each}
-			</ul>
+			</nav>
 		</aside>
 		<div class="content">
 			{#if selectedPost}
@@ -33,6 +33,6 @@
 <style>
 	.container {
 		display: grid;
-		grid-template-columns: 1fr 4fr; /* sidebar and main content */
+		grid-template-columns: 1fr 6fr; /* sidebar and main content */
 	}
 </style>
