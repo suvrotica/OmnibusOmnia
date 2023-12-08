@@ -23,15 +23,20 @@
 	<meta name="description" content={description} />
 </svelte:head>
 
-<main class="container">
-	<article>
+
+	
 		<header><Header /></header>
-		<slot />
+		<main>  
+			<slot/>
+		</main>
 		<footer>Suvro the Ghosh who Shits</footer>
-	</article>
-</main>
+	
+
 
 <style>
+
+	header,footer,main{margin:1em;}
+
 	:global(body) {
 		font-family: 'Gaegu', cursive;
 		font-weight: 300;
