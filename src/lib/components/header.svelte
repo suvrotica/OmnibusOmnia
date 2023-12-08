@@ -17,9 +17,14 @@
 
 		<li><a href="/blogs">Blogs</a></li>
 	</ul>
+	<div>
+		<!-- This is the root element for the SVG. The width and height set the dimensions of the entire SVG canvas. -->
+	</div>
 </nav>
 
 <style>
+	
+
 	nav li,
 	a {
 		color: white;
