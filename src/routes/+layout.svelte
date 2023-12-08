@@ -69,11 +69,11 @@
 		font-weight: 300;
 		color: rgb(236, 236, 236);
 		background-color: rgb(25, 25, 26);
-		border: 1px solid black;
+		border: 1px solid rgb(75, 74, 74);
 		box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 		border-radius: 0px;
 		margin-top: 0px;
-		margin-bottom: 0px;
+		margin-bottom: 2px;
 		padding: 0px;
 	}
 	:global(.svg) {

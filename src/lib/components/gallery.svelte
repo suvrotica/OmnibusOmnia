@@ -8,11 +8,15 @@
 	function selectPost(post) {
 		selectedPost = post;
 	}
+
+	$: gridLayout = selectedPost ? '0px auto' : '1fr 6fr';
 </script>
 
 <details>
-	<summary>{tag} ({groupedPosts[tag].length})</summary>
-	<div class="container">
+	<!-- svelte-ignore a11y-click-events-have-key-events -->
+	<!-- svelte-ignore a11y-no-static-element-interactions -->
+	<summary on:click={() => (selectedPost = null)}>{tag} ({groupedPosts[tag].length})</summary>
+	<div class="container" style="grid-template-columns: {gridLayout};">
 		<aside class="sidebar">
 			<nav>
 				{#each groupedPosts[tag] as post}
@@ -33,6 +37,6 @@
 <style>
 	.container {
 		display: grid;
-		grid-template-columns: 1fr 6fr; /* sidebar and main content */
+		/* grid-template-columns is set dynamically in the script */
 	}
 </style>
