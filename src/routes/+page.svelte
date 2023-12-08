@@ -11,89 +11,9 @@
 
 	const currentDate: string = getCurrentDateAsString();
 </script>
-<Highlight language="language-js" codeContent="let x=3;" />
+
 <details>
 	<summary>Welcome Posts</summary>
-
-	<B4
-		blogContent={`Title:When I die. 
-	Date:2023-aug-28
-	42br
-42bq("
-When I die, I die a boorish bengali,
-Who lived his early years in awe. 
-And in the later arrangement of years,
-I might see the poles in miserable thaw.
-42br
-A heated earth, a famished hearth,
-I tried to ride this apocalypse to death.
-But I feel the wind slipping from my lungs,
-As I slowly lose my earthly breath.
-42br
-A mere speck of a misanthropic man,
-Troubled in his mind and by the moon.
-The doom and gloom, or the boom,
-Of the bomb yet to go off, too often, too soon.
-42br
-I wish to be rediscovered, alive a ghost,
-I fancy a scary face of a grim race.
-In the haunting that will surely follow,
-Obliterate the Sapiens sans a trace.
-42br
-If not in life, maybe then in death my virtue,
-In a come-back sketch or more.
-The rare rituals of squiggles of the mind,
-Of mine will remain as strange as before.
-42br
-This river of life, now cuts me like a knife,
-The leftovers of the flesh drift in pain. 
-In a distant time, in one favorable clime,
-I'll be back with my promise again.
-")
-
-
-	`}
-		image_name="aug281.jpg"
-	/>
-
-	<B4
-		blogContent={`Title:Memoir? 
-	Date:2023-aug-9
-	42br
-I'm intent on keeping a memoir because I know that when I'm gone, there will be people wondering what music irritated me, what books I found annoying, and what defined this ludicrous audacity of a bengali black sheep. And I don't want to disappoint them.
-But I'm really sort of doing this for myself; I could care less about the selfish progeny or their vicissitudes. This is really an exploration of the self; an unexamined life isn't justice done, and the halfway mark is about the right time for it, for it might be that you never get to see the other half.
-42br
-And I know I'll die soon, as my unpopularity is climbing and the cost of eliminating an unprotected Indian civilian is dropping precipitously to a point where I might just do it myself and save the gentlemen the ignominy. In fact, in the city of joy, if you're male and listed for murder and not high on the celebrity score, the average goon with self-respect may not even take my case. The minimum is rape; at least there's some fun involved, hilarity with friends, and a drunken shindig with colluding officers of law. 
-42br
-It was different in Hyderabad when I had the money. That image is a reconstruction of what the Hyderabad goon told my maid. He would cut me up into parts and put them in a shoe box or some sort of gift-wrapped box. She was scared and wept. But I just stitched the parts up and gave it life.
-42br
-What they'll do in city lovely is, I suspect, train a newbie to carelessly run a sharp fish knife through my intestines, spill it on the floor, and watch the trainee vomit and laugh up a hysteric storm of imprecations that would bring up my entire family, living and nonliving. There's very little change in the last name; I go from Ghosh to Ghost, if you believe such things.
-42br
-
-42bq("
-I'm on glass and sand on a fruitless errand,
-But I must persist to futility.
-The paths well marked I refrain,
-It's the shit stained leading out of the city.
-42br
-Holy my hole, my dick and balls,
-Tied with a rubber band.
-Masculinity I need on occasions,
-Aloha colored grandstand.
-42br
-Hoping I score when I am no more,
-When I am dead and long gone.
-When people can spray piss all they want,
-Or shoot shit on me a tonne.
-42br
-At least they'll know he lived a life full of life,
-Filthy as a whore or worse in mind.
-In his fantastic landscapes everything could be,
-Surreal was an ordinary kind.
-")
-	`}
-		image_name="aug91.svg"
-	/>
 
 	<B4
 		blogContent={`Title:Omibus Omni

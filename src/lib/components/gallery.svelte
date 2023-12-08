@@ -9,7 +9,8 @@
 		selectedPost = post;
 	}
 
-	$: gridLayout = selectedPost ? '0px auto' : '1fr 6fr';
+	$: gridLayout = selectedPost ? '1px auto' : '1fr 6fr';
+	$: isNavVisible = selectedPost == null;
 </script>
 
 <details>
@@ -18,7 +19,7 @@
 	<summary on:click={() => (selectedPost = null)}>{tag} ({groupedPosts[tag].length})</summary>
 	<div class="container" style="grid-template-columns: {gridLayout};">
 		<aside class="sidebar">
-			<nav>
+			<nav class={isNavVisible ? '' : 'hide-nav'}>
 				{#each groupedPosts[tag] as post}
 					<button class="yellow-banner" on:click={() => selectPost(post)}>
 						{post.title}
@@ -38,5 +39,8 @@
 	.container {
 		display: grid;
 		/* grid-template-columns is set dynamically in the script */
+	}
+	.hide-nav {
+		display: none;
 	}
 </style>
