@@ -83,6 +83,7 @@
 	:global(img, figure) {
 		display: block;
 		margin: auto;
+background-color: white;
 	}
 	:global(p) {
 		margin: 5px;
