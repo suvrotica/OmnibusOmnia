@@ -1,24 +1,20 @@
 <script lang="ts">
 	import * as config from '$lib/config';
-	import Title from '$lib/components/title.svelte';
-</script>
 
-<!-- Title -->
-<div class="title">
-	<Title stringA="SuvroGhosh" stringB="Blog" />
-</div>
+	const logoImage =
+		'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/WhatsApp%20Image%202023-12-08%20at%205.35.01%20AM-0sLSKSQC8WfSDoFPnexMsKFiISlpFg.jpeg';
+</script>
 
 <nav>
 	<!-- Navigation -->
 
 	<ul>
-		<li><a href="/">Home</a></li>
+		<li><img class="logo" src={logoImage} alt="Suvro Ghosh" /></li>
 	</ul>
 	<ul>
+		<li><a href="/">Home</a></li>
 		<li><a href="/disclaimer">Disclaimer</a></li>
-		<li><a href="/upload">Upload</a></li>
-		<li><a href="/update">Update</a></li>
-		<li><a href="/post">Post</a></li>
+
 		<li><a href="/blogs">Blogs</a></li>
 	</ul>
 </nav>
@@ -28,5 +24,12 @@
 	a {
 		color: white;
 		font-size: larger;
+	}
+	.logo {
+		width: 100px;
+	}
+	nav {
+		margin: 0px;
+		padding: 0px;
 	}
 </style>
