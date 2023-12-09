@@ -70,7 +70,7 @@ export function replace42picWithFigure(blogContent: string): string {
         `;
 	});
 }
-export function replace42picLWithFigure(blogContent: string): string {
+export function replace42picWithFigureL(blogContent: string): string {
 	return blogContent.replace(/42pic\("([\s\S]*?)"\)/g, (match, imageName) => {
 		return `
         
