@@ -64,7 +64,7 @@ export function replace42picWithFigure(blogContent: string): string {
 		return `
         
 			
-            <img class="float-left svg" width="50%" margin="0px" src="/${imageName.trim()}" alt="${imageName.trim()}">
+            <img class="float-left svg" width="50%" margin="0px" src="${imageName.trim()}" alt="${imageName.trim()}">
 			
 			
         `;
@@ -88,7 +88,7 @@ export function replace42picWithFigureR(blogContent: string): string {
 		return `
         
 			
-            <img class="float-right svg" width="50%" margin="0px" src="/${imageName.trim()}" alt="${imageName.trim()}">
+            <img class="float-right svg" width="50%" margin="0px" src="${imageName.trim()}" alt="${imageName.trim()}">
 			
 			
         `;
