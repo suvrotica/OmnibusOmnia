@@ -7,7 +7,8 @@
 		replace42brWithBreak,
 		replaceBqWithDiv,
 		replace42ytWithIframe,
-		replace42picWithFigure,
+                replace42picWithFigure,
+		replace42picWithFigureL,
 		replace42picWithFigureR,
 		replace4bWithBreak,
 		replace42tableWithHTMLTable,
@@ -24,6 +25,7 @@
 		newBlogContent = replaceBqWithDiv(newBlogContent);
 		newBlogContent = replace42ytWithIframe(newBlogContent);
 		newBlogContent = replace42picWithFigureR(newBlogContent);
+                newBlogContent = replace42picWithFigureL(newBlogContent);
 		newBlogContent = replace42picWithFigure(newBlogContent);
 		newBlogContent = replace42brWithBreak(newBlogContent);
 		newBlogContent = replace4bWithBreak(newBlogContent);
