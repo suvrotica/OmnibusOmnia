@@ -64,6 +64,17 @@ export function replace42picWithFigure(blogContent: string): string {
 		return `
         
 			
+            <img class="svg" width="50%" margin="0px" src="${imageName.trim()}" alt="${imageName.trim()}">
+			
+			
+        `;
+	});
+}
+export function replace42picLWithFigure(blogContent: string): string {
+	return blogContent.replace(/42pic\("([\s\S]*?)"\)/g, (match, imageName) => {
+		return `
+        
+			
             <img class="float-left svg" width="50%" margin="0px" src="${imageName.trim()}" alt="${imageName.trim()}">
 			
 			
