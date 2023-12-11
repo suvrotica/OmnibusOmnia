@@ -59,6 +59,10 @@
 		margin-left: 2px; /* Adjust as needed for spacing between the image and text */
 	}
 
+        :global(figcaption) {
+                background-color: cyan;
+                text-align: center;
+	}
 	:global(.yellow-banner) {
 		font-family: 'Gaegu', cursive;
 		font-size: 20px;
