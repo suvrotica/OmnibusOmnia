@@ -5,7 +5,6 @@
 
 <nav>
 	<!-- Navigation -->
-<img src="https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/suvroghoshlogo-VWyDMHESxumhvBHNfLUsMwcHE79Us1.jpg" alt="Suvro Ghosh" />
 
 	<ul>
 		<li><img class="logo" src={logoImage} alt="Suvro Ghosh" /></li>
