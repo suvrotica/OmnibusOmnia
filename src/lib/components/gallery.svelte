@@ -16,12 +16,12 @@
 <details>
 	<!-- svelte-ignore a11y-click-events-have-key-events -->
 	<!-- svelte-ignore a11y-no-static-element-interactions -->
-	<summary on:click={() => (selectedPost = null)}>{tag} ({groupedPosts[tag].length})</summary>
+	<summary role="button" class="contrast" on:click={() => (selectedPost = null)}>{tag} ({groupedPosts[tag].length})</summary>
 	<div class="container" style="grid-template-columns: {gridLayout};">
 		<aside class="sidebar">
 			<nav class={isNavVisible ? '' : 'hide-nav'}>
 				{#each groupedPosts[tag] as post}
-					<button class="yellow-banner" on:click={() => selectPost(post)}>
+					<button role="button" class="contrast" on:click={() => selectPost(post)}>
 						{post.title}
 					</button>
 				{/each}
