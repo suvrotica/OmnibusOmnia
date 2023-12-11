@@ -37,7 +37,7 @@
 <!-- <summary>{post.title}</summary> -->
 <article>
 	<figure>
-		<figcaption class="yellow-banner">{post.title}</figcaption>
+		<figcaption role="button" class="contrast">{post.title}</figcaption>
 		<img src={post.image_url} alt="pic" />
 	</figure>
 </article>
