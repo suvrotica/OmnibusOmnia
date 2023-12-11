@@ -60,7 +60,7 @@
 	}
 
         :global(figcaption) {
-                background-color: cyan;
+                background-color: white;
                 text-align: center;
 	}
 	:global(.yellow-banner) {
