@@ -1,8 +1,10 @@
 <script lang="ts">
+import Title from "./title.svelte";
 	const logoImage =
 		'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/WhatsApp%20Image%202023-12-08%20at%208.44.03%20AM-ImniBRJM2kbWFY5jYu8lJWkthIgRPo.jpeg';
 </script>
 
+<Title />
 <nav>
 	<!-- Navigation -->
 
