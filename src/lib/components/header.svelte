@@ -1,15 +1,11 @@
 <script lang="ts">
-import Title from "./title.svelte";
-	const logoImage =
-		'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/WhatsApp%20Image%202023-12-08%20at%208.44.03%20AM-ImniBRJM2kbWFY5jYu8lJWkthIgRPo.jpeg';
+	const const_string_titleImageURL =
+		'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/Logo-CLaiXHz8pBKvoZAtMDzKZmgF7Bu7SP.png';
 </script>
 
-<Title />
 <nav>
-	<!-- Navigation -->
-
 	<ul>
-		<li><img class="logo" src={logoImage} alt="Suvro Ghosh" /></li>
+		<li><img class="logo" src={const_string_titleImageURL} alt="Suvro Ghosh" /></li>
 	</ul>
 	<ul>
 		<li><a href="/">Home</a></li>
@@ -22,14 +18,19 @@ import Title from "./title.svelte";
 <style>
 	nav li,
 	a {
-		color: white;
+		color: rgb(94, 90, 90);
 		font-size: larger;
 	}
+	li {
+		display: inline;
+		margin-right: 10px;
+	}
 	.logo {
-		width: 100px;
+		width: 600px;
 	}
 	nav {
 		margin: 0px;
 		padding: 0px;
+		background: linear-gradient(to right, black, white);
 	}
 </style>
