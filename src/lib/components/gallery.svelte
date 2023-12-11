@@ -9,7 +9,7 @@
 		selectedPost = post;
 	}
 
-	$: gridLayout = selectedPost ? '1px auto' : '1fr 6fr';
+	$: gridLayout = selectedPost ? '1px auto' : '6fr 6fr';
 	$: isNavVisible = selectedPost == null;
 </script>
 
