@@ -22,7 +22,13 @@
 			<nav class={isNavVisible ? '' : 'hide-nav'}>
 				{#each groupedPosts[tag] as post}
 					<button role="button" class="contrast" on:click={() => selectPost(post)}>
-						{post.title}
+						
+                                                <article>
+	<figure>
+		<figcaption class="contrast">{post.title}</figcaption>
+		<img src={post.image_url} alt="pic" />
+	</figure>
+</article>
 					</button>
 				{/each}
 			</nav>
