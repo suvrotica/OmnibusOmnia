@@ -19,7 +19,7 @@
 	<summary role="button" class="contrast" on:click={() => (selectedPost = null)}>{tag} ({groupedPosts[tag].length})</summary>
 	<div class="container" style="grid-template-columns: {gridLayout};">
 		<aside class="sidebar">
-			<nav class={isNavVisible ? '' : 'hide-nav'}>
+			<nav class={`grid-nav ${isNavVisible ? '' : 'hide-nav'}`}>
 				{#each groupedPosts[tag] as post}
 					<button role="button" class="contrast" on:click={() => selectPost(post)}>
 						
@@ -46,6 +46,12 @@
 		display: grid;
 		/* grid-template-columns is set dynamically in the script */
 	}
+.grid-nav {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* Adjust the number '3' to your desired number of columns */
+        grid-gap: 10px; /* Space between grid items */
+    }
+
 	.hide-nav {
 		display: none;
 	}
