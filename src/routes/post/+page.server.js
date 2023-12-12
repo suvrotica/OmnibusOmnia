@@ -1,12 +1,11 @@
-import { createPool } from '@vercel/postgres';
-import { POSTGRES_URL } from '$env/static/private';
+
+import { sql } from '@vercel/postgres';
 import { put } from '@vercel/blob';
 import { error } from '@sveltejs/kit';
 export const prerender = false;
 async function createBlogPost(title, content, imageUrl, tagSet) {
-	const pool = createPool({ connectionString: POSTGRES_URL });
-
-	await pool.sql`
+	
+	await sql`
         CREATE TABLE IF NOT EXISTS blog_posts (
             id SERIAL PRIMARY KEY,
             title VARCHAR(255) NOT NULL,
@@ -17,7 +16,7 @@ async function createBlogPost(title, content, imageUrl, tagSet) {
         );
     `;
 
-	const rowInserted = await pool.sql`
+	const rowInserted = await sql`
         INSERT INTO blog_posts (title, content, image_url, tag_set)
         VALUES (${title}, ${content}, ${imageUrl}, ${tagSet});
     `;
