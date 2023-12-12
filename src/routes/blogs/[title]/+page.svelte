@@ -1,4 +1,5 @@
 <script>
+import Post from '$lib/components/post.svelte';
 export let data;
 const post=data.post;
 </script>
@@ -6,5 +7,5 @@ const post=data.post;
 {#if !post}
  <h1>No post with that title</h1>
 {:else}
- {@html post.id}
+ <Post {post}/>
 {/if}
