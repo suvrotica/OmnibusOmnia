@@ -1,6 +1,5 @@
 <script>
 	export let data;
-	import Post from '$lib/components/post.svelte';
 	import Gallery from '$lib/components/gallery.svelte';
 
 	function groupPostsByTag(posts) {
@@ -14,7 +13,8 @@
 				if (!grouped[tag]) {
 					grouped[tag] = [];
 				}
-				grouped[tag].push(post);
+				// Push only the post ID instead of the entire post
+				grouped[tag].push(post.id);
 			});
 		});
 		return grouped;
@@ -25,7 +25,8 @@
 
 {#if Object.keys(groupedPosts).length > 0}
 	{#each Object.keys(groupedPosts) as tag}
-		<Gallery {tag} {groupedPosts} />
+		<!-- Pass only the post IDs to the Gallery component -->
+		<Gallery {tag} posts={groupedPosts[tag]} />
 	{/each}
 {:else}
 	<h2>No blog posts available</h2>
