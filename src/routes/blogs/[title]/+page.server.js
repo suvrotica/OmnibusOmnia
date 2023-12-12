@@ -1,4 +1,4 @@
 export async function load({ params }) {
-        
-        return {params.title};
+        const title=params.title;
+        return {title};
 }
