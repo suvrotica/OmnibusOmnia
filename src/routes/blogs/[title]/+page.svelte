@@ -1,7 +1,6 @@
 <script>
-
 export let data;
-const post=data.blogPosts;
+const post=data.post;
 </script>
 
 {#if !post}
