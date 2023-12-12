@@ -21,9 +21,9 @@
 
 	const groupedPosts = groupPostsByTag(data.blogPosts);
 </script>
-{#each data.blogPosts as {id,title}}
-<p>{id}</p>
-<li><a href="/blogs/{title}">{title}</a></li>
+{#each data.blogPosts as post(post.id)}
+<p>{post.id}</p>
+<li><a href="/blogs/{post.title}">{post.title}</a></li>
 {/each}
 {#if Object.keys(groupedPosts).length > 0}
 	{#each Object.keys(groupedPosts) as tag}
