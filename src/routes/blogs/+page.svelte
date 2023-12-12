@@ -13,8 +13,7 @@
 				if (!grouped[tag]) {
 					grouped[tag] = [];
 				}
-				// Push only the post ID instead of the entire post
-				grouped[tag].push(post.id);
+				grouped[tag].push(post);
 			});
 		});
 		return grouped;
@@ -25,8 +24,7 @@
 
 {#if Object.keys(groupedPosts).length > 0}
 	{#each Object.keys(groupedPosts) as tag}
-		<!-- Pass only the post IDs to the Gallery component -->
-		<Gallery {tag} posts={groupedPosts[tag]} />
+		<Gallery {tag} {groupedPosts} />
 	{/each}
 {:else}
 	<h2>No blog posts available</h2>
