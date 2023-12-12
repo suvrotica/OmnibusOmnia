@@ -6,6 +6,6 @@ const post=data.blogPosts;
 
 {#if !post}
  <h1>No post with title {data.title}</h1>
-{#else}
+{:else}
  {@html post.content}
 {/if}
