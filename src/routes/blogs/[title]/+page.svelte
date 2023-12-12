@@ -5,7 +5,7 @@ const post=data.blogPosts;
 </script>
 
 {#if !post}
- <h1>No post with title {data.title}</h1>
+ <h1>No post with that title</h1>
 {:else}
- {@html post.content}
+ {@html post.id}
 {/if}
