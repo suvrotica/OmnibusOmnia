@@ -1,6 +1,6 @@
 <script lang="ts">
 	const const_string_titleImageURL =
-		'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/Logo-CLaiXHz8pBKvoZAtMDzKZmgF7Bu7SP.png';
+		'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/197aa241-9135-48bd-93e3-14ccf1d9b320-eMEGWgdP54vhlFMMEuNHWwQCvKcbNA.png';
 </script>
 
 <nav>
@@ -19,11 +19,15 @@
 	nav li,
 	a {
 		color: rgb(94, 90, 90);
-		font-size: larger;
 	}
 	li {
-		display: inline;
+		padding: 0px;
 		margin-right: 10px;
+	}
+	ul {
+		margin: 5px;
+		margin-left: 10px;
+		padding: 0px;
 	}
 	.logo {
 		width: 600px;
@@ -31,6 +35,6 @@
 	nav {
 		margin: 0px;
 		padding: 0px;
-		background: linear-gradient(to right, black, white);
+		background: white;
 	}
 </style>
