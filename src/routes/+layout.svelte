@@ -18,24 +18,27 @@
 		rel="stylesheet"
 	/>
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+	<link
+		href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+		rel="stylesheet"
+	/>
 
 	<title>{title}</title>
 	<meta name="description" content={description} />
 </svelte:head>
 
-
-	
-		<header><Header /></header>
-		<main>  
-			<slot/>
-		</main>
-		<footer>Suvro the Ghosh who Shits</footer>
-	
-
+<header><Header /></header>
+<main>
+	<slot />
+</main>
+<footer>Suvro the Ghosh who Shits</footer>
 
 <style>
-
-	header,footer,main{margin:1em;}
+	header,
+	footer,
+	main {
+		margin: 1em;
+	}
 
 	:global(body) {
 		font-family: 'Gaegu', cursive;
@@ -59,9 +62,9 @@
 		margin-left: 2px; /* Adjust as needed for spacing between the image and text */
 	}
 
-        :global(figcaption) {
-                background-color: white;
-                text-align: center;
+	:global(figcaption) {
+		background-color: white;
+		text-align: center;
 	}
 	:global(.yellow-banner) {
 		font-family: 'Gaegu', cursive;

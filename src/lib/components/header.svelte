@@ -8,26 +8,27 @@
 		<li><img class="logo" src={const_string_titleImageURL} alt="Suvro Ghosh" /></li>
 	</ul>
 	<ul>
-		<li><a href="/">Home</a></li>
-		<li><a href="/disclaimer">Disclaimer</a></li>
+		<li><a href="/"><i class="fas fa-home" /></a></li>
+		<li><a href="/disclaimer"><i class="fas fa-user" /></a></li>
 
-		<li><a href="/blogs">Blogs</a></li>
+		<li><a href="/blogs"><i class="fas fa-blog" /></a></li>
 	</ul>
 </nav>
 
 <style>
-	nav li,
-	a {
-		color: rgb(94, 90, 90);
-	}
+	a,
+	ul,
 	li {
+		color: rgb(10, 10, 10);
+		background-color: white;
+
 		padding: 0px;
-		margin-right: 10px;
+		margin: 0px;
 	}
-	ul {
-		margin: 5px;
-		margin-left: 10px;
-		padding: 0px;
+
+	i {
+		padding: 10px;
+		margin: 10px;
 	}
 	.logo {
 		width: 600px;
@@ -35,6 +36,6 @@
 	nav {
 		margin: 0px;
 		padding: 0px;
-		background: white;
+		background: linear-gradient(to right, black, white 30%);
 	}
 </style>

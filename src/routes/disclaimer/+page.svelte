@@ -2,7 +2,6 @@
 	import B4 from '../blog/Blog-004.svelte';
 </script>
 
-<h1>Disclaimer</h1>
 <B4
 	blogContent={`Title:About My Art
     Date:2023-jul-24
