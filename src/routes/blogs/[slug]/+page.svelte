@@ -2,14 +2,14 @@
   import Post from '$lib/components/post.svelte';
   export let data;
   const post = data.post;
-  const posts = data.posts;
+  const metaDataRows = data.metaDataRows;
 </script>
 
 <main class="grid">
    <Post {post}/>
    <aside>
-     {#each posts as post}
-       {post.title}
+     {#each metaDataRows as metaDataRow}
+       {metaDataRow.title}
      {/each}
    </aside>
 </main>
