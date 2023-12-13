@@ -17,7 +17,7 @@ export async function load({ params }) {
     const id = metaDataPost.id;
 
     // get the post whose title matched slug
-     {rows} = await sql`SELECT * FROM blog_posts WHERE id=${id};`;
+    rows = await sql`SELECT * FROM blog_posts WHERE id=${id};`;
     const post=rows[0];
 
     if (post) {
