@@ -20,7 +20,7 @@ export async function load({ params }) {
 
 
     if (post) {
-        return { posts:metaDataRows, post };
+        return { metaDataRows, post };
     } else {
         // Handle the case where no post matches the slug
         throw new Error('Post not found');
