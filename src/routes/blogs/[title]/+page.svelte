@@ -5,8 +5,8 @@ export let data;
 const title = data.title;
 </script>
 <h1>{title}</h1>
-//{#if !post}
-// <h1>No post with that title</h1>
-//{:else}
- //<Post {post}/>
-//{/if}
+<!-- {#if !post}
+ <h1>No post with that title</h1>
+{:else}
+<Post {post}/>
+{/if} -->
