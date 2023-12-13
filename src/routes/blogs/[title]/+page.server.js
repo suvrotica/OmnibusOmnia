@@ -1,5 +1,5 @@
 import { sql } from '@vercel/postgres';
-
+import { createSlug } from '$lib/utility-functions';
 export const prerender = false;
 
 export async function load({ params }) {
