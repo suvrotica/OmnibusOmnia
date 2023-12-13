@@ -1,6 +1,6 @@
 <script>
   import Post from '$lib/components/post.svelte';
-  export const data;
+  export let data;
   const post = data.post;
 </script>
 
