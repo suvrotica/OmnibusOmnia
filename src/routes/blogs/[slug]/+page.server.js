@@ -13,7 +13,7 @@ export async function load({ params }) {
     const post = rows.find(row => createSlug(row.title) === slug);
 
     if (post) {
-        return { post };
+        return { posts:rows, post };
     } else {
         // Handle the case where no post matches the slug
         throw new Error('Post not found');
