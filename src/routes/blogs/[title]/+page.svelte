@@ -6,5 +6,6 @@
 {#if !post}
    <h1>No post with that title</h1>
 {:else}
+   <p>{post.title}</p>
    <Post {post}/>
 {/if}
