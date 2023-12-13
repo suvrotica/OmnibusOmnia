@@ -1,12 +1,10 @@
 <script>
-//import Post from '$lib/components/post.svelte';
-export let data;
-//const post=data.post;
-const title = data.title;
+   import Post from '$lib/components/post.svelte';
+   const post=data.post;
 </script>
-<h1>{title}</h1>
-<!-- {#if !post}
- <h1>No post with that title</h1>
+
+{#if !post}
+   <h1>No post with that title</h1>
 {:else}
-<Post {post}/>
-{/if} -->
+   <Post {post}/>
+{/if}
