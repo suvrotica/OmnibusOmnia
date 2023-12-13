@@ -1,29 +1,36 @@
-import { sql } from '@vercel/postgres';
+//import { sql } from '@vercel/postgres';
+import { createPool } from '@vercel/postgres';
+import { POSTGRES_URL } from '$env/static/private';
+const pool = createPool({
+	connectionString: POSTGRES_URL
+});
 import { createSlug } from '$lib/utility-functions';
 
 export const prerender = false;
 
 export async function load({ params }) {
-    const slug = params.slug;
+	const slug = params.slug;
 
-    // Fetch all post meta data but not content
-    let {rows}  = await sql`SELECT id, title, tag_set FROM blog_posts;`;
-    const metaDataRows = rows;
-    
-    // Find the post that matches the slug
-    const metaDataPost = metaDataRows.find(row => createSlug(row.title) === slug);
+	// Fetch all post meta data but not content
+	const metaDataQueryResult = await pool.sql`SELECT id, title, tag_set FROM blog_posts;`;
+	const metaDataRows = metaDataQueryResult.rows;
 
-    // id of the matched post
-    const id = metaDataPost.id;
+	// Find the post that matches the slug
+	const metaDataPost = metaDataRows.find((row) => createSlug(row.title) === slug);
 
-    // get the post whose title matched slug
-    rows = await sql`SELECT * FROM blog_posts WHERE id=${id};`;
-    const post=rows[0];
+	// id of the matched post
+	const id = metaDataPost.id;
 
-    if (post) {
-        return { metaDataRows, post };
-    } else {
-        // Handle the case where no post matches the slug
-        throw new Error('Post not found');
-    }
+	// get the post whose title matched slug
+	const matchedPostQueryResult = await pool.sql`SELECT * FROM blog_posts WHERE id=${id};`;
+	const matchedPost = matchedPostQueryResult.rows;
+
+	const post = matchedPost[0];
+
+	if (post) {
+		return { metaDataRows, post };
+	} else {
+		// Handle the case where no post matches the slug
+		throw new Error('Post not found');
+	}
 }
