@@ -4,7 +4,7 @@
 <main class="grid">
    <slot/>
 
-   <aside>
+   <aside data-sveltekit-reload>
       {#each data.blogPosts as post(post.id)}
         <li><a href="/blogs/{post.title}">{post.title}</a></li>
       {/each}
