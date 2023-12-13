@@ -4,8 +4,6 @@
   const post = data.post;
 </script>
 
-{#if !post}
-   <h1>No post with that title</h1>
-{:else}
-   <Post {post}/>
-{/if}
+
+<Post {post}/>
+
