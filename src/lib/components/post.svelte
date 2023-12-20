@@ -19,18 +19,16 @@
 
 	export let post;
 	let newBlogContent = post.content;
-	$: {
-		newBlogContent = replaceNewLineWithBreak(newBlogContent);
-		newBlogContent = replaceBqWithDiv(newBlogContent);
-		newBlogContent = replace42ytWithIframe(newBlogContent);
-		newBlogContent = replace42picWithFigureR(newBlogContent);
-		newBlogContent = replace42picWithFigureL(newBlogContent);
-		newBlogContent = replace42picWithFigure(newBlogContent);
-		newBlogContent = replace42brWithBreak(newBlogContent);
-		newBlogContent = replace4bWithBreak(newBlogContent);
-		newBlogContent = replace42tableWithHTMLTable(newBlogContent);
-		newBlogContent = replace42lblWithLabel(newBlogContent);
-	}
+	newBlogContent = replaceNewLineWithBreak(newBlogContent);
+	newBlogContent = replaceBqWithDiv(newBlogContent);
+	newBlogContent = replace42ytWithIframe(newBlogContent);
+	newBlogContent = replace42picWithFigureR(newBlogContent);
+	newBlogContent = replace42picWithFigureL(newBlogContent);
+	newBlogContent = replace42picWithFigure(newBlogContent);
+	newBlogContent = replace42brWithBreak(newBlogContent);
+	newBlogContent = replace4bWithBreak(newBlogContent);
+	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
+	newBlogContent = replace42lblWithLabel(newBlogContent);
 </script>
 
 <!-- <summary>{post.title}</summary> -->
