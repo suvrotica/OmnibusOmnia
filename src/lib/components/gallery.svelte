@@ -14,21 +14,24 @@
 </script>
 
 <details>
+	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<!-- svelte-ignore a11y-click-events-have-key-events -->
-	<!-- svelte-ignore a11y-no-static-element-interactions -->
-	<summary role="button" class="contrast" on:click={() => (selectedPost = null)}>{tag} ({groupedPosts[tag].length})</summary>
+	<!-- svelte-ignore a11y-interactive-supports-focus -->
+	<summary role="button" class="contrast" on:click={() => (selectedPost = null)}
+		>{tag} ({groupedPosts[tag].length})</summary
+	>
 	<div class="container" style="grid-template-columns: {gridLayout};">
 		<aside class="sidebar">
 			<nav class={`grid-nav ${isNavVisible ? '' : 'hide-nav'}`}>
 				{#each groupedPosts[tag] as post}
+					<!-- svelte-ignore a11y-no-redundant-roles -->
 					<button role="button" class="contrast" on:click={() => selectPost(post)}>
-						
-                                                <article>
-	<figure>
-		<figcaption class="contrast">{post.title}</figcaption>
-		<img src={post.image_url} alt="pic" />
-	</figure>
-</article>
+						<article>
+							<figure>
+								<figcaption class="contrast">{post.title}</figcaption>
+								<img src={post.image_url} alt="pic" />
+							</figure>
+						</article>
 					</button>
 				{/each}
 			</nav>
@@ -46,11 +49,14 @@
 		display: grid;
 		/* grid-template-columns is set dynamically in the script */
 	}
-.grid-nav {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr); /* Adjust the number '3' to your desired number of columns */
-        grid-gap: 10px; /* Space between grid items */
-    }
+	.grid-nav {
+		display: grid;
+		grid-template-columns: repeat(
+			3,
+			1fr
+		); /* Adjust the number '3' to your desired number of columns */
+		grid-gap: 10px; /* Space between grid items */
+	}
 
 	.hide-nav {
 		display: none;
