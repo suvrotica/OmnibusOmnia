@@ -64,18 +64,18 @@ export function replace42picWithFigure(blogContent: string): string {
 		return `
         
 			
-            <img class="svg" width="50%" margin="0px" src="${imageName.trim()}" alt="${imageName.trim()}">
+            <img class="svg" width="50%" margin="2px" src="${imageName.trim()}" alt="${imageName.trim()}">
 			
 			
         `;
 	});
 }
 export function replace42picWithFigureL(blogContent: string): string {
-	return blogContent.replace(/42pic\("([\s\S]*?)"\)/g, (match, imageName) => {
+	return blogContent.replace(/42picl\("([\s\S]*?)"\)/g, (match, imageName) => {
 		return `
         
 			
-            <img class="float-left svg" width="50%" margin="0px" src="${imageName.trim()}" alt="${imageName.trim()}">
+            <img class="float-left svg" width="50%" margin="2px" src="${imageName.trim()}" alt="${imageName.trim()}">
 			
 			
         `;
@@ -99,7 +99,7 @@ export function replace42picWithFigureR(blogContent: string): string {
 		return `
         
 			
-            <img class="float-right svg" width="50%" margin="0px" src="${imageName.trim()}" alt="${imageName.trim()}">
+            <img class="float-right svg" width="50%" margin="2px" src="${imageName.trim()}" alt="${imageName.trim()}">
 			
 			
         `;
@@ -112,11 +112,11 @@ export function replace42cWithHighlight(text: string) {
 	});
 }
 
-export function createSlug(title:string) {
-          return title
-            .toLowerCase() // Convert to lowercase
-            .trim() // Remove whitespace from both ends of a string
-            .replace(/\s+/g, '-') // Replace spaces with hyphens
-            .replace(/[^\w\-]+/g, '') // Remove all non-word chars
-            .replace(/\-\-+/g, '-'); // Replace multiple hyphens with single hyphen
+export function createSlug(title: string) {
+	return title
+		.toLowerCase() // Convert to lowercase
+		.trim() // Remove whitespace from both ends of a string
+		.replace(/\s+/g, '-') // Replace spaces with hyphens
+		.replace(/[^\w\-]+/g, '') // Remove all non-word chars
+		.replace(/\-\-+/g, '-'); // Replace multiple hyphens with single hyphen
 }
