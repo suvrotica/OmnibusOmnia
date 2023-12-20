@@ -111,3 +111,12 @@ export function replace42cWithHighlight(text: string) {
 		return `<pre><code class="language-${language} " style="font-size: 12px;">${codeContent}</code></pre>`;
 	});
 }
+
+export function createSlug(title:string) {
+          return title
+            .toLowerCase() // Convert to lowercase
+            .trim() // Remove whitespace from both ends of a string
+            .replace(/\s+/g, '-') // Replace spaces with hyphens
+            .replace(/[^\w\-]+/g, '') // Remove all non-word chars
+            .replace(/\-\-+/g, '-'); // Replace multiple hyphens with single hyphen
+}
