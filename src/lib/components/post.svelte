@@ -17,8 +17,8 @@
 		replace42lblWithLabel
 	} from '$lib/utility-functions';
 
-	let newBlogContent = post.content;
 	export let post;
+	let newBlogContent = post.content;
 	$: {
 		newBlogContent = replaceNewLineWithBreak(newBlogContent);
 		newBlogContent = replaceBqWithDiv(newBlogContent);
