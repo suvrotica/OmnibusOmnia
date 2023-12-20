@@ -17,20 +17,23 @@
 		replace42lblWithLabel
 	} from '$lib/utility-functions';
 
+	let newBlogContent;
 	export let post;
-	$: newBlogContent = post.content;
+	$: {
+		newBlogContent = post.content;
 
-	newBlogContent = replace42cWithHighlight(post.content);
-	newBlogContent = replaceNewLineWithBreak(newBlogContent);
-	newBlogContent = replaceBqWithDiv(newBlogContent);
-	newBlogContent = replace42ytWithIframe(newBlogContent);
-	newBlogContent = replace42picWithFigureR(newBlogContent);
-	newBlogContent = replace42picWithFigureL(newBlogContent);
-	newBlogContent = replace42picWithFigure(newBlogContent);
-	newBlogContent = replace42brWithBreak(newBlogContent);
-	newBlogContent = replace4bWithBreak(newBlogContent);
-	newBlogContent = replace42tableWithHTMLTable(newBlogContent);
-	newBlogContent = replace42lblWithLabel(newBlogContent);
+		newBlogContent = replace42cWithHighlight(post.content);
+		newBlogContent = replaceNewLineWithBreak(newBlogContent);
+		newBlogContent = replaceBqWithDiv(newBlogContent);
+		newBlogContent = replace42ytWithIframe(newBlogContent);
+		newBlogContent = replace42picWithFigureR(newBlogContent);
+		newBlogContent = replace42picWithFigureL(newBlogContent);
+		newBlogContent = replace42picWithFigure(newBlogContent);
+		newBlogContent = replace42brWithBreak(newBlogContent);
+		newBlogContent = replace4bWithBreak(newBlogContent);
+		newBlogContent = replace42tableWithHTMLTable(newBlogContent);
+		newBlogContent = replace42lblWithLabel(newBlogContent);
+	}
 </script>
 
 <!-- <summary>{post.title}</summary> -->
