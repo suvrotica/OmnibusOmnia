@@ -14,9 +14,9 @@
 </script>
 
 <details>
-	<!-- svelte-ignore a11y-no-redundant-roles -->
-	<!-- svelte-ignore a11y-click-events-have-key-events -->
 	<!-- svelte-ignore a11y-interactive-supports-focus -->
+	<!-- svelte-ignore a11y-click-events-have-key-events -->
+	<!-- svelte-ignore a11y-no-redundant-roles -->
 	<summary role="button" class="contrast" on:click={() => (selectedPost = null)}
 		>{tag} ({groupedPosts[tag].length})</summary
 	>
