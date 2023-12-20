@@ -19,6 +19,7 @@
 
 	export let post;
 	let newBlogContent = post.content;
+	newBlogContent = replace42cWithHighlight(newBlogContent);
 	newBlogContent = replaceNewLineWithBreak(newBlogContent);
 	newBlogContent = replaceBqWithDiv(newBlogContent);
 	newBlogContent = replace42ytWithIframe(newBlogContent);
