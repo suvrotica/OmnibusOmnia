@@ -16,13 +16,7 @@
 <details>
 	<!-- svelte-ignore a11y-interactive-supports-focus -->
 	<!-- svelte-ignore a11y-click-events-have-key-events -->
-<<<<<<< HEAD
 	<!-- svelte-ignore a11y-no-redundant-roles -->
-=======
-	<!-- svelte-ignore a11y-no-static-element-interactions -->
-	<!-- svelte-ignore a11y-no-redundant-roles -->
-	<!-- svelte-ignore a11y-interactive-supports-focus -->
->>>>>>> fdc9f970ec91d36714b9f84ddec0fd8a7dbaffd6
 	<summary role="button" class="contrast" on:click={() => (selectedPost = null)}
 		>{tag} ({groupedPosts[tag].length})</summary
 	>
