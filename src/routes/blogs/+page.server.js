@@ -1,5 +1,4 @@
 //import { sql } from '@vercel/postgres';
-import 'dotenv/config';
 import { createPool } from '@vercel/postgres';
 import { POSTGRES_URL } from '$env/static/private';
 const pool = createPool({
