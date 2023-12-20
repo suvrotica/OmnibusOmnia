@@ -20,7 +20,6 @@
 	let newBlogContent = post.content;
 	export let post;
 	$: {
-		newBlogContent = replace42cWithHighlight(post.content);
 		newBlogContent = replaceNewLineWithBreak(newBlogContent);
 		newBlogContent = replaceBqWithDiv(newBlogContent);
 		newBlogContent = replace42ytWithIframe(newBlogContent);
