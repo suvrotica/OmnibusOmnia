@@ -13,7 +13,7 @@
 </script>
 
 <details>
-	<summary>Welcome Posts...</summary>
+	<summary>Welcome Posts</summary>
 
 	<B4
 		blogContent={`Title:Omibus Omni
