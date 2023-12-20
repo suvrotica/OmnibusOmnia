@@ -34,7 +34,7 @@
 		width: 600px;
 	}
 	nav {
-		margin: 0px;
+		margin: 1px;
 		padding: 0px;
 		background: linear-gradient(to right, black, white 30%);
 	}
