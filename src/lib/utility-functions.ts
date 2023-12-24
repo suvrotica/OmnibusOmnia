@@ -85,12 +85,7 @@ export function replace42picWithFigureL(blogContent: string): string {
 export function replace42ytWithIframe(blogContent: string): string {
 	return blogContent.replace(/42yt\("([^"]+)"\)/g, (match, videoUrl) => {
 		const videoId = videoUrl.match(/(?:\/|v=)([\w-]{11})(?:$|&|\?|#)/)[1];
-		return `
-		<!-- svelte-ignore a11y-missing-attribute -->
-  <iframe  src="https://www.youtube-nocookie.com/embed/${videoId}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-        `;
+		return `<iframe  src="https://www.youtube-nocookie.com/embed/${videoId}" frameborder="0"  autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 	});
 }
 

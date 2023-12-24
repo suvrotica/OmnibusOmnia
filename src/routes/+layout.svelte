@@ -58,14 +58,10 @@
 
 	:global(.grid-music) {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-		grid-gap: 20px; /* Adjust the gap between items */
-		padding: 20px; /* Optional padding */
-	}
-
-	:global(.grid-music iframe) {
-		width: 100%; /* Make iframes take full width of the column */
-		height: 200px; /* Adjust height as needed */
+		grid-template-columns: 1fr 1fr;
+		grid-gap: 1px;
+		padding: 0px;
+		margin: 0px;
 	}
 
 	:global(figcaption) {
