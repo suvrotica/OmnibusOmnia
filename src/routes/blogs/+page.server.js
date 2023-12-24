@@ -8,6 +8,6 @@ export const prerender = false;
 
 export async function load({}) {
 	const { rows } =
-		await sql`SELECT id,title, content, tag_set,image_url,created_at from blog_posts order by created_at desc;`;
+		await sql`SELECT id,title, tag_set,image_url,created_at from blog_posts order by created_at desc;`;
 	return { blogPosts: rows };
 }

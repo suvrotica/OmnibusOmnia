@@ -1,9 +1,9 @@
-//import { sql } from '@vercel/postgres';
-import { createPool } from '@vercel/postgres';
-import { POSTGRES_URL } from '$env/static/private';
-const pool = createPool({
-	connectionString: POSTGRES_URL
-});
+import { sql } from '@vercel/postgres';
+// import { createPool } from '@vercel/postgres';
+// import { POSTGRES_URL } from '$env/static/private';
+// const pool = createPool({
+// connectionString: POSTGRES_URL
+// });
 import { createSlug } from '$lib/utility-functions';
 
 export const prerender = false;
@@ -12,7 +12,7 @@ export async function load({ params }) {
 	const slug = params.slug;
 
 	// Fetch all post meta data but not content
-	const metaDataQueryResult = await pool.sql`SELECT id, title, tag_set FROM blog_posts;`;
+	const metaDataQueryResult = await sql`SELECT id, title, tag_set FROM blog_posts;`;
 	const metaDataRows = metaDataQueryResult.rows;
 
 	// Find the post that matches the slug
