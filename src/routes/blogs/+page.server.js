@@ -1,17 +1,13 @@
-//import { sql } from '@vercel/postgres';
-import { createPool } from '@vercel/postgres';
-import { POSTGRES_URL } from '$env/static/private';
-const pool = createPool({
-	connectionString: POSTGRES_URL
-});
+import { sql } from '@vercel/postgres';
+// import { createPool } from '@vercel/postgres';
+// import { POSTGRES_URL } from '$env/static/private';
+// const pool = createPool({
+// connectionString: POSTGRES_URL
+// });
 export const prerender = false;
-export const config = {
-	isr: {
-		expiration: 10
-	}
-};
+
 export async function load({}) {
 	const { rows } =
-		await pool.sql`SELECT id,title, content, tag_set,image_url,created_at from blog_posts order by created_at desc;`;
+		await sql`SELECT id,title, content, tag_set,image_url,created_at from blog_posts order by created_at desc;`;
 	return { blogPosts: rows };
 }
