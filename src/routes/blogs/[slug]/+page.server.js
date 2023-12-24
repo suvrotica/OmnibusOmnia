@@ -22,7 +22,7 @@ export async function load({ params }) {
 	const id = metaDataPost.id;
 
 	// get the post whose title matched slug
-	const matchedPostQueryResult = await pool.sql`SELECT * FROM blog_posts WHERE id=${id};`;
+	const matchedPostQueryResult = await sql`SELECT * FROM blog_posts WHERE id=${id};`;
 	const matchedPost = matchedPostQueryResult.rows;
 
 	const post = matchedPost[0];
