@@ -60,24 +60,24 @@
 		display: grid;
 		grid-template-columns: 1fr 1fr;
 		grid-gap: 1px;
-		padding: 0px;
-		margin: auto;
+		margin: 1px;
+		padding: 1px;
 	}
 
 	:global(.grid-music-info) {
 		display: grid;
 		grid-template-columns: 1fr 3fr;
 		grid-gap: 1px;
-		padding: 0px;
-		margin: auto;
+		margin: 1px;
+		padding: 1px;
 	}
 
 	@media screen and (max-width: 480px) {
 		:global(.grid-music, .grid-music-info) {
 			grid-template-columns: 1fr; /* One column on small screens */
 			grid-gap: 1px;
-			padding: 0px;
-			margin: auto;
+			margin: 1px;
+			padding: 1px;
 		}
 	}
 
@@ -113,8 +113,8 @@
 		background-color: white;
 	}
 	:global(p) {
-		margin: 5px;
-		padding: 5px;
+		margin: 1px;
+		padding: 1px;
 		text-align: justify;
 		line-height: 0.9;
 		font-weight: 100;
