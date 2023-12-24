@@ -61,7 +61,7 @@
 		grid-template-columns: 1fr 1fr;
 		grid-gap: 1px;
 		padding: 0px;
-		margin: 0px;
+		margin: auto;
 	}
 
 	:global(.grid-music-info) {
@@ -69,12 +69,15 @@
 		grid-template-columns: 1fr 3fr;
 		grid-gap: 1px;
 		padding: 0px;
-		margin: 0px;
+		margin: auto;
 	}
 
 	@media screen and (max-width: 480px) {
 		:global(.grid-music, .grid-music-info) {
 			grid-template-columns: 1fr; /* One column on small screens */
+			grid-gap: 1px;
+			padding: 0px;
+			margin: auto;
 		}
 	}
 
