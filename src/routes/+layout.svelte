@@ -64,6 +64,14 @@
 		margin: 0px;
 	}
 
+	:global(.grid-music-info) {
+		display: grid;
+		grid-template-columns: 1fr 3fr;
+		grid-gap: 1px;
+		padding: 0px;
+		margin: 0px;
+	}
+
 	:global(figcaption) {
 		background-color: white;
 		text-align: center;
