@@ -1,6 +1,6 @@
 <script>
 	import Post from '$lib/components/post.svelte';
-
+	import { createSlug } from '$lib/utility-functions';
 	export let tag;
 	export let groupedPosts;
 	let selectedPost;
@@ -26,21 +26,22 @@
 				{#each groupedPosts[tag] as post}
 					<!-- svelte-ignore a11y-no-redundant-roles -->
 					<button role="button" class="contrast" on:click={() => selectPost(post)}>
-						<article>
+						<a href="/blogs/{createSlug(post.title)}" data-sveltekit-preload-data>
 							<figure>
 								<figcaption class="contrast">{post.title}</figcaption>
 								<img src={post.image_url} alt="pic" />
 							</figure>
-						</article>
+						</a>
 					</button>
 				{/each}
 			</nav>
 		</aside>
-		<div class="content">
+		<!-- <div class="content">
 			{#if selectedPost}
+				<a href="/blogs/{createSlug(selectedPost.title)}">{selectedPost.title}</a>
 				<Post post={selectedPost} />
 			{/if}
-		</div>
+		</div> -->
 	</div>
 </details>
 
