@@ -169,4 +169,9 @@
 		height: 200px;
 		resize: vertical;
 	}
+
+       :global(.image_shadow){
+               box-shadow:0 0 1rem 0 rgba(0,0,0,0.3);
+       }
+
 </style>
