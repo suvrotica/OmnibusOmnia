@@ -56,6 +56,18 @@
 		margin-left: 2px; /* Adjust as needed for spacing between the image and text */
 	}
 
+	:global(.grid-music) {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+		grid-gap: 20px; /* Adjust the gap between items */
+		padding: 20px; /* Optional padding */
+	}
+
+	:global(.grid-music iframe) {
+		width: 100%; /* Make iframes take full width of the column */
+		height: 200px; /* Adjust height as needed */
+	}
+
 	:global(figcaption) {
 		background-color: white;
 		text-align: center;
