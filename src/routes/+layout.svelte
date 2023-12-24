@@ -72,6 +72,12 @@
 		margin: 0px;
 	}
 
+	@media screen and (max-width: 480px) {
+		:global(.grid-music, .grid-music-info) {
+			grid-template-columns: 1fr; /* One column on small screens */
+		}
+	}
+
 	:global(figcaption) {
 		background-color: white;
 		text-align: center;
