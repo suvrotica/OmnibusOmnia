@@ -2,6 +2,7 @@
 	import Prism from 'prismjs';
 	import 'prismjs/themes/prism-okaidia.css';
 	import { onMount } from 'svelte';
+	import {ImageResponse} from "@vercel/og";
 	onMount(() => Prism.highlightAll());
 	import {
 		replace42brWithBreak,
