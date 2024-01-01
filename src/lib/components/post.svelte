@@ -32,6 +32,11 @@
 	newBlogContent = replace42lblWithLabel(newBlogContent);
 </script>
 
+<svelte:head>
+    <meta property="og:title" content={post.title} />
+    <meta property="og:image" content={post.image_url} />
+</svelte:head>
+
 <!-- <summary>{post.title}</summary> -->
 <article>
 	<figure>
