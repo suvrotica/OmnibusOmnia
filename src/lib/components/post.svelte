@@ -33,6 +33,7 @@
 </script>
 
 <svelte:head>
+    <title>{post.title}</title>
     <meta property="og:title" content={post.title} />
     <meta property="og:image" content={post.image_url} />
 </svelte:head>
