@@ -8,6 +8,8 @@
 
 <svelte:head>
 	<link rel="icon" href="https://fav.farm/💩" />
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet" />
+
 	<link
 		href="https://fonts.googleapis.com/css2?family=Gaegu:wght@300;400;700&family=Amatic+SC:wght@400;700&family=Poppins:ital,wght@0,100;1,100&display=swap"
 		rel="stylesheet"
@@ -170,8 +172,7 @@
 		resize: vertical;
 	}
 
-       :global(.image_shadow){
-               box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-       }
-
+	:global(.image_shadow) {
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	}
 </style>
