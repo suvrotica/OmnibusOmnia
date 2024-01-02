@@ -18,7 +18,7 @@
 				checked={selectedBlogPost?.id === post.id}
 				on:click={() => selectBlogPost(post, checkId)}
 			/>
-			{`${post.id}-${post.tag_set}-${post.title}`}
+			{`${post.id} ${post.title}`}
 		</li>
 	{/each}
 </ol>
