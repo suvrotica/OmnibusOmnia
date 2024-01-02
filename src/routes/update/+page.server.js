@@ -6,7 +6,7 @@ const pool = createPool({
 });
 
 export async function load({}) {
-	const { rows } = await pool.sql`SELECT * FROM blog_posts`;
+	const { rows } = await pool.sql`SELECT * FROM blog_posts ORDER BY tag_set ASC`;
 	return { blogPosts: rows };
 }
 
