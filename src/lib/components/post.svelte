@@ -2,7 +2,6 @@
 	import Prism from 'prismjs';
 	import 'prismjs/themes/prism-okaidia.css';
 	import { onMount } from 'svelte';
-	import {ImageResponse} from "@vercel/og";
 	onMount(() => Prism.highlightAll());
 	import {
 		replace42brWithBreak,
@@ -34,9 +33,7 @@
 </script>
 
 <svelte:head>
-    <title>{post.title}</title>
-    <meta property="og:title" content={post.title} />
-    <meta property="og:image" content={post.image_url} />
+	<title>{post.title}</title>
 </svelte:head>
 
 <!-- <summary>{post.title}</summary> -->
