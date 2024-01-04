@@ -8,10 +8,10 @@
 		<li><img class="logo" src={const_string_titleImageURL} alt="Suvro Ghosh" /></li>
 	</ul>
 	<ul>
-		<li><a href="/"><i class="fas fa-home" /></a></li>
-		<li><a href="https://suvroghosh.blog/blogs/disclaimer"><i class="fas fa-user" /></a></li>
+		<li><a href="./"><i class="fas fa-home" /></a></li>
+		<li><a href="./blogs/disclaimer"><i class="fas fa-user" /></a></li>
 
-		<li><a href="/blogs"><i class="fas fa-blog" /></a></li>
+		<li><a href="./blogs"><i class="fas fa-blog" /></a></li>
 	</ul>
 </nav>
 
