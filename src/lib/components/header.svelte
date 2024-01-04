@@ -10,7 +10,7 @@
 	<ul>
 		<li><a href="./"><i class="fas fa-home" /></a></li>
 		<li><a href="./blogs/disclaimer"><i class="fas fa-user" /></a></li>
-
+<li><a href="./blogs/legalese"><i class="fas fa-gavel" /></a></li>
 		<li><a href="./blogs"><i class="fas fa-blog" /></a></li>
 	</ul>
 </nav>
