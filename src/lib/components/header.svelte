@@ -4,15 +4,15 @@
 
     let isLoading = false;
 
+    
+
     function handleLinkClick() {
         isLoading = true;
-        // Remove the setTimeout as we're now directly controlling the loading state
     }
 
     onMount(() => {
         page.subscribe(() => {
-            // This will still set isLoading to true on page load
-            isLoading = true;
+            isLoading = false; // Set to false when the page changes
         });
     });
 
