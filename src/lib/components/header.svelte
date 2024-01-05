@@ -99,12 +99,3 @@
     }
 </style>
 
-
-<style>
-    /* Your existing styles */
-    /* Spinner CSS */
-    .spinner {
-        /* Spinner styles */
-    }
-    /* Other styles */
-</style>
