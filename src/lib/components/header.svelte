@@ -4,52 +4,44 @@
 
     let isLoading = false;
 
-    
-
-    function handleLinkClick() {
-        setTimeout(() => {
-            isLoading = true;
-        }, 500);
-        
-    }
-
     onMount(() => {
         page.subscribe(() => {
-            isLoading = false; // Set to false when the page changes
+            isLoading = true; // Start loading
+            setTimeout(() => isLoading = false, 500); // Stop loading after 500ms
         });
     });
 
     const const_string_titleImageURL =
         'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/197aa241-9135-48bd-93e3-14ccf1d9b320-eMEGWgdP54vhlFMMEuNHWwQCvKcbNA.png';
 </script>
+
+<nav>
     {#if isLoading}
         <div class="spinner"></div>
     {/if}
-
-<nav>
-
     <ul>
         <li><img class="logo" src={const_string_titleImageURL} alt="Suvro Ghosh" /></li>
     </ul>
     <ul>
         <li>
-            <a href="/" aria-current={$page.url.pathname === '/' ? 'page' : undefined} on:click={handleLinkClick}>
+            <a href="/" aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
                 <i class="fas fa-home" />
             </a>
         </li>
-        <!-- Repeat for other links -->
+        <!-- Other links can be added similarly -->
         <li>
-            <a href="/blogs/legalese" aria-current={$page.url.pathname === '/blogs/legalese' ? 'page' : undefined} on:click={handleLinkClick}>
+            <a href="/blogs/legalese" aria-current={$page.url.pathname === '/blogs/legalese' ? 'page' : undefined}>
                 <i class="fas fa-gavel" />
             </a>
         </li>
         <li>
-            <a href="/blogs" aria-current={$page.url.pathname === '/blogs' ? 'page' : undefined} on:click={handleLinkClick}>
+            <a href="/blogs" aria-current={$page.url.pathname === '/blogs' ? 'page' : undefined}>
                 <i class="fas fa-blog" />
             </a>
         </li>
     </ul>
 </nav>
+
 <style>
     a, ul, li {
         color: rgb(10, 10, 10);
@@ -87,6 +79,7 @@
         border-radius: 50%;
         border-left-color: #09f;
         animation: spin 1s ease infinite;
+        /* Center the spinner - adjust as needed */
         position: absolute;
         left: 50%;
         top: 50%;
@@ -102,4 +95,3 @@
         }
     }
 </style>
-
