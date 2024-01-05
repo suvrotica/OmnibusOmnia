@@ -9,7 +9,7 @@
     function handleLinkClick() {
         setTimeout(() => {
             isLoading = true;
-        }, 50);
+        }, 500);
         
     }
 
