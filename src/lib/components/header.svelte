@@ -19,11 +19,12 @@
     const const_string_titleImageURL =
         'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/197aa241-9135-48bd-93e3-14ccf1d9b320-eMEGWgdP54vhlFMMEuNHWwQCvKcbNA.png';
 </script>
-
-<nav>
     {#if isLoading}
         <div class="spinner"></div>
     {/if}
+
+<nav>
+
     <ul>
         <li><img class="logo" src={const_string_titleImageURL} alt="Suvro Ghosh" /></li>
     </ul>
