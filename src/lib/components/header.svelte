@@ -1,24 +1,11 @@
 <script lang="ts">
     import { page } from '$app/stores';
-    import { onMount } from 'svelte';
-
-    let isLoading = false;
-
-    onMount(() => {
-        page.subscribe(() => {
-            isLoading = true; // Start loading
-            setTimeout(() => isLoading = false, 500); // Stop loading after 500ms
-        });
-    });
 
     const const_string_titleImageURL =
         'https://wqz50k0spm0gyalr.public.blob.vercel-storage.com/197aa241-9135-48bd-93e3-14ccf1d9b320-eMEGWgdP54vhlFMMEuNHWwQCvKcbNA.png';
 </script>
 
 <nav>
-    {#if isLoading}
-        <div class="spinner"></div>
-    {/if}
     <ul>
         <li><img class="logo" src={const_string_titleImageURL} alt="Suvro Ghosh" /></li>
     </ul>
@@ -69,29 +56,5 @@
     a[aria-current="page"] i {
         color: #ff4500; /* Change the icon color */
         /* Additional styles can be added here */
-    }
-
-    /* Spinner CSS */
-    .spinner {
-        border: 4px solid rgba(0, 0, 0, 0.1);
-        width: 36px;
-        height: 36px;
-        border-radius: 50%;
-        border-left-color: #09f;
-        animation: spin 1s ease infinite;
-        /* Center the spinner - adjust as needed */
-        position: absolute;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%);
-    }
-
-    @keyframes spin {
-        0% {
-            transform: rotate(0deg);
-        }
-        100% {
-            transform: rotate(360deg);
-        }
     }
 </style>
