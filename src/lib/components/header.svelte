@@ -7,7 +7,10 @@
     
 
     function handleLinkClick() {
-        isLoading = true;
+        setTimeout(() => {
+            isLoading = true;
+        }, 50);
+        
     }
 
     onMount(() => {
