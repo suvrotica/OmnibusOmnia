@@ -4,10 +4,15 @@
 
     let isLoading = false;
 
+    function handleLinkClick() {
+        isLoading = true;
+        // Remove the setTimeout as we're now directly controlling the loading state
+    }
+
     onMount(() => {
         page.subscribe(() => {
-            isLoading = true; // Start loading
-            setTimeout(() => isLoading = false, 500); // Stop loading after 500ms
+            // This will still set isLoading to true on page load
+            isLoading = true;
         });
     });
 
@@ -24,18 +29,18 @@
     </ul>
     <ul>
         <li>
-            <a href="/" aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
+            <a href="/" aria-current={$page.url.pathname === '/' ? 'page' : undefined} on:click={handleLinkClick}>
                 <i class="fas fa-home" />
             </a>
         </li>
-        <!-- Other links can be added similarly -->
+        <!-- Repeat for other links -->
         <li>
-            <a href="/blogs/legalese" aria-current={$page.url.pathname === '/blogs/legalese' ? 'page' : undefined}>
+            <a href="/blogs/legalese" aria-current={$page.url.pathname === '/blogs/legalese' ? 'page' : undefined} on:click={handleLinkClick}>
                 <i class="fas fa-gavel" />
             </a>
         </li>
         <li>
-            <a href="/blogs" aria-current={$page.url.pathname === '/blogs' ? 'page' : undefined}>
+            <a href="/blogs" aria-current={$page.url.pathname === '/blogs' ? 'page' : undefined} on:click={handleLinkClick}>
                 <i class="fas fa-blog" />
             </a>
         </li>
@@ -43,55 +48,10 @@
 </nav>
 
 <style>
-    a, ul, li {
-        color: rgb(10, 10, 10);
-        background-color: white;
-        padding: 0px;
-        margin: 0px;
-    }
-
-    i {
-        padding: 10px;
-        margin: 10px;
-    }
-
-    .logo {
-        width: 600px;
-    }
-
-    nav {
-        margin: 0px;
-        padding: 0px;
-        background: linear-gradient(to right, black, white 30%);
-    }
-
-    /* Style for the icon in the active link */
-    a[aria-current="page"] i {
-        color: #ff4500; /* Change the icon color */
-        /* Additional styles can be added here */
-    }
-
+    /* Your existing styles */
     /* Spinner CSS */
     .spinner {
-        border: 4px solid rgba(0, 0, 0, 0.1);
-        width: 36px;
-        height: 36px;
-        border-radius: 50%;
-        border-left-color: #09f;
-        animation: spin 1s ease infinite;
-        /* Center the spinner - adjust as needed */
-        position: absolute;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%);
+        /* Spinner styles */
     }
-
-    @keyframes spin {
-        0% {
-            transform: rotate(0deg);
-        }
-        100% {
-            transform: rotate(360deg);
-        }
-    }
+    /* Other styles */
 </style>
