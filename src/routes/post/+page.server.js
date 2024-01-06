@@ -2,8 +2,9 @@
 import { sql } from '@vercel/postgres';
 import { put } from '@vercel/blob';
 import { error } from '@sveltejs/kit';
+import { createSlug } from '$lib/utility-functions';
 export const prerender = false;
-async function createBlogPost(title, content, imageUrl, tagSet) {
+async function createBlogPost(title, slug, content, imageUrl, tagSet) {
 	
 	await sql`
         CREATE TABLE IF NOT EXISTS blog_posts (
@@ -16,10 +17,10 @@ async function createBlogPost(title, content, imageUrl, tagSet) {
             created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL
         );
     `;
-
+        
 	const rowInserted = await sql`
-        INSERT INTO blog_posts (title, content, image_url, tag_set)
-        VALUES (${title}, ${content}, ${imageUrl}, ${tagSet});
+        INSERT INTO blog_posts (title, slug, content, image_url, tag_set)
+        VALUES (${title}, ${slug}, ${content}, ${imageUrl}, ${tagSet});
     `;
 
 	return rowInserted;
@@ -42,7 +43,7 @@ export const actions = {
 
 		console.log('Uploaded file to: ', url);
 		try {
-			await createBlogPost(title, content, url, tagSet);
+			await createBlogPost(title, createSlug(title), content, url, tagSet);
 			return { message: 'Blog post was created' };
 		} catch (err) {
 			console.log('Error in posting to server: ', err.message);
