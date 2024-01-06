@@ -12,7 +12,7 @@ export const prerender = false;
 async function slugify() {
 	
     try {
-	const batchSize = 100; // Number of rows to process per batch
+	const batchSize = 10; // Number of rows to process per batch
         let offset = 0;
         let updatedRows = 0;
         // Fetch all posts with null slug
