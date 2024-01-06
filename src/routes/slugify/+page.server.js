@@ -1,7 +1,7 @@
 import { sql } from '@vercel/postgres';
 import { POSTGRES_URL } from '$env/static/private';
 import { createSlug } from '$lib/utility-functions';
-
+export const prerender = false;
 async function slugify() {
 	
     try {
