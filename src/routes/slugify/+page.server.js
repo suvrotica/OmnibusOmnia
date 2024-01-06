@@ -27,7 +27,7 @@ async function slugify() {
 }
 
 export const actions = {
-	update: await updateBlogPost(blogPost);
+	update: await slugify();
 		return { status: 303, headers: { location: '/blogs' } }; // Redirect after successful update
 	
 };
