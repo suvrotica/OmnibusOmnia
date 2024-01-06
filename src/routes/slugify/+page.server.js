@@ -2,8 +2,8 @@ import { sql } from '@vercel/postgres';
 import { POSTGRES_URL } from '$env/static/private';
 import { createSlug } from '$lib/utility-functions';
 
-
-export async function get(request) {
+async function slugify() {
+	
     try {
         // Fetch all posts with null slug
         const { rows: posts } = await sql`SELECT id, title FROM blog_posts WHERE slug IS NULL`;
