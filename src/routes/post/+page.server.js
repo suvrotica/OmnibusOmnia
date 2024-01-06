@@ -9,6 +9,7 @@ async function createBlogPost(title, content, imageUrl, tagSet) {
         CREATE TABLE IF NOT EXISTS blog_posts (
             id SERIAL PRIMARY KEY,
             title VARCHAR(255) NOT NULL,
+	    slug VARCHAR(255) NULL,
             content TEXT NOT NULL,
             image_url VARCHAR(255) NOT NULL,
             tag_set VARCHAR(255) NOT NULL,
