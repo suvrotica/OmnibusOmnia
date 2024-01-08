@@ -39,7 +39,7 @@ export const actions = {
 			throw error(400, { message: 'No file to upload.' });
 		}
 
-		// Upload the file and get the URL
+		// Upload the file and get the URL from vercel blob
 		const { url } = await put(file.name, file, { access: 'public' });
 
 		console.log('Uploaded file to: ', url);
