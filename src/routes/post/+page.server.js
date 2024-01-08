@@ -1,23 +1,24 @@
-
 import { sql } from '@vercel/postgres';
 import { put } from '@vercel/blob';
 import { error } from '@sveltejs/kit';
 import { createSlug } from '$lib/utility-functions';
 export const prerender = false;
 async function createBlogPost(title, slug, content, imageUrl, tagSet) {
-	
 	await sql`
-        CREATE TABLE IF NOT EXISTS blog_posts (
-            id SERIAL PRIMARY KEY,
-            title VARCHAR(255) NOT NULL,
-	    slug VARCHAR(255) NULL,
-            content TEXT NOT NULL,
-            image_url VARCHAR(255) NOT NULL,
-            tag_set VARCHAR(255) NOT NULL,
-            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL
-        );
-    `;
-        
+	CREATE TABLE IF NOT EXISTS blog_posts (
+		id SERIAL PRIMARY KEY,
+		title VARCHAR(255) NOT NULL,
+		content TEXT NOT NULL,
+		image_url VARCHAR(255) NOT NULL,
+		tag_set VARCHAR(255) NOT NULL,
+		created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL,
+		slug VARCHAR(255) NOT NULL UNIQUE,
+		update_dates DATE[] NOT NULL DEFAULT ARRAY[]::DATE[]
+	);
+	
+	CREATE INDEX ON blog_posts (slug);
+	`;
+
 	const rowInserted = await sql`
         INSERT INTO blog_posts (title, slug, content, image_url, tag_set)
         VALUES (${title}, ${slug}, ${content}, ${imageUrl}, ${tagSet});
