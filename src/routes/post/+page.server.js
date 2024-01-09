@@ -1,30 +1,34 @@
-import { sql } from '@vercel/postgres';
 import { put } from '@vercel/blob';
 import { error } from '@sveltejs/kit';
 import { createSlug } from '$lib/utility-functions';
 export const prerender = false;
+import { sql } from '@vercel/postgres';
+
 async function createBlogPost(title, slug, content, imageUrl, tagSet) {
-	await sql`
-	CREATE TABLE IF NOT EXISTS blog_posts (
-		id SERIAL PRIMARY KEY,
-		title VARCHAR(255) NOT NULL,
-		content TEXT NOT NULL,
-		image_url VARCHAR(255) NOT NULL,
-		tag_set VARCHAR(255) NOT NULL,
-		created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL,
-		slug VARCHAR(255) NOT NULL UNIQUE,
-		update_dates DATE[] NOT NULL DEFAULT ARRAY[]::DATE[]
-	);
-	
-	CREATE INDEX ON blog_posts (slug);
-	`;
+	try {
+		await sql`
+            CREATE TABLE IF NOT EXISTS blog_posts (
+                id SERIAL PRIMARY KEY,
+                title VARCHAR(255) NOT NULL,
+                content TEXT NOT NULL,
+                image_url VARCHAR(255) NOT NULL,
+                tag_set VARCHAR(255) NOT NULL,
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP NOT NULL,
+                slug VARCHAR(255) NOT NULL UNIQUE
+            );
+        `;
 
-	const rowInserted = await sql`
-        INSERT INTO blog_posts (title, slug, content, image_url, tag_set)
-        VALUES (${title}, ${slug}, ${content}, ${imageUrl}, ${tagSet});
-    `;
+		const rowInserted = await sql`
+            INSERT INTO blog_posts (title, slug, content, image_url, tag_set)
+            VALUES (${title}, ${slug}, ${content}, ${imageUrl}, ${tagSet});
+        `;
 
-	return rowInserted;
+		return rowInserted;
+	} catch (err) {
+		// Handle or log the error
+		console.error('Error in createBlogPost:', err);
+		throw err; // Rethrow the error if you want the caller to handle it as well
+	}
 }
 
 export const actions = {
