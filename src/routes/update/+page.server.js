@@ -1,17 +1,13 @@
-import { createPool } from '@vercel/postgres';
-import { POSTGRES_URL } from '$env/static/private';
+import { sql } from '@vercel/postgres';
 export const prerender = false;
-const pool = createPool({
-	connectionString: POSTGRES_URL
-});
 
 export async function load({}) {
-	const { rows } = await pool.sql`SELECT * FROM blog_posts ORDER BY tag_set ASC`;
+	const { rows } = await sql`SELECT * FROM blog_posts ORDER BY tag_set ASC`;
 	return { blogPosts: rows };
 }
 
 async function updateBlogPost(blogPost) {
-	await pool.sql`
+	await sql`
         UPDATE blog_posts 
         SET title = ${blogPost.title}, content = ${blogPost.content}, image_url = ${blogPost.image_url}, tag_set = ${blogPost.tag_set}
         WHERE id = ${blogPost.id}`;
